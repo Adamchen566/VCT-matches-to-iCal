@@ -1,28 +1,33 @@
 # VLR.gg Valorant Match Scraper
 
-## 项目简介
+[English](README.md) | [简体中文](README.zh.md)
 
-##### 该项目是一个Python爬虫工具，用于从VLR.gg网站爬取Valorant游戏的比赛信息，包括：
 
-- 赛事名称
+## Project Overview
 
-- 比赛日期和时间
+### This project comprises a Python-based web scraping tool engineered to systematically extract competitive match data from the VLR.gg platform. The collected data includes:
 
-- 参赛队伍
 
-- 比赛比分
 
-##### 爬取到的数据将被存储为列表，并经过整理和排序后转换为iCal (.ics) 文件，以便导入至日历应用。
+- Tournament designation
 
-### 当前版本的程序需要手动上传生成的iCal文件到Google Drive，获取订阅链接后才能在iPhone上订阅。自动上传至云端的功能尚未完成。
+- Scheduled match date and time
 
-##### 环境要求:
+- Competing teams
+
+- Match results
+
+#### The retrieved dataset is structured as a list, processed for coherence, and subsequently converted into an iCalendar (.ics) file to facilitate seamless integration with digital calendar systems
+
+### In its current iteration, the iCal file must be manually uploaded to Google Drive to generate a shareable subscription link for iPhone calendar integration. The automation of cloud-based file uploads remains an outstanding enhancement
+
+##### System Requirements:
+
 ```
 Python 3.x
 ```
 
-##### 依赖库：
-
+##### Required Libraries:
 
 ```
 requests
@@ -33,9 +38,9 @@ ics
 ```
 
 
-### 安装步骤
+### Installation Procedure
 
-##### 克隆本项目或下载源码：
+##### Clone the repository or download the source code:
 
 
 ```
@@ -44,7 +49,7 @@ cd vlr-gg-scraper
 ```
 
 
-##### 安装依赖：
+##### Install necessary dependencies:
 
 
 ```
@@ -52,35 +57,35 @@ pip install -r requirements.txt
 ```
 
 
-### 使用方法
+### Usage Guidelines
 
-##### 运行爬虫脚本：
-
+##### Execute the web scraper:
 
 ```
 python scraper.py
 ```
 
 
-##### 生成的 .ics 文件将保存在本地目录。
+##### The resulting .ics file will be stored in the local directory.
 
-##### 手动上传 .ics 文件到 Google Drive，并获取共享链接。
-
-##### 在 iPhone 上订阅该日历：
-
-> 打开 设置 > 日历 > 账户 > 添加账户 > 其他 > 添加订阅日历 > 输入共享链接，完成订阅。
-
-## 未来改进
-
-- 实现文件自动上传至云盘
-
-- 根据要求定时更新
-
-- 图形界面/软件
+##### Manually upload the .ics file to Google Drive and retrieve the corresponding shareable link.
 
 
-## 许可证
+##### To subscribe to the calendar on an iPhone:
 
-本项目遵循 MIT 许可证，欢迎自由使用和修改。
+> Navigate to Settings > Calendar > Accounts > Add Account > Other > Add Subscribed Calendar. Input the shareable link to complete the subscription process.
 
-如果有任何建议或问题，欢迎提交 Issue 或 PR
+## Prospective Enhancements
+
+- Implement automated cloud-based file uploads
+
+- Develop scheduled update functionalities based on predefined criteria
+
+- Introduce a graphical user interface for enhanced usability
+
+
+## Licensing
+
+This project is distributed under the MIT License, permitting unrestricted usage and modifications.
+
+For inquiries, feature requests, or contributions, please submit an issue or pull request via the repository.
