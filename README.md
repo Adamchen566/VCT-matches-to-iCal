@@ -3,89 +3,97 @@
 [English](README.md) | [简体中文](README.zh.md)
 
 
-## Project Overview
+## 📖 Project Overview
 
-### This project comprises a Python-based web scraping tool engineered to systematically extract competitive match data from the VLR.gg platform. The collected data includes:
+This project is a Python based crawler tool for crawling **Valorant** race details from the [VLR.gg](https://www.vlr.gg) website. The crawled data is organized into `.ics` files, which can be imported into a calendar application to keep track of the race schedule.
 
+### 🎯 Features
 
+- **🎮 Match Information Crawling**: including the name of the match, match time, teams and score.
+- **📅 Calendar File Generation**: convert crawled data to `.ics` file, support importing Google Calendar, Apple Calendar, etc.
+- **⚙️ lightweight design**: only rely on a small number of Python libraries, running efficiently.
+- **📱 Cross-platform support**: The generated `.ics` files are compatible with all major calendar apps.
 
-- Tournament designation
+---
 
-- Scheduled match date and time
+## 🚀 Quick Start
 
-- Competing teams
+### 📋 Environment requirements
 
-- Match results
+- **Python 3.x**
+- Supported platforms: Windows / macOS / Linux
 
-#### The retrieved dataset is structured as a list, processed for coherence, and subsequently converted into an iCalendar (.ics) file to facilitate seamless integration with digital calendar systems
+### 📦 Dependency libraries
 
-### In its current iteration, the iCal file must be manually uploaded to Google Drive to generate a shareable subscription link for iPhone calendar integration. The automation of cloud-based file uploads remains an outstanding enhancement
-
-##### System Requirements:
-
-```
-Python 3.x
-```
-
-##### Required Libraries:
-
-```
+```plaintext
 requests
-
 BeautifulSoup4
-
 ics
 ```
 
+### 🔧 Installation steps
 
-### Installation Procedure
+**Clone the project or download the source code**:
 
-##### Clone the repository or download the source code:
+   ```bash
+   git clone https://github.com/Adamchen566/VCT-matches-to-iCal
+   cd vlr-gg-scraper
+   ```
 
+## 🛠️ Usage
 
-```
-git clone https://github.com/your-repo/vlr-gg-scraper.git
-cd vlr-gg-scraper
-```
+1. **Get the .ics file**.
+    - After the script runs, the generated .ics file will be saved in the current directory.
 
+2. **Manually upload to Google Drive**.
+    - Upload the .ics file to Google Drive and get the shared link.
 
-##### Install necessary dependencies:
+3. **Subscribe to Calendar**.
+    - iPhone: Open Settings > Calendar > Accounts > Add Account > Other > Add Subscription Calendar and enter the shared link.
+    - Google Calendar: Upload .ics file via Settings > Import Calendar.
 
+## 🚧 Future improvements
 
-```
-pip install -r requirements.txt
-```
+### ☁️ Automatic cloud disk upload
 
+- Enables `.ics` files to be automatically uploaded to Google Drive or OneDrive, reducing manual operations.
 
-### Usage Guidelines
+### ⏰ Timed Updates
 
-##### Execute the web scraper:
+- Support crawling and updating race information regularly to ensure real-time synchronization of calendar data.
 
-```
-python scraper.py
-```
+### 🖥️ Graphical Interface
 
+- Develop graphical interface or desktop application to enhance user experience and facilitate non-technical users.
 
-##### The resulting .ics file will be stored in the local directory.
+---
 
-##### Manually upload the .ics file to Google Drive and retrieve the corresponding shareable link.
+## 📜 License
 
+This project follows the **MIT License**, which you are welcome to freely use, modify, and distribute. See the [LICENSE](LICENSE) file for details.
 
-##### To subscribe to the calendar on an iPhone:
+---
 
-> Navigate to Settings > Calendar > Accounts > Add Account > Other > Add Subscribed Calendar. Input the shareable link to complete the subscription process.
+## 💬 Feedback and Contributions
 
-## Prospective Enhancements
+### Submit an Issue
 
-- Implement automated cloud-based file uploads
+If you find any issues or have suggestions for improvements, feel free to submit an [Issue](https://github.com/Adamchen566/VCT-matches-to-iCal/issues).
 
-- Develop scheduled update functionalities based on predefined criteria
+### Initiate a Pull Request
 
-- Introduce a graphical user interface for enhanced usability
+If you would like to contribute code or documentation, please follow these steps. 1:
 
+1. Fork the project. 2.
+2. Create a new branch (`git checkout -b feature/YourFeatureName`). 3.
+3. Commit your changes (`git commit -m 'Add some feature'`). 4.
+4. Push to the branch (`git push origin feature/YourFeatureName`).
+5. launch [Pull Request](https://github.com/your-repo/vlr-gg-scraper/pulls).
 
-## Licensing
+Your contribution will help make this project better!
 
-This project is distributed under the MIT License, permitting unrestricted usage and modifications.
+---
 
-For inquiries, feature requests, or contributions, please submit an issue or pull request via the repository.
+## Thanks for using it! 🎉
+
+---
