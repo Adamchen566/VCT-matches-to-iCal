@@ -546,10 +546,10 @@ get_match_info(url_master_Bangkok, Bangkok_event, 'Bangkok', 0)
 
 # Stage1 + Toronto
 
-# get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
-# get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
-# get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
-# get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
+get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 1)
+get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
+get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
+get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
 sorted_stage1_event = sorted(stage1_event, key=sort_key)
 # get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 0)
 
@@ -560,11 +560,11 @@ sorted_stage1_event = sorted(stage1_event, key=sort_key)
 # OnGoing Events
 OnGoing_event = sorted_stage1_event
 matchprint(OnGoing_event)
-# file_name = '/vct OnGoing.txt'
-# title = 'vct OnGoing'
-# save2file(OnGoing_event, file_path, file_name, title)
+file_name = '/vct OnGoing.txt'
+title = 'vct OnGoing'
+save2file(OnGoing_event, file_path, file_name, title)
 name = 'vct OnGoing'
-# create_ics_file(url_vlr, OnGoing_event, name)
+create_ics_file(url_vlr, OnGoing_event, name)
 
 
 
@@ -599,8 +599,8 @@ ics_file_path = 'D:\BackUp\self-work\VCT\\vct_completed.ics'
 # update_ics_file(url_SuperB, SuperB_event, ics_file_path)
 # update_ics_file(url_Roit1, Riot1_event, ics_file_path)
 # update_ics_file(url_TXH, TXH_event, ics_file_path)
-update_ics_file(url_2025_kickoff_cn, sorted_kickoff_event, ics_file_path)
-update_ics_file(url_master_Bangkok, Bangkok_event, ics_file_path)
+# update_ics_file(url_2025_kickoff_cn, sorted_kickoff_event, ics_file_path)
+# update_ics_file(url_master_Bangkok, Bangkok_event, ics_file_path)
 
 
 # 示例链接
