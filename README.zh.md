@@ -1,89 +1,100 @@
-# VLR.gg Valorant Match Scraper
+# VLR.gg 瓦洛兰特比赛爬虫
 
 [English](README.md) | [简体中文](README.zh.md)
 
+---
 
-## 项目简介
+## 📖 项目简介
 
-### 该项目是一个Python爬虫工具，用于从VLR.gg网站爬取Valorant游戏的比赛信息，包括
+本项目是一个基于 Python 的爬虫工具，用于从 [VLR.gg](https://www.vlr.gg) 网站爬取 ​**Valorant** 比赛的详细信息。爬取的数据经过整理后生成 `.ics` 文件，方便用户导入日历应用，随时跟踪比赛日程。
 
-- 赛事名称
+### 🎯 功能特性
 
-- 比赛日期和时间
+- ​**🎮 比赛信息爬取**：包括赛事名称、比赛时间、参赛队伍和比分。
+- ​**📅 日历文件生成**：将爬取的数据转换为 `.ics` 文件，支持导入 Google Calendar、Apple Calendar 等。
+- ​**⚙️ 轻量化设计**：仅依赖少量 Python 库，运行高效。
+- ​**📱 跨平台支持**：生成的 `.ics` 文件兼容主流日历应用。
 
-- 参赛队伍
+---
 
-- 比赛比分
+## 🚀 快速开始
 
-#### 爬取到的数据将被存储为列表，并经过整理和排序后转换为iCal (.ics) 文件以便导入至日历应用
+### 📋 环境要求
 
-### 当前版本的程序需要手动上传生成的iCal文件到Google Drive，获取订阅链接后才能在iPhone上订阅。自动上传至云端的功能尚未完成
+- ​**Python 3.x**
+- 支持的平台：Windows / macOS / Linux
 
-##### 环境要求:
-```
-Python 3.x
-```
+### 📦 依赖库
 
-##### 依赖库：
-
-
-```
+```plaintext
 requests
-
 BeautifulSoup4
-
 ics
 ```
 
+### 🔧 安装步骤
 
-### 安装步骤
+​**克隆项目或下载源码**：
 
-##### 克隆本项目或下载源码：
+   ```bash
+   git clone https://github.com/Adamchen566/VCT-matches-to-iCal
+   cd vlr-gg-scraper
+   ```
 
+## 🛠️ 使用方法
 
-```
-git clone https://github.com/your-repo/vlr-gg-scraper.git
-cd vlr-gg-scraper
-```
+1. **​获取 .ics 文件**:
+    - 脚本运行后，生成的 .ics 文件将保存在当前目录。
 
+2. **手动上传至 Google Drive**:
+    - 将 .ics 文件上传至 Google Drive，并获取共享链接。
 
-##### 安装依赖：
+3. **订阅日历**:
+    - iPhone：打开 设置 > 日历 > 账户 > 添加账户 > 其他 > 添加 订阅日历，输入共享链接即可。
+    - Google Calendar：通过 设置 > 导入日历 上传 .ics 文件。
 
+## 🚧 未来改进
 
-```
-pip install -r requirements.txt
-```
+### ☁️ 自动上传云盘
 
+- 实现 `.ics` 文件自动上传至 Google Drive 或 OneDrive，减少手动操作。
 
-### 使用方法
+### ⏰ 定时更新
 
-##### 运行爬虫脚本：
+- 支持定时爬取和更新比赛信息，确保日历数据实时同步。
 
+### 🖥️ 图形界面
 
-```
-python scraper.py
-```
+- 开发图形化界面或桌面应用程序，提升用户体验，方便非技术用户使用。
 
+---
 
-##### 生成的 .ics 文件将保存在本地目录。
+## 📜 许可证
 
-##### 手动上传 .ics 文件到 Google Drive，并获取共享链接。
+本项目遵循 ​**MIT 许可证**，欢迎自由使用、修改和分发。详细信息请参阅 [LICENSE](LICENSE) 文件。
 
-##### 在 iPhone 上订阅该日历：
+---
 
-> 打开 设置 > 日历 > 账户 > 添加账户 > 其他 > 添加订阅日历 > 输入共享链接，完成订阅。
+## 💬 反馈与贡献
 
-## 未来改进
+### 提交 Issue
 
-- 实现文件自动上传至云盘
+如果您发现任何问题或有改进建议，欢迎提交 [Issue](https://github.com/Adamchen566/VCT-matches-to-iCal/issues)。
 
-- 根据要求定时更新
+### 发起 Pull Request
 
-- 图形界面/软件
+如果您希望贡献代码或文档，请按照以下步骤操作：
 
+1. Fork 本项目。
+2. 创建新的分支 (`git checkout -b feature/YourFeatureName`)。
+3. 提交更改 (`git commit -m 'Add some feature'`)。
+4. 推送到分支 (`git push origin feature/YourFeatureName`)。
+5. 发起 [Pull Request](https://github.com/your-repo/vlr-gg-scraper/pulls)。
 
-## 许可证
+您的贡献将帮助本项目变得更好！
 
-本项目遵循 MIT 许可证，欢迎自由使用和修改。
+---
 
-如果有任何建议或问题，欢迎提交 Issue 或 PR
+## 感谢使用！🎉
+
+---
