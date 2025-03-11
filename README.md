@@ -82,11 +82,11 @@ If you find any issues or have suggestions for improvements, feel free to submit
 
 ### Initiate a Pull Request
 
-If you would like to contribute code or documentation, please follow these steps. 1:
+If you would like to contribute code or documentation, please follow these steps:
 
-1. Fork the project. 2.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`). 3.
-3. Commit your changes (`git commit -m 'Add some feature'`). 4.
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/YourFeatureName`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. launch [Pull Request](https://github.com/your-repo/vlr-gg-scraper/pulls).
 
