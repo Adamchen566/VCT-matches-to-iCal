@@ -6,9 +6,9 @@ import tkinter as tk
 from ics import Calendar, Event
 from datetime import datetime
 from pytz import timezone
-from googleapiclient.discovery import build
-from googleapiclient.http import MediaFileUpload
-from google.oauth2 import service_account
+# from googleapiclient.discovery import build
+# from googleapiclient.http import MediaFileUpload
+# from google.oauth2 import service_account
 
 file_path = 'D:/BackUp/self-work/VCT/'
 
@@ -221,8 +221,6 @@ def save2file(event, path, name, title):
             output.write(match_info)
     print(title + " txt文件已生成")
 
-
-# 将比赛信息存为ics文件
 def create_ics_file(link, matches, name):
     # 创建日历对象
     calendar = Calendar()
@@ -233,18 +231,34 @@ def create_ics_file(link, matches, name):
     # 添加事件
     for match in matches:
         event = Event()
-        event.name = f"{match['team1']} vs {match['team2']}"
-        local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
-        event.begin = local_dt
         
-        # 设置比赛的持续时间
-        if match['datetime'].startswith('2024-08-24') or match['datetime'].startswith('2024-08-25'):
-            event_duration = timedelta(hours=5)
+        # Check if time is TBD
+        if match['datetime'].upper() == 'TBD' or not match['datetime']:
+            # Use a default time (noon in Sydney timezone)
+            default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
+            local_dt = sydney_tz.localize(default_date)
+            event.name = f"[TBD] {match['team1']} vs {match['team2']}"
+            event_duration = timedelta(hours=1)  # Shorter duration for TBD events
         else:
-            event_duration = timedelta(hours=3)
+            try:
+                local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
+                event.name = f"{match['team1']} vs {match['team2']}"
+                
+                # 设置比赛的持续时间
+                if match['datetime'].startswith('2024-08-24') or match['datetime'].startswith('2024-08-25'):
+                    event_duration = timedelta(hours=5)
+                else:
+                    event_duration = timedelta(hours=3)
+            except ValueError:
+                # If datetime format is invalid, fall back to TBD handling
+                default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
+                local_dt = sydney_tz.localize(default_date)
+                event.name = f"[Time Invalid] {match['team1']} vs {match['team2']}"
+                event_duration = timedelta(hours=1)
         
+        event.begin = local_dt
         event.end = local_dt + event_duration
-        event.location = match['region'] + ' Score: ' +match['score']
+        event.location = match['region'] + ' Score: ' + match['score']
         event.description = f"Score: {match['score']}\nVLR: {link}\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click"
         calendar.events.add(event)
 
@@ -330,35 +344,35 @@ def convert_google_drive_link_to_direct_download(google_drive_link):
 # 定义函数，将文件上传到 Google Drive
 # 已删除原文件并上传新文件
 # 但网盘上未更新
-def upload_to_google_drive(file_path, file_name, folder_id=None):
-    # 加载服务账户凭据
-    SCOPES = ['https://www.googleapis.com/auth/drive.file']
-    creds = service_account.Credentials.from_service_account_file('D:\BackUp\self-work\VCT\credentials.json', scopes=SCOPES)
-    service = build('drive', 'v3', credentials=creds)
+# def upload_to_google_drive(file_path, file_name, folder_id=None):
+#     # 加载服务账户凭据
+#     SCOPES = ['https://www.googleapis.com/auth/drive.file']
+#     creds = service_account.Credentials.from_service_account_file('D:\BackUp\self-work\VCT\credentials.json', scopes=SCOPES)
+#     service = build('drive', 'v3', credentials=creds)
 
-    query = f"name='{file_name}'"
-    if folder_id:
-        query += f" and '{folder_id}' in parents"
-    results = service.files().list(q=query, fields="files(id, name)").execute()
-    items = results.get('files', [])
-    for item in items:
-        service.files().delete(fileId=item['id']).execute()
-        print(f"Deleted file: {item['name']} (ID: {item['id']})")
+#     query = f"name='{file_name}'"
+#     if folder_id:
+#         query += f" and '{folder_id}' in parents"
+#     results = service.files().list(q=query, fields="files(id, name)").execute()
+#     items = results.get('files', [])
+#     for item in items:
+#         service.files().delete(fileId=item['id']).execute()
+#         print(f"Deleted file: {item['name']} (ID: {item['id']})")
 
-    # 创建文件元数据
-    file_metadata = {'name': file_name}
-    if folder_id:
-        file_metadata['parents'] = [folder_id]
+#     # 创建文件元数据
+#     file_metadata = {'name': file_name}
+#     if folder_id:
+#         file_metadata['parents'] = [folder_id]
 
-    # 上传文件
-    media = MediaFileUpload(file_path, resumable=True)
-    file = service.files().create(body=file_metadata, media_body=media, fields='id').execute()
-    print(f"File ID: {file.get('id')} uploaded to Google Drive.")
+#     # 上传文件
+#     media = MediaFileUpload(file_path, resumable=True)
+#     file = service.files().create(body=file_metadata, media_body=media, fields='id').execute()
+#     print(f"File ID: {file.get('id')} uploaded to Google Drive.")
 
-    file_info = service.files().get(fileId='https://drive.google.com/file/d/1VnBKxMoCkG2CZaP7Rz_e2Q7uHiwNkVrt/view', fields='name, parents').execute()
+#     file_info = service.files().get(fileId='https://drive.google.com/file/d/1VnBKxMoCkG2CZaP7Rz_e2Q7uHiwNkVrt/view', fields='name, parents').execute()
 
-    if 'parents' not in file_info or not file_info['parents']:
-        print(f"文件 '{file_info['name']}' 在根目录 (My Drive)。")
+#     if 'parents' not in file_info or not file_info['parents']:
+#         print(f"文件 '{file_info['name']}' 在根目录 (My Drive)。")
     
 
 # 调用函数获取比赛信息
