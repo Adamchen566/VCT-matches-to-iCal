@@ -112,17 +112,18 @@ def get_match_info(url, event, region, isPrint):
             # 处理时间格式
             cleaned_date = date.split(',')[1].strip()
             date_obj = datetime.strptime(cleaned_date, "%B %d")
+            # 修改get_match_info函数中的时间处理部分
             try:
-                time_obj = datetime.strptime(time, "%I:%M %p") # 时：分 am/pm
-                year = int(date.split(',')[2][1:5].strip()) # 年
+                time_obj = datetime.strptime(time, "%I:%M %p")
+                year = int(date.split(',')[2][1:5].strip())
                 datetime_combined = date_obj.replace(year=year, hour=time_obj.hour, minute=time_obj.minute)
                 formatted_datetime = datetime_combined.strftime("%Y-%m-%d %H:%M")
             except ValueError:
-                # 如果解析失败，则时间字符串为 'TBD'
-                time_obj = 'TBD'
+                # 当时间无效时，添加默认的00:00时间
                 year = int(date.split(',')[2][1:5].strip())
-                datetime_combined = date_obj.replace(year=year)
-                formatted_datetime = datetime_combined.strftime("%Y-%m-%d")
+                datetime_combined = date_obj.replace(year=year, hour=0, minute=0)  # 添加默认时间
+                formatted_datetime = datetime_combined.strftime("%Y-%m-%d %H:%M")  # 保持时间格式统一
+                time_obj = 'TBD'
             if isPrint:print('日期时间:', formatted_datetime)
 
             # 提取比赛状态
@@ -541,7 +542,7 @@ def convert_google_drive_link_to_direct_download(google_drive_link):
 kickoff_event = []
 Bangkok_event = []
 stage1_event = []
-# Toronto_event = []
+Toronto_event = []
 # state2_event = []
 # Paris_event = []
 
@@ -565,7 +566,7 @@ get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
 get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
 get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
 sorted_stage1_event = sorted(stage1_event, key=sort_key)
-# get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 0)
+get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 0)
 
 # Stage2 + Paris
 # get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
@@ -574,6 +575,9 @@ sorted_stage1_event = sorted(stage1_event, key=sort_key)
 # OnGoing Events
 OnGoing_event = sorted_stage1_event
 matchprint(OnGoing_event)
+# file_name = '/vct OnGoing.txt'
+# title = 'vct OnGoing'
+# save2file(OnGoing_event, file_path, file_name, title)
 file_name = '/vct OnGoing.txt'
 title = 'vct OnGoing'
 save2file(OnGoing_event, file_path, file_name, title)
