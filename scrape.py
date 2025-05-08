@@ -11,7 +11,7 @@ from pytz import timezone
 # from googleapiclient.http import MediaFileUpload
 # from google.oauth2 import service_account
 
-file_path = 'D:/BackUp/self-work/VCT/'
+file_path = 'D:/BackUp/self-work/VCT-matches-to-iCal/'
 
 # 要爬取的网页地址
 url_vlr = 'https://www.vlr.gg/'
@@ -67,12 +67,16 @@ url_2025_kickoff_cn = 'https://www.vlr.gg/event/matches/2275/champions-tour-2025
 url_2025_kickoff_amer = 'https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all'
 url_2025_kickoff_pac = 'https://www.vlr.gg/event/matches/2277/champions-tour-2025-pacific-kickoff/?series_id=all'
 url_2025_kickoff_emea = 'https://www.vlr.gg/event/matches/2276/champions-tour-2025-emea-kickoff/?series_id=all'
+url_China_Evolution_Act1 = 'https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all'
 url_master_Bangkok = 'https://www.vlr.gg/event/matches/2281/champions-tour-2025-masters-bangkok/?series_id=all'
+
 url_2025_stage1_cn = 'https://www.vlr.gg/event/matches/2359/champions-tour-2025-china-stage-1'
 url_2025_stage1_amer = 'https://www.vlr.gg/event/matches/2347/champions-tour-2025-americas-stage-1'
 url_2025_stage1_pac = 'https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1'
 url_2025_stage1_emea = 'https://www.vlr.gg/event/matches/2380/champions-tour-2025-emea-stage-1'
+url_China_Evolution_Act2 = 'https://www.vlr.gg/event/matches/2450/china-evolution-series-act-2-x-asian-champions-league/?series_id=all'
 url_master_Toronto = 'https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all'
+
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
 
 
@@ -540,50 +544,50 @@ def convert_google_drive_link_to_direct_download(google_drive_link):
 
 
 # 2025
-kickoff_event = []
-Bangkok_event = []
+# kickoff_event = []
+evo1_event = []
+# Bangkok_event = []
 stage1_event = []
+evo2_event = []
 Toronto_event = []
 # state2_event = []
 # Paris_event = []
 
 # Kickoff + Bangkok
-get_match_info(url_2025_kickoff_cn, kickoff_event, 'CN', 0)
-get_match_info(url_2025_kickoff_amer, kickoff_event, 'AMER', 0)
-get_match_info(url_2025_kickoff_pac, kickoff_event, 'PAC', 0)
-get_match_info(url_2025_kickoff_emea, kickoff_event, 'EMEA', 0)
+# get_match_info(url_2025_kickoff_cn, kickoff_event, 'CN', 0)
+# get_match_info(url_2025_kickoff_amer, kickoff_event, 'AMER', 0)
+# get_match_info(url_2025_kickoff_pac, kickoff_event, 'PAC', 0)
+# get_match_info(url_2025_kickoff_emea, kickoff_event, 'EMEA', 0)
 
-sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
+# sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
 # matchprint(sorted_kickoff_event)
 
-get_match_info(url_master_Bangkok, Bangkok_event, 'Bangkok', 0)
+# get_match_info(url_master_Bangkok, Bangkok_event, 'Bangkok', 0)
 # matchprint(Bangkok_event)
 
 
 # Stage1 + Toronto
 
-# get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
-# get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
-# get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
-# get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
-# sorted_stage1_event = sorted(stage1_event, key=sort_key)
-# get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 0)
+get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
+get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
+get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
+get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
+get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
+get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
+sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event, key=sort_key)
 
 # Stage2 + Paris
 # get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
 
 
 # OnGoing Events
-# OnGoing_event = sorted_stage1_event
-# matchprint(OnGoing_event)
+OnGoing_event = sorted_stage1_event + Toronto_event
+matchprint(OnGoing_event)
 # file_name = '/vct OnGoing.txt'
 # title = 'vct OnGoing'
 # save2file(OnGoing_event, file_path, file_name, title)
-# file_name = '/vct OnGoing.txt'
-# title = 'vct OnGoing'
-# save2file(OnGoing_event, file_path, file_name, title)
-# name = 'vct OnGoing'
-# create_ics_file(url_vlr, OnGoing_event, name)
+name = 'vct OnGoing'
+create_ics_file(url_vlr, OnGoing_event, name)
 
 
 
@@ -629,5 +633,3 @@ google_drive_link = "https://drive.google.com/file/d/1VnBKxMoCkG2CZaP7Rz_e2Q7uHi
 # convert_google_drive_link_to_direct_download(google_drive_link)
 
 # upload_to_google_drive("D:\BackUp\self-work\VCT\\vct OnGoing.ics", "vct OnGoing.ics")
-
-input("按 Enter 键退出...")
