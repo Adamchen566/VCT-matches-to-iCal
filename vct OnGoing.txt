@@ -1,181 +1,97 @@
 vct OnGoing
-Datetime: 2025-03-13 22:00,  Region: CN  Team: Xi Lai Gaming        vs Bilibili Gaming       Score: 1:2
-Datetime: 2025-03-14 22:00,  Region: CN  Team: Trace Esports        vs All Gamers            Score: 2:1
-Datetime: 2025-03-15 20:00,  Region: CN  Team: Dragon Ranger Gaming vs Nova Esports          Score: 2:0
-Datetime: 2025-03-15 22:05,  Region: CN  Team: TYLOO                vs EDward Gaming         Score: 0:2
-Datetime: 2025-03-16 20:00,  Region: CN  Team: JDG Esports          vs Wolves Esports        Score: 0:2
-Datetime: 2025-03-16 22:25,  Region: CN  Team: FunPlus Phoenix      vs Titan Esports Club    Score: 2:0
-Datetime: 2025-03-20 22:00,  Region: CN  Team: Nova Esports         vs EDward Gaming         Score: 2:0
-Datetime: 2025-03-21 22:00,  Region: CN  Team: TYLOO                vs FunPlus Phoenix       Score: 1:2
-Datetime: 2025-03-22 08:00,  Region: AMERTeam: Cloud9               vs NRG Esports           Score: 2:1
-Datetime: 2025-03-22 11:25,  Region: AMERTeam: KRÜ Esports          vs LOUD                  Score: 2:1
-Datetime: 2025-03-22 19:00,  Region: PAC Team: DetonatioN FocusMe   vs Global Esports        Score: 0:2
-Datetime: 2025-03-22 20:00,  Region: CN  Team: Xi Lai Gaming        vs All Gamers            Score: 2:0
-Datetime: 2025-03-22 21:40,  Region: PAC Team: T1                   vs ZETA DIVISION         Score: 2:1
-Datetime: 2025-03-22 22:20,  Region: CN  Team: Wolves Esports       vs Trace Esports         Score: 2:0
-Datetime: 2025-03-23 08:00,  Region: AMERTeam: G2 Esports           vs FURIA                 Score: 2:0
-Datetime: 2025-03-23 10:25,  Region: AMERTeam: MIBR                 vs LEVIATÁN              Score: 2:0
-Datetime: 2025-03-23 19:00,  Region: PAC Team: DRX                  vs Paper Rex             Score: 2:1
-Datetime: 2025-03-23 20:00,  Region: CN  Team: Titan Esports Club   vs Dragon Ranger Gaming  Score: 2:1
-Datetime: 2025-03-23 22:05,  Region: PAC Team: TALON                vs Team Secret           Score: 2:1
-Datetime: 2025-03-23 23:15,  Region: CN  Team: Bilibili Gaming      vs JDG Esports           Score: 2:1
-Datetime: 2025-03-24 08:00,  Region: AMERTeam: 2Game Esports        vs Evil Geniuses         Score: 0:2
-Datetime: 2025-03-24 10:30,  Region: AMERTeam: Sentinels            vs 100 Thieves           Score: 2:1
-Datetime: 2025-03-24 19:00,  Region: PAC Team: Gen.G                vs BOOM Esports          Score: 0:2
-Datetime: 2025-03-24 21:50,  Region: PAC Team: Nongshim RedForce    vs Rex Regum Qeon        Score: 2:1
-Datetime: 2025-03-27 03:00,  Region: EMEATeam: Team Vitality        vs GIANTX                Score: 2:0
-Datetime: 2025-03-27 05:15,  Region: EMEATeam: BBL Esports          vs Karmine Corp          Score: 2:1
-Datetime: 2025-03-27 22:00,  Region: CN  Team: JDG Esports          vs Trace Esports         Score: 0:2
-Datetime: 2025-03-28 03:00,  Region: EMEATeam: Team Heretics        vs Apeks                 Score: 2:1
-Datetime: 2025-03-28 06:15,  Region: EMEATeam: FUT Esports          vs KOI                   Score: 2:0
-Datetime: 2025-03-28 22:00,  Region: CN  Team: Wolves Esports       vs Xi Lai Gaming         Score: 0:2
-Datetime: 2025-03-29 03:00,  Region: EMEATeam: FNATIC               vs Natus Vincere         Score: 2:0
-Datetime: 2025-03-29 05:30,  Region: EMEATeam: Team Liquid          vs Gentle Mates          Score: 1:2
-Datetime: 2025-03-29 08:00,  Region: AMERTeam: NRG Esports          vs FURIA                 Score: 2:1
-Datetime: 2025-03-29 11:00,  Region: AMERTeam: Sentinels            vs KRÜ Esports           Score: 0:2
-Datetime: 2025-03-29 19:00,  Region: PAC Team: Team Secret          vs ZETA DIVISION         Score: 0:2
-Datetime: 2025-03-29 20:00,  Region: CN  Team: TYLOO                vs Titan Esports Club    Score: 1:2
-Datetime: 2025-03-29 21:35,  Region: PAC Team: T1                   vs Nongshim RedForce     Score: 2:0
-Datetime: 2025-03-29 23:15,  Region: CN  Team: Dragon Ranger Gaming vs EDward Gaming         Score: 1:2
-Datetime: 2025-03-30 08:00,  Region: AMERTeam: 100 Thieves          vs Evil Geniuses         Score: 2:0
-Datetime: 2025-03-30 10:15,  Region: AMERTeam: G2 Esports           vs MIBR                  Score: 2:1
-Datetime: 2025-03-30 19:00,  Region: PAC Team: Gen.G                vs Paper Rex             Score: 2:1
-Datetime: 2025-03-30 20:00,  Region: CN  Team: Nova Esports         vs FunPlus Phoenix       Score: 2:0
-Datetime: 2025-03-30 21:55,  Region: PAC Team: DRX                  vs DetonatioN FocusMe    Score: 2:0
-Datetime: 2025-03-30 22:30,  Region: CN  Team: All Gamers           vs Bilibili Gaming       Score: 0:2
-Datetime: 2025-03-31 08:00,  Region: AMERTeam: LOUD                 vs 2Game Esports         Score: 0:2
-Datetime: 2025-03-31 10:50,  Region: AMERTeam: LEVIATÁN             vs Cloud9                Score: 0:2
-Datetime: 2025-03-31 19:00,  Region: PAC Team: TALON                vs Rex Regum Qeon        Score: 0:2
-Datetime: 2025-03-31 21:10,  Region: PAC Team: BOOM Esports         vs Global Esports        Score: 2:0
-Datetime: 2025-04-03 02:00,  Region: EMEATeam: Team Liquid          vs BBL Esports           Score: 2:1
-Datetime: 2025-04-03 04:50,  Region: EMEATeam: Apeks                vs Natus Vincere         Score: 1:2
-Datetime: 2025-04-03 22:00,  Region: CN  Team: FunPlus Phoenix      vs Dragon Ranger Gaming  Score: 0:2
-Datetime: 2025-04-04 02:00,  Region: EMEATeam: FUT Esports          vs Gentle Mates          Score: 2:1
-Datetime: 2025-04-04 05:25,  Region: EMEATeam: Team Heretics        vs GIANTX                Score: 2:1
-Datetime: 2025-04-04 22:00,  Region: CN  Team: Bilibili Gaming      vs Wolves Esports        Score: 2:1
-Datetime: 2025-04-05 02:00,  Region: EMEATeam: Team Vitality        vs FNATIC                Score: 1:2
-Datetime: 2025-04-05 06:10,  Region: EMEATeam: KOI                  vs Karmine Corp          Score: 0:2
-Datetime: 2025-04-05 08:00,  Region: AMERTeam: Evil Geniuses        vs Sentinels             Score: 0:2
-Datetime: 2025-04-05 10:10,  Region: AMERTeam: 100 Thieves          vs LOUD                  Score: 2:1
-Datetime: 2025-04-05 19:00,  Region: PAC Team: Gen.G                vs DetonatioN FocusMe    Score: 2:0
-Datetime: 2025-04-05 20:00,  Region: CN  Team: All Gamers           vs JDG Esports           Score: 0:2
-Datetime: 2025-04-05 21:00,  Region: PAC Team: Rex Regum Qeon       vs ZETA DIVISION         Score: 2:0
-Datetime: 2025-04-05 22:30,  Region: CN  Team: EDward Gaming        vs Titan Esports Club    Score: 2:1
-Datetime: 2025-04-06 07:00,  Region: AMERTeam: 2Game Esports        vs KRÜ Esports           Score: 1:2
-Datetime: 2025-04-06 10:10,  Region: AMERTeam: G2 Esports           vs NRG Esports           Score: 2:0
-Datetime: 2025-04-06 18:00,  Region: PAC Team: Paper Rex            vs BOOM Esports          Score: 1:2
-Datetime: 2025-04-06 19:00,  Region: CN  Team: Nova Esports         vs TYLOO                 Score: 2:1
-Datetime: 2025-04-06 21:45,  Region: PAC Team: TALON                vs Nongshim RedForce     Score: 2:1
-Datetime: 2025-04-06 22:00,  Region: CN  Team: Trace Esports        vs Xi Lai Gaming         Score: 1:2
-Datetime: 2025-04-07 07:00,  Region: AMERTeam: FURIA                vs LEVIATÁN              Score: 0:2
-Datetime: 2025-04-07 09:15,  Region: AMERTeam: Cloud9               vs MIBR                  Score: 1:2
-Datetime: 2025-04-07 18:00,  Region: PAC Team: DRX                  vs Global Esports        Score: 2:0
-Datetime: 2025-04-07 20:00,  Region: PAC Team: T1                   vs Team Secret           Score: 2:1
-Datetime: 2025-04-10 01:00,  Region: EMEATeam: KOI                  vs BBL Esports           Score: 0:2
-Datetime: 2025-04-10 03:15,  Region: EMEATeam: Natus Vincere        vs GIANTX                Score: 2:1
-Datetime: 2025-04-10 21:00,  Region: CN  Team: JDG Esports          vs Xi Lai Gaming         Score: 1:2
-Datetime: 2025-04-11 01:00,  Region: EMEATeam: Team Liquid          vs FUT Esports           Score: 2:0
-Datetime: 2025-04-11 02:50,  Region: EMEATeam: Team Vitality        vs Team Heretics         Score: 0:2
-Datetime: 2025-04-11 21:00,  Region: CN  Team: Dragon Ranger Gaming vs TYLOO                 Score: 1:2
-Datetime: 2025-04-12 01:00,  Region: EMEATeam: Apeks                vs FNATIC                Score: 0:2
-Datetime: 2025-04-12 04:00,  Region: EMEATeam: Karmine Corp         vs Gentle Mates          Score: 2:0
-Datetime: 2025-04-12 07:00,  Region: AMERTeam: 100 Thieves          vs 2Game Esports         Score: 2:0
-Datetime: 2025-04-12 09:30,  Region: AMERTeam: G2 Esports           vs LEVIATÁN              Score: 2:1
-Datetime: 2025-04-12 18:00,  Region: PAC Team: Nongshim RedForce    vs Team Secret           Score: 2:0
-Datetime: 2025-04-12 19:00,  Region: CN  Team: Wolves Esports       vs All Gamers            Score: 2:1
-Datetime: 2025-04-12 20:15,  Region: PAC Team: DRX                  vs BOOM Esports          Score: 1:2
-Datetime: 2025-04-12 22:05,  Region: CN  Team: Bilibili Gaming      vs Trace Esports         Score: 1:2
-Datetime: 2025-04-13 07:00,  Region: AMERTeam: FURIA                vs Cloud9                Score: 0:2
-Datetime: 2025-04-13 09:25,  Region: AMERTeam: Sentinels            vs LOUD                  Score: 2:1
-Datetime: 2025-04-13 18:00,  Region: PAC Team: T1                   vs Rex Regum Qeon        Score: 1:2
-Datetime: 2025-04-13 19:00,  Region: CN  Team: Titan Esports Club   vs Nova Esports          Score: 2:0
-Datetime: 2025-04-13 21:10,  Region: CN  Team: EDward Gaming        vs FunPlus Phoenix       Score: 2:0
-Datetime: 2025-04-13 21:10,  Region: PAC Team: Gen.G                vs Global Esports        Score: 2:0
-Datetime: 2025-04-14 07:00,  Region: AMERTeam: KRÜ Esports          vs Evil Geniuses         Score: 0:2
-Datetime: 2025-04-14 09:10,  Region: AMERTeam: NRG Esports          vs MIBR                  Score: 0:2
-Datetime: 2025-04-14 18:00,  Region: PAC Team: TALON                vs ZETA DIVISION         Score: 0:2
-Datetime: 2025-04-14 20:10,  Region: PAC Team: DetonatioN FocusMe   vs Paper Rex             Score: 1:2
-Datetime: 2025-04-17 01:00,  Region: EMEATeam: Team Vitality        vs Apeks                 Score: 2:0
-Datetime: 2025-04-17 03:20,  Region: EMEATeam: Team Liquid          vs KOI                   Score: 2:0
-Datetime: 2025-04-17 19:00,  Region: CN  Team: Titan Esports Club   vs Wolves Esports        Score: 0:2
-Datetime: 2025-04-17 21:30,  Region: CN  Team: Xi Lai Gaming        vs Nova Esports          Score: 2:0
-Datetime: 2025-04-18 01:00,  Region: EMEATeam: Gentle Mates         vs BBL Esports           Score: 0:2
-Datetime: 2025-04-18 03:10,  Region: EMEATeam: GIANTX               vs FNATIC                Score: 1:2
-Datetime: 2025-04-18 19:00,  Region: CN  Team: Titan Esports Club   vs Dragon Ranger Gaming  Score: 1:2
-Datetime: 2025-04-18 22:50,  Region: CN  Team: Nova Esports         vs Trace Esports         Score: 0:2
-Datetime: 2025-04-19 01:00,  Region: EMEATeam: Karmine Corp         vs FUT Esports           Score: 1:2
-Datetime: 2025-04-19 05:20,  Region: EMEATeam: Natus Vincere        vs Team Heretics         Score: 0:2
-Datetime: 2025-04-19 07:00,  Region: AMERTeam: G2 Esports           vs Cloud9                Score: 2:1
-Datetime: 2025-04-19 10:00,  Region: AMERTeam: MIBR                 vs FURIA                 Score: 2:1
-Datetime: 2025-04-19 18:00,  Region: PAC Team: Paper Rex            vs Global Esports        Score: 2:0
-Datetime: 2025-04-19 19:00,  Region: CN  Team: Bilibili Gaming      vs Wolves Esports        Score: 0:2
-Datetime: 2025-04-19 20:00,  Region: PAC Team: T1                   vs TALON                 Score: 0:2
-Datetime: 2025-04-19 21:15,  Region: CN  Team: EDward Gaming        vs Xi Lai Gaming         Score: 0:2
-Datetime: 2025-04-20 07:00,  Region: AMERTeam: Sentinels            vs 2Game Esports         Score: 2:0
-Datetime: 2025-04-20 09:10,  Region: AMERTeam: KRÜ Esports          vs 100 Thieves           Score: 2:0
-Datetime: 2025-04-20 18:00,  Region: PAC Team: DRX                  vs Gen.G                 Score: 2:1
-Datetime: 2025-04-20 19:00,  Region: CN  Team: Bilibili Gaming      vs Trace Esports         Score: 2:0
-Datetime: 2025-04-20 21:10,  Region: CN  Team: EDward Gaming        vs Dragon Ranger Gaming  Score: 2:1
-Datetime: 2025-04-20 21:30,  Region: PAC Team: Nongshim RedForce    vs ZETA DIVISION         Score: 2:1
-Datetime: 2025-04-21 07:00,  Region: AMERTeam: Evil Geniuses        vs LOUD                  Score: 2:1
-Datetime: 2025-04-21 11:00,  Region: AMERTeam: LEVIATÁN             vs NRG Esports           Score: 0:2
-Datetime: 2025-04-21 18:00,  Region: PAC Team: DetonatioN FocusMe   vs BOOM Esports          Score: 0:2
-Datetime: 2025-04-21 20:00,  Region: PAC Team: Rex Regum Qeon       vs Team Secret           Score: 1:2
-Datetime: 2025-04-24 01:00,  Region: EMEATeam: BBL Esports          vs FUT Esports           Score: 2:0
-Datetime: 2025-04-24 05:00,  Region: EMEATeam: GIANTX               vs Apeks                 Score: 2:0
-Datetime: 2025-04-25 01:00,  Region: EMEATeam: Gentle Mates         vs KOI                   Score: 1:2
-Datetime: 2025-04-25 04:05,  Region: EMEATeam: Team Vitality        vs Natus Vincere         Score: 0:2
-Datetime: 2025-04-25 07:00,  Region: AMERTeam: MIBR                 vs 100 Thieves           Score: 2:0
-Datetime: 2025-04-25 09:15,  Region: AMERTeam: Sentinels            vs Cloud9                Score: 2:0
-Datetime: 2025-04-26 07:00,  Region: AMERTeam: 100 Thieves          vs NRG Esports           Score: 2:0
-Datetime: 2025-04-26 09:15,  Region: AMERTeam: Cloud9               vs Evil Geniuses         Score: 0:2
-Datetime: 2025-04-26 18:00,  Region: PAC Team: TALON                vs Gen.G                 Score: 1:2
-Datetime: 2025-04-26 21:00,  Region: PAC Team: DRX                  vs T1                    Score: 2:0
-Datetime: 2025-04-27 07:00,  Region: AMERTeam: KRÜ Esports          vs MIBR                  Score: 0:2
-Datetime: 2025-04-27 09:05,  Region: AMERTeam: G2 Esports           vs Sentinels             Score: 1:2
-Datetime: 2025-04-27 18:00,  Region: PAC Team: BOOM Esports         vs Gen.G                 Score: 0:2
-Datetime: 2025-04-27 20:10,  Region: PAC Team: Rex Regum Qeon       vs DRX                   Score: 2:1
-Datetime: 2025-04-28 07:00,  Region: AMERTeam: KRÜ Esports          vs Evil Geniuses         Score: 0:2
-Datetime: 2025-04-28 09:40,  Region: AMERTeam: G2 Esports           vs 100 Thieves           Score: 2:1
-Datetime: 2025-05-02 19:00,  Region: CN  Team: Wolves Esports       vs Xi Lai Gaming         Score: 0:2
-Datetime: 2025-05-02 21:35,  Region: CN  Team: EDward Gaming        vs Bilibili Gaming       Score: 1:2
-Datetime: 2025-05-03 01:00,  Region: EMEATeam: Team Liquid          vs Karmine Corp          Score: 2:1
-Datetime: 2025-05-03 03:30,  Region: EMEATeam: FNATIC               vs Team Heretics         Score: 0:2
-Datetime: 2025-05-03 07:00,  Region: AMERTeam: MIBR                 vs Sentinels             Score: 0:2
-Datetime: 2025-05-03 09:50,  Region: AMERTeam: G2 Esports           vs Evil Geniuses         Score: 2:1
-Datetime: 2025-05-03 18:00,  Region: PAC Team: TALON                vs Nongshim RedForce     Score: 2:1
-Datetime: 2025-05-03 19:00,  Region: CN  Team: Wolves Esports       vs Bilibili Gaming       Score: 0:3
-Datetime: 2025-05-03 21:25,  Region: PAC Team: T1                   vs Paper Rex             Score: 1:2
-Datetime: 2025-05-04 07:00,  Region: AMERTeam: MIBR                 vs G2 Esports            Score: 1:3
-Datetime: 2025-05-04 18:00,  Region: PAC Team: DRX                  vs TALON                 Score: 2:0
-Datetime: 2025-05-04 19:00,  Region: CN  Team: Xi Lai Gaming        vs Bilibili Gaming       Score: 3:1
-Datetime: 2025-05-04 20:00,  Region: PAC Team: BOOM Esports         vs Paper Rex             Score: 0:2
-Datetime: 2025-05-05 07:00,  Region: AMERTeam: Sentinels            vs G2 Esports            Score: 1:3
-Datetime: 2025-05-08 14:00,  Region: CN-EVOTeam: FunPlus Phoenix      vs All Gamers            Score: 0:0
+Datetime: 2025-03-22 19:00,  Region: PAC  Team: DetonatioN FocusMe   vs Global Esports        Score: 0:2
+Datetime: 2025-03-22 21:40,  Region: PAC  Team: T1                   vs ZETA DIVISION         Score: 2:1
+Datetime: 2025-03-23 19:00,  Region: PAC  Team: DRX                  vs Paper Rex             Score: 2:1
+Datetime: 2025-03-23 22:05,  Region: PAC  Team: TALON                vs Team Secret           Score: 2:1
+Datetime: 2025-03-24 19:00,  Region: PAC  Team: Gen.G                vs BOOM Esports          Score: 0:2
+Datetime: 2025-03-24 21:50,  Region: PAC  Team: Nongshim RedForce    vs Rex Regum Qeon        Score: 2:1
+Datetime: 2025-03-27 03:00,  Region: EMEA Team: Team Vitality        vs GIANTX                Score: 2:0
+Datetime: 2025-03-27 05:15,  Region: EMEA Team: BBL Esports          vs Karmine Corp          Score: 2:1
+Datetime: 2025-03-28 03:00,  Region: EMEA Team: Team Heretics        vs Apeks                 Score: 2:1
+Datetime: 2025-03-28 06:15,  Region: EMEA Team: FUT Esports          vs KOI                   Score: 2:0
+Datetime: 2025-03-29 03:00,  Region: EMEA Team: FNATIC               vs Natus Vincere         Score: 2:0
+Datetime: 2025-03-29 05:30,  Region: EMEA Team: Team Liquid          vs Gentle Mates          Score: 1:2
+Datetime: 2025-03-29 19:00,  Region: PAC  Team: Team Secret          vs ZETA DIVISION         Score: 0:2
+Datetime: 2025-03-29 21:35,  Region: PAC  Team: T1                   vs Nongshim RedForce     Score: 2:0
+Datetime: 2025-03-30 19:00,  Region: PAC  Team: Gen.G                vs Paper Rex             Score: 2:1
+Datetime: 2025-03-30 21:55,  Region: PAC  Team: DRX                  vs DetonatioN FocusMe    Score: 2:0
+Datetime: 2025-03-31 19:00,  Region: PAC  Team: TALON                vs Rex Regum Qeon        Score: 0:2
+Datetime: 2025-03-31 21:10,  Region: PAC  Team: BOOM Esports         vs Global Esports        Score: 2:0
+Datetime: 2025-04-03 02:00,  Region: EMEA Team: Team Liquid          vs BBL Esports           Score: 2:1
+Datetime: 2025-04-03 04:50,  Region: EMEA Team: Apeks                vs Natus Vincere         Score: 1:2
+Datetime: 2025-04-04 02:00,  Region: EMEA Team: FUT Esports          vs Gentle Mates          Score: 2:1
+Datetime: 2025-04-04 05:25,  Region: EMEA Team: Team Heretics        vs GIANTX                Score: 2:1
+Datetime: 2025-04-05 02:00,  Region: EMEA Team: Team Vitality        vs FNATIC                Score: 1:2
+Datetime: 2025-04-05 06:10,  Region: EMEA Team: KOI                  vs Karmine Corp          Score: 0:2
+Datetime: 2025-04-05 19:00,  Region: PAC  Team: Gen.G                vs DetonatioN FocusMe    Score: 2:0
+Datetime: 2025-04-05 21:00,  Region: PAC  Team: Rex Regum Qeon       vs ZETA DIVISION         Score: 2:0
+Datetime: 2025-04-06 18:00,  Region: PAC  Team: Paper Rex            vs BOOM Esports          Score: 1:2
+Datetime: 2025-04-06 21:45,  Region: PAC  Team: TALON                vs Nongshim RedForce     Score: 2:1
+Datetime: 2025-04-07 18:00,  Region: PAC  Team: DRX                  vs Global Esports        Score: 2:0
+Datetime: 2025-04-07 20:00,  Region: PAC  Team: T1                   vs Team Secret           Score: 2:1
+Datetime: 2025-04-10 01:00,  Region: EMEA Team: KOI                  vs BBL Esports           Score: 0:2
+Datetime: 2025-04-10 03:15,  Region: EMEA Team: Natus Vincere        vs GIANTX                Score: 2:1
+Datetime: 2025-04-11 01:00,  Region: EMEA Team: Team Liquid          vs FUT Esports           Score: 2:0
+Datetime: 2025-04-11 02:50,  Region: EMEA Team: Team Vitality        vs Team Heretics         Score: 0:2
+Datetime: 2025-04-12 01:00,  Region: EMEA Team: Apeks                vs FNATIC                Score: 0:2
+Datetime: 2025-04-12 04:00,  Region: EMEA Team: Karmine Corp         vs Gentle Mates          Score: 2:0
+Datetime: 2025-04-12 18:00,  Region: PAC  Team: Nongshim RedForce    vs Team Secret           Score: 2:0
+Datetime: 2025-04-12 20:15,  Region: PAC  Team: DRX                  vs BOOM Esports          Score: 1:2
+Datetime: 2025-04-13 18:00,  Region: PAC  Team: T1                   vs Rex Regum Qeon        Score: 1:2
+Datetime: 2025-04-13 21:10,  Region: PAC  Team: Gen.G                vs Global Esports        Score: 2:0
+Datetime: 2025-04-14 18:00,  Region: PAC  Team: TALON                vs ZETA DIVISION         Score: 0:2
+Datetime: 2025-04-14 20:10,  Region: PAC  Team: DetonatioN FocusMe   vs Paper Rex             Score: 1:2
+Datetime: 2025-04-17 01:00,  Region: EMEA Team: Team Vitality        vs Apeks                 Score: 2:0
+Datetime: 2025-04-17 03:20,  Region: EMEA Team: Team Liquid          vs KOI                   Score: 2:0
+Datetime: 2025-04-18 01:00,  Region: EMEA Team: Gentle Mates         vs BBL Esports           Score: 0:2
+Datetime: 2025-04-18 03:10,  Region: EMEA Team: GIANTX               vs FNATIC                Score: 1:2
+Datetime: 2025-04-19 01:00,  Region: EMEA Team: Karmine Corp         vs FUT Esports           Score: 1:2
+Datetime: 2025-04-19 05:20,  Region: EMEA Team: Natus Vincere        vs Team Heretics         Score: 0:2
+Datetime: 2025-04-19 18:00,  Region: PAC  Team: Paper Rex            vs Global Esports        Score: 2:0
+Datetime: 2025-04-19 20:00,  Region: PAC  Team: T1                   vs TALON                 Score: 0:2
+Datetime: 2025-04-20 18:00,  Region: PAC  Team: DRX                  vs Gen.G                 Score: 2:1
+Datetime: 2025-04-20 21:30,  Region: PAC  Team: Nongshim RedForce    vs ZETA DIVISION         Score: 2:1
+Datetime: 2025-04-21 18:00,  Region: PAC  Team: DetonatioN FocusMe   vs BOOM Esports          Score: 0:2
+Datetime: 2025-04-21 20:00,  Region: PAC  Team: Rex Regum Qeon       vs Team Secret           Score: 1:2
+Datetime: 2025-04-24 01:00,  Region: EMEA Team: BBL Esports          vs FUT Esports           Score: 2:0
+Datetime: 2025-04-24 05:00,  Region: EMEA Team: GIANTX               vs Apeks                 Score: 2:0
+Datetime: 2025-04-25 01:00,  Region: EMEA Team: Gentle Mates         vs KOI                   Score: 1:2
+Datetime: 2025-04-25 04:05,  Region: EMEA Team: Team Vitality        vs Natus Vincere         Score: 0:2
+Datetime: 2025-04-26 18:00,  Region: PAC  Team: TALON                vs Gen.G                 Score: 1:2
+Datetime: 2025-04-26 21:00,  Region: PAC  Team: DRX                  vs T1                    Score: 2:0
+Datetime: 2025-04-27 18:00,  Region: PAC  Team: BOOM Esports         vs Gen.G                 Score: 0:2
+Datetime: 2025-04-27 20:10,  Region: PAC  Team: Rex Regum Qeon       vs DRX                   Score: 2:1
+Datetime: 2025-05-03 01:00,  Region: EMEA Team: Team Liquid          vs Karmine Corp          Score: 2:1
+Datetime: 2025-05-03 03:30,  Region: EMEA Team: FNATIC               vs Team Heretics         Score: 0:2
+Datetime: 2025-05-03 18:00,  Region: PAC  Team: TALON                vs Nongshim RedForce     Score: 2:1
+Datetime: 2025-05-03 21:25,  Region: PAC  Team: T1                   vs Paper Rex             Score: 1:2
+Datetime: 2025-05-04 18:00,  Region: PAC  Team: DRX                  vs TALON                 Score: 2:0
+Datetime: 2025-05-04 20:00,  Region: PAC  Team: BOOM Esports         vs Paper Rex             Score: 0:2
+Datetime: 2025-05-08 14:00,  Region: CN-EVOTeam: FunPlus Phoenix      vs All Gamers            Score: 0:1
 Datetime: 2025-05-08 16:00,  Region: CN-EVOTeam: Nova Esports         vs Xi Lai Gaming         Score: 0:0
 Datetime: 2025-05-08 18:00,  Region: CN-EVOTeam: Titan Esports Club   vs Bilibili Gaming       Score: 0:0
 Datetime: 2025-05-08 20:00,  Region: CN-EVOTeam: JDG Esports          vs TYLOO                 Score: 0:0
-Datetime: 2025-05-09 01:00,  Region: EMEATeam: BBL Esports          vs Natus Vincere         Score: 0:0
-Datetime: 2025-05-09 04:00,  Region: EMEATeam: FNATIC               vs FUT Esports           Score: 0:0
+Datetime: 2025-05-09 01:00,  Region: EMEA Team: BBL Esports          vs Natus Vincere         Score: 0:0
+Datetime: 2025-05-09 04:00,  Region: EMEA Team: FNATIC               vs FUT Esports           Score: 0:0
 Datetime: 2025-05-09 14:00,  Region: CN-EVOTeam: EDward Gaming        vs TBD                   Score: 0:0
 Datetime: 2025-05-09 16:00,  Region: CN-EVOTeam: Trace Esports        vs TBD                   Score: 0:0
-Datetime: 2025-05-09 18:00,  Region: PAC Team: Gen.G                vs Rex Regum Qeon        Score: 0:0
+Datetime: 2025-05-09 18:00,  Region: PAC  Team: Gen.G                vs Rex Regum Qeon        Score: 0:0
 Datetime: 2025-05-09 18:00,  Region: CN-EVOTeam: Dragon Ranger Gaming vs TBD                   Score: 0:0
-Datetime: 2025-05-09 20:00,  Region: PAC Team: DRX                  vs Paper Rex             Score: 0:0
+Datetime: 2025-05-09 20:00,  Region: PAC  Team: DRX                  vs Paper Rex             Score: 0:0
 Datetime: 2025-05-09 20:00,  Region: CN-EVOTeam: Wolves Esports       vs TBD                   Score: 0:0
-Datetime: 2025-05-10 01:00,  Region: EMEATeam: TBD                  vs Karmine Corp          Score: 0:0
-Datetime: 2025-05-10 04:00,  Region: EMEATeam: TBD                  vs Team Vitality         Score: 0:0
-Datetime: 2025-05-10 18:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-10 01:00,  Region: EMEA Team: TBD                  vs Karmine Corp          Score: 0:0
+Datetime: 2025-05-10 04:00,  Region: EMEA Team: TBD                  vs Team Vitality         Score: 0:0
+Datetime: 2025-05-10 18:00,  Region: PAC  Team: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-05-10 19:00,  Region: CN-EVOTeam: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-05-10 19:00,  Region: CN-EVOTeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-11 01:00,  Region: EMEATeam: Team Heretics        vs TBD                   Score: 0:0
-Datetime: 2025-05-11 04:00,  Region: EMEATeam: Team Liquid          vs TBD                   Score: 0:0
-Datetime: 2025-05-11 18:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-11 01:00,  Region: EMEA Team: Team Heretics        vs TBD                   Score: 0:0
+Datetime: 2025-05-11 04:00,  Region: EMEA Team: Team Liquid          vs TBD                   Score: 0:0
+Datetime: 2025-05-11 18:00,  Region: PAC  Team: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-05-11 19:00,  Region: CN-EVOTeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-12 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-12 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-12 01:00,  Region: EMEA Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-12 04:00,  Region: EMEA Team: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-05-12 19:00,  Region: CN-EVOTeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-17 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-17 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-18 02:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-05-19 02:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-17 01:00,  Region: EMEA Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-17 04:00,  Region: EMEA Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-18 02:00,  Region: EMEA Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-05-19 02:00,  Region: EMEA Team: TBD                  vs TBD                   Score: 0:0

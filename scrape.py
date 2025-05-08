@@ -651,9 +651,9 @@ Toronto_event = []
 
 # get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
 # get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
-# get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
-# get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
-# get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
+get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
+get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
+get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
 # get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
 sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event, key=sort_key)
 
@@ -662,13 +662,13 @@ sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event, key=sort
 
 
 # OnGoing Events
-OnGoing_event = sorted_stage1_event + Toronto_event
+OnGoing_event = sorted_stage1_event
 matchprint(OnGoing_event)
-# file_name = '/vct OnGoing.txt'
-# title = 'vct OnGoing'
-# save2file(OnGoing_event, file_path, file_name, title)
-# name = 'vct OnGoing'
-# create_ics_file(url_vlr, OnGoing_event, name)
+file_name = '/vct OnGoing.txt'
+title = 'vct OnGoing'
+save2file(OnGoing_event, file_path, file_name, title)
+name = 'vct OnGoing'
+create_ics_file(url_vlr, OnGoing_event, name)
 
 
 
@@ -738,5 +738,5 @@ def generate_all_ics():
                     print(f"Saved: {path}")
 
 # 一次生成所有的ics文件
-if __name__ == "__main__":
-    generate_all_ics()
+# if __name__ == "__main__":
+#     generate_all_ics()
