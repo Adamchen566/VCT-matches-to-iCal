@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240509T143000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240509T113000Z
+SUMMARY:EDward Gaming vs Dragon Ranger Gaming
+UID:db61a532-ae6b-48d1-a800-cfb1fba63165@db61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240510T120000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240510T090000Z
+SUMMARY:FunPlus Phoenix vs EDward Gaming
+UID:f283603c-02cd-41dc-9ba2-dfd03e311050@f283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240508T141500Z
+LOCATION:CN Score: 2:0
+DTSTART:20240508T111500Z
+SUMMARY:Dragon Ranger Gaming vs Nova Esports
+UID:1adb14d4-420f-45cc-92d5-40e82bce6ae8@1adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240508T120000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240508T090000Z
+SUMMARY:Trace Esports vs All Gamers
+UID:1aa91c21-c1f5-4286-820c-e1e2cbbf16cc@1aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:3\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240512T120000Z
+LOCATION:CN Score: 1:3
+DTSTART:20240512T090000Z
+SUMMARY:FunPlus Phoenix vs EDward Gaming
+UID:4dfaa6e1-2955-4ac6-9ee4-2b365cf7e1b4@4dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240509T120000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240509T090000Z
+SUMMARY:FunPlus Phoenix vs Trace Esports
+UID:b03835a0-debb-485b-89a5-077f28fd9b01@b038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240510T144500Z
+LOCATION:CN Score: 1:2
+DTSTART:20240510T114500Z
+SUMMARY:Trace Esports vs Dragon Ranger Gaming
+UID:14cba1df-ecaa-4595-8ab7-4daf7fe7b51d@14cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:1\nVLR: https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240511T120000Z
+LOCATION:CN Score: 3:1
+DTSTART:20240511T090000Z
+SUMMARY:EDward Gaming vs Dragon Ranger Gaming
+UID:063fde6a-1f7b-4f49-ae56-17f9e8850e37@063f.org
+END:VEVENT
+END:VCALENDAR

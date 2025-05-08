@@ -1,0 +1,276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240815T133500Z
+LOCATION:Global Score: 2:0
+DTSTART:20240815T103500Z
+SUMMARY:Team Heretics vs FNATIC
+UID:ebf0178d-91bf-4f3d-b61c-65ffa2313129@ebf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240814T132500Z
+LOCATION:Global Score: 0:2
+DTSTART:20240814T102500Z
+SUMMARY:Trace Esports vs EDward Gaming
+UID:fddc0bd0-0bd0-4d14-be88-ecc257976a5b@fddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240818T110000Z
+LOCATION:Global Score: 2:1
+DTSTART:20240818T080000Z
+SUMMARY:Sentinels vs FNATIC
+UID:9a2e47ad-9a49-4f13-b486-8663341cd7e2@9a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240801T110000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240801T080000Z
+SUMMARY:Gen.G vs Sentinels
+UID:fb14093a-5af7-4c87-800a-fee3ab224c9f@fb14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240802T140000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240802T110000Z
+SUMMARY:FNATIC vs Bilibili Gaming
+UID:e6193c00-746f-447a-8c1f-7ccfa57ab5a1@e619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240803T110000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240803T080000Z
+SUMMARY:LEVIATÁN vs TALON
+UID:7ce90daf-5902-4ed0-be48-99c9e403b285@7ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240817T110000Z
+LOCATION:Global Score: 1:2
+DTSTART:20240817T080000Z
+SUMMARY:Sentinels vs EDward Gaming
+UID:5f077c42-a878-4a09-9f74-57f7c16d3153@5f07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240809T110000Z
+LOCATION:Global Score: 0:2
+DTSTART:20240809T080000Z
+SUMMARY:TALON vs Team Vitality
+UID:03e118ee-d77d-4219-a9f9-5f86670dc89f@03e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240809T132500Z
+LOCATION:Global Score: 0:2
+DTSTART:20240809T102500Z
+SUMMARY:FUT Esports vs Paper Rex
+UID:17c8e2b7-985b-4c13-a0b1-72144656e25f@17c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240807T141500Z
+LOCATION:Global Score: 1:2
+DTSTART:20240807T111500Z
+SUMMARY:EDward Gaming vs G2 Esports
+UID:659c42ea-1db3-4252-b702-bf8347ff72cc@659c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240810T110000Z
+LOCATION:Global Score: 0:2
+DTSTART:20240810T080000Z
+SUMMARY:Gen.G vs Sentinels
+UID:a5cc0271-4b56-4959-9bd3-137fe598c36d@a5cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240814T110000Z
+LOCATION:Global Score: 0:2
+DTSTART:20240814T080000Z
+SUMMARY:DRX vs Sentinels
+UID:712eac4a-c61a-4f96-8e53-654a34179d7d@712e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240816T125000Z
+LOCATION:Global Score: 0:2
+DTSTART:20240816T095000Z
+SUMMARY:G2 Esports vs FNATIC
+UID:47936b0d-7890-4e4f-815f-494ad64cddd5@4793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240803T133000Z
+LOCATION:Global Score: 1:2
+DTSTART:20240803T103000Z
+SUMMARY:Team Vitality vs Trace Esports
+UID:5c5a4464-8068-47f4-874b-59f74884236c@5c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240811T131500Z
+LOCATION:Global Score: 2:1
+DTSTART:20240811T101500Z
+SUMMARY:EDward Gaming vs Paper Rex
+UID:c6f2e7d1-826f-4f2a-99d7-48d74590a2d0@c6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240808T110000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240808T080000Z
+SUMMARY:Sentinels vs FunPlus Phoenix
+UID:935d1133-8414-406b-bec7-90d1dbbff7fe@935d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240818T142500Z
+LOCATION:Global Score: 2:1
+DTSTART:20240818T112500Z
+SUMMARY:Team Heretics vs DRX
+UID:b900ed21-8237-4284-b4af-d6075b052315@b900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240801T132500Z
+LOCATION:Global Score: 1:2
+DTSTART:20240801T102500Z
+SUMMARY:FunPlus Phoenix vs Team Heretics
+UID:557b9dc5-a93e-4b2a-a955-bf33ae423636@557b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240817T141500Z
+LOCATION:Global Score: 2:0
+DTSTART:20240817T111500Z
+SUMMARY:LEVIATÁN vs Team Heretics
+UID:d4f1a0df-c7c6-49d1-a8d0-6f51adfdc600@d4f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240804T131500Z
+LOCATION:Global Score: 2:0
+DTSTART:20240804T101500Z
+SUMMARY:EDward Gaming vs FUT Esports
+UID:dea01c02-456a-42fd-876a-21dbdd3e35f7@dea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240816T110000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240816T080000Z
+SUMMARY:DRX vs Trace Esports
+UID:15e470d6-51f5-40b0-b611-ce8cac2029db@15e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240806T110000Z
+LOCATION:Global Score: 1:2
+DTSTART:20240806T080000Z
+SUMMARY:Gen.G vs Team Heretics
+UID:9bf4d54f-aeec-4169-a70c-ded153f2e72b@9bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240823T100000Z
+LOCATION:Global Score: 2:1
+DTSTART:20240823T070000Z
+SUMMARY:EDward Gaming vs LEVIATÁN
+UID:036dd0c3-b82d-4f9a-8b6c-54efc6c4c567@036d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:3\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240824T120000Z
+LOCATION:Global Score: 1:3
+DTSTART:20240824T070000Z
+SUMMARY:LEVIATÁN vs Team Heretics
+UID:272989e2-64d9-464f-b962-53beb69f06ff@2729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240804T110000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240804T080000Z
+SUMMARY:G2 Esports vs Paper Rex
+UID:1a9a51b4-b6c1-495c-bffc-516f832de57d@1a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240823T134500Z
+LOCATION:Global Score: 2:1
+DTSTART:20240823T104500Z
+SUMMARY:Team Heretics vs Sentinels
+UID:129ff3fb-8c8f-4811-9d24-1fe51c354ea9@129f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240815T110000Z
+LOCATION:Global Score: 0:2
+DTSTART:20240815T080000Z
+SUMMARY:G2 Esports vs LEVIATÁN
+UID:28541ffd-fbee-436c-a235-d3dbb765191f@2854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240802T110000Z
+LOCATION:Global Score: 2:1
+DTSTART:20240802T080000Z
+SUMMARY:DRX vs KRÜ Esports
+UID:109dd6a7-2bde-43d4-966c-ddcf7a4b31fb@109d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240808T131000Z
+LOCATION:Global Score: 0:2
+DTSTART:20240808T101000Z
+SUMMARY:Bilibili Gaming vs KRÜ Esports
+UID:da06712f-2913-47f0-88c6-a4b1709a6248@da06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240807T110000Z
+LOCATION:Global Score: 1:2
+DTSTART:20240807T080000Z
+SUMMARY:LEVIATÁN vs Trace Esports
+UID:8bdbce93-65ea-4fca-9cbd-ce571c19cb40@8bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240825T120000Z
+LOCATION:Global Score: 3:2
+DTSTART:20240825T070000Z
+SUMMARY:EDward Gaming vs Team Heretics
+UID:6e6f8c2b-37cf-4500-bffc-86fec16e9f43@6e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240811T110000Z
+LOCATION:Global Score: 2:0
+DTSTART:20240811T080000Z
+SUMMARY:LEVIATÁN vs Team Vitality
+UID:f0d4ff82-fb18-458e-901a-14ec955b92e1@f0d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240806T143500Z
+LOCATION:Global Score: 0:2
+DTSTART:20240806T113500Z
+SUMMARY:FNATIC vs DRX
+UID:695abce4-8722-4fee-bbac-26582c30267f@695a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240810T131500Z
+LOCATION:Global Score: 2:1
+DTSTART:20240810T101500Z
+SUMMARY:FNATIC vs KRÜ Esports
+UID:3e43f0e2-8614-47c6-96f4-60c97bdd5cfb@3e43.org
+END:VEVENT
+END:VCALENDAR

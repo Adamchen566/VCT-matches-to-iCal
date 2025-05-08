@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
@@ -78,6 +79,86 @@ url_China_Evolution_Act2 = 'https://www.vlr.gg/event/matches/2450/china-evolutio
 url_master_Toronto = 'https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all'
 
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
+
+
+events_by_year = {
+    "2021": {
+        "Masters Reykjavik": {"Global": "https://www.vlr.gg/event/matches/353/valorant-champions-tour-stage-2-masters-reykjav-k/?series_id=all"},
+        "Masters Berlin": {"Global": "https://www.vlr.gg/event/matches/466/valorant-champions-tour-stage-3-masters-berlin/?series_id=all"},
+        "Champions Berlin 2021": {"Global": "https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all"},
+    },
+    "2022": {
+        "Masters Reykjavik": {"Global": "https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all"},
+        "Masters Copenhagen": {"Global": "https://www.vlr.gg/event/matches/1014/valorant-champions-tour-stage-2-masters-copenhagen/?series_id=all"},
+        "Champions istanbul 2022": {"Global": "https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all"},
+    },
+    "2023": {
+        "Masters Tokyo": {"Global": "https://www.vlr.gg/event/matches/1494/champions-tour-2023-masters-tokyo/?series_id=all"},
+        "Champions 2023": {"Global": "https://www.vlr.gg/event/matches/1657/valorant-champions-2023/?series_id=all"},
+    },
+    "2024": {
+        "Kickoff": {
+            "CN": "https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all",
+            "AMER": "https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all",
+            "PAC": "https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all",
+            "EMEA": "https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all"
+        },
+        "Masters Madrid": {
+            "Global": "https://www.vlr.gg/event/matches/1921/champions-tour-2024-masters-madrid/?series_id=all"
+        },
+        "Stage 1": {
+            "CN": "https://www.vlr.gg/event/matches/2006/champions-tour-2024-china-stage-1/?series_id=3841",
+            "AMER": "https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837",
+            "PAC": "https://www.vlr.gg/event/matches/2002/champions-tour-2024-pacific-stage-1/?series_id=3833",
+            "EMEA": "https://www.vlr.gg/event/matches/1998/champions-tour-2024-emea-stage-1/?series_id=3826"
+        },
+        "Masters Shanghai": {
+            "Global": "https://www.vlr.gg/event/matches/1999/champions-tour-2024-masters-shanghai/?series_id=all"
+        },
+        "Stage 2": {
+            "CN": "https://www.vlr.gg/event/matches/2096/champions-tour-2024-china-stage-2/?series_id=all",
+            "AMER": "https://www.vlr.gg/event/matches/2095/champions-tour-2024-americas-stage-2/?series_id=all",
+            "PAC": "https://www.vlr.gg/event/matches/2005/champions-tour-2024-pacific-stage-2/?series_id=all",
+            "EMEA": "https://www.vlr.gg/event/matches/2094/champions-tour-2024-emea-stage-2/?series_id=all"
+        },
+        "Champions Seoul": {
+            "Global": "https://www.vlr.gg/event/matches/2097/valorant-champions-2024/?series_id=all"
+        }
+    },
+    "2025": {
+        "Evolution Act1": {
+            "China": "https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all",
+        },
+        "Evolution Act2": {
+            "China": "https://www.vlr.gg/event/matches/2450/china-evolution-series-act-2-x-asian-champions-league/?series_id=all",
+        },
+        "Evolution Act3": {
+            "China": ""
+        },
+        "Kickoff": {
+            "CN": "https://www.vlr.gg/event/matches/2275/champions-tour-2025-china-kickoff/?series_id=all",
+            "AMER": "https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all",
+            "PAC": "https://www.vlr.gg/event/matches/2277/champions-tour-2025-pacific-kickoff/?series_id=all",
+            "EMEA": "https://www.vlr.gg/event/matches/2276/champions-tour-2025-emea-kickoff/?series_id=all"
+        },
+        "Masters Bangkok": {
+            "Global": "https://www.vlr.gg/event/matches/2281/champions-tour-2025-masters-bangkok/?series_id=all"
+        },
+        "Stage 1": {
+            "CN": "https://www.vlr.gg/event/matches/2359/champions-tour-2025-china-stage-1",
+            "AMER": "https://www.vlr.gg/event/matches/2347/champions-tour-2025-americas-stage-1",
+            "PAC": "https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1",
+            "EMEA": "https://www.vlr.gg/event/matches/2380/champions-tour-2025-emea-stage-1"
+        },
+        "Masters Toronto": {
+            "Global": "https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all"
+        },
+        "Stage 2": {},
+        "Champions Paris": {
+            "Global": "https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all"
+        }
+    }
+}
 
 
 # 获取比赛详细信息
@@ -568,12 +649,12 @@ Toronto_event = []
 
 # Stage1 + Toronto
 
-get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
-get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
-get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
-get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
-get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
-get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
+# get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
+# get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
+# get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
+# get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
+# get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
+# get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
 sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event, key=sort_key)
 
 # Stage2 + Paris
@@ -586,8 +667,8 @@ matchprint(OnGoing_event)
 # file_name = '/vct OnGoing.txt'
 # title = 'vct OnGoing'
 # save2file(OnGoing_event, file_path, file_name, title)
-name = 'vct OnGoing'
-create_ics_file(url_vlr, OnGoing_event, name)
+# name = 'vct OnGoing'
+# create_ics_file(url_vlr, OnGoing_event, name)
 
 
 
@@ -633,3 +714,29 @@ google_drive_link = "https://drive.google.com/file/d/1VnBKxMoCkG2CZaP7Rz_e2Q7uHi
 # convert_google_drive_link_to_direct_download(google_drive_link)
 
 # upload_to_google_drive("D:\BackUp\self-work\VCT\\vct OnGoing.ics", "vct OnGoing.ics")
+
+
+def generate_all_ics():
+    from os import makedirs
+    from os.path import join
+
+    out_folder = os.path.join(os.path.dirname(__file__), "Calendar_Files")
+    makedirs(out_folder, exist_ok=True)
+
+    for year, event_dict in events_by_year.items():
+        for event_name, regions in event_dict.items():
+            for region, link in regions.items():
+                if not link:
+                    continue
+                print(f"Generating {event_name} ({region})")
+                matches = []
+                get_match_info(link, matches, region, isPrint=0)
+                if matches:
+                    filename = f"{year}_{event_name.replace(' ', '_')}_{region}.ics"
+                    path = join(out_folder, filename)
+                    create_ics_file(link=link, matches=matches, name=filename[:-4])
+                    print(f"Saved: {path}")
+
+# 一次生成所有的ics文件
+if __name__ == "__main__":
+    generate_all_ics()

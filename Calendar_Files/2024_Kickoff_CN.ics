@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:3\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240302T120000Z
+LOCATION:CN Score: 1:3
+DTSTART:20240302T090000Z
+SUMMARY:FunPlus Phoenix vs EDward Gaming
+UID:08a64151-318c-4099-9b74-ee9b5c845bcd@08a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T133000Z
+LOCATION:CN Score: 1:2
+DTSTART:20240225T103000Z
+SUMMARY:Titan Esports Club vs Dragon Ranger Gaming
+UID:ead7d0a0-5ebd-4a4b-88ed-a67bc2ca1ce3@ead7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240301T120000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240301T090000Z
+SUMMARY:FunPlus Phoenix vs Dragon Ranger Gaming
+UID:c9c32ad6-9f34-430d-9c05-eecf7b3df43c@c9c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240224T120000Z
+LOCATION:CN Score: 0:2
+DTSTART:20240224T090000Z
+SUMMARY:TYLOO vs Nova Esports
+UID:f37543c5-1b88-4942-bece-758ebbd7ff80@f375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240227T153500Z
+LOCATION:CN Score: 1:2
+DTSTART:20240227T123500Z
+SUMMARY:Bilibili Gaming vs Trace Esports
+UID:15a53828-d1e3-40da-bc80-33069203ed02@15a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T154000Z
+LOCATION:CN Score: 0:2
+DTSTART:20240226T124000Z
+SUMMARY:Wolves Esports vs Bilibili Gaming
+UID:bbfb3a4f-0d00-404c-b52d-9fc2958736f7@bbfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T120500Z
+LOCATION:CN Score: 2:1
+DTSTART:20240226T090500Z
+SUMMARY:Titan Esports Club vs JDG Esports
+UID:e1a67fd6-3429-4770-ae7b-229090e120b6@e1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240227T100000Z
+LOCATION:CN Score: 2:1
+DTSTART:20240227T070000Z
+SUMMARY:Trace Esports vs Titan Esports Club
+UID:da9d3a0f-fdd0-4f8e-9bc5-d9b992627293@da9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T120000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240222T090000Z
+SUMMARY:Trace Esports vs TYLOO
+UID:dfa66a76-feab-45cf-871d-0b0da299c2c0@dfa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T140500Z
+LOCATION:CN Score: 2:0
+DTSTART:20240222T110500Z
+SUMMARY:FunPlus Phoenix vs Nova Esports
+UID:a31c593c-a9ee-4bee-a55a-4439ff5238ca@a31c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240223T150500Z
+LOCATION:CN Score: 0:2
+DTSTART:20240223T120500Z
+SUMMARY:Bilibili Gaming vs Wolves Esports
+UID:0a45823d-5a35-4658-a024-d63994b7e475@0a45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240223T100000Z
+LOCATION:CN Score: 0:2
+DTSTART:20240223T070000Z
+SUMMARY:JDG Esports vs Titan Esports Club
+UID:cc593ca2-b804-4095-b58a-94cedbc7034c@cc59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T170000Z
+LOCATION:CN Score: 1:2
+DTSTART:20240225T140000Z
+SUMMARY:Wolves Esports vs EDward Gaming
+UID:27ce31a7-88b8-4471-af97-d09bfe7334d7@27ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T100000Z
+LOCATION:CN Score: 2:0
+DTSTART:20240226T070000Z
+SUMMARY:Trace Esports vs Nova Esports
+UID:6d4075b4-a1d8-4a9e-833e-8f91f3fb7eb2@6d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240301T141500Z
+LOCATION:CN Score: 2:0
+DTSTART:20240301T111500Z
+SUMMARY:EDward Gaming vs Trace Esports
+UID:978b8e61-2a1f-4fa4-a335-ce9e15c64da7@978b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240227T133500Z
+LOCATION:CN Score: 2:0
+DTSTART:20240227T103500Z
+SUMMARY:Bilibili Gaming vs Titan Esports Club
+UID:077bf425-992c-49e9-8240-ba63999348ab@077b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240223T125500Z
+LOCATION:CN Score: 2:0
+DTSTART:20240223T095500Z
+SUMMARY:Dragon Ranger Gaming vs All Gamers
+UID:d7ef5e43-794e-47c0-a0c0-6862a2f32af8@d7ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240224T142500Z
+LOCATION:CN Score: 2:0
+DTSTART:20240224T112500Z
+SUMMARY:JDG Esports vs All Gamers
+UID:b4fa0fcf-62a9-457a-a604-6d77a5c634eb@b4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1926/champions-tour-2024-china-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T100000Z
+LOCATION:CN Score: 1:2
+DTSTART:20240225T070000Z
+SUMMARY:Trace Esports vs FunPlus Phoenix
+UID:d81bd9d7-f618-4582-9f01-16cd2db742e9@d81b.org
+END:VEVENT
+END:VCALENDAR

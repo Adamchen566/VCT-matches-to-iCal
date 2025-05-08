@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:0\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240513T000000Z
+LOCATION:AMER Score: 3:0
+DTSTART:20240512T210000Z
+SUMMARY:100 Thieves vs G2 Esports
+UID:224f2ecf-e7dd-4aa7-869f-d4e710ce7c72@224f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240510T000000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20240509T210000Z
+SUMMARY:KRÜ Esports vs G2 Esports
+UID:9abd901b-8503-4b85-b523-4c85e0eade4d@9abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240511T000000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240510T210000Z
+SUMMARY:G2 Esports vs 100 Thieves
+UID:75b0630a-7cfe-4ed4-9b2c-8777ed15b232@75b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240509T022500Z
+LOCATION:AMER Score: 2:0
+DTSTART:20240508T232500Z
+SUMMARY:100 Thieves vs LOUD
+UID:e7548dee-9997-4556-b705-e2427a8e1bec@e754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240510T020500Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240509T230500Z
+SUMMARY:LEVIATÁN vs 100 Thieves
+UID:832cbc21-8ee9-47f3-a89f-6a3c33852ec6@832c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240509T000000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20240508T210000Z
+SUMMARY:Cloud9 vs G2 Esports
+UID:355b52a3-3dd7-4c5f-a058-1abbf20852b8@355b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:2\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240512T000000Z
+LOCATION:AMER Score: 3:2
+DTSTART:20240511T210000Z
+SUMMARY:G2 Esports vs LEVIATÁN
+UID:d1c69cfb-8c5d-4877-bdae-4b667581bfce@d1c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2004/champions-tour-2024-americas-stage-1/?series_id=3837\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240511T030000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240511T000000Z
+SUMMARY:KRÜ Esports vs LEVIATÁN
+UID:de1243e3-a3b4-4c02-aca1-3339bdd310bd@de12.org
+END:VEVENT
+END:VCALENDAR

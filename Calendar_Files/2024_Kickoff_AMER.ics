@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240227T045500Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240227T015500Z
+SUMMARY:Sentinels vs G2 Esports
+UID:9d879870-6d07-4dc3-a29b-91340070c893@9d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T014000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240225T224000Z
+SUMMARY:LEVIATÁN vs Sentinels
+UID:3bf905f3-3ee5-4f78-b9f0-c7a002eccad4@3bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240218T010000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20240217T220000Z
+SUMMARY:LOUD vs Sentinels
+UID:646d0677-5b31-4153-8669-9bb617fbb210@646d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240217T040000Z
+LOCATION:AMER Score: 2:1
+DTSTART:20240217T010000Z
+SUMMARY:Cloud9 vs MIBR
+UID:f5eafac1-c011-4e65-860c-acd8c5430a66@f5ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240303T010000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240302T220000Z
+SUMMARY:Evil Geniuses vs LOUD
+UID:92dda829-ceae-401c-9eae-16b94dca5887@92dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240227T011000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240226T221000Z
+SUMMARY:G2 Esports vs MIBR
+UID:5ce7c4d6-c7df-4fca-9d34-f1e7557520ae@5ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T230000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20240225T200000Z
+SUMMARY:Cloud9 vs MIBR
+UID:f071cf48-1ce0-4db6-8da3-29f6f9830d45@f071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240219T010000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240218T220000Z
+SUMMARY:KRÜ Esports vs G2 Esports
+UID:bb1cbf1a-bff7-4e80-9172-1f31fe40dca2@bb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240217T010000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20240216T220000Z
+SUMMARY:NRG Esports vs FURIA
+UID:bebfd602-d598-4fab-9bb4-07686c857f75@bebf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T230000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20240226T200000Z
+SUMMARY:MIBR vs Sentinels
+UID:528eb0e2-aaab-424e-973f-683c7e8e4022@528e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240224T010000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20240223T220000Z
+SUMMARY:NRG Esports vs Cloud9
+UID:fabd4b98-f8ee-4e64-80cb-48a3c8308502@fabd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240303T040000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20240303T010000Z
+SUMMARY:NRG Esports vs Sentinels
+UID:7abf62d4-5b12-46dc-97c3-db63e5b25e98@7abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240220T034500Z
+LOCATION:AMER Score: 2:1
+DTSTART:20240220T004500Z
+SUMMARY:Sentinels vs 100 Thieves
+UID:12675904-3cef-4bc2-8984-5471e1bfe449@1267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T045500Z
+LOCATION:AMER Score: 2:0
+DTSTART:20240226T015500Z
+SUMMARY:G2 Esports vs KRÜ Esports
+UID:0250d44a-2b92-4b65-bdce-5fff7d36212d@0250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240218T033500Z
+LOCATION:AMER Score: 2:1
+DTSTART:20240218T003500Z
+SUMMARY:LEVIATÁN vs 100 Thieves
+UID:e4b7d024-cbb0-462d-8275-a0811e642cd3@e4b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:3\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240304T010000Z
+LOCATION:AMER Score: 2:3
+DTSTART:20240303T220000Z
+SUMMARY:LOUD vs Sentinels
+UID:9c1e487b-1f01-4228-854a-2d1c3ee8ed1b@9c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240220T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20240219T220000Z
+SUMMARY:FURIA vs MIBR
+UID:a825ead3-8244-40a8-a3aa-2779b46bcc01@a825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240224T032500Z
+LOCATION:AMER Score: 2:1
+DTSTART:20240224T002500Z
+SUMMARY:LOUD vs LEVIATÁN
+UID:a4352942-42ae-4083-9f13-dc53c6e4c83c@a435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1923/champions-tour-2024-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20240224T220000Z
+SUMMARY:G2 Esports vs Evil Geniuses
+UID:b1da3c0e-ade2-46d6-b6e9-c8977189c18c@b1da.org
+END:VEVENT
+END:VCALENDAR
