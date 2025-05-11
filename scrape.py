@@ -76,6 +76,7 @@ url_2025_stage1_amer = 'https://www.vlr.gg/event/matches/2347/champions-tour-202
 url_2025_stage1_pac = 'https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1'
 url_2025_stage1_emea = 'https://www.vlr.gg/event/matches/2380/champions-tour-2025-emea-stage-1'
 url_China_Evolution_Act2 = 'https://www.vlr.gg/event/matches/2450/china-evolution-series-act-2-x-asian-champions-league/?series_id=all'
+url_Asian_Champions_League = 'https://www.vlr.gg/event/matches/2402/hero-esports-asian-champions-league-2025/?series_id=all'
 url_master_Toronto = 'https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all'
 
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
@@ -140,6 +141,9 @@ events_by_year = {
             "AMER": "https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all",
             "PAC": "https://www.vlr.gg/event/matches/2277/champions-tour-2025-pacific-kickoff/?series_id=all",
             "EMEA": "https://www.vlr.gg/event/matches/2276/champions-tour-2025-emea-kickoff/?series_id=all"
+        },
+        "Asian Champions League": {
+            "Pacific&China": "https://www.vlr.gg/event/matches/2402/hero-esports-asian-champions-league-2025/?series_id=all"
         },
         "Masters Bangkok": {
             "Global": "https://www.vlr.gg/event/matches/2281/champions-tour-2025-masters-bangkok/?series_id=all"
@@ -626,10 +630,11 @@ def convert_google_drive_link_to_direct_download(google_drive_link):
 
 # 2025
 # kickoff_event = []
-evo1_event = []
+# evo1_event = []
 # Bangkok_event = []
 stage1_event = []
 evo2_event = []
+ACL_event = []
 Toronto_event = []
 # state2_event = []
 # Paris_event = []
@@ -654,8 +659,9 @@ Toronto_event = []
 # get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
 get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
 get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
+get_match_info(url_Asian_Champions_League, ACL_event, 'Asian-ACL', 0)
 # get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
-sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event, key=sort_key)
+sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event + ACL_event, key=sort_key)
 
 # Stage2 + Paris
 # get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
@@ -708,11 +714,9 @@ ics_file_path = 'D:\BackUp\self-work\VCT\\vct_completed.ics'
 
 
 # 示例链接
-google_drive_link = "https://drive.google.com/file/d/1VnBKxMoCkG2CZaP7Rz_e2Q7uHiwNkVrt/view?usp=drive_link"
-
+# google_drive_link = "https://drive.google.com/file/d/1VnBKxMoCkG2CZaP7Rz_e2Q7uHiwNkVrt/view?usp=drive_link"
 # 调用函数并打印结果
 # convert_google_drive_link_to_direct_download(google_drive_link)
-
 # upload_to_google_drive("D:\BackUp\self-work\VCT\\vct OnGoing.ics", "vct OnGoing.ics")
 
 
@@ -737,6 +741,29 @@ def generate_all_ics():
                     create_ics_file(link=link, matches=matches, name=filename[:-4])
                     print(f"Saved: {path}")
 
-# 一次生成所有的ics文件
-# if __name__ == "__main__":
-#     generate_all_ics()
+def generate_all_txt():
+    from os import makedirs
+    from os.path import join
+
+    out_folder = os.path.join(os.path.dirname(__file__), "TEXT_Files")
+    makedirs(out_folder, exist_ok=True)
+
+    for year, event_dict in events_by_year.items():
+        for event_name, regions in event_dict.items():
+            for region, link in regions.items():
+                if not link:
+                    continue
+                print(f"Generating TXT for {event_name} ({region})")
+                matches = []
+                get_match_info(link, matches, region, isPrint=0)
+                if matches:
+                    filename = f"{year}_{event_name.replace(' ', '_')}_{region}.txt"
+                    path = join(out_folder, filename)
+                    title = f"{year} {event_name} ({region})"
+                    save2file(matches, path=out_folder + os.sep, name=filename, title=title)
+
+# 一次生成所有的文件
+if __name__ == "__main__":
+    # generate_all_ics()
+    # generate_all_txt()
+    print("init function")
