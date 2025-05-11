@@ -651,7 +651,7 @@ Toronto_event = []
 
 # get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
 # get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
-get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
+# get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
 get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
 get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
 # get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
