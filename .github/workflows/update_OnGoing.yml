@@ -1,4 +1,4 @@
-name: Update OnGoin ICS Files
+name: Update OnGoing ICS Files
 
 on:
   schedule:
