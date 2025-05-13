@@ -1,19 +1,50 @@
-# VLR.gg 瓦洛兰特比赛爬虫
+# VLR.gg Valorant 比赛日程工具
 
 [English](README.md) | [简体中文](README.zh.md)
 
 ---
 
-## 📖 项目简介
+## 📖 项目概览
 
-本项目是一个基于 Python 的爬虫工具，用于从 [VLR.gg](https://www.vlr.gg) 网站爬取 ​**Valorant** 比赛的详细信息。爬取的数据经过整理后生成 `.ics` 文件，方便用户导入日历应用，随时跟踪比赛日程。
+本项目是一个基于 Python 的 **Valorant（无畏契约）比赛数据爬虫与可视化工具**，从 [VLR.gg](https://www.vlr.gg) 抓取数据，支持 `.ics` 日历导出、图形界面多种视图展示，以及多年份多赛区的比赛信息追踪。
 
-### 🎯 功能特性
+---
 
-- ​**🎮 比赛信息爬取**：包括赛事名称、比赛时间、参赛队伍和比分。
-- ​**📅 日历文件生成**：将爬取的数据转换为 `.ics` 文件，支持导入 Google Calendar、Apple Calendar 等。
-- ​**⚙️ 轻量化设计**：仅依赖少量 Python 库，运行高效。
-- ​**📱 跨平台支持**：生成的 `.ics` 文件兼容主流日历应用。
+## 🎯 功能特色
+
+- **🎮 比赛信息抓取**：抓取比赛名称、时间、参赛队伍和比分。
+- **📅 日历导出支持**：将比赛信息转换为 `.ics` 文件，支持日历同步。
+- **🖥️ 多视图 GUI 显示**：
+  - **表格视图**：结构化完整比赛列表。
+  - **卡片视图**：按队伍呈现的紧凑视图。
+  - **热力图视图**：使用 seaborn 绘制的队伍胜负矩阵。
+- **📂 可滚动赛事列表**：快速浏览 2021–2025 年全部赛事。
+- **📱 日历订阅功能**：可在系统日历中订阅 `vct_OnGoing.ics` 实时更新。
+
+---
+
+## 🖼 图形界面截图
+
+| 表格视图 | 卡片视图 | 热力图视图 |
+|---------|----------|------------|
+| ![表格视图](images/view_table.png) | ![卡片视图](images/view_card.png) | ![热力图视图](images/view_heatmap.png) |
+
+使用方法：
+
+```bash
+python GUI.py
+```
+
+---
+
+## 📅 日历订阅说明
+
+想实时掌握正在进行的比赛？你可以导入或订阅项目中生成的 `.ics` 文件：
+
+- **文件**：`vct_OnGoing.ics`
+- **订阅方式**：
+  - Google 日历：设置 → 添加日历 → 来自 URL → 粘贴 `.ics` 链接
+  - iOS：设置 → 日历 → 账户 → 添加账户 → 其他 → 添加订阅日历
 
 ---
 
@@ -21,80 +52,33 @@
 
 ### 📋 环境要求
 
-- ​**Python 3.x**
-- 支持的平台：Windows / macOS / Linux
+- Python 3.x
+- 支持系统：Windows / macOS / Linux
 
-### 📦 依赖库
+### 📦 安装依赖
 
-```plaintext
-requests
-BeautifulSoup4
-ics
+```bash
+pip install requests beautifulsoup4 ics customtkinter matplotlib seaborn pandas
 ```
 
-### 🔧 安装步骤
+### 🔧 安装方式
 
-​**克隆项目或下载源码**：
-
-   ```bash
-   git clone https://github.com/Adamchen566/VCT-matches-to-iCal
-   cd vlr-gg-scraper
-   ```
-
-## 🛠️ 使用方法
-
-1. **​获取 .ics 文件**:
-    - 脚本运行后，生成的 .ics 文件将保存在当前目录。
-
-2. **手动上传至 Google Drive**:
-    - 将 .ics 文件上传至 Google Drive，并获取共享链接。
-
-3. **订阅日历**:
-    - iPhone：打开 设置 > 日历 > 账户 > 添加账户 > 其他 > 添加 订阅日历，输入共享链接即可。
-    - Google Calendar：通过 设置 > 导入日历 上传 .ics 文件。
-
-## 🚧 未来改进
-
-### ☁️ 自动上传云盘
-
-- 实现 `.ics` 文件自动上传至 Google Drive 或 OneDrive，减少手动操作。
-
-### ⏰ 定时更新
-
-- 支持定时爬取和更新比赛信息，确保日历数据实时同步。
-
-### 🖥️ 图形界面
-
-- 开发图形化界面或桌面应用程序，提升用户体验，方便非技术用户使用。
+```bash
+git clone https://github.com/Adamchen566/VCT-matches-to-iCal
+cd vlr-gg-scraper
+```
 
 ---
 
-## 📜 许可证
+## 📜 协议许可
 
-本项目遵循 ​**MIT 许可证**，欢迎自由使用、修改和分发。详细信息请参阅 [LICENSE](LICENSE) 文件。
-
----
-
-## 💬 反馈与贡献
-
-### 提交 Issue
-
-如果您发现任何问题或有改进建议，欢迎提交 [Issue](https://github.com/Adamchen566/VCT-matches-to-iCal/issues)。
-
-### 发起 Pull Request
-
-如果您希望贡献代码或文档，请按照以下步骤操作：
-
-1. Fork 本项目。
-2. 创建新的分支 (`git checkout -b feature/YourFeatureName`)。
-3. 提交更改 (`git commit -m 'Add some feature'`)。
-4. 推送到分支 (`git push origin feature/YourFeatureName`)。
-5. 发起 [Pull Request](https://github.com/your-repo/vlr-gg-scraper/pulls)。
-
-您的贡献将帮助本项目变得更好！
+本项目遵循 MIT 开源协议，详见 [LICENSE](LICENSE)。
 
 ---
 
-## 感谢使用！🎉
+## 💬 问题反馈与贡献
 
----
+1. 发现 bug 或提出建议请提 Issue。
+2. 欢迎 Fork 项目并提交 Pull Request！
+
+感谢使用本工具！🎉

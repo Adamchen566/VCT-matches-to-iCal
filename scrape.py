@@ -12,7 +12,7 @@ from pytz import timezone
 # from googleapiclient.http import MediaFileUpload
 # from google.oauth2 import service_account
 
-file_path = 'D:/BackUp/self-work/VCT-matches-to-iCal/'
+file_path = os.path.dirname(__file__) + os.sep
 
 # 要爬取的网页地址
 url_vlr = 'https://www.vlr.gg/'
@@ -670,10 +670,10 @@ sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event + ACL_eve
 # OnGoing Events
 OnGoing_event = sorted_stage1_event
 matchprint(OnGoing_event)
-file_name = '/vct OnGoing.txt'
-title = 'vct OnGoing'
+file_name = '/vct_OnGoing.txt'
+title = 'vct_OnGoing'
 save2file(OnGoing_event, file_path, file_name, title)
-name = 'vct OnGoing'
+name = 'vct_OnGoing'
 create_ics_file(url_vlr, OnGoing_event, name)
 
 
