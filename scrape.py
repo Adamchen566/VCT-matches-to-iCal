@@ -658,7 +658,7 @@ Toronto_event = []
 # get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
 # get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
 get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
-get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
+# get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
 get_match_info(url_Asian_Champions_League, ACL_event, 'Asian-ACL', 0)
 # get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
 sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event + ACL_event, key=sort_key)
