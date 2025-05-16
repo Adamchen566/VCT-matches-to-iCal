@@ -78,6 +78,7 @@ url_2025_stage1_emea = 'https://www.vlr.gg/event/matches/2380/champions-tour-202
 url_China_Evolution_Act2 = 'https://www.vlr.gg/event/matches/2450/china-evolution-series-act-2-x-asian-champions-league/?series_id=all'
 url_Asian_Champions_League = 'https://www.vlr.gg/event/matches/2402/hero-esports-asian-champions-league-2025/?series_id=all'
 url_master_Toronto = 'https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all'
+url_ewc = 'https://www.vlr.gg/event/matches/2280/ewc-2025/?series_id=all'
 
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
 
@@ -144,6 +145,9 @@ events_by_year = {
         },
         "Asian Champions League": {
             "Pacific&China": "https://www.vlr.gg/event/matches/2402/hero-esports-asian-champions-league-2025/?series_id=all"
+        },
+        "EWC": {
+            "Global": "https://www.vlr.gg/event/matches/2449/esports-world-cup-2025/?series_id=all"
         },
         "Masters Bangkok": {
             "Global": "https://www.vlr.gg/event/matches/2281/champions-tour-2025-masters-bangkok/?series_id=all"
