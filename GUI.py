@@ -11,7 +11,7 @@ import os
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
-from scrape import events_by_year
+from links import *
 
 GITHUB_BASE_ICS_URL = "https://adamchen566.github.io/VCT-matches-to-iCal/Calendar_Files/"
 
