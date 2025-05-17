@@ -78,7 +78,7 @@ url_2025_stage1_emea = 'https://www.vlr.gg/event/matches/2380/champions-tour-202
 url_China_Evolution_Act2 = 'https://www.vlr.gg/event/matches/2450/china-evolution-series-act-2-x-asian-champions-league/?series_id=all'
 url_Asian_Champions_League = 'https://www.vlr.gg/event/matches/2402/hero-esports-asian-champions-league-2025/?series_id=all'
 url_master_Toronto = 'https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all'
-url_ewc = 'https://www.vlr.gg/event/matches/2280/ewc-2025/?series_id=all'
+url_ewc = 'https://www.vlr.gg/event/matches/2449/esports-world-cup-2025/?series_id=all'
 
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
 
@@ -639,6 +639,7 @@ def convert_google_drive_link_to_direct_download(google_drive_link):
 stage1_event = []
 evo2_event = []
 ACL_event = []
+ewc_event = []
 Toronto_event = []
 # state2_event = []
 # Paris_event = []
@@ -664,8 +665,9 @@ Toronto_event = []
 get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
 # get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
 get_match_info(url_Asian_Champions_League, ACL_event, 'Asian-ACL', 0)
+get_match_info(url_ewc, ewc_event, 'EWC', 0)
 # get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
-sorted_stage1_event = sorted(stage1_event + evo2_event + Toronto_event + ACL_event, key=sort_key)
+sorted_stage1_event = sorted(stage1_event + ACL_event + ewc_event, key=sort_key)
 
 # Stage2 + Paris
 # get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
