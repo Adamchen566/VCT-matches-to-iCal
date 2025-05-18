@@ -19,7 +19,7 @@
   - **卡片视图**：按队伍呈现的紧凑视图。
   - **热力图视图**：使用 seaborn 绘制的队伍胜负矩阵。
 - **📂 可滚动赛事列表**：快速浏览 2021–2025 年全部赛事。
-- **📱 日历订阅功能**：可在系统日历中订阅 `vct_OnGoing.ics` 实时更新。
+- **📱 日历订阅功能**：可在系统日历中订阅 `.ics` 实时更新。
 
 ---
 
@@ -39,12 +39,18 @@ python GUI.py
 
 ## 📅 日历订阅说明
 
-想实时掌握正在进行的比赛？你可以导入或订阅项目中生成的 `.ics` 文件：
+想实时掌握比赛进展？你可以导入或订阅以下 `.ics` 文件：
 
-- **文件**：`vct_OnGoing.ics`
-- **订阅方式**：
-  - Google 日历：设置 → 添加日历 → 来自 URL → 粘贴 `.ics` 链接
-  - iOS：设置 → 日历 → 账户 → 添加账户 → 其他 → 添加订阅日历
+- **正在进行中的比赛**：  
+  https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
+
+- **已结束的比赛**：  
+  https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/Calendar_Files/vct_completed.ics
+
+### 订阅方式：
+
+- **Google 日历**：设置 → 添加日历 → 来自 URL → 粘贴上述链接。
+- **iOS/macOS 日历**：文件 → 新建日历订阅 → 粘贴链接。
 
 ---
 

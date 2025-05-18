@@ -39,12 +39,18 @@ python GUI.py
 
 ## 📅 Subscribe in Calendar
 
-To stay updated with ongoing matches, import or subscribe to the provided `.ics` file:
+To stay updated with ongoing or completed matches, import or subscribe to the provided `.ics` files:
 
-- **File**: `vct_OnGoing.ics`
-- **Usage**:
-  - Google Calendar: Settings → Add Calendar → From URL → Paste public link to `.ics`
-  - iOS: Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar
+- **Ongoing Events**:  
+  https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
+
+- **Completed Events**:  
+  https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/Calendar_Files/vct_completed.ics
+
+### Usage:
+
+- **Google Calendar**: Settings → Add Calendar → From URL → Paste one of the above links.
+- **iOS/macOS Calendar**: File → New Calendar Subscription → Paste link.
 
 ---
 
