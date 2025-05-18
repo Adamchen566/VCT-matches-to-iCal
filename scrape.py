@@ -336,9 +336,9 @@ create_ics_file(url_vlr, OnGoing_event, name)
 
 # Add finished envets to completed ics file
 ics_file_path = 'D:\BackUp\self-work\VCT-matches-to-iCal\Calendar_Files\\vct_completed.ics'
-# update_ics_file(url_2025_stage1_cn, stage1_event, ics_file_path)
-# update_ics_file(url_China_Evolution_Act2, evo2_event, ics_file_path)
-# update_ics_file(url_Asian_Champions_League, ACL_event, ics_file_path)
+update_ics_file(url_2025_stage1_cn, stage1_event, ics_file_path)
+update_ics_file(url_China_Evolution_Act2, evo2_event, ics_file_path)
+update_ics_file(url_Asian_Champions_League, ACL_event, ics_file_path)
 
 # 一次生成所有的文件
 if __name__ == "__main__":
