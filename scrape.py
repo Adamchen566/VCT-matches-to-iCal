@@ -310,15 +310,6 @@ Toronto_event = []
 get_match_info(url_ewc, ewc_event, 'EWC', 0)
 get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
 sorted_stage1_event = sorted(ewc_event, key=sort_key)
-get_match_info(url_2025_stage1_cn, stage1_event, 'CN', 0)
-get_match_info(url_2025_stage1_amer, stage1_event, 'AMER', 0)
-get_match_info(url_2025_stage1_pac, stage1_event, 'PAC', 0)
-get_match_info(url_2025_stage1_emea, stage1_event, 'EMEA', 0)
-get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
-get_match_info(url_Asian_Champions_League, ACL_event, 'Asian-ACL', 0)
-# get_match_info(url_ewc, ewc_event, 'EWC', 0)
-# get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
-sorted_stage1_event = sorted(stage1_event + ACL_event + evo2_event, key=sort_key)
 
 # Stage2 + Paris
 # get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
@@ -336,9 +327,9 @@ create_ics_file(url_vlr, OnGoing_event, name)
 
 # Add finished envets to completed ics file
 ics_file_path = 'D:\BackUp\self-work\VCT-matches-to-iCal\Calendar_Files\\vct_completed.ics'
-update_ics_file(url_2025_stage1_cn, stage1_event, ics_file_path)
-update_ics_file(url_China_Evolution_Act2, evo2_event, ics_file_path)
-update_ics_file(url_Asian_Champions_League, ACL_event, ics_file_path)
+# update_ics_file(url_2025_stage1_cn, stage1_event, ics_file_path)
+# update_ics_file(url_China_Evolution_Act2, evo2_event, ics_file_path)
+# update_ics_file(url_Asian_Champions_League, ACL_event, ics_file_path)
 
 # 一次生成所有的文件
 if __name__ == "__main__":
