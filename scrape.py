@@ -309,14 +309,14 @@ Toronto_event = []
 # get_match_info(url_Asian_Champions_League, ACL_event, 'Asian-ACL', 0)
 get_match_info(url_ewc, ewc_event, 'EWC', 0)
 get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 1)
-sorted_stage1_event = sorted(ewc_event, key=sort_key)
+sorted_event = sorted(ewc_event + Toronto_event, key=sort_key)
 
 # Stage2 + Paris
 # get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
 
 
 # OnGoing Events
-OnGoing_event = sorted_stage1_event
+OnGoing_event = sorted_event
 matchprint(OnGoing_event)
 file_name = '/vct_OnGoing.txt'
 title = 'vct_OnGoing'
