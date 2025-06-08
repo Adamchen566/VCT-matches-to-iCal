@@ -160,7 +160,8 @@ def create_ics_file(link, matches, name):
         if match['datetime'].upper() == 'TBD' or not match['datetime']:
             # Use a default time (noon in Sydney timezone)
             default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
-            local_dt = sydney_tz.localize(default_date)
+            # local_dt = sydney_tz.localize(default_date)
+            local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
             event.name = f"[TBD] {match['team1']} vs {match['team2']}"
             event_duration = timedelta(hours=1)  # Shorter duration for TBD events
         else:
@@ -176,7 +177,8 @@ def create_ics_file(link, matches, name):
             except ValueError:
                 # If datetime format is invalid, fall back to TBD handling
                 default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
-                local_dt = sydney_tz.localize(default_date)
+                # local_dt = sydney_tz.localize(default_date)
+                local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
                 event.name = f"[Time Invalid] {match['team1']} vs {match['team2']}"
                 event_duration = timedelta(hours=1)
         
