@@ -3,8 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 from datetime import datetime, timedelta
-import tkinter as tk
-from tkinter import messagebox
 from ics import Calendar, Event
 from datetime import datetime
 from pytz import timezone
@@ -43,7 +41,8 @@ def get_match_info(url, event, region, isPrint):
             if isPrint:print('比赛日期: ', date[:20])
             
             # 提取比赛时间
-            time = info.find('div', class_='match-item-time').text.strip()
+            time_div = info.find('div', class_='match-item-time')
+            time = time_div.text.strip() if time_div is not None else 'TBD'
             if isPrint:print('比赛时间: ', time)
 
             # 处理时间格式
@@ -160,8 +159,7 @@ def create_ics_file(link, matches, name):
         if match['datetime'].upper() == 'TBD' or not match['datetime']:
             # Use a default time (noon in Sydney timezone)
             default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
-            # local_dt = sydney_tz.localize(default_date)
-            local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
+            local_dt = sydney_tz.localize(default_date)
             event.name = f"[TBD] {match['team1']} vs {match['team2']}"
             event_duration = timedelta(hours=1)  # Shorter duration for TBD events
         else:
@@ -170,6 +168,7 @@ def create_ics_file(link, matches, name):
                 event.name = f"{match['team1']} vs {match['team2']}"
                 
                 # 设置比赛的持续时间
+                # 总决赛日为BO5，其他为BO3
                 if match['datetime'].startswith('2024-08-24') or match['datetime'].startswith('2024-08-25'):
                     event_duration = timedelta(hours=5)
                 else:
@@ -177,8 +176,7 @@ def create_ics_file(link, matches, name):
             except ValueError:
                 # If datetime format is invalid, fall back to TBD handling
                 default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
-                # local_dt = sydney_tz.localize(default_date)
-                local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
+                local_dt = sydney_tz.localize(default_date)
                 event.name = f"[Time Invalid] {match['team1']} vs {match['team2']}"
                 event_duration = timedelta(hours=1)
         
@@ -191,7 +189,7 @@ def create_ics_file(link, matches, name):
     # 将日历保存为 .ics 文件
     title = file_path + name +'.ics'
     with open(title, 'w', encoding='utf-8') as f:
-        f.writelines(calendar)
+        f.write(str(calendar))
     print(name + " ICS文件已生成")
 
 def update_ics_file(url, matches, ics_file_path):
@@ -233,7 +231,7 @@ def update_ics_file(url, matches, ics_file_path):
 
     # 将更新后的日历保存回 .ics 文件
     with open(ics_file_path, 'w', encoding='utf-8') as f:
-        f.writelines(calendar)
+        f.write(str(calendar))
 
     print("ICS 文件已更新")
 
@@ -328,7 +326,7 @@ create_ics_file(url_vlr, OnGoing_event, name)
 
 
 # Add finished envets to completed ics file
-ics_file_path = 'D:\BackUp\self-work\VCT-matches-to-iCal\Calendar_Files\\vct_completed.ics'
+ics_file_path = 'D:\\BackUp\\self-work\\VCT-matches-to-iCal\\Calendar_Files\\vct_completed.ics'
 # update_ics_file(url_2025_stage1_cn, stage1_event, ics_file_path)
 # update_ics_file(url_China_Evolution_Act2, evo2_event, ics_file_path)
 # update_ics_file(url_Asian_Champions_League, ACL_event, ics_file_path)
