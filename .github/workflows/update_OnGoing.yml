@@ -1,39 +1,39 @@
-name: Update OnGoing ICS Files
+# name: Update OnGoing ICS Files
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-on:
-  schedule:
-    - cron: '0 4 * * *'  # 每天 UTC 时间凌晨 4 点运行（北京时间中午 12 点）
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 4 * * *'  # 每天 UTC 时间凌晨 4 点运行（北京时间中午 12 点）
+#   workflow_dispatch:
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    env:
-      TZ: Australia/Sydney
-    steps:
-    - name: Checkout Repo
-      uses: actions/checkout@v3
+# jobs:
+#   update:
+#     runs-on: ubuntu-latest
+#     env:
+#       TZ: Australia/Sydney
+#     steps:
+#     - name: Checkout Repo
+#       uses: actions/checkout@v3
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+#     - name: Setup Python
+#       uses: actions/setup-python@v4
+#       with:
+#         python-version: '3.10'
 
-    - name: Install Dependencies
-      run: |
-        pip install -r requirements.txt
+#     - name: Install Dependencies
+#       run: |
+#         pip install -r requirements.txt
 
-    - name: Generate .ics Files
-      run: |
-        python scrape.py
+#     - name: Generate .ics Files
+#       run: |
+#         python scrape.py
 
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Auto update .ics files" || echo "No changes to commit"
-        git push
+#     - name: Commit and Push Changes
+#       run: |
+#         git config --global user.name "github-actions[bot]"
+#         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#         git add .
+#         git commit -m "Auto update .ics files" || echo "No changes to commit"
+#         git push
