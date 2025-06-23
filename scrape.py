@@ -281,13 +281,13 @@ def generate_all_txt():
 # kickoff_event = []
 # evo1_event = []
 # Bangkok_event = []
-stage1_event = []
-evo2_event = []
-ACL_event = []
-ewc_event = []
-Toronto_event = []
-# state2_event = []
-# Paris_event = []
+# stage1_event = []
+# evo2_event = []
+# ACL_event = []
+# ewc_event = []
+# Toronto_event = []
+state2_event = []
+Paris_event = []
 
 # Kickoff + Bangkok
 # get_match_info(url_2025_kickoff_cn, kickoff_event, 'CN', 0)
@@ -308,28 +308,29 @@ Toronto_event = []
 # get_match_info(url_China_Evolution_Act2, evo2_event, 'CN-EVO', 0)
 # get_match_info(url_Asian_Champions_League, ACL_event, 'Asian-ACL', 0)
 # get_match_info(url_ewc, ewc_event, 'EWC', 0)
-get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 0)
-# sorted_event = sorted(ewc_event + Toronto_event, key=sort_key)
+# get_match_info(url_master_Toronto, Toronto_event, 'Toronto', 0)
 
 # Stage2 + Paris
-# get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
-
+get_match_info(url_2025_stage2_cn, state2_event, 'CN', 0)
+get_match_info(url_2025_stage2_amer, state2_event, 'AMER', 0)
+get_match_info(url_2025_stage2_pac, state2_event, 'PAC', 0)
+get_match_info(url_2025_stage2_emea, state2_event, 'EMEA', 0)
+get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
+sorted_event = sorted(state2_event + Paris_event, key=sort_key)
 
 # OnGoing Events
-# OnGoing_event = sorted_event
-# matchprint(OnGoing_event)
-# file_name = '/vct_OnGoing.txt'
-# title = 'vct_OnGoing'
-# save2file(OnGoing_event, file_path, file_name, title)
-# name = 'vct_OnGoing'
-# create_ics_file(url_vlr, OnGoing_event, name)
+OnGoing_event = sorted_event
+matchprint(OnGoing_event)
+file_name = '/vct_OnGoing.txt'
+title = 'vct_OnGoing'
+save2file(OnGoing_event, file_path, file_name, title)
+name = 'vct_OnGoing'
+create_ics_file(url_vlr, OnGoing_event, name)
 
 
 # Add finished envets to completed ics file
 ics_file_path = 'D:\\BackUp\\self-work\\VCT-matches-to-iCal\\Calendar_Files\\vct_completed.ics'
-# update_ics_file(url_2025_stage1_cn, stage1_event, ics_file_path)
-# update_ics_file(url_China_Evolution_Act2, evo2_event, ics_file_path)
-update_ics_file(url_master_Toronto, Toronto_event, ics_file_path)
+# update_ics_file(url_master_Toronto, Toronto_event, ics_file_path)
 
 # 一次生成所有的文件
 if __name__ == "__main__":

@@ -64,6 +64,10 @@ url_Asian_Champions_League = 'https://www.vlr.gg/event/matches/2402/hero-esports
 url_master_Toronto = 'https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all'
 url_ewc = 'https://www.vlr.gg/event/matches/2449/esports-world-cup-2025/?series_id=all'
 
+url_2025_stage2_cn = 'https://www.vlr.gg/event/matches/2499/vct-2025-china-stage-2/?series_id=all'
+url_2025_stage2_amer = 'https://www.vlr.gg/event/matches/2501/vct-2025-americas-stage-2/?series_id=all'
+url_2025_stage2_pac = 'https://www.vlr.gg/event/matches/2500/vct-2025-pacific-stage-2/?series_id=all'
+url_2025_stage2_emea = 'https://www.vlr.gg/event/matches/2498/vct-2025-emea-stage-2/?series_id=all'
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
 
 events_by_year = {
@@ -144,7 +148,12 @@ events_by_year = {
         "Masters Toronto": {
             "Global": "https://www.vlr.gg/event/matches/2282/champions-tour-2025-masters-toronto/?series_id=all"
         },
-        "Stage 2": {},
+        "Stage 2": {
+            "CN": "https://www.vlr.gg/event/matches/2499/vct-2025-china-stage-2/?series_id=all",
+            "AMER": "https://www.vlr.gg/event/matches/2501/vct-2025-americas-stage-2/?series_id=all",
+            "PAC": "https://www.vlr.gg/event/matches/2500/vct-2025-pacific-stage-2/?series_id=all",
+            "EMEA": "https://www.vlr.gg/event/matches/2498/vct-2025-emea-stage-2/?series_id=all"
+            },
         "Champions Paris": {
             "Global": "https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all"
         }
