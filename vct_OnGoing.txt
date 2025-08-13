@@ -93,41 +93,78 @@ Datetime: 2025-08-07 01:00,  Region: EMEATeam: FUT Esports          vs Team Here
 Datetime: 2025-08-07 03:35,  Region: EMEATeam: KOI                  vs Apeks                 Score: 2:1
 Datetime: 2025-08-08 01:00,  Region: EMEATeam: Gentle Mates         vs GIANTX                Score: 1:2
 Datetime: 2025-08-08 04:00,  Region: EMEATeam: Natus Vincere        vs Karmine Corp          Score: 2:0
-Datetime: 2025-08-08 18:00,  Region: PAC Team: Gen.G                vs Nongshim RedForce     Score: 0:0
-Datetime: 2025-08-08 21:00,  Region: PAC Team: TALON                vs Paper Rex             Score: 0:0
-Datetime: 2025-08-09 01:00,  Region: EMEATeam: Team Vitality        vs BBL Esports           Score: 0:0
-Datetime: 2025-08-09 04:00,  Region: EMEATeam: Team Liquid          vs FNATIC                Score: 0:0
-Datetime: 2025-08-09 07:00,  Region: AMERTeam: Cloud9               vs 2Game Esports         Score: 0:0
-Datetime: 2025-08-09 10:00,  Region: AMERTeam: MIBR                 vs NRG                   Score: 0:0
-Datetime: 2025-08-09 18:00,  Region: PAC Team: DRX                  vs Global Esports        Score: 0:0
-Datetime: 2025-08-09 19:00,  Region: CN  Team: All Gamers           vs TYLOO                 Score: 0:0
-Datetime: 2025-08-09 21:00,  Region: PAC Team: BOOM Esports         vs ZETA DIVISION         Score: 0:0
-Datetime: 2025-08-09 22:00,  Region: CN  Team: EDward Gaming        vs Dragon Ranger Gaming  Score: 0:0
-Datetime: 2025-08-10 07:00,  Region: AMERTeam: Sentinels            vs Evil Geniuses         Score: 0:0
-Datetime: 2025-08-10 10:00,  Region: AMERTeam: LEVIATÁN             vs KRÜ Esports           Score: 0:0
-Datetime: 2025-08-10 18:00,  Region: PAC Team: Rex Regum Qeon       vs Team Secret           Score: 0:0
-Datetime: 2025-08-10 19:00,  Region: CN  Team: TBD                  vs Trace Esports         Score: 0:0
-Datetime: 2025-08-10 21:00,  Region: PAC Team: T1                   vs DetonatioN FocusMe    Score: 0:0
-Datetime: 2025-08-10 22:00,  Region: CN  Team: TBD                  vs FunPlus Phoenix       Score: 0:0
-Datetime: 2025-08-11 07:00,  Region: AMERTeam: FURIA                vs G2 Esports            Score: 0:0
-Datetime: 2025-08-11 10:00,  Region: AMERTeam: LOUD                 vs 100 Thieves           Score: 0:0
+Datetime: 2025-08-08 18:00,  Region: PAC Team: Gen.G                vs Nongshim RedForce     Score: 0:2
+Datetime: 2025-08-08 20:30,  Region: PAC Team: TALON                vs Paper Rex             Score: 0:2
+Datetime: 2025-08-09 01:00,  Region: EMEATeam: Team Vitality        vs BBL Esports           Score: 1:2
+Datetime: 2025-08-09 04:40,  Region: EMEATeam: Team Liquid          vs FNATIC                Score: 2:0
+Datetime: 2025-08-09 07:00,  Region: AMERTeam: Cloud9               vs 2Game Esports         Score: 2:0
+Datetime: 2025-08-09 09:00,  Region: AMERTeam: MIBR                 vs NRG                   Score: 0:2
+Datetime: 2025-08-09 18:00,  Region: PAC Team: DRX                  vs Global Esports        Score: 2:0
+Datetime: 2025-08-09 19:00,  Region: CN  Team: All Gamers           vs TYLOO                 Score: 0:2
+Datetime: 2025-08-09 20:25,  Region: PAC Team: BOOM Esports         vs ZETA DIVISION         Score: 1:2
+Datetime: 2025-08-09 21:20,  Region: CN  Team: EDward Gaming        vs Dragon Ranger Gaming  Score: 0:2
+Datetime: 2025-08-10 07:00,  Region: AMERTeam: Sentinels            vs Evil Geniuses         Score: 2:0
+Datetime: 2025-08-10 09:15,  Region: AMERTeam: LEVIATÁN             vs KRÜ Esports           Score: 2:1
+Datetime: 2025-08-10 18:00,  Region: PAC Team: Rex Regum Qeon       vs Team Secret           Score: 2:1
+Datetime: 2025-08-10 19:00,  Region: CN  Team: All Gamers           vs FunPlus Phoenix       Score: 2:1
+Datetime: 2025-08-10 21:05,  Region: PAC Team: T1                   vs DetonatioN FocusMe    Score: 2:0
+Datetime: 2025-08-10 22:15,  Region: CN  Team: EDward Gaming        vs Trace Esports         Score: 2:1
+Datetime: 2025-08-11 07:00,  Region: AMERTeam: FURIA                vs G2 Esports            Score: 0:2
+Datetime: 2025-08-11 09:00,  Region: AMERTeam: LOUD                 vs 100 Thieves           Score: 1:2
+Datetime: 2025-08-13 18:00,  Region: PAC Team: TALON                vs Nongshim RedForce     Score: 2:0
+Datetime: 2025-08-13 20:35,  Region: PAC Team: Rex Regum Qeon       vs T1                    Score: 1:2
 Datetime: 2025-08-14 01:00,  Region: EMEATeam: KOI                  vs Natus Vincere         Score: 0:0
 Datetime: 2025-08-14 04:00,  Region: EMEATeam: Apeks                vs FNATIC                Score: 0:0
+Datetime: 2025-08-14 18:00,  Region: PAC Team: DRX                  vs TALON                 Score: 0:0
+Datetime: 2025-08-14 20:00,  Region: PAC Team: Paper Rex            vs T1                    Score: 0:0
 Datetime: 2025-08-15 01:00,  Region: EMEATeam: GIANTX               vs Team Heretics         Score: 0:0
 Datetime: 2025-08-15 04:00,  Region: EMEATeam: Gentle Mates         vs Team Vitality         Score: 0:0
+Datetime: 2025-08-15 18:00,  Region: PAC Team: Nongshim RedForce    vs DetonatioN FocusMe    Score: 0:0
+Datetime: 2025-08-15 20:00,  Region: PAC Team: Rex Regum Qeon       vs Gen.G                 Score: 0:0
 Datetime: 2025-08-16 01:00,  Region: EMEATeam: FUT Esports          vs BBL Esports           Score: 0:0
 Datetime: 2025-08-16 04:00,  Region: EMEATeam: Team Liquid          vs Karmine Corp          Score: 0:0
 Datetime: 2025-08-16 07:00,  Region: AMERTeam: KRÜ Esports          vs NRG                   Score: 0:0
 Datetime: 2025-08-16 10:00,  Region: AMERTeam: 100 Thieves          vs LEVIATÁN              Score: 0:0
+Datetime: 2025-08-16 18:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-16 20:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-08-17 07:00,  Region: AMERTeam: FURIA                vs Evil Geniuses         Score: 0:0
 Datetime: 2025-08-17 10:00,  Region: AMERTeam: 2Game Esports        vs Sentinels             Score: 0:0
+Datetime: 2025-08-17 18:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-17 20:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-08-18 07:00,  Region: AMERTeam: G2 Esports           vs Cloud9                Score: 0:0
 Datetime: 2025-08-18 10:00,  Region: AMERTeam: MIBR                 vs LOUD                  Score: 0:0
-Datetime: 2025-08-20 19:00,  Region: CN  Team: Xi Lai Gaming        vs TBD                   Score: 0:0
-Datetime: 2025-08-20 22:00,  Region: CN  Team: Bilibili Gaming      vs TBD                   Score: 0:0
-Datetime: 2025-08-21 19:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-21 22:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-20 19:00,  Region: CN  Team: Bilibili Gaming      vs TYLOO                 Score: 0:0
+Datetime: 2025-08-20 22:00,  Region: CN  Team: Xi Lai Gaming        vs Dragon Ranger Gaming  Score: 0:0
+Datetime: 2025-08-21 19:00,  Region: CN  Team: TBD                  vs All Gamers            Score: 0:0
+Datetime: 2025-08-21 22:00,  Region: CN  Team: TBD                  vs EDward Gaming         Score: 0:0
+Datetime: 2025-08-22 01:00,  Region: EMEATeam: FNATIC               vs TBD                   Score: 0:0
+Datetime: 2025-08-22 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-22 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-22 10:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-08-22 19:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-08-22 22:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-23 00:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-23 00:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-23 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-23 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-08-23 19:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-24 00:00,  Region: AMERTeam: Sentinels            vs TBD                   Score: 0:0
+Datetime: 2025-08-24 00:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-24 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-24 04:00,  Region: EMEATeam: Team Liquid          vs TBD                   Score: 0:0
 Datetime: 2025-08-24 19:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-25 00:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-25 00:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-25 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-25 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-30 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-30 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-30 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-30 10:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-30 15:00,  Region: PAC Team: Team World           vs Glory Once Again      Score: 0:0
+Datetime: 2025-08-30 16:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-31 02:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-31 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-31 16:00,  Region: PAC Team: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-09-01 02:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-09-01 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
