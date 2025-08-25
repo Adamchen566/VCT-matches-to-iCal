@@ -141,30 +141,32 @@ Datetime: 2025-08-22 01:00,  Region: EMEATeam: FNATIC               vs BBL Espor
 Datetime: 2025-08-22 04:15,  Region: EMEATeam: GIANTX               vs Natus Vincere         Score: 2:1
 Datetime: 2025-08-22 07:00,  Region: AMERTeam: LEVIATÁN             vs Cloud9                Score: 1:2
 Datetime: 2025-08-22 10:45,  Region: AMERTeam: G2 Esports           vs 100 Thieves           Score: 2:0
-Datetime: 2025-08-22 19:00,  Region: CN  Team: Dragon Ranger Gaming vs Bilibili Gaming       Score: 0:0
-Datetime: 2025-08-22 22:00,  Region: CN  Team: EDward Gaming        vs Xi Lai Gaming         Score: 0:0
-Datetime: 2025-08-23 01:00,  Region: EMEATeam: Team Heretics        vs BBL Esports           Score: 0:0
-Datetime: 2025-08-23 04:00,  Region: EMEATeam: Team Liquid          vs GIANTX                Score: 0:0
-Datetime: 2025-08-23 07:00,  Region: AMERTeam: Sentinels            vs Cloud9                Score: 0:0
-Datetime: 2025-08-23 10:00,  Region: AMERTeam: NRG                  vs G2 Esports            Score: 0:0
-Datetime: 2025-08-23 19:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-24 01:00,  Region: EMEATeam: FNATIC               vs Karmine Corp          Score: 0:0
-Datetime: 2025-08-24 04:00,  Region: EMEATeam: Natus Vincere        vs Team Vitality         Score: 0:0
-Datetime: 2025-08-24 07:00,  Region: AMERTeam: LEVIATÁN             vs KRÜ Esports           Score: 0:0
-Datetime: 2025-08-24 10:00,  Region: AMERTeam: 100 Thieves          vs Evil Geniuses         Score: 0:0
-Datetime: 2025-08-24 19:00,  Region: CN  Team: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-25 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-25 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-25 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-25 10:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-30 01:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-30 04:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-30 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
-Datetime: 2025-08-30 10:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-22 18:00,  Region: CN  Team: Pure Aim             vs Precise Defeat        Score: 10:13
+Datetime: 2025-08-22 19:00,  Region: CN  Team: Dragon Ranger Gaming vs Bilibili Gaming       Score: 2:1
+Datetime: 2025-08-22 22:40,  Region: CN  Team: EDward Gaming        vs Xi Lai Gaming         Score: 2:0
+Datetime: 2025-08-23 01:00,  Region: EMEATeam: Team Heretics        vs BBL Esports           Score: 0:2
+Datetime: 2025-08-23 03:20,  Region: EMEATeam: Team Liquid          vs GIANTX                Score: 2:1
+Datetime: 2025-08-23 07:00,  Region: AMERTeam: Sentinels            vs Cloud9                Score: 2:1
+Datetime: 2025-08-23 10:35,  Region: AMERTeam: NRG                  vs G2 Esports            Score: 1:2
+Datetime: 2025-08-23 19:00,  Region: CN  Team: Bilibili Gaming      vs EDward Gaming         Score: 3:1
+Datetime: 2025-08-24 01:00,  Region: EMEATeam: FNATIC               vs Karmine Corp          Score: 2:1
+Datetime: 2025-08-24 04:55,  Region: EMEATeam: Natus Vincere        vs Team Vitality         Score: 2:0
+Datetime: 2025-08-24 07:00,  Region: AMERTeam: LEVIATÁN             vs KRÜ Esports           Score: 2:1
+Datetime: 2025-08-24 10:25,  Region: AMERTeam: 100 Thieves          vs Evil Geniuses         Score: 2:0
+Datetime: 2025-08-24 19:00,  Region: CN  Team: Dragon Ranger Gaming vs Bilibili Gaming       Score: 1:3
+Datetime: 2025-08-25 01:00,  Region: EMEATeam: GIANTX               vs FNATIC                Score: 2:0
+Datetime: 2025-08-25 03:25,  Region: EMEATeam: Team Heretics        vs Natus Vincere         Score: 0:2
+Datetime: 2025-08-25 07:00,  Region: AMERTeam: NRG                  vs LEVIATÁN              Score: 2:0
+Datetime: 2025-08-25 08:50,  Region: AMERTeam: Cloud9               vs 100 Thieves           Score: 2:0
+Datetime: 2025-08-30 01:00,  Region: EMEATeam: BBL Esports          vs Team Liquid           Score: 0:0
+Datetime: 2025-08-30 04:00,  Region: EMEATeam: GIANTX               vs Natus Vincere         Score: 0:0
+Datetime: 2025-08-30 07:00,  Region: AMERTeam: Sentinels            vs G2 Esports            Score: 0:0
+Datetime: 2025-08-30 10:00,  Region: AMERTeam: NRG                  vs Cloud9                Score: 0:0
 Datetime: 2025-08-30 15:00,  Region: PAC Team: Team World           vs Glory Once Again      Score: 0:0
 Datetime: 2025-08-30 16:00,  Region: PAC Team: TALON                vs Rex Regum Qeon        Score: 0:0
 Datetime: 2025-08-31 02:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-08-31 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
+Datetime: 2025-08-31 07:00,  Region: AMERTeam: Team Alpha           vs Team Omega            Score: 0:0
 Datetime: 2025-08-31 16:00,  Region: PAC Team: Paper Rex            vs TBD                   Score: 0:0
 Datetime: 2025-09-01 02:00,  Region: EMEATeam: TBD                  vs TBD                   Score: 0:0
 Datetime: 2025-09-01 07:00,  Region: AMERTeam: TBD                  vs TBD                   Score: 0:0
