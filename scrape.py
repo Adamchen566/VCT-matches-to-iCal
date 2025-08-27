@@ -287,6 +287,7 @@ def generate_all_txt():
 # ewc_event = []
 # Toronto_event = []
 state2_event = []
+evo3_event = []
 Paris_event = []
 
 # Kickoff + Bangkok
@@ -316,7 +317,8 @@ get_match_info(url_2025_stage2_amer, state2_event, 'AMER', 0)
 get_match_info(url_2025_stage2_pac, state2_event, 'PAC', 0)
 get_match_info(url_2025_stage2_emea, state2_event, 'EMEA', 0)
 get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
-sorted_event = sorted(state2_event + Paris_event, key=sort_key)
+get_match_info(url_China_Evolution_Act3, evo3_event, 'CN-EVO', 0)
+sorted_event = sorted(state2_event + evo3_event + Paris_event, key=sort_key)
 
 # OnGoing Events
 OnGoing_event = sorted_event

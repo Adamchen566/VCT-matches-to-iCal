@@ -68,6 +68,7 @@ url_2025_stage2_cn = 'https://www.vlr.gg/event/matches/2499/vct-2025-china-stage
 url_2025_stage2_amer = 'https://www.vlr.gg/event/matches/2501/vct-2025-americas-stage-2/?series_id=all'
 url_2025_stage2_pac = 'https://www.vlr.gg/event/matches/2500/vct-2025-pacific-stage-2/?series_id=all'
 url_2025_stage2_emea = 'https://www.vlr.gg/event/matches/2498/vct-2025-emea-stage-2/?series_id=all'
+url_China_Evolution_Act3 = 'https://www.vlr.gg/event/matches/2590/china-evolution-series-act-3/?series_id=all'
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
 
 events_by_year = {
