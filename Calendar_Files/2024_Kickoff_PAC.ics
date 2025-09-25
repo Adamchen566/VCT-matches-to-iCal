@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240217T164500Z
+LOCATION:PAC Score: 2:1
+DTSTART:20240217T134500Z
+SUMMARY:Gen.G vs Rex Regum Qeon
+UID:65e39455-a1de-4af6-ae58-2b830618ca51@65e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240221T123000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20240221T093000Z
+SUMMARY:TALON vs Team Secret
+UID:1ddc1f12-04d3-43ca-a613-64bffddb0e22@1ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240221T090000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20240221T060000Z
+SUMMARY:Gen.G vs Rex Regum Qeon
+UID:2b161bd3-da70-4ddc-914c-610da4926b14@2b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240220T132000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20240220T102000Z
+SUMMARY:DRX vs TALON
+UID:20c12069-f1d3-44a7-8109-8edaf886f73a@20c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240218T090000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20240218T060000Z
+SUMMARY:ZETA DIVISION vs Global Esports
+UID:b488b93f-ecb9-499d-b140-4b5efb618b85@b488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240219T121500Z
+LOCATION:PAC Score: 1:2
+DTSTART:20240219T091500Z
+SUMMARY:BLEED vs Global Esports
+UID:f57fce91-3bbc-4bf7-88fa-4408a9fe9eea@f57f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240219T090000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20240219T060000Z
+SUMMARY:Gen.G vs Paper Rex
+UID:a42d70ac-fbf0-487b-9ed7-5c5b4004bf00@a42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T122000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20240222T092000Z
+SUMMARY:ZETA DIVISION vs Team Secret
+UID:75c11ab3-fe34-41fd-91af-cc288db7bb6c@75c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240217T090000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20240217T060000Z
+SUMMARY:T1 vs BLEED
+UID:26c0d3b6-aba0-4880-a6af-2e87ccfb0c24@26c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240219T160000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20240219T130000Z
+SUMMARY:T1 vs ZETA DIVISION
+UID:4adca5ca-4a10-4065-9a2c-069f836c11a1@4adc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240218T133000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20240218T103000Z
+SUMMARY:DRX vs DetonatioN FocusMe
+UID:d6c7ee36-b345-4639-b693-80a50ec7ed6c@d6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240218T113000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20240218T083000Z
+SUMMARY:Team Secret vs TALON
+UID:e91a5db7-f1d0-44c1-b8f0-b6c913b36ba0@e91a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:3\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T110000Z
+LOCATION:PAC Score: 1:3
+DTSTART:20240225T080000Z
+SUMMARY:Paper Rex vs Gen.G
+UID:948e3888-2a87-4e33-b6e0-af5132d25641@948e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T090000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20240222T060000Z
+SUMMARY:Team Secret vs Gen.G
+UID:388fe648-7056-46ee-9d91-466169fa9cc9@388f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240224T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20240224T080000Z
+SUMMARY:T1 vs Paper Rex
+UID:1fbef2ed-c3db-48b5-aa7a-89e7d4184c1d@1fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240220T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20240220T080000Z
+SUMMARY:DetonatioN FocusMe vs Team Secret
+UID:dbe42f37-b776-4129-82b3-bd7c231339b3@dbe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240221T151500Z
+LOCATION:PAC Score: 2:0
+DTSTART:20240221T121500Z
+SUMMARY:ZETA DIVISION vs Global Esports
+UID:843733f7-3557-466e-a667-3ff72c76f714@8437.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T143000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20240222T113000Z
+SUMMARY:Gen.G vs ZETA DIVISION
+UID:99c89778-3d5d-4a27-b273-d47274ebd623@99c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1924/champions-tour-2024-pacific-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240224T132500Z
+LOCATION:PAC Score: 0:2
+DTSTART:20240224T102500Z
+SUMMARY:DRX vs Gen.G
+UID:d0fa221d-85b2-4829-b704-3a2e452fda8a@d0fa.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211207T170000Z
+LOCATION:Global Score: 1:2
+DTSTART:20211207T140000Z
+SUMMARY:Vision Strikers vs Cloud9
+UID:1469b1e9-58f1-44e2-b9eb-363b8b6c7adf@1469.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211208T000000Z
+LOCATION:Global Score: 1:2
+DTSTART:20211207T210000Z
+SUMMARY:ENVY vs X10 Esports
+UID:e47ac868-5b6e-4921-a060-75d1ab178a1c@e47a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211206T200000Z
+LOCATION:Global Score: 0:2
+DTSTART:20211206T170000Z
+SUMMARY:Keyd Stars vs X10 Esports
+UID:62596fe9-3b89-43c4-98fb-53cc500f6497@6259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211209T234000Z
+LOCATION:Global Score: 1:2
+DTSTART:20211209T204000Z
+SUMMARY:FNATIC vs KRÜ Esports
+UID:7e53c6db-9f5e-401d-88dd-a9ee33e583fa@7e53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211209T200000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211209T170000Z
+SUMMARY:Gambit Esports vs X10 Esports
+UID:3d47865c-c446-41ab-93df-27ad7d564291@3d47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211204T220000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211204T190000Z
+SUMMARY:Team Liquid vs Sentinels
+UID:4027d3c4-8637-4670-aaa3-80fe77d3bb11@4027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211205T203500Z
+LOCATION:Global Score: 2:1
+DTSTART:20211205T173500Z
+SUMMARY:KRÜ Esports vs FURIA
+UID:c156ecba-b912-4b3d-919c-6de30b08e22b@c156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211206T224000Z
+LOCATION:Global Score: 1:2
+DTSTART:20211206T194000Z
+SUMMARY:Sentinels vs KRÜ Esports
+UID:a974dd40-5de1-4e96-8fbc-6ad4fe3e7a3b@a974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211201T170000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211201T140000Z
+SUMMARY:Vision Strikers vs FULL SENSE
+UID:14195d0b-30d0-4f2b-9357-981ca9e54692@1419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211206T170000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211206T140000Z
+SUMMARY:Acend vs ENVY
+UID:a24f4645-9440-4653-8aeb-2c91e33d66f4@a24f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211206T003000Z
+LOCATION:Global Score: 0:2
+DTSTART:20211205T213000Z
+SUMMARY:FULL SENSE vs Cloud9
+UID:f71e38ba-0002-411f-b6ed-a1bd9a6cc445@f71e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211201T224500Z
+LOCATION:Global Score: 2:1
+DTSTART:20211201T194500Z
+SUMMARY:FNATIC vs Cloud9
+UID:351ec699-b950-42bf-9038-51bf6c26b520@351e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211202T170000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211202T140000Z
+SUMMARY:Gambit Esports vs Team Secret
+UID:a5fecd20-dc5c-4cb6-a182-b88adda7019e@a5fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211205T163000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211205T133000Z
+SUMMARY:Acend vs Keyd Stars
+UID:06c845f6-2f27-4ce6-bdb6-3e0d30f48b6a@06c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211201T200000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211201T170000Z
+SUMMARY:Team Vikings vs Crazy Raccoon
+UID:3fa57718-8a88-4d6b-b647-fbb46c474327@3fa5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211211T230000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211211T200000Z
+SUMMARY:Gambit Esports vs KRÜ Esports
+UID:3524e897-a0a0-42d3-a15a-26633254f401@3524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211212T203000Z
+LOCATION:Global Score: 3:2
+DTSTART:20211212T173000Z
+SUMMARY:Acend vs Gambit Esports
+UID:a70b9d18-05e4-40b7-98a9-85d8455d52a4@a70b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211205T180000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211205T150000Z
+SUMMARY:Team Secret vs Crazy Raccoon
+UID:c351045f-b9a0-4027-bd2c-ba2e2d22780d@c351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211202T203000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211202T173000Z
+SUMMARY:Sentinels vs FURIA
+UID:756d6606-9dba-40b5-90da-0982699ce865@756d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211208T230000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211208T200000Z
+SUMMARY:Team Liquid vs Cloud9
+UID:c7f98221-4fa1-4212-971d-c21fb4a75ca2@c7f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211211T200000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211211T170000Z
+SUMMARY:Acend vs Team Liquid
+UID:98a2ec0a-8158-47e8-ac2f-da1b5553c652@98a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211203T205500Z
+LOCATION:Global Score: 1:2
+DTSTART:20211203T175500Z
+SUMMARY:Vision Strikers vs FNATIC
+UID:642c47c9-db2e-470b-8739-12068ca95340@642c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211203T004500Z
+LOCATION:Global Score: 0:2
+DTSTART:20211202T214500Z
+SUMMARY:KRÜ Esports vs Team Liquid
+UID:df48d994-29c4-4298-8461-93dea8072f9d@df48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211207T211500Z
+LOCATION:Global Score: 0:2
+DTSTART:20211207T181500Z
+SUMMARY:Team Vikings vs Team Secret
+UID:a21721f7-4b27-432d-a132-2c9ffb443e40@a217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211204T180000Z
+LOCATION:Global Score: 2:1
+DTSTART:20211204T150000Z
+SUMMARY:Gambit Esports vs Team Vikings
+UID:69b769bc-bb6c-4ea3-b77d-9b8e9c6fe802@69b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211204T003500Z
+LOCATION:Global Score: 2:0
+DTSTART:20211203T213500Z
+SUMMARY:ENVY vs X10 Esports
+UID:8862dedb-6118-4755-a2dd-532abd0c1117@8862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/449/valorant-champions-2021/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20211208T200000Z
+LOCATION:Global Score: 2:0
+DTSTART:20211208T170000Z
+SUMMARY:Acend vs Team Secret
+UID:e7effabe-b460-49f7-8003-69dbf1a98b4f@e7ef.org
+END:VEVENT
+END:VCALENDAR

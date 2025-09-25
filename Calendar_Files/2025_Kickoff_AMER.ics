@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250125T030000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20250125T000000Z
+SUMMARY:100 Thieves vs NRG Esports
+UID:2642e418-84ae-4d7c-9017-aa535b599d97@2642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250207T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250206T220000Z
+SUMMARY:Sentinels vs G2 Esports
+UID:9cfb7b5e-b299-4840-ac86-45e5236fbd0e@9cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250207T032000Z
+LOCATION:AMER Score: 2:1
+DTSTART:20250207T002000Z
+SUMMARY:MIBR vs KRÜ Esports
+UID:f9fc026b-ea6f-4ee4-98c7-e184ba57a8b9@f9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250125T010000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20250124T220000Z
+SUMMARY:KRÜ Esports vs 2Game Esports
+UID:ef76ddfe-22e1-4df5-a5ba-c267fcd23788@ef76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250202T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250201T220000Z
+SUMMARY:Evil Geniuses vs MIBR
+UID:d9489b4c-33ff-487c-a32b-b6eebb91182f@d948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250120T032000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20250120T002000Z
+SUMMARY:G2 Esports vs Cloud9
+UID:625a1865-f914-45c6-acdd-d16533982fa0@625a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250202T033000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20250202T003000Z
+SUMMARY:NRG Esports vs KRÜ Esports
+UID:980810e7-9aab-4a2b-91e3-fa7b421bd7b6@9808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250201T010000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20250131T220000Z
+SUMMARY:LOUD vs Sentinels
+UID:7a17f374-6d2c-41aa-9372-003b2737f382@7a17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250203T010000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20250202T220000Z
+SUMMARY:LEVIATÁN vs MIBR
+UID:071c1adf-97f1-4a05-8144-f7e144fdc5e3@071c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250117T034500Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250117T004500Z
+SUMMARY:MIBR vs 100 Thieves
+UID:7a75d5df-010e-4a4a-95c8-804d2d49cf11@7a75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:1\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250208T010000Z
+LOCATION:AMER Score: 3:1
+DTSTART:20250207T220000Z
+SUMMARY:Sentinels vs MIBR
+UID:90c189e3-5fdb-4e9b-b6c9-2b94f6734ce7@90c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250124T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250123T220000Z
+SUMMARY:FURIA vs Evil Geniuses
+UID:123af9ee-c10b-4782-8dbe-177b1817cdff@123a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250203T043000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250203T013000Z
+SUMMARY:LOUD vs KRÜ Esports
+UID:da8ac12e-f4a1-4d76-80e6-c88219725908@da8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250118T030500Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250118T000500Z
+SUMMARY:NRG Esports vs Cloud9
+UID:8587b37a-532f-4591-a07d-9162d1bd6ac7@8587.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250209T010000Z
+LOCATION:AMER Score: 3:2
+DTSTART:20250208T220000Z
+SUMMARY:G2 Esports vs Sentinels
+UID:ba8ef6ca-4b88-42bc-b08e-aa6fabc881a7@ba8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250119T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250118T220000Z
+SUMMARY:KRÜ Esports vs LOUD
+UID:d831fcef-a9ff-4ad7-83f7-5d2f9012a7da@d831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250118T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250117T220000Z
+SUMMARY:2Game Esports vs FURIA
+UID:6db5fa44-bcdd-4885-894a-2873d55d527f@6db5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250201T050000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20250201T020000Z
+SUMMARY:G2 Esports vs LEVIATÁN
+UID:36a41ff0-47a9-47cd-a241-a8114c8c7c01@36a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250124T032000Z
+LOCATION:AMER Score: 1:2
+DTSTART:20250124T002000Z
+SUMMARY:Cloud9 vs MIBR
+UID:851ac7e1-fe94-4d61-bb47-b896b8638368@851a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250117T010000Z
+LOCATION:AMER Score: 0:2
+DTSTART:20250116T220000Z
+SUMMARY:Evil Geniuses vs LOUD
+UID:0995b2e2-6277-4af5-9feb-b1fc48a06374@0995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250119T032500Z
+LOCATION:AMER Score: 2:1
+DTSTART:20250119T002500Z
+SUMMARY:Sentinels vs 100 Thieves
+UID:35550af5-e021-49d4-bd61-cd1d21710a7e@3555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2274/champions-tour-2025-americas-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250120T010000Z
+LOCATION:AMER Score: 2:0
+DTSTART:20250119T220000Z
+SUMMARY:LEVIATÁN vs FURIA
+UID:bf039fb9-ef95-4a89-a32b-0c1fc2da1e73@bf03.org
+END:VEVENT
+END:VCALENDAR

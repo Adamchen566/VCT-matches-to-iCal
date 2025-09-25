@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250209T141500Z
+LOCATION:Act1 Score: 2:0
+DTSTART:20250209T111500Z
+SUMMARY:JDG Esports vs EDward Gaming
+UID:608fcf5b-785b-4bbe-924e-cf379aca447c@608f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250214T120000Z
+LOCATION:Act1 Score: 0:2
+DTSTART:20250214T090000Z
+SUMMARY:Bilibili Gaming vs Nova Esports
+UID:20b1c9ee-eb78-41b8-8d3b-bffe165329df@20b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250210T143000Z
+LOCATION:Act1 Score: 0:2
+DTSTART:20250210T113000Z
+SUMMARY:FunPlus Phoenix vs Nova Esports
+UID:954367b4-48fe-4711-b014-b54627111229@9543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250209T120000Z
+LOCATION:Act1 Score: 2:0
+DTSTART:20250209T090000Z
+SUMMARY:Wolves Esports vs Titan Esports Club
+UID:e1ade053-3099-4920-8522-f2e86f5dfa77@e1ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250208T133500Z
+LOCATION:Act1 Score: 2:1
+DTSTART:20250208T103500Z
+SUMMARY:Nova Esports vs Trace Esports
+UID:ff00aace-dab6-4aa1-8f47-5f54462f118c@ff00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250211T120000Z
+LOCATION:Act1 Score: 1:2
+DTSTART:20250211T090000Z
+SUMMARY:Dragon Ranger Gaming vs Wolves Esports
+UID:623dd6e9-bf8c-4284-9f08-e52ab65d1241@623d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250214T140000Z
+LOCATION:Act1 Score: 2:0
+DTSTART:20250214T110000Z
+SUMMARY:Wolves Esports vs JDG Esports
+UID:cf93312d-9130-489e-b36f-0da53580d49b@cf93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250210T120000Z
+LOCATION:Act1 Score: 2:0
+DTSTART:20250210T090000Z
+SUMMARY:Bilibili Gaming vs TYLOO
+UID:e92d393d-9b01-47e6-9449-3f96de1b51c5@e92d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250216T120000Z
+LOCATION:Act1 Score: 3:0
+DTSTART:20250216T090000Z
+SUMMARY:Nova Esports vs Wolves Esports
+UID:021e7a6c-5bf1-4248-923f-51bf8d24c0b1@021e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250215T120000Z
+LOCATION:Act1 Score: 3:0
+DTSTART:20250215T090000Z
+SUMMARY:Bilibili Gaming vs JDG Esports
+UID:fded275c-bc33-47d6-93de-4dd9229ae10c@fded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250208T120000Z
+LOCATION:Act1 Score: 2:0
+DTSTART:20250208T090000Z
+SUMMARY:TYLOO vs All Gamers
+UID:5825ebd3-ffcf-49ec-9dc8-80293f859943@5825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2339/china-evolution-series-act-1/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250211T144500Z
+LOCATION:Act1 Score: 0:2
+DTSTART:20250211T114500Z
+SUMMARY:Xi Lai Gaming vs JDG Esports
+UID:0c32433e-0c1c-4339-9358-ebf95aab7673@0c32.org
+END:VEVENT
+END:VCALENDAR

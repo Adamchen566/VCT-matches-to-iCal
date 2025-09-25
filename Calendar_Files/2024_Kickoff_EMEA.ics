@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240223T202000Z
+LOCATION:EMEA Score: 0:2
+DTSTART:20240223T172000Z
+SUMMARY:Team Vitality vs FNATIC
+UID:a11a54cf-7f88-4158-b5cf-1264f0f65c77@a11a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T191500Z
+LOCATION:EMEA Score: 2:1
+DTSTART:20240225T161500Z
+SUMMARY:Karmine Corp vs FUT Esports
+UID:1426a7f2-3633-485f-aab7-d7e8e7b01e89@1426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240221T214500Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240221T184500Z
+SUMMARY:Team Vitality vs Gentle Mates
+UID:6af20acc-6dac-4be9-b559-b97c2be7bc4b@6af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240221T190000Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240221T160000Z
+SUMMARY:Team Liquid vs KOI
+UID:d8aebc42-ba20-4a72-b26b-64040284e28d@d8ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T160500Z
+LOCATION:EMEA Score: 2:1
+DTSTART:20240225T130500Z
+SUMMARY:Team Vitality vs Gentle Mates
+UID:cd79a1de-ee61-4803-ab94-1b7af65f4125@cd79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240223T181000Z
+LOCATION:EMEA Score: 0:2
+DTSTART:20240223T151000Z
+SUMMARY:BBL Esports vs KOI
+UID:74c294aa-737f-4646-9a64-1eeb36d1c55a@74c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240223T160000Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240223T130000Z
+SUMMARY:Natus Vincere vs Team Liquid
+UID:2f039e77-adef-4abc-a489-ca00fd66abf6@2f03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240225T224500Z
+LOCATION:EMEA Score: 1:2
+DTSTART:20240225T194500Z
+SUMMARY:Team Liquid vs KOI
+UID:d57fa5dc-53d8-46db-808c-0579a514b35e@d57f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T184500Z
+LOCATION:EMEA Score: 0:2
+DTSTART:20240226T154500Z
+SUMMARY:KOI vs Team Vitality
+UID:c169f065-493f-4ac9-815c-aa3bc786440d@c169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240229T190000Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240229T160000Z
+SUMMARY:Team Heretics vs Natus Vincere
+UID:288f17a3-66fc-4dd7-b6ed-4dc1a036da04@288f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T190000Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240222T160000Z
+SUMMARY:Team Heretics vs Karmine Corp
+UID:f93c3b69-1f62-4aa6-bd73-910bb33c9055@f93c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240220T190000Z
+LOCATION:EMEA Score: 0:2
+DTSTART:20240220T160000Z
+SUMMARY:FUT Esports vs Team Heretics
+UID:79d28c16-cdd3-4f56-8587-a1d0dc082f55@79d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240222T211000Z
+LOCATION:EMEA Score: 2:1
+DTSTART:20240222T181000Z
+SUMMARY:FUT Esports vs GIANTX
+UID:c31bf20b-c786-4ea0-8ac9-64292f5cbfb0@c31b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:3\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240301T190000Z
+LOCATION:EMEA Score: 1:3
+DTSTART:20240301T160000Z
+SUMMARY:Team Heretics vs Karmine Corp
+UID:422cb02c-912e-4e40-8217-71195264c27b@422c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240221T160000Z
+LOCATION:EMEA Score: 2:1
+DTSTART:20240221T130000Z
+SUMMARY:Natus Vincere vs BBL Esports
+UID:22b642c3-930c-4a15-bbef-2454ee7a47de@22b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T160000Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240226T130000Z
+SUMMARY:Karmine Corp vs Team Vitality
+UID:fc64371e-2100-40b6-aa67-182115a23c11@fc64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240226T204500Z
+LOCATION:EMEA Score: 2:0
+DTSTART:20240226T174500Z
+SUMMARY:Karmine Corp vs KOI
+UID:e605f3ed-1ce8-4232-ba53-18381e728bf5@e605.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240220T213500Z
+LOCATION:EMEA Score: 1:2
+DTSTART:20240220T183500Z
+SUMMARY:GIANTX vs Karmine Corp
+UID:6019cca3-15dc-4d0a-a29b-4207bee54f11@6019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1925/champions-tour-2024-emea-kickoff/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20240229T212000Z
+LOCATION:EMEA Score: 0:2
+DTSTART:20240229T182000Z
+SUMMARY:FNATIC vs Karmine Corp
+UID:2deb9f86-d2a3-4318-ac70-00ba44302b16@2deb.org
+END:VEVENT
+END:VCALENDAR

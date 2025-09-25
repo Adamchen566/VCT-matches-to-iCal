@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250330T135500Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250330T105500Z
+SUMMARY:DRX vs DetonatioN FocusMe
+UID:96c77b1e-5cbf-4726-a7a3-4d37330dfb58@96c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250504T110000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250504T080000Z
+SUMMARY:DRX vs TALON
+UID:e480a497-e59d-4559-8437-ff7fdd05bb74@e480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250331T131000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250331T101000Z
+SUMMARY:BOOM Esports vs Global Esports
+UID:6ca9cf53-edd7-4a90-8d6f-da0cbcde3cea@6ca9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250407T130000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250407T100000Z
+SUMMARY:T1 vs Team Secret
+UID:37c66c14-edf6-4271-b227-aae22268cf17@37c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250412T110000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250412T080000Z
+SUMMARY:Nongshim RedForce vs Team Secret
+UID:7ea54598-df04-49f8-b3e2-c86bc8cc29de@7ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250504T130000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250504T100000Z
+SUMMARY:BOOM Esports vs Paper Rex
+UID:a5d89da4-6855-4c1a-9d95-f0a0314c2931@a5d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250331T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250331T080000Z
+SUMMARY:TALON vs Rex Regum Qeon
+UID:dd751164-686f-4209-ae89-6331fb0d168d@dd75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250511T110000Z
+LOCATION:PAC Score: 0:0
+DTSTART:20250511T080000Z
+SUMMARY:TBD vs TBD
+UID:eba7313e-04bd-44c3-b63d-ac1d7d349e04@eba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250323T110000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250323T080000Z
+SUMMARY:DRX vs Paper Rex
+UID:f9338052-012e-4428-b7f3-0147b8d9318a@f933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250405T130000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250405T100000Z
+SUMMARY:Rex Regum Qeon vs ZETA DIVISION
+UID:3617a8fb-c647-42d0-a6f0-2381eb5b1f00@3617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250427T131000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250427T101000Z
+SUMMARY:Rex Regum Qeon vs DRX
+UID:f8b07999-e74c-4c44-a7ad-a54a99b1e130@f8b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250503T110000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250503T080000Z
+SUMMARY:TALON vs Nongshim RedForce
+UID:2aa17f31-f0d6-4f12-94d8-543b2ff640e3@2aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250509T130000Z
+LOCATION:PAC Score: 0:0
+DTSTART:20250509T100000Z
+SUMMARY:DRX vs Paper Rex
+UID:b337e965-16c8-431e-970a-721b0893e0d3@b337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250420T110000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250420T080000Z
+SUMMARY:DRX vs Gen.G
+UID:301bdf19-ee7a-477f-ae9c-6952b678fed2@301b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250330T110000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250330T080000Z
+SUMMARY:Gen.G vs Paper Rex
+UID:482e6161-8510-4c52-a218-49bce5cd7a4c@482e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250426T110000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250426T080000Z
+SUMMARY:TALON vs Gen.G
+UID:5a51ab5a-b85c-49a7-b18c-cc1422251201@5a51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250322T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250322T080000Z
+SUMMARY:DetonatioN FocusMe vs Global Esports
+UID:6f23d063-64c5-49ad-bce0-5ca670f1644c@6f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250413T110000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250413T080000Z
+SUMMARY:T1 vs Rex Regum Qeon
+UID:36ad7a20-3935-4317-afe0-b06c8b7f7c73@36ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250414T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250414T080000Z
+SUMMARY:TALON vs ZETA DIVISION
+UID:88f85828-f8e5-4a37-b3fc-444292d89079@88f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250421T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250421T080000Z
+SUMMARY:DetonatioN FocusMe vs BOOM Esports
+UID:6d9939de-363a-4a89-9d7a-295469e6c13c@6d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250509T110000Z
+LOCATION:PAC Score: 0:0
+DTSTART:20250509T080000Z
+SUMMARY:Gen.G vs Rex Regum Qeon
+UID:dc254330-d3c1-4521-9081-28fbaf403c23@dc25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250420T143000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250420T113000Z
+SUMMARY:Nongshim RedForce vs ZETA DIVISION
+UID:b0824cac-5e53-41f8-8268-14e95f362fe0@b082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250405T110000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250405T080000Z
+SUMMARY:Gen.G vs DetonatioN FocusMe
+UID:373eb25f-5539-49a1-bffe-bfcd23f3516f@373e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250407T110000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250407T080000Z
+SUMMARY:DRX vs Global Esports
+UID:096ab626-863e-4588-ab9f-38dfd3db7ffb@096a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250406T144500Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250406T114500Z
+SUMMARY:TALON vs Nongshim RedForce
+UID:8524a34e-dc84-4ffc-8d11-c71941f619cd@8524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250427T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250427T080000Z
+SUMMARY:BOOM Esports vs Gen.G
+UID:6d6770d0-6edd-4520-a48f-579a6417e99b@6d67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250419T130000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250419T100000Z
+SUMMARY:T1 vs TALON
+UID:ee7fbc79-eaf7-45ad-9644-af852ae4884f@ee7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250324T135000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250324T105000Z
+SUMMARY:Nongshim RedForce vs Rex Regum Qeon
+UID:8ea4ed9f-fd83-4149-8074-149ce8426b53@8ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250412T131500Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250412T101500Z
+SUMMARY:DRX vs BOOM Esports
+UID:4ed22cd5-e267-448a-b94e-65dc8eafa17d@4ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250322T134000Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250322T104000Z
+SUMMARY:T1 vs ZETA DIVISION
+UID:703e516a-d32e-4193-a9c7-fe2015c77a72@703e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250419T110000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250419T080000Z
+SUMMARY:Paper Rex vs Global Esports
+UID:1f56e6fc-cab7-4abb-ae2c-c0b8c63ff6c5@1f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250324T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250324T080000Z
+SUMMARY:Gen.G vs BOOM Esports
+UID:14fc9d2e-4df2-4a11-a9e4-2d2e7f43f8d3@14fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250413T141000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250413T111000Z
+SUMMARY:Gen.G vs Global Esports
+UID:f0a013cc-0070-4e83-88ac-4ca9d9ff9f63@f0a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250323T140500Z
+LOCATION:PAC Score: 2:1
+DTSTART:20250323T110500Z
+SUMMARY:TALON vs Team Secret
+UID:5eb22a16-c8cd-4365-a211-0cab75118302@5eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250510T110000Z
+LOCATION:PAC Score: 0:0
+DTSTART:20250510T080000Z
+SUMMARY:TBD vs TBD
+UID:127ed8ca-b1e2-4378-a82e-9e82bdd4f78d@127e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250426T140000Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250426T110000Z
+SUMMARY:DRX vs T1
+UID:154f9489-4cd7-4119-b0ac-09c0e14f604a@154f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250406T110000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250406T080000Z
+SUMMARY:Paper Rex vs BOOM Esports
+UID:bc5ffdb5-5386-4daa-8901-a8bdf7655e6a@bc5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250421T130000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250421T100000Z
+SUMMARY:Rex Regum Qeon vs Team Secret
+UID:8b1684c1-f797-4484-b4d9-75ccac77584d@8b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250329T133500Z
+LOCATION:PAC Score: 2:0
+DTSTART:20250329T103500Z
+SUMMARY:T1 vs Nongshim RedForce
+UID:f80ac3b7-c948-43d9-a8ae-83136c51855b@f80a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250414T131000Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250414T101000Z
+SUMMARY:DetonatioN FocusMe vs Paper Rex
+UID:2ae7db60-6d20-4724-ac61-b5505538f00c@2ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250329T110000Z
+LOCATION:PAC Score: 0:2
+DTSTART:20250329T080000Z
+SUMMARY:Team Secret vs ZETA DIVISION
+UID:e0801fd3-f524-4165-a67f-424ff161c7ea@e080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/2379/champions-tour-2025-pacific-stage-1\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250503T142500Z
+LOCATION:PAC Score: 1:2
+DTSTART:20250503T112500Z
+SUMMARY:T1 vs Paper Rex
+UID:1c57e818-f595-46bc-9c20-2a0afa15c61d@1c57.org
+END:VEVENT
+END:VCALENDAR

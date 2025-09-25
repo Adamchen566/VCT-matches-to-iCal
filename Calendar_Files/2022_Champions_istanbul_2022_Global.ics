@@ -1,0 +1,276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220910T170000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220910T140000Z
+SUMMARY:OpTic Gaming vs Team Liquid
+UID:ed8083a8-eb4d-45b4-9115-69e0ee71c01b@ed80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220913T211000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220913T181000Z
+SUMMARY:XSET vs FunPlus Phoenix
+UID:d16cdace-1c2d-4460-801a-5f033151014a@d16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220904T150000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220904T120000Z
+SUMMARY:BOOM Esports vs ZETA DIVISION
+UID:5761ca54-a77b-4fd6-b312-cc31fbfbac7b@5761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220916T171500Z
+LOCATION:Global Score: 2:0
+DTSTART:20220916T141500Z
+SUMMARY:LOUD vs OpTic Gaming
+UID:ca56a3af-5d0e-49e7-8401-b58fd6bc52cd@ca56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220911T170000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220911T140000Z
+SUMMARY:FunPlus Phoenix vs LEVIATÁN
+UID:7e41cbf6-4435-491a-a2aa-91e485ae3a41@7e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220911T195500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220911T165500Z
+SUMMARY:Team Liquid vs FNATIC
+UID:e1733409-b2f6-4485-80cb-44c46c683d85@e173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220903T204500Z
+LOCATION:Global Score: 2:0
+DTSTART:20220903T174500Z
+SUMMARY:DRX vs 100 Thieves
+UID:3c6fd1e4-7ab5-4955-a864-41882e6006f7@3c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220912T170000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220912T140000Z
+SUMMARY:DRX vs LOUD
+UID:655dcc39-6d08-4d94-94bb-d567e77fdf9c@655d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220905T150000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220905T120000Z
+SUMMARY:KRÜ Esports vs XERXIA Esports
+UID:996987cb-bb1a-47d0-b5c2-e97767f19eb2@9969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220904T184500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220904T154500Z
+SUMMARY:EDward Gaming vs Team Liquid
+UID:3ef0438b-abd4-4acc-b9a9-b45f537a2499@3ef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220918T171000Z
+LOCATION:Global Score: 3:1
+DTSTART:20220918T141000Z
+SUMMARY:LOUD vs OpTic Gaming
+UID:a6c4908f-5ca1-4d5b-86df-3f9da8dac2a2@a6c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220905T182000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220905T152000Z
+SUMMARY:FURIA vs FNATIC
+UID:e9db13a5-27d7-4ce1-8025-27b1b36c3e36@e9db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220831T203500Z
+LOCATION:Global Score: 2:0
+DTSTART:20220831T173500Z
+SUMMARY:LEVIATÁN vs Team Liquid
+UID:13af10ac-c154-4017-af07-bc0353f23d31@13af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220909T170000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220909T140000Z
+SUMMARY:LEVIATÁN vs LOUD
+UID:4be7aa34-41c9-4f22-87a6-bb08fc49a146@4be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220908T193500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220908T163500Z
+SUMMARY:100 Thieves vs FNATIC
+UID:fd5d4176-3bc1-43a8-ad1f-53e210b41bba@fd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220901T150000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220901T120000Z
+SUMMARY:ZETA DIVISION vs LOUD
+UID:6519e704-c9bc-4674-bffa-df0ae8744d97@6519.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220902T181000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220902T151000Z
+SUMMARY:FNATIC vs 100 Thieves
+UID:3798e722-8931-462a-ac07-f52b445e1f17@3798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220907T210000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220907T180000Z
+SUMMARY:LOUD vs ZETA DIVISION
+UID:3994feda-d32a-4c29-a775-78c5a0c3cb3d@3994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220913T170000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220913T140000Z
+SUMMARY:DRX vs FNATIC
+UID:a18a5b4c-9b40-4937-a4bb-79cb058ede47@a18a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220912T194000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220912T164000Z
+SUMMARY:OpTic Gaming vs XSET
+UID:fc287545-40c2-4d25-a4a2-9e93183aa793@fc28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220908T170000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220908T140000Z
+SUMMARY:FunPlus Phoenix vs KRÜ Esports
+UID:8ccf0ec3-d8eb-4e81-b5fb-eb5e29fb9107@8ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220916T194500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220916T164500Z
+SUMMARY:FunPlus Phoenix vs DRX
+UID:65e179bf-49c6-4810-908a-24303e822131@65e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220917T170000Z
+LOCATION:Global Score: 3:2
+DTSTART:20220917T140000Z
+SUMMARY:OpTic Gaming vs DRX
+UID:5a07f006-a5cc-4c99-ab29-7df7ec3535c3@5a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220902T150000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220902T120000Z
+SUMMARY:DRX vs FURIA
+UID:6f2e498d-3d6e-44be-b1a3-3a4716e28d8b@6f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220901T213500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220901T183500Z
+SUMMARY:Paper Rex vs LEVIATÁN
+UID:76c4d437-eb45-4837-b49f-10894c5dd6f3@76c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220902T220000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220902T190000Z
+SUMMARY:OpTic Gaming vs LOUD
+UID:f6e202aa-6b17-41b2-b5b9-2466f6d3312d@f6e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220903T150000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220903T120000Z
+SUMMARY:XSET vs XERXIA Esports
+UID:ed9a74a2-5ed2-4891-a410-8aa6f12c510c@ed9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220905T221000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220905T191000Z
+SUMMARY:FunPlus Phoenix vs XSET
+UID:f6c0add5-f486-42b2-9739-cc0dd46f663a@f6c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220831T170000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220831T140000Z
+SUMMARY:Paper Rex vs EDward Gaming
+UID:9fd82a87-c901-4ca8-ab6d-d784b2328032@9fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220907T170000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220907T140000Z
+SUMMARY:Paper Rex vs Team Liquid
+UID:e932c65a-8f91-4d12-a9a3-5026c9471eb4@e932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220901T174500Z
+LOCATION:Global Score: 2:1
+DTSTART:20220901T144500Z
+SUMMARY:OpTic Gaming vs BOOM Esports
+UID:c144970b-245c-43a6-b059-b337acfc793d@c144.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220910T205000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220910T175000Z
+SUMMARY:XSET vs FNATIC
+UID:ddd918d6-e71a-4b6c-a14a-7ff9e864b8fe@ddd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220909T200000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220909T170000Z
+SUMMARY:DRX vs FunPlus Phoenix
+UID:e882264d-4f15-45c5-be14-421cd6c7e461@e882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/1015/valorant-champions-2022/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220903T180000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220903T150000Z
+SUMMARY:FunPlus Phoenix vs KRÜ Esports
+UID:3251bf27-91b7-4a80-845f-2222cddc87ad@3251.org
+END:VEVENT
+END:VCALENDAR

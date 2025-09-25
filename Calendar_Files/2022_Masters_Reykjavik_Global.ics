@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220410T205500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220410T175500Z
+SUMMARY:KRÜ Esports vs Team Liquid
+UID:cee9c62a-0226-420d-952d-2ae0ecd72aad@cee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220416T200000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220416T170000Z
+SUMMARY:ZETA DIVISION vs Team Liquid
+UID:1633db80-7baf-4dc9-9d6e-d394612ab041@1633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220418T000000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220417T210000Z
+SUMMARY:G2 Esports vs LOUD
+UID:538d0d9d-d304-43ab-a0d4-f27fa64c0ad5@538d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220413T004000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220412T214000Z
+SUMMARY:FNATIC vs ZETA DIVISION
+UID:0012555a-81b0-44e2-b010-0bd6039d91d6@0012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220414T224000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220414T194000Z
+SUMMARY:LOUD vs Team Liquid
+UID:8e7ff422-4ab7-42a0-aa87-3fe802c1f5d0@8e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220422T200000Z
+LOCATION:Global Score: 2:1
+DTSTART:20220422T170000Z
+SUMMARY:LOUD vs OpTic Gaming
+UID:3924d127-d064-4603-9180-a19d6e1b84dd@3924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220418T200000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220418T170000Z
+SUMMARY:DRX vs ZETA DIVISION
+UID:68e623c2-1185-45f8-aa81-70d43a2ec3f7@68e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220414T200000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220414T170000Z
+SUMMARY:G2 Esports vs ZETA DIVISION
+UID:786f1c57-cebf-4913-9b89-f24a5f987ecf@786f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220413T223000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220413T193000Z
+SUMMARY:Ninjas In Pyjamas vs ZETA DIVISION
+UID:9f7f4867-772d-4153-a755-7a90519ad219@9f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220417T200000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220417T170000Z
+SUMMARY:DRX vs OpTic Gaming
+UID:4f8f2caa-fea5-40bf-a5e2-4296a48eefcd@4f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:3\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220424T200000Z
+LOCATION:Global Score: 0:3
+DTSTART:20220424T170000Z
+SUMMARY:LOUD vs OpTic Gaming
+UID:dc7be202-b0f4-41cb-a230-6a7becbf21c6@dc7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220419T000000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220418T210000Z
+SUMMARY:G2 Esports vs Paper Rex
+UID:8a49a1be-4105-4c88-9a50-17718b16427e@8a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220411T225000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220411T195000Z
+SUMMARY:XERXIA Esports vs Team Liquid
+UID:b5867d8b-4c26-4f41-b908-01b19c3f29ab@b586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220410T234500Z
+LOCATION:Global Score: 0:2
+DTSTART:20220410T204500Z
+SUMMARY:OpTic Gaming vs XERXIA Esports
+UID:235d0c08-b60c-48b0-b4f5-9172ecab110b@235d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220412T180000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220412T150000Z
+SUMMARY:Ninjas In Pyjamas vs DRX
+UID:8d5b5812-d068-4830-a313-33af5a4bbb68@8d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220412T213000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220412T183000Z
+SUMMARY:OpTic Gaming vs KRÜ Esports
+UID:fe9a100b-1788-4f16-8b5e-1434db8f3121@fe9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220415T200000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220415T170000Z
+SUMMARY:Paper Rex vs DRX
+UID:9db38796-1c1e-4665-96cb-14e136f39795@9db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220416T233000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220416T203000Z
+SUMMARY:Paper Rex vs The Guard
+UID:931b8ba7-e5cb-48fb-8289-d62e627f147b@931b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220422T232500Z
+LOCATION:Global Score: 2:1
+DTSTART:20220422T202500Z
+SUMMARY:ZETA DIVISION vs Paper Rex
+UID:fd75d018-d14e-40e7-9c86-3567807a9709@fd75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220411T200000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220411T170000Z
+SUMMARY:FNATIC vs Ninjas In Pyjamas
+UID:ce729ad2-1ad8-4e46-abb9-6eb8cb626cc3@ce72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220410T180000Z
+LOCATION:Global Score: 2:0
+DTSTART:20220410T150000Z
+SUMMARY:DRX vs ZETA DIVISION
+UID:bfe7a3cc-e2fd-4e1e-8aa0-b776d6a9d06d@bfe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220413T200000Z
+LOCATION:Global Score: 0:2
+DTSTART:20220413T170000Z
+SUMMARY:XERXIA Esports vs OpTic Gaming
+UID:2889e66b-3b3d-4ea5-ab3a-27d63ce1983f@2889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 3:0\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220423T200000Z
+LOCATION:Global Score: 3:0
+DTSTART:20220423T170000Z
+SUMMARY:OpTic Gaming vs ZETA DIVISION
+UID:2146e321-bdd8-49bd-8fe3-49b3279ed737@2146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/event/matches/926/valorant-champions-tour-stage-1-masters-reykjav-k/?series_id=all\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20220416T000000Z
+LOCATION:Global Score: 1:2
+DTSTART:20220415T210000Z
+SUMMARY:The Guard vs OpTic Gaming
+UID:45da3803-9e0b-4190-ad83-2c5719db253c@45da.org
+END:VEVENT
+END:VCALENDAR
