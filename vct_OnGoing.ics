@@ -7,95 +7,7 @@ DTEND:20250917T191000Z
 LOCATION:Paris Score: 1:2
 DTSTART:20250917T161000Z
 SUMMARY:DRX vs NRG
-UID:1d6d215a-bcd1-4f8e-899a-ce9eb3d25365@1d6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250922T181500Z
-LOCATION:Paris Score: 2:0
-DTSTART:20250922T151500Z
-SUMMARY:MIBR vs Rex Regum Qeon
-UID:5275a22d-e174-4631-b97c-1fefb4f06f26@5275.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250914T160000Z
-LOCATION:Paris Score: 0:2
-DTSTART:20250914T130000Z
-SUMMARY:Dragon Ranger Gaming vs T1
-UID:567f5d85-9b57-403b-832d-5978e75f0f01@567f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250913T185500Z
-LOCATION:Paris Score: 0:2
-DTSTART:20250913T155500Z
-SUMMARY:Team Liquid vs DRX
-UID:1f3d2cc0-19ee-4cc7-9c75-499cdde78f5a@1f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250914T192000Z
-LOCATION:Paris Score: 0:2
-DTSTART:20250914T162000Z
-SUMMARY:G2 Esports vs Team Heretics
-UID:9b0ee4ab-edc6-4dd9-be21-d7cf836c3aa0@9b0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250915T160000Z
-LOCATION:Paris Score: 0:2
-DTSTART:20250915T130000Z
-SUMMARY:Bilibili Gaming vs MIBR
-UID:1f8bde47-afd0-4288-8d8d-b1a2e541d971@1f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250915T181000Z
-LOCATION:Paris Score: 0:2
-DTSTART:20250915T151000Z
-SUMMARY:Rex Regum Qeon vs FNATIC
-UID:f174f3f6-d6c0-421b-9814-eaa3bb01a9eb@f174.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250921T182000Z
-LOCATION:Paris Score: 2:0
-DTSTART:20250921T152000Z
-SUMMARY:GIANTX vs Xi Lai Gaming
-UID:a7a63d1b-cc1e-48df-bd64-8348253d8702@a7a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20251005T140000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20251005T110000Z
-SUMMARY:TBD vs TBD
-UID:e483c021-2485-4973-aae3-b4ecdd94136e@e483.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250918T160000Z
-LOCATION:Paris Score: 2:0
-DTSTART:20250918T130000Z
-SUMMARY:Team Heretics vs T1
-UID:0e33de6a-7ff3-4132-8a3a-d8e48f15caf6@0e33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250920T160000Z
-LOCATION:Paris Score: 1:2
-DTSTART:20250920T130000Z
-SUMMARY:Bilibili Gaming vs Rex Regum Qeon
-UID:b4ab1491-2652-4f70-bb82-500a5acd0744@b4ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20251003T140000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20251003T110000Z
-SUMMARY:TBD vs TBD
-UID:0949650a-0b52-46f7-af6c-55fc2beccf4e@0949.org
+UID:89d25376-6b89-453d-ad1f-981c27b7d022@89d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
@@ -103,23 +15,7 @@ DTEND:20250927T192000Z
 LOCATION:Paris Score: 2:1
 DTSTART:20250927T162000Z
 SUMMARY:Team Heretics vs GIANTX
-UID:cf4dcf97-dd23-4279-9fb1-99ad5e1def62@cf4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250919T193000Z
-LOCATION:Paris Score: 2:1
-DTSTART:20250919T163000Z
-SUMMARY:Xi Lai Gaming vs Sentinels
-UID:41685793-bbfa-4fc2-a204-cd5e2338928a@4168.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20251003T170000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20251003T140000Z
-SUMMARY:TBD vs TBD
-UID:b4b2226a-3d81-40e8-9ecc-58f01112c207@b4b2.org
+UID:350cbe7e-cc0d-41f0-a386-3a8163516258@350c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
@@ -127,119 +23,7 @@ DTEND:20250922T160000Z
 LOCATION:Paris Score: 0:2
 DTSTART:20250922T130000Z
 SUMMARY:T1 vs G2 Esports
-UID:8f5444e9-bba7-42bf-b542-6e8b466f5616@8f54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250913T160000Z
-LOCATION:Paris Score: 2:0
-DTSTART:20250913T130000Z
-SUMMARY:NRG vs EDward Gaming
-UID:ffa1db44-c93a-41f5-80eb-5043af9100b0@ffa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250917T160000Z
-LOCATION:Paris Score: 2:1
-DTSTART:20250917T130000Z
-SUMMARY:Paper Rex vs GIANTX
-UID:ec4c325e-94a8-4a4e-97b2-e6d8102bcefe@ec4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250927T160000Z
-LOCATION:Paris Score: 2:1
-DTSTART:20250927T130000Z
-SUMMARY:DRX vs G2 Esports
-UID:4f0f05cb-49f4-4fba-a4ea-a793952fe621@4f0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250928T160000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20250928T130000Z
-SUMMARY:FNATIC vs Paper Rex
-UID:20dbe0c5-0378-461a-9e5c-aa31e9af9106@20db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250912T160000Z
-LOCATION:Paris Score: 2:0
-DTSTART:20250912T130000Z
-SUMMARY:Paper Rex vs Xi Lai Gaming
-UID:fd88033e-888e-46e7-9276-14dedf5fc1cb@fd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250920T190000Z
-LOCATION:Paris Score: 2:0
-DTSTART:20250920T160000Z
-SUMMARY:G2 Esports vs Dragon Ranger Gaming
-UID:03c357a1-e14e-4ab5-804d-46ffb47eb24c@03c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250928T190000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20250928T160000Z
-SUMMARY:MIBR vs NRG
-UID:cb0f7759-b4fa-46c8-959f-cf71017fd69b@cb0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250929T190000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20250929T160000Z
-SUMMARY:TBD vs DRX
-UID:20499cc7-c864-4014-9865-9b32f155b363@2049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250919T160000Z
-LOCATION:Paris Score: 2:1
-DTSTART:20250919T130000Z
-SUMMARY:Team Liquid vs EDward Gaming
-UID:037003db-9475-47bc-b773-98d193aef628@0370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250918T182500Z
-LOCATION:Paris Score: 1:2
-DTSTART:20250918T152500Z
-SUMMARY:MIBR vs FNATIC
-UID:b30d3176-a3fa-4847-a55e-3e0d1e3fe1dd@b30d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250925T160000Z
-LOCATION:Paris Score: 2:1
-DTSTART:20250925T130000Z
-SUMMARY:Paper Rex vs G2 Esports
-UID:f9e7055c-004f-4a4d-9f0f-7bfd25e80ff1@f9e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250926T160000Z
-LOCATION:Paris Score: 0:2
-DTSTART:20250926T130000Z
-SUMMARY:Team Heretics vs MIBR
-UID:49087bf6-e1d2-41b7-ba69-a4844aa1c133@4908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250929T160000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20250929T130000Z
-SUMMARY:TBD vs Team Heretics
-UID:f93e9541-2386-4e44-956f-59285112ee73@f93e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20251004T140000Z
-LOCATION:Paris Score: 0:0
-DTSTART:20251004T110000Z
-SUMMARY:TBD vs TBD
-UID:840a7c08-c9e1-4c86-8f65-a5df7efa7a3b@840a.org
+UID:e26fe159-abe4-47c5-928e-40f050d7d788@e26f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
@@ -247,15 +31,55 @@ DTEND:20250925T195000Z
 LOCATION:Paris Score: 2:1
 DTSTART:20250925T165000Z
 SUMMARY:FNATIC vs DRX
-UID:2cb3e50c-5c28-4edb-ab7a-42ca311761af@2cb3.org
+UID:a94dffc1-55c9-4605-a103-9b4f0c43bf1f@a94d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250927T160000Z
+LOCATION:Paris Score: 2:1
+DTSTART:20250927T130000Z
+SUMMARY:DRX vs G2 Esports
+UID:ca5614ea-996a-4672-a0dd-f32e2d205903@ca56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251004T140000Z
+LOCATION:Paris Score: 0:0
+DTSTART:20251004T110000Z
+SUMMARY:TBD vs TBD
+UID:4e6574e8-031a-442f-9fa0-253bc929d424@4e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250918T182500Z
+LOCATION:Paris Score: 1:2
+DTSTART:20250918T152500Z
+SUMMARY:MIBR vs FNATIC
+UID:7b1c81de-8171-4fd0-a055-8c3ae55cf8dd@7b1c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20250921T160000Z
+DTEND:20250918T160000Z
 LOCATION:Paris Score: 2:0
-DTSTART:20250921T130000Z
-SUMMARY:DRX vs Team Liquid
-UID:1f14946e-11cc-464d-9c31-70c17f912df5@1f14.org
+DTSTART:20250918T130000Z
+SUMMARY:Team Heretics vs T1
+UID:64bfe836-a144-4a82-aeed-13c3e0e9bbd9@64bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250928T192000Z
+LOCATION:Paris Score: 1:2
+DTSTART:20250928T162000Z
+SUMMARY:MIBR vs NRG
+UID:d8b51cd8-fb0b-46f8-af5e-399bbedf22bf@d8b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250919T193000Z
+LOCATION:Paris Score: 2:1
+DTSTART:20250919T163000Z
+SUMMARY:Xi Lai Gaming vs Sentinels
+UID:f1f79674-9aeb-46af-8c2e-632311ba18b1@f1f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
@@ -263,7 +87,55 @@ DTEND:20250926T183500Z
 LOCATION:Paris Score: 2:0
 DTSTART:20250926T153500Z
 SUMMARY:NRG vs GIANTX
-UID:0f8d7d88-3510-4e48-b6f9-3f9bc34990e9@0f8d.org
+UID:a1aa6c71-3ffc-401d-9a49-7ba4cd320fdc@a1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250926T160000Z
+LOCATION:Paris Score: 0:2
+DTSTART:20250926T130000Z
+SUMMARY:Team Heretics vs MIBR
+UID:1b1f9345-bdaf-4512-841c-48845974236a@1b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250920T160000Z
+LOCATION:Paris Score: 1:2
+DTSTART:20250920T130000Z
+SUMMARY:Bilibili Gaming vs Rex Regum Qeon
+UID:812ed665-8634-4b9e-8ab8-fb9f851fbf51@812e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250913T185500Z
+LOCATION:Paris Score: 0:2
+DTSTART:20250913T155500Z
+SUMMARY:Team Liquid vs DRX
+UID:e8c66bb8-5d38-49b2-9c25-9f6804d3b520@e8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250928T160000Z
+LOCATION:Paris Score: 2:1
+DTSTART:20250928T130000Z
+SUMMARY:FNATIC vs Paper Rex
+UID:de4b6bb9-0791-4ef8-a33b-ed42d0cc8d37@de4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250929T190000Z
+LOCATION:Paris Score: 0:0
+DTSTART:20250929T160000Z
+SUMMARY:MIBR vs DRX
+UID:4ce1ef0d-5d0c-4f76-a0a7-48b3cc586574@4ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251003T140000Z
+LOCATION:Paris Score: 0:0
+DTSTART:20251003T110000Z
+SUMMARY:FNATIC vs NRG
+UID:72ead5d7-e804-4f92-94df-986d83352eab@72ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
@@ -271,6 +143,134 @@ DTEND:20250912T182500Z
 LOCATION:Paris Score: 2:1
 DTSTART:20250912T152500Z
 SUMMARY:GIANTX vs Sentinels
-UID:e8755a28-8225-4a9f-98c8-42520669629f@e875.org
+UID:b3a03d6e-65d2-40dd-837b-55f0676ec67c@b3a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250915T160000Z
+LOCATION:Paris Score: 0:2
+DTSTART:20250915T130000Z
+SUMMARY:Bilibili Gaming vs MIBR
+UID:3cbeda10-60d7-4bb6-a705-ca8bcae54460@3cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250914T160000Z
+LOCATION:Paris Score: 0:2
+DTSTART:20250914T130000Z
+SUMMARY:Dragon Ranger Gaming vs T1
+UID:98fcb4dc-a979-408d-914d-28770c6f539c@98fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250925T160000Z
+LOCATION:Paris Score: 2:1
+DTSTART:20250925T130000Z
+SUMMARY:Paper Rex vs G2 Esports
+UID:c879d5ee-f642-4a66-bc54-17c3d22f4064@c879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250919T160000Z
+LOCATION:Paris Score: 2:1
+DTSTART:20250919T130000Z
+SUMMARY:Team Liquid vs EDward Gaming
+UID:9d09b833-f71b-4014-ba5e-f8ab2fcca435@9d09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250915T181000Z
+LOCATION:Paris Score: 0:2
+DTSTART:20250915T151000Z
+SUMMARY:Rex Regum Qeon vs FNATIC
+UID:bc2e5892-f6e6-4d7d-b755-3f85ee85574d@bc2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250914T192000Z
+LOCATION:Paris Score: 0:2
+DTSTART:20250914T162000Z
+SUMMARY:G2 Esports vs Team Heretics
+UID:e0b3d503-e3b3-48c7-b1d8-0c354d5abf2d@e0b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250917T160000Z
+LOCATION:Paris Score: 2:1
+DTSTART:20250917T130000Z
+SUMMARY:Paper Rex vs GIANTX
+UID:d23d3cc9-168a-4d7b-af04-0225e1f92325@d23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250921T160000Z
+LOCATION:Paris Score: 2:0
+DTSTART:20250921T130000Z
+SUMMARY:DRX vs Team Liquid
+UID:89205eba-7181-40a4-b10f-3fad9e350c19@8920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251003T170000Z
+LOCATION:Paris Score: 0:0
+DTSTART:20251003T140000Z
+SUMMARY:TBD vs TBD
+UID:87730a15-64a8-4fd0-afda-7707ef940310@8773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250913T160000Z
+LOCATION:Paris Score: 2:0
+DTSTART:20250913T130000Z
+SUMMARY:NRG vs EDward Gaming
+UID:0555cea7-4935-48e8-93d6-876bb67ec2ae@0555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250912T160000Z
+LOCATION:Paris Score: 2:0
+DTSTART:20250912T130000Z
+SUMMARY:Paper Rex vs Xi Lai Gaming
+UID:90300965-b9a9-418a-862a-878d513f273b@9030.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251005T140000Z
+LOCATION:Paris Score: 0:0
+DTSTART:20251005T110000Z
+SUMMARY:TBD vs TBD
+UID:ff1ed02d-0280-4901-9c02-5a8e599a938a@ff1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250929T160000Z
+LOCATION:Paris Score: 0:0
+DTSTART:20250929T130000Z
+SUMMARY:Paper Rex vs Team Heretics
+UID:a625471d-7799-4ac0-85ab-63177ddcca0c@a625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250920T190000Z
+LOCATION:Paris Score: 2:0
+DTSTART:20250920T160000Z
+SUMMARY:G2 Esports vs Dragon Ranger Gaming
+UID:3d4adb81-4f55-4e00-b74c-b50564618e64@3d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250921T182000Z
+LOCATION:Paris Score: 2:0
+DTSTART:20250921T152000Z
+SUMMARY:GIANTX vs Xi Lai Gaming
+UID:3797bed4-c3da-4031-9431-ed5479befdb5@3797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20250922T181500Z
+LOCATION:Paris Score: 2:0
+DTSTART:20250922T151500Z
+SUMMARY:MIBR vs Rex Regum Qeon
+UID:d7d2c506-10fd-47f5-8cf9-e90b9d5d7629@d7d2.org
 END:VEVENT
 END:VCALENDAR
