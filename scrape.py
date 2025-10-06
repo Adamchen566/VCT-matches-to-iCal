@@ -318,18 +318,18 @@ Paris_event = []
 # get_match_info(url_2025_stage2_emea, state2_event, 'EMEA', 0)
 get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
 # get_match_info(url_China_Evolution_Act3, evo3_event, 'CN-EVO', 0)
-sorted_event = sorted(Paris_event, key=sort_key)
+# sorted_event = sorted(, key=sort_key)
 
 # OnGoing Events
-OnGoing_event = sorted_event
+OnGoing_event = []
 matchprint(OnGoing_event)
 file_name = '/vct_OnGoing.txt'
 title = 'vct_OnGoing'
-save2file(OnGoing_event, file_path, file_name, title)
+# save2file(OnGoing_event, file_path, file_name, title)
 name = 'vct_OnGoing'
 create_ics_file(url_vlr, OnGoing_event, name)
 
 
 # Add finished envets to completed ics file
 ics_file_path = 'D:\\BackUp\\self-work\\VCT-matches-to-iCal\\Calendar_Files\\vct_completed.ics'
-# update_ics_file(url_2025_stage2_cn, state2_event, ics_file_path)
+update_ics_file(url_champion_Paris, Paris_event, ics_file_path)
