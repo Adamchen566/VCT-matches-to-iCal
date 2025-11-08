@@ -288,7 +288,8 @@ def generate_all_txt():
 # Toronto_event = []
 # state2_event = []
 # evo3_event = []
-Paris_event = []
+# Paris_event = []
+TEN_Invitational = []
 
 # Kickoff + Bangkok
 # get_match_info(url_2025_kickoff_cn, kickoff_event, 'CN', 0)
@@ -316,7 +317,7 @@ Paris_event = []
 # get_match_info(url_2025_stage2_amer, state2_event, 'AMER', 0)
 # get_match_info(url_2025_stage2_pac, state2_event, 'PAC', 0)
 # get_match_info(url_2025_stage2_emea, state2_event, 'EMEA', 0)
-get_match_info(url_champion_Paris, Paris_event, 'Paris', 0)
+get_match_info(url_TEN_Invitational_2025, TEN_Invitational, 'TEN', 0)
 # get_match_info(url_China_Evolution_Act3, evo3_event, 'CN-EVO', 0)
 # sorted_event = sorted(, key=sort_key)
 
@@ -332,4 +333,4 @@ create_ics_file(url_vlr, OnGoing_event, name)
 
 # Add finished envets to completed ics file
 ics_file_path = 'D:\\BackUp\\self-work\\VCT-matches-to-iCal\\Calendar_Files\\vct_completed.ics'
-update_ics_file(url_champion_Paris, Paris_event, ics_file_path)
+# update_ics_file(url_champion_Paris, Paris_event, ics_file_path)

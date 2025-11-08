@@ -70,6 +70,7 @@ url_2025_stage2_pac = 'https://www.vlr.gg/event/matches/2500/vct-2025-pacific-st
 url_2025_stage2_emea = 'https://www.vlr.gg/event/matches/2498/vct-2025-emea-stage-2/?series_id=all'
 url_China_Evolution_Act3 = 'https://www.vlr.gg/event/matches/2590/china-evolution-series-act-3/?series_id=all'
 url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2025/?series_id=all'
+url_TEN_Invitational_2025 = 'https://www.vlr.gg/event/matches/2667/ten-global-invitational-2025/?series_id=all'
 
 events_by_year = {
     "2021": {
