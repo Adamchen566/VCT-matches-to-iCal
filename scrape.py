@@ -289,7 +289,8 @@ def generate_all_txt():
 # state2_event = []
 # evo3_event = []
 # Paris_event = []
-TEN_Invitational = []
+# TEN_Invitational = []
+Asian_Invitational = []
 
 # Kickoff + Bangkok
 # get_match_info(url_2025_kickoff_cn, kickoff_event, 'CN', 0)
@@ -317,12 +318,13 @@ TEN_Invitational = []
 # get_match_info(url_2025_stage2_amer, state2_event, 'AMER', 0)
 # get_match_info(url_2025_stage2_pac, state2_event, 'PAC', 0)
 # get_match_info(url_2025_stage2_emea, state2_event, 'EMEA', 0)
-get_match_info(url_TEN_Invitational_2025, TEN_Invitational, 'TEN', 0)
+# get_match_info(url_TEN_Invitational_2025, TEN_Invitational, 'TEN', 0)
+get_match_info(url_Asian_Invitational_2025, Asian_Invitational, 'TEN', 0)
 # get_match_info(url_China_Evolution_Act3, evo3_event, 'CN-EVO', 0)
 # sorted_event = sorted(, key=sort_key)
 
 # OnGoing Events
-OnGoing_event = []
+OnGoing_event = Asian_Invitational
 matchprint(OnGoing_event)
 file_name = '/vct_OnGoing.txt'
 title = 'vct_OnGoing'

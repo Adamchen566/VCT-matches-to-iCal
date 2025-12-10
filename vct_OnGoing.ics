@@ -1,4 +1,124 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251219T070000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251219T040000Z
+SUMMARY:G2 Esports vs FunPlus Phoenix
+UID:8fa7e0dc-9db0-405d-a446-4fe77e90abc8@8fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251220T100000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251220T070000Z
+SUMMARY:TBD vs TBD
+UID:f3916b58-c623-4859-a64d-a9f77766e06c@f391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251221T100000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251221T070000Z
+SUMMARY:TBD vs TBD
+UID:39000eb0-a27a-4f2a-a8f8-de651b980aec@3900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251220T080000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251220T050000Z
+SUMMARY:TBD vs TBD
+UID:0925165c-d0e7-40f8-8694-c60dc127a6c9@0925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251218T080000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251218T050000Z
+SUMMARY:FunPlus Phoenix vs Gen.G
+UID:89bd2be0-b788-4d38-b514-bc56158a8532@89bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251218T090000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251218T060000Z
+SUMMARY:Bilibili Gaming vs Gen.G
+UID:bf2e070b-9f65-4430-883c-44dd35d4718d@bf2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251218T070000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251218T040000Z
+SUMMARY:FunPlus Phoenix vs Paper Rex
+UID:dfa2583e-f4a1-41ff-b3b1-94f3935b6d80@dfa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251219T110000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251219T080000Z
+SUMMARY:Nova Esports vs Bilibili Gaming
+UID:62537d53-c9ae-4c4d-afa3-c203de88971b@6253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251218T100000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251218T070000Z
+SUMMARY:Bilibili Gaming vs G2 Esports
+UID:4d7469f2-7da3-4191-86b5-fe774329334b@4d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251219T080000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251219T050000Z
+SUMMARY:G2 Esports vs Gen.G
+UID:60475a0b-1d76-4683-9145-9258e68d86b7@6047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251219T100000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251219T070000Z
+SUMMARY:Paper Rex vs Bilibili Gaming
+UID:f1f2443f-5472-4111-86f7-a7215d45eede@f1f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251218T060000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251218T030000Z
+SUMMARY:Nova Esports vs Paper Rex
+UID:d43e43ce-d488-43d0-a631-8fba3c52533c@d43e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251219T060000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251219T030000Z
+SUMMARY:Nova Esports vs FunPlus Phoenix
+UID:c0553bd5-6e78-4fb4-a988-98eb22571728@c055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251219T090000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251219T060000Z
+SUMMARY:Paper Rex vs Gen.G
+UID:61b7ede2-e9e9-40a3-8500-6127feabe625@61b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
+DTEND:20251218T110000Z
+LOCATION:TEN Score: 0:0
+DTSTART:20251218T080000Z
+SUMMARY:Nova Esports vs G2 Esports
+UID:84880d76-e33b-4fe9-85c9-ba5ea52f6c15@8488.org
+END:VEVENT
 END:VCALENDAR
