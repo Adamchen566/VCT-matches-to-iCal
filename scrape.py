@@ -290,7 +290,7 @@ def generate_all_txt():
 # evo3_event = []
 # Paris_event = []
 # TEN_Invitational = []
-Asian_Invitational = []
+# Asian_Invitational = []
 
 # Kickoff + Bangkok
 # get_match_info(url_2025_kickoff_cn, kickoff_event, 'CN', 0)
@@ -319,12 +319,25 @@ Asian_Invitational = []
 # get_match_info(url_2025_stage2_pac, state2_event, 'PAC', 0)
 # get_match_info(url_2025_stage2_emea, state2_event, 'EMEA', 0)
 # get_match_info(url_TEN_Invitational_2025, TEN_Invitational, 'TEN', 0)
-get_match_info(url_Asian_Invitational_2025, Asian_Invitational, 'TEN', 0)
+# get_match_info(url_Asian_Invitational_2025, Asian_Invitational, 'TEN', 0)
 # get_match_info(url_China_Evolution_Act3, evo3_event, 'CN-EVO', 0)
 # sorted_event = sorted(, key=sort_key)
 
+# 2026
+kickoff_event = []
+
+# Kickoff + Bangkok
+get_match_info(url_2026_kickoff_cn, kickoff_event, 'CN', 0)
+get_match_info(url_2026_kickoff_amer, kickoff_event, 'AMER', 0)
+get_match_info(url_2026_kickoff_pac, kickoff_event, 'PAC', 0)
+get_match_info(url_2026_kickoff_emea, kickoff_event, 'EMEA', 0)
+sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
+matchprint(sorted_kickoff_event)
+# get_match_info(url_master_Bangkok, Bangkok_event, 'Bangkok', 0)
+# matchprint(Bangkok_event)
+
 # OnGoing Events
-OnGoing_event = Asian_Invitational
+OnGoing_event = sorted_kickoff_event
 matchprint(OnGoing_event)
 file_name = '/vct_OnGoing.txt'
 title = 'vct_OnGoing'
