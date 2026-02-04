@@ -150,6 +150,8 @@ def create_ics_file(link, matches, name):
 
     # 设置时区
     sydney_tz = timezone('Australia/Sydney')
+    # 设置时区为北京时间
+    beijing_tz = timezone('Asia/Shanghai')
 
     # 添加事件
     for match in matches:
@@ -159,12 +161,12 @@ def create_ics_file(link, matches, name):
         if match['datetime'].upper() == 'TBD' or not match['datetime']:
             # Use a default time (noon in Sydney timezone)
             default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
-            local_dt = sydney_tz.localize(default_date)
+            local_dt = beijing_tz.localize(default_date)
             event.name = f"[TBD] {match['team1']} vs {match['team2']}"
             event_duration = timedelta(hours=1)  # Shorter duration for TBD events
         else:
             try:
-                local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
+                local_dt = beijing_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
                 event.name = f"{match['team1']} vs {match['team2']}"
                 
                 # 设置比赛的持续时间
@@ -176,7 +178,7 @@ def create_ics_file(link, matches, name):
             except ValueError:
                 # If datetime format is invalid, fall back to TBD handling
                 default_date = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
-                local_dt = sydney_tz.localize(default_date)
+                local_dt = beijing_tz.localize(default_date)
                 event.name = f"[Time Invalid] {match['team1']} vs {match['team2']}"
                 event_duration = timedelta(hours=1)
         
@@ -209,7 +211,7 @@ def update_ics_file(url, matches, ics_file_path):
     # 添加新的比赛事件
     for match in matches:
         event_name = f"{match['team1']} vs {match['team2']}"
-        local_dt = sydney_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
+        local_dt = beijing_tz.localize(datetime.strptime(match['datetime'], "%Y-%m-%d %H:%M"))
 
 
         # 如果比赛不存在，创建新事件
@@ -332,7 +334,7 @@ get_match_info(url_2026_kickoff_amer, kickoff_event, 'AMER', 0)
 get_match_info(url_2026_kickoff_pac, kickoff_event, 'PAC', 0)
 get_match_info(url_2026_kickoff_emea, kickoff_event, 'EMEA', 0)
 sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
-matchprint(sorted_kickoff_event)
+# matchprint(sorted_kickoff_event)
 # get_match_info(url_master_Bangkok, Bangkok_event, 'Bangkok', 0)
 # matchprint(Bangkok_event)
 
