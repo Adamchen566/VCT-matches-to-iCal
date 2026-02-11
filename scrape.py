@@ -327,16 +327,34 @@ def generate_all_txt():
 
 # 2026
 kickoff_event = []
+Santiago_event = []
+stage1_event = []
+London_event = []
+stage2_event = []
+champion_Shanghai = []
 
-# Kickoff + Bangkok
+# Kickoff + Santiago
 get_match_info(url_2026_kickoff_cn, kickoff_event, 'CN', 0)
 get_match_info(url_2026_kickoff_amer, kickoff_event, 'AMER', 0)
 get_match_info(url_2026_kickoff_pac, kickoff_event, 'PAC', 0)
 get_match_info(url_2026_kickoff_emea, kickoff_event, 'EMEA', 0)
 sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
 # matchprint(sorted_kickoff_event)
-# get_match_info(url_master_Bangkok, Bangkok_event, 'Bangkok', 0)
-# matchprint(Bangkok_event)
+get_match_info(url_2026_master_Santiago, Santiago_event, 'Santiago', 0)
+# matchprint(Santiago_event)
+
+# Stage1 + London
+get_match_info(url_2026_stage1_cn, stage1_event, 'CN', 0)
+get_match_info(url_2026_stage1_amer, stage1_event, 'AMER', 0)
+get_match_info(url_2026_stage1_pac, stage1_event, 'PAC', 0)
+get_match_info(url_2026_stage1_emea, stage1_event, 'EMEA', 0)
+sorted_stage1_event = sorted(stage1_event, key=sort_key)
+# matchprint(sorted_stage1_event)
+get_match_info(url_2026_master_London, London_event, 'London', 0)
+# matchprint(London_event)
+
+# Stage2 + Shanghai
+
 
 # OnGoing Events
 OnGoing_event = sorted_kickoff_event

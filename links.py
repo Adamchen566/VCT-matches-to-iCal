@@ -69,17 +69,19 @@ url_2026_kickoff_amer = 'https://www.vlr.gg/event/matches/2682/vct-2026-americas
 url_2026_kickoff_pac = 'https://www.vlr.gg/event/matches/2683/vct-2026-pacific-kickoff/?series_id=5222'
 url_2026_kickoff_emea = 'https://www.vlr.gg/event/matches/2684/vct-2026-emea-kickoff/?series_id=5223'
 url_China_Evolution_Act1 = ''
+url_2026_master_Santiago = 'https://www.vlr.gg/event/matches/2760/valorant-masters-santiago-2026/?series_id=5359'
 
 url_2026_stage1_cn = 'https://www.vlr.gg/event/matches/2499/vct-2026-china-stage-2/?series_id=all'
 url_2026_stage1_amer = 'https://www.vlr.gg/event/matches/2501/vct-2026-americas-stage-2/?series_id=all'
 url_2026_stage1_pac = 'https://www.vlr.gg/event/matches/2500/vct-2026-pacific-stage-2/?series_id=all'
 url_2026_stage1_emea = 'https://www.vlr.gg/event/matches/2498/vct-2026-emea-stage-2/?series_id=all'
+url_2026_master_London = 'https://www.vlr.gg/event/matches/2765/valorant-masters-london-2026'
 
 url_2026_stage2_cn = 'https://www.vlr.gg/event/matches/2499/vct-2026-china-stage-2/?series_id=all'
 url_2026_stage2_amer = 'https://www.vlr.gg/event/matches/2501/vct-2026-americas-stage-2/?series_id=all'
 url_2026_stage2_pac = 'https://www.vlr.gg/event/matches/2500/vct-2026-pacific-stage-2/?series_id=all'
 url_2026_stage2_emea = 'https://www.vlr.gg/event/matches/2498/vct-2026-emea-stage-2/?series_id=all'
-url_champion_Paris = 'https://www.vlr.gg/event/matches/2283/valorant-champions-2026/?series_id=all'
+url_champion_Shanghai = 'https://www.vlr.gg/event/matches/2766/valorant-champions-2026'
 
 events_by_year = {
     "2021": {
