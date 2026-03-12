@@ -330,6 +330,7 @@ def generate_all_txt():
 # 2026
 kickoff_event = []
 Santiago_event = []
+evo1_event = []
 stage1_event = []
 London_event = []
 stage2_event = []
@@ -343,6 +344,7 @@ champion_Shanghai = []
 # sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
 # matchprint(sorted_kickoff_event)
 get_match_info(url_2026_master_Santiago, Santiago_event, 'Santiago', 0)
+get_match_info(url_China_Evolution_Act1, evo1_event, 'CN-EVO', 0)
 # matchprint(Santiago_event)
 
 # Stage1 + London
@@ -359,7 +361,7 @@ get_match_info(url_2026_master_London, London_event, 'London', 0)
 
 
 # OnGoing Events
-OnGoing_event = Santiago_event
+OnGoing_event = Santiago_event + evo1_event
 matchprint(OnGoing_event)
 file_name = '/vct_OnGoing.txt'
 title = 'vct_OnGoing'

@@ -68,7 +68,7 @@ url_2026_kickoff_cn = 'https://www.vlr.gg/event/matches/2685/vct-2026-china-kick
 url_2026_kickoff_amer = 'https://www.vlr.gg/event/matches/2682/vct-2026-americas-kickoff/?series_id=5221'
 url_2026_kickoff_pac = 'https://www.vlr.gg/event/matches/2683/vct-2026-pacific-kickoff/?series_id=5222'
 url_2026_kickoff_emea = 'https://www.vlr.gg/event/matches/2684/vct-2026-emea-kickoff/?series_id=5223'
-url_China_Evolution_Act1 = ''
+url_China_Evolution_Act1 = 'https://www.vlr.gg/event/matches/2894/china-evolution-series-2026-act-1/?series_id=5619&group=all'
 url_2026_master_Santiago = 'https://www.vlr.gg/event/matches/2760/valorant-masters-santiago-2026/?series_id=all'
 
 url_2026_stage1_cn = 'https://www.vlr.gg/event/matches/2499/vct-2026-china-stage-2/?series_id=all'
