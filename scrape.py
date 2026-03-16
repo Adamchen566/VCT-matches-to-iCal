@@ -361,7 +361,7 @@ get_match_info(url_2026_master_London, London_event, 'London', 0)
 
 
 # OnGoing Events
-OnGoing_event = Santiago_event + evo1_event
+OnGoing_event =  evo1_event
 matchprint(OnGoing_event)
 file_name = '/vct_OnGoing.txt'
 title = 'vct_OnGoing'
@@ -371,5 +371,5 @@ create_ics_file(url_vlr, OnGoing_event, name)
 
 
 # Add finished envets to completed ics file
-ics_file_path = '/Users/chenjiashao/Desktop/VCT-matches-to-iCal/Calendar_Files/vct_completed.ics'
-# update_ics_file(url_2026_kickoff_cn, sorted_kickoff_event, ics_file_path)
+ics_file_path = 'D:\BackUp\self-work\VCT\Calendar_Files\\vct_completed.ics'
+update_ics_file(url_2026_master_Santiago, Santiago_event, ics_file_path)
