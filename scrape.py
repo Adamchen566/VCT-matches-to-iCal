@@ -38,7 +38,7 @@ def get_match_info(url, event, region, isPrint):
             if 'mod-first' in info.attrs['class']:
                 days+=1
             date = date_info[days].text.strip()
-            if isPrint:print('比赛日期: ', date[:20])
+            if isPrint:print('比赛日期: ', date)
             
             # 提取比赛时间
             time_div = info.find('div', class_='match-item-time')
@@ -348,7 +348,7 @@ champion_Shanghai = []
 # matchprint(Santiago_event)
 
 # Stage1 + London
-get_match_info(url_2026_stage1_cn, stage1_event, 'CN', 1)
+get_match_info(url_2026_stage1_cn, stage1_event, 'CN', 0)
 get_match_info(url_2026_stage1_amer, stage1_event, 'AMER', 0)
 get_match_info(url_2026_stage1_pac, stage1_event, 'PAC', 0)
 get_match_info(url_2026_stage1_emea, stage1_event, 'EMEA', 0)
