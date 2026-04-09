@@ -343,7 +343,7 @@ champion_Shanghai = []
 # get_match_info(url_2026_kickoff_emea, kickoff_event, 'EMEA', 0)
 # sorted_kickoff_event = sorted(kickoff_event, key=sort_key)
 # matchprint(sorted_kickoff_event)
-get_match_info(url_2026_master_Santiago, Santiago_event, 'Santiago', 0)
+# get_match_info(url_2026_master_Santiago, Santiago_event, 'Santiago', 0)
 get_match_info(url_China_Evolution_Act1, evo1_event, 'CN-EVO', 0)
 # matchprint(Santiago_event)
 
@@ -354,22 +354,22 @@ get_match_info(url_China_Evolution_Act1, evo1_event, 'CN-EVO', 0)
 # get_match_info(url_2026_stage1_emea, stage1_event, 'EMEA', 0)
 # sorted_stage1_event = sorted(stage1_event, key=sort_key)
 # matchprint(sorted_stage1_event)
-get_match_info(url_2026_master_London, London_event, 'London', 0)
+# get_match_info(url_2026_master_London, London_event, 'London', 0)
 # matchprint(London_event)
 
 # Stage2 + Shanghai
 
 
 # OnGoing Events
-OnGoing_event =  evo1_event
-matchprint(OnGoing_event)
-file_name = '/vct_OnGoing.txt'
-title = 'vct_OnGoing'
-save2file(OnGoing_event, file_path, file_name, title)
-name = 'vct_OnGoing'
-create_ics_file(url_vlr, OnGoing_event, name)
+# OnGoing_event =  evo1_event
+# matchprint(OnGoing_event)
+# file_name = '/vct_OnGoing.txt'
+# title = 'vct_OnGoing'
+# save2file(OnGoing_event, file_path, file_name, title)
+# name = 'vct_OnGoing'
+# create_ics_file(url_vlr, OnGoing_event, name)
 
 
 # Add finished envets to completed ics file
 ics_file_path = 'D:\BackUp\self-work\VCT\Calendar_Files\\vct_completed.ics'
-update_ics_file(url_2026_master_Santiago, Santiago_event, ics_file_path)
+update_ics_file(url_China_Evolution_Act1, evo1_event, ics_file_path)
