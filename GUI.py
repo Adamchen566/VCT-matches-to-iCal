@@ -156,7 +156,7 @@ def run_gui():
 
     app = ctk.CTk()
     app.geometry("1200x800")
-    app.title("VCT 日历生成器 (2021–2025)")
+    app.title("VCT 日历生成器 (2021–2026)")
 
     top_frame = ctk.CTkFrame(app)
     top_frame.pack(pady=10)

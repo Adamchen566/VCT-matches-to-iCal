@@ -1,996 +1,2265 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260410T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260410T090000Z
-SUMMARY:Nova Esports vs Trace Esports
-UID:6c74c6e6-4faf-4424-a649-93b1b0a6da52@6c74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260426T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260426T000000Z
-SUMMARY:NRG vs 100 Thieves
-UID:eb66b394-c8ae-426a-8315-98b885a1fec9@eb66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260331T153000Z
-LOCATION:CN Score: 0:2
-DTSTART:20260331T123000Z
-SUMMARY:Nova Esports vs EDward Gaming
-UID:12221d61-d0c0-489a-b216-046149c93f4f@1222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260423T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260423T180000Z
-SUMMARY:Karmine Corp vs FUT Esports
-UID:63c44821-a7e8-4c74-9e61-2f48025fb103@63c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260411T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260411T110000Z
-SUMMARY:Rex Regum Qeon vs VARREL
-UID:4a53e16e-6bec-4d5b-bc87-d565288f78f3@4a53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260402T180000Z
-LOCATION:EMEA Score: 2:0
-DTSTART:20260402T150000Z
-SUMMARY:Team Vitality vs GIANTX
-UID:7c09c110-1c38-4c69-9474-9e4def437e8d@7c09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260427T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260427T000000Z
-SUMMARY:MIBR vs Cloud9
-UID:3fdc519a-1560-4a65-8f3f-aac42ce8a7f7@3fdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260417T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260417T080000Z
-SUMMARY:FULL SENSE vs VARREL
-UID:e14cc108-fc4c-4ff2-b33c-0200c73a5b51@e14c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260501T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260501T180000Z
-SUMMARY:Gentle Mates vs Team Liquid
-UID:1def4535-e899-4e82-9b0f-a4303f583ccf@1def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260425T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260424T210000Z
-SUMMARY:LEVIATÁN vs ENVY
-UID:16f5512f-54fd-47ac-84c6-dfedcd04fb79@16f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260503T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260502T210000Z
-SUMMARY:KRÜ Esports vs 100 Thieves
-UID:d6a389a6-b8b6-49ad-ae3d-ac2600afa69b@d6a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260412T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260412T110000Z
-SUMMARY:Gen.G vs Paper Rex
-UID:38a16758-f98e-4b21-98bd-63addebe34cf@38a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260502T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260502T000000Z
-SUMMARY:LEVIATÁN vs MIBR
-UID:9f2f973d-1050-4f8d-b056-25f474f15bee@9f2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260416T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260416T090000Z
-SUMMARY:Nova Esports vs Wolves Esports
-UID:082ed97d-09aa-4246-b6a7-814702b8fcae@082e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260418T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260418T000000Z
-SUMMARY:FURIA vs Evil Geniuses
-UID:229c3f8c-e5aa-4fad-8245-8977cca7b008@229c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260419T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260419T110000Z
-SUMMARY:Nongshim RedForce vs Gen.G
-UID:fb79e16c-926e-4ff5-a495-445b7b8b7218@fb79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260407T120000Z
-LOCATION:CN Score: 2:1
-DTSTART:20260407T090000Z
-SUMMARY:FunPlus Phoenix vs TYLOO
-UID:04700aea-adaa-464c-9048-f3399598c48f@0470.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260409T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260409T110000Z
-SUMMARY:Dragon Ranger Gaming vs Wolves Esports
-UID:e73bfed0-1520-4f08-b772-cf9e7da6327b@e73b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260412T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260412T080000Z
-SUMMARY:FULL SENSE vs ZETA DIVISION
-UID:1373951d-8446-4782-92a8-922a42066e6b@1373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260411T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260411T110000Z
-SUMMARY:EDward Gaming vs Dragon Ranger Gaming
-UID:90df99d2-0e78-49ee-a5e5-7efb87abbcde@90df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260408T143000Z
-LOCATION:CN Score: 2:0
-DTSTART:20260408T113000Z
-SUMMARY:EDward Gaming vs Trace Esports
-UID:1dea45f6-5fc0-40c0-8fff-a02c06dce66a@1dea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260416T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260416T110000Z
-SUMMARY:EDward Gaming vs Xi Lai Gaming
-UID:d06807a2-9602-4f67-822e-4efcc3aea8cb@d068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260501T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260501T150000Z
-SUMMARY:GIANTX vs Eternal Fire
-UID:ef065b58-f915-4f7b-b78d-f5b8838c3018@ef06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260409T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260409T090000Z
-SUMMARY:JDG Esports vs All Gamers
-UID:f45223dc-f445-44b1-b4d5-19f7e2bc4163@f452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260405T110000Z
-LOCATION:PAC Score: 0:2
-DTSTART:20260405T080000Z
-SUMMARY:Team Secret vs DRX
-UID:e8942e16-9121-4c35-9521-85b18492e567@e894.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260408T120000Z
-LOCATION:CN Score: 2:0
-DTSTART:20260408T090000Z
-SUMMARY:Xi Lai Gaming vs Nova Esports
-UID:24c2db67-4235-4fec-8995-fa6da732aaaa@24c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260409T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260409T150000Z
-SUMMARY:FNATIC vs Team Vitality
-UID:2a1ecd77-f5a2-475b-8fd9-adc33ef9516e@2a1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260412T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260412T000000Z
-SUMMARY:ENVY vs LOUD
-UID:2053f16a-dc35-4be6-ad57-d9f5a0ee8bb4@2053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260414T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260414T090000Z
-SUMMARY:TYLOO vs JDG Esports
-UID:690a75fd-85a1-4d00-b552-a91a55ccf348@690a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260410T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260410T180000Z
-SUMMARY:Gentle Mates vs Karmine Corp
-UID:abef879a-b6a6-4a76-9f3c-3b74d5dfb886@abef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260413T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260412T210000Z
-SUMMARY:Cloud9 vs LEVIATÁN
-UID:120c8e49-1aa6-472a-bdec-53112f7a3d72@120c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260412T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260411T210000Z
-SUMMARY:100 Thieves vs Evil Geniuses
-UID:43b1b316-fcb1-4fc9-936e-3c05e405c03e@43b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260413T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260413T000000Z
-SUMMARY:FURIA vs NRG
-UID:f3a0f2ea-2788-454d-86dc-7d1a91225f35@f3a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260424T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260424T110000Z
-SUMMARY:Paper Rex vs Global Esports
-UID:9cebe285-188f-4aa1-ad5a-785604219bab@9ceb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260426T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260426T110000Z
-SUMMARY:Nongshim RedForce vs Team Secret
-UID:02a9c7d9-d41a-44fb-b216-9efcb350f84b@02a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260420T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260420T000000Z
-SUMMARY:100 Thieves vs Sentinels
-UID:fd322bb1-aaba-4e88-8fd7-744089e7c49e@fd32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260411T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260410T210000Z
-SUMMARY:Sentinels vs KRÜ Esports
-UID:162bb2b8-4e27-4ec0-b82b-5ffad22e294b@162b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260411T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260411T080000Z
-SUMMARY:Team Secret vs Global Esports
-UID:cb0c15a6-92ab-4037-9d2e-e080acc3fb9b@cb0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260504T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260504T000000Z
-SUMMARY:G2 Esports vs ENVY
-UID:d1209df5-fe59-47af-aa04-be331c6c213b@d120.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260426T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260426T080000Z
-SUMMARY:T1 vs ZETA DIVISION
-UID:e58ec905-2432-4767-8fd7-90015a648bcd@e58e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260419T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260418T210000Z
-SUMMARY:G2 Esports vs LEVIATÁN
-UID:ee5c46e8-0de1-4575-b5fa-79d926e2c51a@ee5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260417T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260417T180000Z
-SUMMARY:PCIFIC Esports vs FNATIC
-UID:03cb4d1f-38dc-4b5f-ad9b-280258a60ad5@03cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260404T110000Z
-LOCATION:PAC Score: 1:2
-DTSTART:20260404T080000Z
-SUMMARY:Nongshim RedForce vs Paper Rex
-UID:64a4ee43-5829-42dd-95ee-c80dac5f7294@64a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260403T141000Z
-LOCATION:CN Score: 2:0
-DTSTART:20260403T111000Z
-SUMMARY:FunPlus Phoenix vs All Gamers
-UID:2dfe2c44-bed6-474e-b3ae-9bc616b47764@2dfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260504T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260503T210000Z
-SUMMARY:LOUD vs Cloud9
-UID:7c179dfd-3721-49d7-9740-08c319cf4d2f@7c17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260403T131500Z
-LOCATION:PAC Score: 2:0
-DTSTART:20260403T101500Z
-SUMMARY:T1 vs VARREL
-UID:dab5d2af-1f3c-4b6a-bfa5-59d107bc9c20@dab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260412T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260412T110000Z
-SUMMARY:Xi Lai Gaming vs Wolves Esports
-UID:1ddb9dc3-c8b1-4c21-8d61-1c989499c33b@1ddb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260430T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260430T180000Z
-SUMMARY:BBL Esports vs FNATIC
-UID:ab359620-787b-418f-87f3-1e7fde38efb1@ab35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260501T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260501T080000Z
-SUMMARY:Gen.G vs Team Secret
-UID:c7cb0038-bb51-4c69-9b9b-d09c8702029d@c7cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260408T212500Z
-LOCATION:EMEA Score: 0:2
-DTSTART:20260408T182500Z
-SUMMARY:BBL Esports vs Eternal Fire
-UID:0b544f54-1657-4a55-8579-fdcb0d31c9d3@0b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260401T151000Z
-LOCATION:CN Score: 0:2
-DTSTART:20260401T121000Z
-SUMMARY:Dragon Ranger Gaming vs Xi Lai Gaming
-UID:6f52567c-4c43-434d-bd5a-3b9f03d010d0@6f52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260503T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260503T110000Z
-SUMMARY:Rex Regum Qeon vs DetonatioN FocusMe
-UID:e9a70011-88a1-450c-b542-d28e2da61ed4@e9a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260426T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260425T210000Z
-SUMMARY:FURIA vs KRÜ Esports
-UID:ef1e1701-1b6a-4412-8984-5996d2028549@ef1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260502T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260502T110000Z
-SUMMARY:Nongshim RedForce vs Global Esports
-UID:58797e0e-4ec3-481b-ae2b-ffc6649d2fa0@5879.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260416T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260416T180000Z
-SUMMARY:Karmine Corp vs Team Heretics
-UID:2aad73da-18e3-43ed-baad-6896bce5b788@2aad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260410T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260410T110000Z
-SUMMARY:Nongshim RedForce vs DRX
-UID:36a0029b-0609-45c5-939d-316dc62a82cd@36a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260402T143000Z
-LOCATION:CN Score: 1:2
-DTSTART:20260402T113000Z
-SUMMARY:Bilibili Gaming vs TYLOO
-UID:4c9dcb24-74f2-4505-aef2-6e3be54f8a2b@4c9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260407T153000Z
-LOCATION:CN Score: 2:0
-DTSTART:20260407T123000Z
-SUMMARY:Titan Esports Club vs Bilibili Gaming
-UID:ef233dd5-5797-4641-8966-c6f755097ba0@ef23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260509T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260509T000000Z
-SUMMARY:FURIA vs 100 Thieves
-UID:1a9965b6-f929-4030-a2c1-bbb620e6862f@1a99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260511T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260510T210000Z
-SUMMARY:LOUD vs LEVIATÁN
-UID:2492d67a-6ece-4890-9cbb-1c7a9c3d21d4@2492.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260502T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260502T080000Z
-SUMMARY:T1 vs FULL SENSE
-UID:a7c15035-a015-43d0-9136-a2b41e622c64@a7c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260510T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260509T210000Z
-SUMMARY:G2 Esports vs Cloud9
-UID:a79c5cce-5fe7-41b1-929b-a463be389133@a79c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260501T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260501T110000Z
-SUMMARY:VARREL vs ZETA DIVISION
-UID:2465ce23-e6ef-4e2e-a5b3-e5f7ecbf414e@2465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260417T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260417T110000Z
-SUMMARY:Team Secret vs Paper Rex
-UID:3e9d29ee-4201-467e-b807-a5a90ff4b907@3e9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260408T180000Z
-LOCATION:EMEA Score: 1:2
-DTSTART:20260408T150000Z
-SUMMARY:PCIFIC Esports vs GIANTX
-UID:3bbb4890-54a6-4b10-896b-9b17e0c38f34@3bbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260425T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260425T000000Z
-SUMMARY:G2 Esports vs LOUD
-UID:da1c80e9-17f2-4463-9593-89d531126402@da1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260403T215500Z
-LOCATION:EMEA Score: 2:0
-DTSTART:20260403T185500Z
-SUMMARY:BBL Esports vs PCIFIC Esports
-UID:e001f544-1af6-4066-bc34-2b5a4ed45666@e001.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260401T120000Z
-LOCATION:CN Score: 2:1
-DTSTART:20260401T090000Z
-SUMMARY:JDG Esports vs FunPlus Phoenix
-UID:30b4c961-4864-4f1a-9941-d8c1ca4740fd@30b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260419T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260419T110000Z
-SUMMARY:TBD vs TBD
-UID:bc094633-6c20-4306-83a7-8051879b8980@bc09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260418T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260418T110000Z
-SUMMARY:TBD vs TBD
-UID:b0816a2d-ae07-4037-a497-f15e228f13d1@b081.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260410T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260410T150000Z
-SUMMARY:FUT Esports vs Natus Vincere
-UID:287e8437-2cfa-4ab1-b52a-c16da6909717@287e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260418T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260418T090000Z
-SUMMARY:TBD vs TBD
-UID:a6e43d69-790f-42ad-862b-12d460e27655@a6e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260415T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260415T180000Z
-SUMMARY:Gentle Mates vs Natus Vincere
-UID:9e418305-ce36-4091-a342-fba02c6406f9@9e41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260403T180000Z
-LOCATION:EMEA Score: 1:2
-DTSTART:20260403T150000Z
-SUMMARY:Team Heretics vs Natus Vincere
-UID:bf1908cc-ce90-4b0c-94c1-9f030b00fa31@bf19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260422T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260422T150000Z
-SUMMARY:Eternal Fire vs PCIFIC Esports
-UID:4f962cc0-75f7-4de0-b16e-d32383df186c@4f96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260425T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260425T080000Z
-SUMMARY:Gen.G vs DRX
-UID:d6d8028f-b2c7-48b6-a9af-eb23266fcc8c@d6d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260424T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260424T080000Z
-SUMMARY:Rex Regum Qeon vs FULL SENSE
-UID:63de6650-ff0a-4e46-b6aa-a434e355594e@63de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260502T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260501T210000Z
-SUMMARY:Evil Geniuses vs NRG
-UID:c208b247-7fe8-4c46-81cf-acca013923cf@c208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260409T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260409T180000Z
-SUMMARY:Team Liquid vs Team Heretics
-UID:382b1c98-47ab-401b-87b6-5f4e5837932c@382b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260404T120000Z
-LOCATION:CN Score: 2:0
-DTSTART:20260404T090000Z
-SUMMARY:TYLOO vs Titan Esports Club
-UID:b744e480-f4f2-43ab-b0f6-837fae5085be@b744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260401T213500Z
-LOCATION:EMEA Score: 2:0
-DTSTART:20260401T183500Z
-SUMMARY:Team Liquid vs Karmine Corp
-UID:72e15324-fb2e-44a4-801e-7c3daae078ef@72e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260416T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260416T150000Z
-SUMMARY:Eternal Fire vs Team Vitality
-UID:ce657a91-3bbb-4720-9e13-787737dec26f@ce65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260509T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260508T210000Z
-SUMMARY:KRÜ Esports vs Evil Geniuses
-UID:30e00210-ec1c-4008-b0dd-8de3a8cf3648@30e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260405T152500Z
-LOCATION:CN Score: 2:0
-DTSTART:20260405T122500Z
-SUMMARY:Bilibili Gaming vs JDG Esports
-UID:fc6a5f3e-4a0d-4719-ae5a-e9776d48c690@fc6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260402T120000Z
-LOCATION:CN Score: 0:2
-DTSTART:20260402T090000Z
-SUMMARY:Wolves Esports vs Trace Esports
-UID:919f0e31-5c74-4bc2-a7eb-c9a812919d8f@919f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260429T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260429T180000Z
-SUMMARY:Team Vitality vs PCIFIC Esports
-UID:72ad5e7f-e40a-4de7-915d-e03c69cbd0df@72ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260331T120000Z
-LOCATION:CN Score: 1:2
-DTSTART:20260331T090000Z
-SUMMARY:Titan Esports Club vs All Gamers
-UID:63521942-0ddb-484c-949f-6f2fe92dd74d@6352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260418T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260418T080000Z
-SUMMARY:DRX vs Global Esports
-UID:1c9e8cc3-1927-4eab-a305-9229ebc3ac8c@1c9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260415T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260415T150000Z
-SUMMARY:BBL Esports vs GIANTX
-UID:d91cf9d0-3706-4c41-a035-e762ea18a3c7@d91c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260511T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260511T000000Z
-SUMMARY:Sentinels vs NRG
-UID:44418237-46b9-4b15-9e69-9e435eb48877@4441.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260419T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260419T080000Z
-SUMMARY:Rex Regum Qeon vs T1
-UID:64678cfb-eb62-4f7c-beb8-fd6f3c451f52@6467.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260418T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260418T110000Z
-SUMMARY:ZETA DIVISION vs DetonatioN FocusMe
-UID:744f0663-2220-41e9-9804-0c1dc27530c5@744f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260410T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260410T110000Z
-SUMMARY:FunPlus Phoenix vs Bilibili Gaming
-UID:ca9c75ab-4173-4807-9e05-c31824cacb26@ca9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260405T120000Z
-LOCATION:CN Score: 1:2
-DTSTART:20260405T090000Z
-SUMMARY:Trace Esports vs Xi Lai Gaming
-UID:5db9f823-7e58-4063-bc39-b95cad1396a1@5db9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260403T110000Z
-LOCATION:PAC Score: 0:2
-DTSTART:20260403T080000Z
-SUMMARY:Gen.G vs Global Esports
-UID:e9a82850-6eb1-4679-b5b1-6c769f817e8a@e9a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260420T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260419T210000Z
-SUMMARY:NRG vs KRÜ Esports
-UID:c355f7f9-74e0-4995-932e-a8e78ac5f51a@c355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260425T140000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260425T110000Z
-SUMMARY:DetonatioN FocusMe vs VARREL
-UID:bf94c386-63ff-41ca-b7e4-44443bdcf342@bf94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260424T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260424T180000Z
-SUMMARY:BBL Esports vs Team Vitality
-UID:0ddfb859-eabf-4aba-9bbf-3bfd1d9facd7@0ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260423T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260423T150000Z
-SUMMARY:GIANTX vs FNATIC
-UID:fb5220fe-0b03-4616-b013-1a2a47dc614d@fb52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260510T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260510T000000Z
-SUMMARY:ENVY vs MIBR
-UID:4253d641-7c5b-457e-a609-4436d1c8d338@4253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260404T141000Z
-LOCATION:PAC Score: 2:0
-DTSTART:20260404T111000Z
-SUMMARY:FULL SENSE vs DetonatioN FocusMe
-UID:66f1d1cc-f2b5-43a4-a859-b237e7ff16cc@66f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260503T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260503T080000Z
-SUMMARY:Paper Rex vs DRX
-UID:40a8d4f7-81e2-4d2f-b4f1-1d73b74a3e62@40a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260414T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260414T110000Z
-SUMMARY:Trace Esports vs Dragon Ranger Gaming
-UID:1ced5bc9-00c2-4a73-be42-ee994b5e8b36@1ced.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260419T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260419T000000Z
-SUMMARY:MIBR vs LOUD
-UID:9d609cad-4350-42d0-9289-50200f1779a6@9d60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260411T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260411T000000Z
-SUMMARY:G2 Esports vs MIBR
-UID:da9683d5-8b10-4ff8-ab51-6261ae56a7cf@da96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260405T133000Z
-LOCATION:PAC Score: 2:1
-DTSTART:20260405T103000Z
-SUMMARY:Rex Regum Qeon vs ZETA DIVISION
-UID:fc947611-3269-44bc-ac0b-d0bd6bcce8f9@fc94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 1:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260402T200500Z
-LOCATION:EMEA Score: 1:2
-DTSTART:20260402T170500Z
-SUMMARY:Gentle Mates vs FUT Esports
-UID:93ae2757-75a4-4e5b-895a-3f87d4527ac6@93ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260415T140000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260415T110000Z
-SUMMARY:All Gamers vs Bilibili Gaming
-UID:fe9f3ebb-6e77-481c-8cf3-c6f374b87e9c@fe9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260412T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260412T090000Z
-SUMMARY:JDG Esports vs Titan Esports Club
-UID:c327e320-e94d-4c34-810b-59d8fc417e00@c327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260424T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260424T150000Z
-SUMMARY:Natus Vincere vs Team Liquid
-UID:55111dca-75ad-4e0c-9d53-4fc7cef75e9d@5511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260410T110000Z
-LOCATION:PAC Score: 0:0
-DTSTART:20260410T080000Z
-SUMMARY:DetonatioN FocusMe vs T1
-UID:14c27467-fd1f-49f8-a588-ee804bd1066b@14c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260418T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260417T210000Z
-SUMMARY:Cloud9 vs ENVY
-UID:2e6a99e9-c5ce-416d-9df7-1ff22ba4181a@2e6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:1\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260401T180000Z
-LOCATION:EMEA Score: 2:1
-DTSTART:20260401T150000Z
-SUMMARY:FNATIC vs Eternal Fire
-UID:70357d2a-4f5b-4931-9fbf-bf030f65324a@7035.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260415T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260415T090000Z
-SUMMARY:Titan Esports Club vs FunPlus Phoenix
-UID:22a98313-37ab-433d-a25d-9e770f61ad0f@22a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260427T000000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260426T210000Z
-SUMMARY:Evil Geniuses vs Sentinels
-UID:2193b8ac-5d8e-499d-9fec-e10121534fde@2193.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:2\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260404T143000Z
-LOCATION:CN Score: 0:2
-DTSTART:20260404T113000Z
-SUMMARY:Wolves Esports vs EDward Gaming
-UID:2210d91c-4fa6-4cfa-b0af-01c6db89816d@2210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260430T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260430T150000Z
-SUMMARY:Natus Vincere vs Karmine Corp
-UID:b1b84f4a-7e4d-4588-84d1-ba545b23cf96@b1b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260429T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260429T150000Z
-SUMMARY:Team Heretics vs FUT Esports
-UID:83d82976-5687-4d42-8584-0340f300e5a8@83d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 2:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260403T120000Z
-LOCATION:CN Score: 2:0
-DTSTART:20260403T090000Z
-SUMMARY:Dragon Ranger Gaming vs Nova Esports
-UID:9de88198-93f5-4025-9608-2acb928c5eaa@9de8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260417T180000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260417T150000Z
-SUMMARY:FUT Esports vs Team Liquid
-UID:3026b356-7e40-453a-a0c4-3c8b9ca4eefd@3026.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260419T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260419T090000Z
-SUMMARY:TBD vs TBD
-UID:3e505155-18e9-475c-80a4-ca4926ef3878@3e50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260411T120000Z
-LOCATION:CN Score: 0:0
-DTSTART:20260411T090000Z
-SUMMARY:All Gamers vs TYLOO
-UID:01a38d70-605a-455a-b3b0-254b5ec48a92@01a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260422T210000Z
-LOCATION:EMEA Score: 0:0
-DTSTART:20260422T180000Z
-SUMMARY:Gentle Mates vs Team Heretics
-UID:3c801fbd-7c4a-4dbe-9fed-525145e08992@3c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Score: 0:0\nVLR: https://www.vlr.gg/\n夜莲直播间: https://live.bilibili.com/24160384?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-DTEND:20260503T030000Z
-LOCATION:AMER Score: 0:0
-DTSTART:20260503T000000Z
-SUMMARY:FURIA vs Sentinels
-UID:fde464ae-1e5f-4e6b-9a14-e72fa1ca4dde@fde4.org
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Stage 2 Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT24H
+X-WR-CALNAME:VCT 2026 Stage 2 - AMER PAC EMEA CN
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[CN] Wolves Esports vs Titan Esports Club
+DTSTART:20260709T080000Z
+DTEND:20260709T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701025@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701025/wolves-es
+ ports-vs-titan-esports-club-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701025/wolves-esports-vs-titan-esports-club-vct-202
+ 6-china-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Bilibili Gaming
+DTSTART:20260709T102000Z
+DTEND:20260709T132000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701026@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701026/dragon-ra
+ nger-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701026/dragon-ranger-gaming-vs-bilibili-gaming-vct-
+ 2026-china-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs Trace Esports
+DTSTART:20260710T080000Z
+DTEND:20260710T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701027@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701027/funplus-p
+ hoenix-vs-trace-esports-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701027/funplus-phoenix-vs-trace-esports-vct-2026-ch
+ ina-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JDG Esports vs TYLOO
+DTSTART:20260710T101000Z
+DTEND:20260710T131000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701028@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701028/jdg-espor
+ ts-vs-tyloo-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701028/jdg-esports-vs-tyloo-vct-2026-china-stage-2-
+ w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Titan Esports Club
+DTSTART:20260711T080000Z
+DTEND:20260711T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701029@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701029/dragon-ra
+ nger-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701029/dragon-ranger-gaming-vs-titan-esports-club-v
+ ct-2026-china-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Bilibili Gaming vs Wolves Esports
+DTSTART:20260711T113500Z
+DTEND:20260711T143500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701030@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701030/bilibili-
+ gaming-vs-wolves-esports-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701030/bilibili-gaming-vs-wolves-esports-vct-2026-c
+ hina-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs FunPlus Phoenix
+DTSTART:20260712T080000Z
+DTEND:20260712T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701031@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701031/nova-espo
+ rts-vs-funplus-phoenix-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701031/nova-esports-vs-funplus-phoenix-vct-2026-chi
+ na-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Trace Esports
+DTSTART:20260712T101000Z
+DTEND:20260712T131000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701032@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701032/tyloo-vs-
+ trace-esports-vct-2026-china-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701032/tyloo-vs-trace-esports-vct-2026-china-stage-
+ 2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Wolves Esports vs All Gamers
+DTSTART:20260714T090000Z
+DTEND:20260714T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701036@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701036/wolves-es
+ ports-vs-all-gamers-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701036/wolves-esports-vs-all-gamers-vct-2026-china-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Titan Esports Club
+DTSTART:20260714T111500Z
+DTEND:20260714T141500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701037@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701037/xi-lai-ga
+ ming-vs-titan-esports-club-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701037/xi-lai-gaming-vs-titan-esports-club-vct-2026
+ -china-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JDG Esports vs FunPlus Phoenix
+DTSTART:20260715T090000Z
+DTEND:20260715T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701038@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701038/jdg-espor
+ ts-vs-funplus-phoenix-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701038/jdg-esports-vs-funplus-phoenix-vct-2026-chin
+ a-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs TYLOO
+DTSTART:20260715T112000Z
+DTEND:20260715T142000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701039@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701039/edward-ga
+ ming-vs-tyloo-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701039/edward-gaming-vs-tyloo-vct-2026-china-stage-
+ 2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Natus Vincere
+DTSTART:20260715T150000Z
+DTEND:20260715T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712803@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712803/fut-espor
+ ts-vs-natus-vincere-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712803/fut-esports-vs-natus-vincere-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs Eternal Fire
+DTSTART:20260715T171000Z
+DTEND:20260715T201000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712804@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712804/team-liqu
+ id-vs-eternal-fire-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712804/team-liquid-vs-eternal-fire-vct-2026-emea-st
+ age-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Gen.G vs ZETA DIVISION
+DTSTART:20260716T080000Z
+DTEND:20260716T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698884@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/698884/gen-g-v
+ s-zeta-division-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698884/gen-g-vs-zeta-division-vct-2026-pacific-stag
+ e-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Bilibili Gaming
+DTSTART:20260716T090000Z
+DTEND:20260716T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701040@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701040/all-gamer
+ s-vs-bilibili-gaming-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701040/all-gamers-vs-bilibili-gaming-vct-2026-china
+ -stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Team Secret vs VARREL
+DTSTART:20260716T110500Z
+DTEND:20260716T140500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698885@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/698885/team-se
+ cret-vs-varrel-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698885/team-secret-vs-varrel-vct-2026-pacific-stage
+ -2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Dragon Ranger Gaming
+DTSTART:20260716T122500Z
+DTEND:20260716T152500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701041@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701041/xi-lai-ga
+ ming-vs-dragon-ranger-gaming-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701041/xi-lai-gaming-vs-dragon-ranger-gaming-vct-20
+ 26-china-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs GIANTX
+DTSTART:20260716T150000Z
+DTEND:20260716T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712805@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712805/fnatic-vs
+ -giantx-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712805/fnatic-vs-giantx-vct-2026-emea-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] PCIFIC Esports vs Gentle Mates
+DTSTART:20260716T173500Z
+DTEND:20260716T203500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712806@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/712806/pcific-es
+ ports-vs-gentle-mates-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712806/pcific-esports-vs-gentle-mates-vct-2026-emea
+ -stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN vs FURIA
+DTSTART:20260716T210000Z
+DTEND:20260717T000000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706349@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/706349/leviat
+ -n-vs-furia-vct-2026-americas-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706349/leviat-n-vs-furia-vct-2026-americas-stage-2-
+ w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels vs Cloud9
+DTSTART:20260717T002000Z
+DTEND:20260717T032000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706350@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/706350/sentin
+ els-vs-cloud9-vct-2026-americas-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706350/sentinels-vs-cloud9-vct-2026-americas-stage-
+ 2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs JDG Esports
+DTSTART:20260717T070000Z
+DTEND:20260717T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701042@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701042/nova-espo
+ rts-vs-jdg-esports-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701042/nova-esports-vs-jdg-esports-vct-2026-china-s
+ tage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] FULL SENSE vs Nongshim RedForce
+DTSTART:20260717T080000Z
+DTEND:20260717T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698886@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/698886/full-se
+ nse-vs-nongshim-redforce-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698886/full-sense-vs-nongshim-redforce-vct-2026-pac
+ ific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs FunPlus Phoenix
+DTSTART:20260717T100000Z
+DTEND:20260717T130000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701043@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701043/tyloo-vs-
+ funplus-phoenix-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701043/tyloo-vs-funplus-phoenix-vct-2026-china-stag
+ e-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX vs DetonatioN FocusMe
+DTSTART:20260717T110000Z
+DTEND:20260717T140000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698887@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/698887/kiwoom-
+ drx-vs-detonation-focusme-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698887/kiwoom-drx-vs-detonation-focusme-vct-2026-pa
+ cific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs EDward Gaming
+DTSTART:20260717T133000Z
+DTEND:20260717T163000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701044@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701044/trace-esp
+ orts-vs-edward-gaming-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701044/trace-esports-vs-edward-gaming-vct-2026-chin
+ a-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Karmine Corp vs Eternal Fire
+DTSTART:20260717T150000Z
+DTEND:20260717T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712807@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712807/karmine-c
+ orp-vs-eternal-fire-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712807/karmine-corp-vs-eternal-fire-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Vitality vs Natus Vincere
+DTSTART:20260717T172500Z
+DTEND:20260717T202500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712808@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712808/team-vita
+ lity-vs-natus-vincere-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712808/team-vitality-vs-natus-vincere-vct-2026-emea
+ -stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] ENVY vs Evil Geniuses
+DTSTART:20260717T210000Z
+DTEND:20260718T000000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706351@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/706351/envy-v
+ s-evil-geniuses-vct-2026-americas-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706351/envy-vs-evil-geniuses-vct-2026-americas-stag
+ e-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] KRÜ Esports vs LOUD
+DTSTART:20260717T231500Z
+DTEND:20260718T021500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706352@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/706352/kr-esp
+ orts-vs-loud-vct-2026-americas-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706352/kr-esports-vs-loud-vct-2026-americas-stage-2
+ -w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon vs Global Esports
+DTSTART:20260718T080000Z
+DTEND:20260718T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698888@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/698888/rex-reg
+ um-qeon-vs-global-esports-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698888/rex-regum-qeon-vs-global-esports-vct-2026-pa
+ cific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs Bilibili Gaming
+DTSTART:20260718T090000Z
+DTEND:20260718T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701045@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701045/titan-esp
+ orts-club-vs-bilibili-gaming-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701045/titan-esports-club-vs-bilibili-gaming-vct-20
+ 26-china-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Paper Rex vs T1
+DTSTART:20260718T103500Z
+DTEND:20260718T133500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698889@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/698889/paper-r
+ ex-vs-t1-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698889/paper-rex-vs-t1-vct-2026-pacific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Xi Lai Gaming
+DTSTART:20260718T130000Z
+DTEND:20260718T160000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701046@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701046/all-gamer
+ s-vs-xi-lai-gaming-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701046/all-gamers-vs-xi-lai-gaming-vct-2026-china-s
+ tage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs FUT Esports
+DTSTART:20260718T150000Z
+DTEND:20260718T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712809@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712809/gentle-ma
+ tes-vs-fut-esports-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712809/gentle-mates-vs-fut-esports-vct-2026-emea-st
+ age-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Heretics vs Team Liquid
+DTSTART:20260718T172500Z
+DTEND:20260718T202500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712810@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712810/team-here
+ tics-vs-team-liquid-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712810/team-heretics-vs-team-liquid-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports vs 100 Thieves
+DTSTART:20260718T210000Z
+DTEND:20260719T000000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706353@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/706353/g2-esp
+ orts-vs-100-thieves-vct-2026-americas-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706353/g2-esports-vs-100-thieves-vct-2026-americas-
+ stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] NRG vs MIBR
+DTSTART:20260719T003000Z
+DTEND:20260719T033000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706354@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/706354/nrg-vs
+ -mibr-vct-2026-americas-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706354/nrg-vs-mibr-vct-2026-americas-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Nova Esports
+DTSTART:20260719T070000Z
+DTEND:20260719T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701047@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701047/trace-esp
+ orts-vs-nova-esports-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701047/trace-esports-vs-nova-esports-vct-2026-china
+ -stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Nongshim RedForce vs Gen.G
+DTSTART:20260719T080000Z
+DTEND:20260719T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698890@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/698890/nongshi
+ m-redforce-vs-gen-g-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698890/nongshim-redforce-vs-gen-g-vct-2026-pacific-
+ stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Wolves Esports
+DTSTART:20260719T102500Z
+DTEND:20260719T132500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701048@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701048/dragon-ra
+ nger-gaming-vs-wolves-esports-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701048/dragon-ranger-gaming-vs-wolves-esports-vct-2
+ 026-china-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX vs Team Secret
+DTSTART:20260719T110500Z
+DTEND:20260719T140500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698891@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/698891/kiwoom-
+ drx-vs-team-secret-vct-2026-pacific-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698891/kiwoom-drx-vs-team-secret-vct-2026-pacific-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs JDG Esports
+DTSTART:20260719T134500Z
+DTEND:20260719T164500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701049@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701049/edward-ga
+ ming-vs-jdg-esports-vct-2026-china-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701049/edward-gaming-vs-jdg-esports-vct-2026-china-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Karmine Corp
+DTSTART:20260719T140000Z
+DTEND:20260719T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712811@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712811/giantx-vs
+ -karmine-corp-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712811/giantx-vs-karmine-corp-vct-2026-emea-stage-2
+ -w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Vitality vs BBL Esports
+DTSTART:20260719T160500Z
+DTEND:20260719T190500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712812@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712812/team-vita
+ lity-vs-bbl-esports-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712812/team-vitality-vs-bbl-esports-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs All Gamers
+DTSTART:20260720T090000Z
+DTEND:20260720T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701050@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701050/titan-esp
+ orts-club-vs-all-gamers-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701050/titan-esports-club-vs-all-gamers-vct-2026-ch
+ ina-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Bilibili Gaming vs Xi Lai Gaming
+DTSTART:20260720T112500Z
+DTEND:20260720T142500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701051@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701051/bilibili-
+ gaming-vs-xi-lai-gaming-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701051/bilibili-gaming-vs-xi-lai-gaming-vct-2026-ch
+ ina-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JDG Esports vs Trace Esports
+DTSTART:20260721T090000Z
+DTEND:20260721T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701052@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701052/jdg-espor
+ ts-vs-trace-esports-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701052/jdg-esports-vs-trace-esports-vct-2026-china-
+ stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Nova Esports
+DTSTART:20260721T111500Z
+DTEND:20260721T141500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701053@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701053/edward-ga
+ ming-vs-nova-esports-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701053/edward-gaming-vs-nova-esports-vct-2026-china
+ -stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Wolves Esports
+DTSTART:20260722T090000Z
+DTEND:20260722T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701054@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701054/xi-lai-ga
+ ming-vs-wolves-esports-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701054/xi-lai-gaming-vs-wolves-esports-vct-2026-chi
+ na-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Dragon Ranger Gaming
+DTSTART:20260722T122000Z
+DTEND:20260722T152000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701055@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701055/all-gamer
+ s-vs-dragon-ranger-gaming-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701055/all-gamers-vs-dragon-ranger-gaming-vct-2026-
+ china-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs PCIFIC Esports
+DTSTART:20260722T150000Z
+DTEND:20260722T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712814@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712814/fut-espor
+ ts-vs-pcific-esports-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712814/fut-esports-vs-pcific-esports-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs Karmine Corp
+DTSTART:20260722T181500Z
+DTEND:20260722T211500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712815@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712815/fnatic-vs
+ -karmine-corp-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2
+ -w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Global Esports vs FULL SENSE
+DTSTART:20260723T080000Z
+DTEND:20260723T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698892@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/698892/global-
+ esports-vs-full-sense-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698892/global-esports-vs-full-sense-vct-2026-pacifi
+ c-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Nova Esports
+DTSTART:20260723T090000Z
+DTEND:20260723T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701056@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701056/tyloo-vs-
+ nova-esports-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701056/tyloo-vs-nova-esports-vct-2026-china-stage-2
+ -w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 vs VARREL
+DTSTART:20260723T100000Z
+DTEND:20260723T130000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698893@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/698893/t1-vs-v
+ arrel-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698893/t1-vs-varrel-vct-2026-pacific-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs EDward Gaming
+DTSTART:20260723T113500Z
+DTEND:20260723T143500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701057@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701057/funplus-p
+ hoenix-vs-edward-gaming-vct-2026-china-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701057/funplus-phoenix-vs-edward-gaming-vct-2026-ch
+ ina-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs Team Heretics
+DTSTART:20260723T150000Z
+DTEND:20260723T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712816@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712816/eternal-f
+ ire-vs-team-heretics-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712816/eternal-fire-vs-team-heretics-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs Natus Vincere
+DTSTART:20260723T171500Z
+DTEND:20260723T201500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712817@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712817/gentle-ma
+ tes-vs-natus-vincere-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712817/gentle-mates-vs-natus-vincere-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Evil Geniuses vs LEVIATÁN
+DTSTART:20260723T210000Z
+DTEND:20260724T000000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706355@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/706355/evil-g
+ eniuses-vs-leviat-n-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706355/evil-geniuses-vs-leviat-n-vct-2026-americas-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] ENVY vs MIBR
+DTSTART:20260723T230500Z
+DTEND:20260724T020500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706356@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/706356/envy-v
+ s-mibr-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706356/envy-vs-mibr-vct-2026-americas-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon vs ZETA DIVISION
+DTSTART:20260724T080000Z
+DTEND:20260724T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698894@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/698894/rex-reg
+ um-qeon-vs-zeta-division-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698894/rex-regum-qeon-vs-zeta-division-vct-2026-pac
+ ific-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Titan Esports Club
+DTSTART:20260724T090000Z
+DTEND:20260724T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701058@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701058/trace-esp
+ orts-vs-titan-esports-club-vct-2026-china-stage-2-seeding
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701058/trace-esports-vs-titan-esports-club-vct-2026
+ -china-stage-2-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] DetonatioN FocusMe vs Paper Rex
+DTSTART:20260724T100500Z
+DTEND:20260724T130500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698895@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/698895/detonat
+ ion-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698895/detonation-focusme-vs-paper-rex-vct-2026-pac
+ ific-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs All Gamers
+DTSTART:20260724T113500Z
+DTEND:20260724T143500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701059@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701059/edward-ga
+ ming-vs-all-gamers-vct-2026-china-stage-2-seeding
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701059/edward-gaming-vs-all-gamers-vct-2026-china-s
+ tage-2-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs BBL Esports
+DTSTART:20260724T150000Z
+DTEND:20260724T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712818@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712818/fut-espor
+ ts-vs-bbl-esports-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712818/fut-esports-vs-bbl-esports-vct-2026-emea-sta
+ ge-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs FNATIC
+DTSTART:20260724T182000Z
+DTEND:20260724T212000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712819@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712819/team-liqu
+ id-vs-fnatic-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712819/team-liquid-vs-fnatic-vct-2026-emea-stage-2-
+ w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] FURIA vs NRG
+DTSTART:20260724T210000Z
+DTEND:20260725T000000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706357@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/706357/furia-
+ vs-nrg-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706357/furia-vs-nrg-vct-2026-americas-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves vs KRÜ Esports
+DTSTART:20260724T233500Z
+DTEND:20260725T023500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706358@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/706358/100-th
+ ieves-vs-kr-esports-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706358/100-thieves-vs-kr-esports-vct-2026-americas-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Nongshim RedForce vs Global Esports
+DTSTART:20260725T080000Z
+DTEND:20260725T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698897@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/698897/nongshi
+ m-redforce-vs-global-esports-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698897/nongshim-redforce-vs-global-esports-vct-2026
+ -pacific-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JDG Esports vs Dragon Ranger Gaming
+DTSTART:20260725T090000Z
+DTEND:20260725T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701060@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701060/jdg-espor
+ ts-vs-dragon-ranger-gaming-vct-2026-china-stage-2-seeding
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701060/jdg-esports-vs-dragon-ranger-gaming-vct-2026
+ -china-stage-2-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Team Secret vs T1
+DTSTART:20260725T104500Z
+DTEND:20260725T134500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698898@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/698898/team-se
+ cret-vs-t1-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698898/team-secret-vs-t1-vct-2026-pacific-stage-2-w
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Xi Lai Gaming
+DTSTART:20260725T123500Z
+DTEND:20260725T153500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701061@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701061/tyloo-vs-
+ xi-lai-gaming-vct-2026-china-stage-2-seeding
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701061/tyloo-vs-xi-lai-gaming-vct-2026-china-stage-
+ 2-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] PCIFIC Esports vs Team Vitality
+DTSTART:20260725T150000Z
+DTEND:20260725T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712820@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712820/pcific-es
+ ports-vs-team-vitality-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712820/pcific-esports-vs-team-vitality-vct-2026-eme
+ a-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs GIANTX
+DTSTART:20260725T170000Z
+DTEND:20260725T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712821@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712821/eternal-f
+ ire-vs-giantx-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712821/eternal-fire-vs-giantx-vct-2026-emea-stage-2
+ -w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports vs Cloud9
+DTSTART:20260725T210000Z
+DTEND:20260726T000000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706359@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/706359/g2-esp
+ orts-vs-cloud9-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706359/g2-esports-vs-cloud9-vct-2026-americas-stage
+ -2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels vs LOUD
+DTSTART:20260725T225500Z
+DTEND:20260726T015500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706360@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/706360/sentin
+ els-vs-loud-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706360/sentinels-vs-loud-vct-2026-americas-stage-2-
+ w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Paper Rex vs KIWOOM DRX
+DTSTART:20260726T080000Z
+DTEND:20260726T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698899@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 2 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698899/paper-re
+ x-vs-kiwoom-drx-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698899/paper-rex-vs-kiwoom-drx-vct-2026-pacific-sta
+ ge-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs Wolves Esports
+DTSTART:20260726T090000Z
+DTEND:20260726T110000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701062@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Seedi
+ ng Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/701062/funplus-ph
+ oenix-vs-wolves-esports-vct-2026-china-stage-2-seeding
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701062/funplus-phoenix-vs-wolves-esports-vct-2026-c
+ hina-stage-2-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Gen.G vs Rex Regum Qeon
+DTSTART:20260726T100000Z
+DTEND:20260726T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698901@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 2 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698901/gen-g-vs
+ -rex-regum-qeon-vct-2026-pacific-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698901/gen-g-vs-rex-regum-qeon-vct-2026-pacific-sta
+ ge-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs Bilibili Gaming
+DTSTART:20260726T120000Z
+DTEND:20260726T140000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-701063@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,CN
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Seedi
+ ng Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/701063/nova-espor
+ ts-vs-bilibili-gaming-vct-2026-china-stage-2-seeding
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/701063/nova-esports-vs-bilibili-gaming-vct-2026-chi
+ na-stage-2-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs Natus Vincere
+DTSTART:20260726T150000Z
+DTEND:20260726T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712822@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 2 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712822/bbl-esports
+ -vs-natus-vincere-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712822/bbl-esports-vs-natus-vincere-vct-2026-emea-s
+ tage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Heretics vs Karmine Corp
+DTSTART:20260726T180000Z
+DTEND:20260726T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712823@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 2 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712823/team-hereti
+ cs-vs-karmine-corp-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712823/team-heretics-vs-karmine-corp-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] ENVY vs LEVIATÁN
+DTSTART:20260726T210000Z
+DTEND:20260726T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706361@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 2 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706361/envy-vs
+ -leviat-n-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706361/envy-vs-leviat-n-vct-2026-americas-stage-2-w
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] FURIA vs MIBR
+DTSTART:20260727T000000Z
+DTEND:20260727T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706362@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 2 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706362/furia-v
+ s-mibr-vct-2026-americas-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706362/furia-vs-mibr-vct-2026-americas-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Team Liquid
+DTSTART:20260729T150000Z
+DTEND:20260729T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712824@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712824/giantx-vs-t
+ eam-liquid-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712824/giantx-vs-team-liquid-vct-2026-emea-stage-2-
+ w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs Team Vitality
+DTSTART:20260729T180000Z
+DTEND:20260729T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712825@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712825/gentle-mate
+ s-vs-team-vitality-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712825/gentle-mates-vs-team-vitality-vct-2026-emea-
+ stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] VARREL vs DetonatioN FocusMe
+DTSTART:20260730T080000Z
+DTEND:20260730T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698902@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698902/varrel-v
+ s-detonation-focusme-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698902/varrel-vs-detonation-focusme-vct-2026-pacifi
+ c-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] FULL SENSE vs ZETA DIVISION
+DTSTART:20260730T100000Z
+DTEND:20260730T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698903@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698903/full-sen
+ se-vs-zeta-division-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698903/full-sense-vs-zeta-division-vct-2026-pacific
+ -stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Natus Vincere vs PCIFIC Esports
+DTSTART:20260730T150000Z
+DTEND:20260730T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712826@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712826/natus-vince
+ re-vs-pcific-esports-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712826/natus-vincere-vs-pcific-esports-vct-2026-eme
+ a-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs FNATIC
+DTSTART:20260730T180000Z
+DTEND:20260730T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712827@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712827/eternal-fir
+ e-vs-fnatic-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712827/eternal-fire-vs-fnatic-vct-2026-emea-stage-2
+ -w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] KRÜ Esports vs G2 Esports
+DTSTART:20260730T210000Z
+DTEND:20260730T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706364@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706364/kr-espo
+ rts-vs-g2-esports-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706364/kr-esports-vs-g2-esports-vct-2026-americas-s
+ tage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves vs Sentinels
+DTSTART:20260731T000000Z
+DTEND:20260731T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706365@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706365/100-thi
+ eves-vs-sentinels-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706365/100-thieves-vs-sentinels-vct-2026-americas-s
+ tage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Team Secret vs Paper Rex
+DTSTART:20260731T080000Z
+DTEND:20260731T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698904@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698904/team-sec
+ ret-vs-paper-rex-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698904/team-secret-vs-paper-rex-vct-2026-pacific-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Global Esports vs Gen.G
+DTSTART:20260731T100000Z
+DTEND:20260731T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698905@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698905/global-e
+ sports-vs-gen-g-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698905/global-esports-vs-gen-g-vct-2026-pacific-sta
+ ge-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs Gentle Mates
+DTSTART:20260731T150000Z
+DTEND:20260731T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712828@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712828/bbl-esports
+ -vs-gentle-mates-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712828/bbl-esports-vs-gentle-mates-vct-2026-emea-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Team Heretics
+DTSTART:20260731T180000Z
+DTEND:20260731T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712829@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712829/giantx-vs-t
+ eam-heretics-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712829/giantx-vs-team-heretics-vct-2026-emea-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Cloud9 vs LOUD
+DTSTART:20260731T210000Z
+DTEND:20260731T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706366@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706366/cloud9-
+ vs-loud-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706366/cloud9-vs-loud-vct-2026-americas-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Evil Geniuses vs MIBR
+DTSTART:20260801T000000Z
+DTEND:20260801T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706367@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706367/evil-ge
+ niuses-vs-mibr-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706367/evil-geniuses-vs-mibr-vct-2026-americas-stag
+ e-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 vs DetonatioN FocusMe
+DTSTART:20260801T080000Z
+DTEND:20260801T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698906@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698906/t1-vs-de
+ tonation-focusme-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698906/t1-vs-detonation-focusme-vct-2026-pacific-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] FULL SENSE vs Rex Regum Qeon
+DTSTART:20260801T100000Z
+DTEND:20260801T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698907@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698907/full-sen
+ se-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698907/full-sense-vs-rex-regum-qeon-vct-2026-pacifi
+ c-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Team Vitality
+DTSTART:20260801T150000Z
+DTEND:20260801T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712830@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712830/fut-esports
+ -vs-team-vitality-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712830/fut-esports-vs-team-vitality-vct-2026-emea-s
+ tage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Karmine Corp vs Team Liquid
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712831@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712831/karmine-cor
+ p-vs-team-liquid-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712831/karmine-corp-vs-team-liquid-vct-2026-emea-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] ENVY vs FURIA
+DTSTART:20260801T210000Z
+DTEND:20260801T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706368@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706368/envy-vs
+ -furia-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706368/envy-vs-furia-vct-2026-americas-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN vs NRG
+DTSTART:20260802T000000Z
+DTEND:20260802T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706369@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706369/leviat-
+ n-vs-nrg-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706369/leviat-n-vs-nrg-vct-2026-americas-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] VARREL vs KIWOOM DRX
+DTSTART:20260802T080000Z
+DTEND:20260802T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698908@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698908/varrel-v
+ s-kiwoom-drx-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698908/varrel-vs-kiwoom-drx-vct-2026-pacific-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] ZETA DIVISION vs Nongshim RedForce
+DTSTART:20260802T100000Z
+DTEND:20260802T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698909@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698909/zeta-div
+ ision-vs-nongshim-redforce-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698909/zeta-division-vs-nongshim-redforce-vct-2026-
+ pacific-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs PCIFIC Esports
+DTSTART:20260802T150000Z
+DTEND:20260802T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712832@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712832/bbl-esports
+ -vs-pcific-esports-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712832/bbl-esports-vs-pcific-esports-vct-2026-emea-
+ stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs Team Heretics
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712833@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
+ 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712833/fnatic-vs-t
+ eam-heretics-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712833/fnatic-vs-team-heretics-vct-2026-emea-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Cloud9 vs KRÜ Esports
+DTSTART:20260802T210000Z
+DTEND:20260802T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706370@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706370/cloud9-
+ vs-kr-esports-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706370/cloud9-vs-kr-esports-vct-2026-americas-stage
+ -2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports vs Sentinels
+DTSTART:20260803T000000Z
+DTEND:20260803T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706371@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706371/g2-espo
+ rts-vs-sentinels-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706371/g2-esports-vs-sentinels-vct-2026-americas-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Evil Geniuses vs FURIA
+DTSTART:20260806T210000Z
+DTEND:20260806T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706372@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706372/evil-ge
+ niuses-vs-furia-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706372/evil-geniuses-vs-furia-vct-2026-americas-sta
+ ge-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] ENVY vs NRG
+DTSTART:20260807T000000Z
+DTEND:20260807T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706373@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706373/envy-vs
+ -nrg-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Team Secret vs DetonatioN FocusMe
+DTSTART:20260807T080000Z
+DTEND:20260807T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698910@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698910/team-sec
+ ret-vs-detonation-focusme-vct-2026-pacific-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698910/team-secret-vs-detonation-focusme-vct-2026-p
+ acific-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Gen.G vs FULL SENSE
+DTSTART:20260807T100000Z
+DTEND:20260807T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698911@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698911/gen-g-vs
+ -full-sense-vct-2026-pacific-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698911/gen-g-vs-full-sense-vct-2026-pacific-stage-2
+ -w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves vs Cloud9
+DTSTART:20260807T210000Z
+DTEND:20260807T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706374@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706374/100-thi
+ eves-vs-cloud9-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706374/100-thieves-vs-cloud9-vct-2026-americas-stag
+ e-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports vs LOUD
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706375@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706375/g2-espo
+ rts-vs-loud-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706375/g2-esports-vs-loud-vct-2026-americas-stage-2
+ -w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX vs T1
+DTSTART:20260808T080000Z
+DTEND:20260808T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698912@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698912/kiwoom-d
+ rx-vs-t1-vct-2026-pacific-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698912/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Global Esports vs ZETA DIVISION
+DTSTART:20260808T100000Z
+DTEND:20260808T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698913@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698913/global-e
+ sports-vs-zeta-division-vct-2026-pacific-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698913/global-esports-vs-zeta-division-vct-2026-pac
+ ific-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] KRÜ Esports vs Sentinels
+DTSTART:20260808T210000Z
+DTEND:20260808T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706376@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706376/kr-espo
+ rts-vs-sentinels-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706376/kr-esports-vs-sentinels-vct-2026-americas-st
+ age-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN vs MIBR
+DTSTART:20260809T000000Z
+DTEND:20260809T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706377@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706377/leviat-
+ n-vs-mibr-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706377/leviat-n-vs-mibr-vct-2026-americas-stage-2-w
+ 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] VARREL vs Paper Rex
+DTSTART:20260809T080000Z
+DTEND:20260809T100000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698914@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698914/varrel-v
+ s-paper-rex-vct-2026-pacific-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698914/varrel-vs-paper-rex-vct-2026-pacific-stage-2
+ -w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Nongshim RedForce vs Rex Regum Qeon
+DTSTART:20260809T100000Z
+DTEND:20260809T120000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-698915@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,PAC
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
+ k 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698915/nongshim
+ -redforce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/698915/nongshim-redforce-vs-rex-regum-qeon-vct-2026
+ -pacific-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Evil Geniuses vs NRG
+DTSTART:20260809T210000Z
+DTEND:20260809T230000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706378@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706378/evil-ge
+ niuses-vs-nrg-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage
+ -2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LOUD vs 100 Thieves
+DTSTART:20260810T000000Z
+DTEND:20260810T020000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-706379@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026,Stage 2,AMER
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
+ ek 4 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706379/loud-vs
+ -100-thieves-vct-2026-americas-stage-2-w4
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/706379/loud-vs-100-thieves-vct-2026-americas-stage-
+ 2-w4
+END:VEVENT
 END:VCALENDAR
