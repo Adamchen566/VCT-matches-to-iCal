@@ -1,5 +1,5 @@
-ics
-icalendar
-requests
-beautifulsoup4
-pytz
+ics==0.7.3
+icalendar==7.2.2
+requests==2.34.2
+beautifulsoup4==4.15.0
+pytz==2026.3.post1
