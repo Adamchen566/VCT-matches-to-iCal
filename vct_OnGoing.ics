@@ -1587,14 +1587,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] VARREL vs DetonatioN FocusMe
 DTSTART:20260730T080000Z
 DTEND:20260730T100000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260731T064107Z
 UID:vlr-698902@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
- k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698902/varrel-v
- s-detonation-focusme-vct-2026-pacific-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/698902/varrel-
+ vs-detonation-focusme-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1605,14 +1605,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] FULL SENSE vs ZETA DIVISION
 DTSTART:20260730T100000Z
 DTEND:20260730T120000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260731T064107Z
 UID:vlr-698903@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Wee
- k 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/698903/full-sen
- se-vs-zeta-division-vct-2026-pacific-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/698903/full-se
+ nse-vs-zeta-division-vct-2026-pacific-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1623,14 +1623,14 @@ BEGIN:VEVENT
 SUMMARY:[EMEA] Natus Vincere vs PCIFIC Esports
 DTSTART:20260730T150000Z
 DTEND:20260730T170000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260731T064107Z
 UID:vlr-712826@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,EMEA
-DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
- 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712826/natus-vince
- re-vs-pcific-esports-vct-2026-emea-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712826/natus-vin
+ cere-vs-pcific-esports-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1641,14 +1641,14 @@ BEGIN:VEVENT
 SUMMARY:[EMEA] Eternal Fire vs FNATIC
 DTSTART:20260730T180000Z
 DTEND:20260730T200000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260731T064107Z
 UID:vlr-712827@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,EMEA
-DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Week 
- 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/712827/eternal-fir
- e-vs-fnatic-vct-2026-emea-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712827/eternal-f
+ ire-vs-fnatic-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1659,14 +1659,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] KRÜ Esports vs G2 Esports
 DTSTART:20260730T210000Z
 DTEND:20260730T230000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260731T064107Z
 UID:vlr-706364@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
- ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706364/kr-espo
- rts-vs-g2-esports-vct-2026-americas-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/706364/kr-esp
+ orts-vs-g2-esports-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1677,14 +1677,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] 100 Thieves vs Sentinels
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260731T064107Z
 UID:vlr-706365@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：We
- ek 3 Group Stage\n比分：TBD\nVLR：https://www.vlr.gg/706365/100-thi
- eves-vs-sentinels-vct-2026-americas-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/706365/100-th
+ ieves-vs-sentinels-vct-2026-americas-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2013,40 +2013,40 @@ URL:https://www.vlr.gg/706371/g2-esports-vs-sentinels-vct-2026-americas-st
  age-2-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] Trace Esports vs TBD
+SUMMARY:[CN] Trace Esports vs A Team
 DTSTART:20260805T080000Z
 DTEND:20260805T100000Z
-DTSTAMP:20260728T062346Z
+DTSTAMP:20260731T064107Z
 UID:vlr-724619@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Upper
   Round 1 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/724619/trace-
- esports-vs-tbd-vct-2026-china-stage-2-ur1
-LAST-MODIFIED:20260728T062346Z
+ esports-vs-a-team-vct-2026-china-stage-2-ur1
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/724619/trace-esports-vs-tbd-vct-2026-china-stage-2-
- ur1
+URL:https://www.vlr.gg/724619/trace-esports-vs-a-team-vct-2026-china-stage
+ -2-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] Titan Esports Club vs TBD
+SUMMARY:[CN] Titan Esports Club vs KeepBest Gaming
 DTSTART:20260805T100000Z
 DTEND:20260805T120000Z
-DTSTAMP:20260728T062346Z
+DTSTAMP:20260731T064107Z
 UID:vlr-724620@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Upper
   Round 1 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/724620/titan-
- esports-club-vs-tbd-vct-2026-china-stage-2-ur1
-LAST-MODIFIED:20260728T062346Z
+ esports-club-vs-keepbest-gaming-vct-2026-china-stage-2-ur1
+LAST-MODIFIED:20260731T064107Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/724620/titan-esports-club-vs-tbd-vct-2026-china-sta
- ge-2-ur1
+URL:https://www.vlr.gg/724620/titan-esports-club-vs-keepbest-gaming-vct-20
+ 26-china-stage-2-ur1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CN] FunPlus Phoenix vs JDG Esports
