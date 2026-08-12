@@ -61,17 +61,17 @@ URL:https://www.vlr.gg/701027/funplus-phoenix-vs-trace-esports-vct-2026-ch
  ina-stage-2-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] JDG Esports vs TYLOO
+SUMMARY:[CN] JD Gaming vs TYLOO
 DTSTART:20260710T101000Z
 DTEND:20260710T131000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260812T052823Z
 UID:vlr-701028@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
   1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701028/jdg-espor
  ts-vs-tyloo-vct-2026-china-stage-2-w1
-LAST-MODIFIED:20260726T053252Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -187,17 +187,17 @@ URL:https://www.vlr.gg/701037/xi-lai-gaming-vs-titan-esports-club-vct-2026
  -china-stage-2-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] JDG Esports vs FunPlus Phoenix
+SUMMARY:[CN] JD Gaming vs FunPlus Phoenix
 DTSTART:20260715T090000Z
 DTEND:20260715T120000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260812T052823Z
 UID:vlr-701038@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
   2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/701038/jdg-espor
  ts-vs-funplus-phoenix-vct-2026-china-stage-2-w2
-LAST-MODIFIED:20260726T053252Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -402,17 +402,17 @@ URL:https://www.vlr.gg/706350/sentinels-vs-cloud9-vct-2026-americas-stage-
  2-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] Nova Esports vs JDG Esports
+SUMMARY:[CN] Nova Esports vs JD Gaming
 DTSTART:20260717T070000Z
 DTEND:20260717T100000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260812T052823Z
 UID:vlr-701042@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
   2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/701042/nova-espo
  rts-vs-jdg-esports-vct-2026-china-stage-2-w2
-LAST-MODIFIED:20260726T053252Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -778,17 +778,17 @@ URL:https://www.vlr.gg/698891/kiwoom-drx-vs-team-secret-vct-2026-pacific-s
  tage-2-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] EDward Gaming vs JDG Esports
+SUMMARY:[CN] EDward Gaming vs JD Gaming
 DTSTART:20260719T134500Z
 DTEND:20260719T164500Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260812T052823Z
 UID:vlr-701049@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
   2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701049/edward-ga
  ming-vs-jdg-esports-vct-2026-china-stage-2-w2
-LAST-MODIFIED:20260726T053252Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -868,17 +868,17 @@ URL:https://www.vlr.gg/701051/bilibili-gaming-vs-xi-lai-gaming-vct-2026-ch
  ina-stage-2-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] JDG Esports vs Trace Esports
+SUMMARY:[CN] JD Gaming vs Trace Esports
 DTSTART:20260721T090000Z
 DTEND:20260721T120000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260812T052823Z
 UID:vlr-701052@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Week
   3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/701052/jdg-espor
  ts-vs-trace-esports-vct-2026-china-stage-2-w3
-LAST-MODIFIED:20260726T053252Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1279,17 +1279,17 @@ URL:https://www.vlr.gg/698897/nongshim-redforce-vs-global-esports-vct-2026
  -pacific-stage-2-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] JDG Esports vs Dragon Ranger Gaming
+SUMMARY:[CN] JD Gaming vs Dragon Ranger Gaming
 DTSTART:20260725T090000Z
 DTEND:20260725T120000Z
-DTSTAMP:20260726T053252Z
+DTSTAMP:20260812T052823Z
 UID:vlr-701060@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Seed
  ing Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/701060/jdg-espor
  ts-vs-dragon-ranger-gaming-vct-2026-china-stage-2-seeding
-LAST-MODIFIED:20260726T053252Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2049,17 +2049,17 @@ URL:https://www.vlr.gg/724620/titan-esports-club-vs-keepbest-gaming-vct-20
  26-china-stage-2-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] FunPlus Phoenix vs JDG Esports
+SUMMARY:[CN] FunPlus Phoenix vs JD Gaming
 DTSTART:20260806T080000Z
 DTEND:20260806T100000Z
-DTSTAMP:20260807T053800Z
+DTSTAMP:20260812T052823Z
 UID:vlr-724621@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Uppe
  r Quarterfinals Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/724621/
  funplus-phoenix-vs-jdg-esports-vct-2026-china-stage-2-ubqf
-LAST-MODIFIED:20260807T053800Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2587,17 +2587,17 @@ URL:https://www.vlr.gg/706379/loud-vs-100-thieves-vct-2026-americas-stage-
  2-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] All Gamers vs JDG Esports
+SUMMARY:[CN] All Gamers vs JD Gaming
 DTSTART:20260810T080000Z
 DTEND:20260810T100000Z
-DTSTAMP:20260811T050402Z
+DTSTAMP:20260812T052823Z
 UID:vlr-724629@vct-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Uppe
  r Semifinals Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/724629/all
  -gamers-vs-jdg-esports-vct-2026-china-stage-2-ubsf
-LAST-MODIFIED:20260811T050402Z
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2623,17 +2623,17 @@ URL:https://www.vlr.gg/724630/titan-esports-club-vs-dragon-ranger-gaming-v
  ct-2026-china-stage-2-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] JDG Esports vs EDward Gaming
+SUMMARY:[CN] JD Gaming vs EDward Gaming
 DTSTART:20260811T080000Z
 DTEND:20260811T100000Z
-DTSTAMP:20260811T050402Z
+DTSTAMP:20260812T052823Z
 UID:vlr-724631@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,CN
-DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Lower
-  Round 3 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/724631/jdg-es
- ports-vs-edward-gaming-vct-2026-china-stage-2-lr3
-LAST-MODIFIED:20260811T050402Z
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Lowe
+ r Round 3 Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/724631/jdg-e
+ sports-vs-edward-gaming-vct-2026-china-stage-2-lr3
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2644,14 +2644,14 @@ BEGIN:VEVENT
 SUMMARY:[CN] Dragon Ranger Gaming vs Trace Esports
 DTSTART:20260811T100000Z
 DTEND:20260811T120000Z
-DTSTAMP:20260811T050402Z
+DTSTAMP:20260812T052823Z
 UID:vlr-724632@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,CN
-DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Lower
-  Round 3 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/724632/dragon
- -ranger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3
-LAST-MODIFIED:20260811T050402Z
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Lowe
+ r Round 3 Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/724632/drago
+ n-ranger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2677,21 +2677,22 @@ URL:https://www.vlr.gg/724633/all-gamers-vs-titan-esports-club-vct-2026-ch
  ina-stage-2-ubf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CN] TBD vs TBD
+SUMMARY:[CN] JD Gaming vs Trace Esports
 DTSTART:20260812T100000Z
 DTEND:20260812T120000Z
-DTSTAMP:20260728T062346Z
+DTSTAMP:20260812T052823Z
 UID:vlr-724634@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,CN
 DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Lower
-  Final Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/724634/tbd-vct-2
- 026-china-stage-2-lbf
-LAST-MODIFIED:20260728T062346Z
+  Final Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/724634/jdg-espor
+ ts-vs-trace-esports-vct-2026-china-stage-2-lbf
+LAST-MODIFIED:20260812T052823Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/724634/tbd-vct-2026-china-stage-2-lbf
+URL:https://www.vlr.gg/724634/jdg-esports-vs-trace-esports-vct-2026-china-
+ stage-2-lbf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[EMEA] Gentle Mates vs Eintracht Frankfurt
