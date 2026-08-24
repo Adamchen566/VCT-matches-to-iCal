@@ -3792,14 +3792,14 @@ BEGIN:VEVENT
 SUMMARY:[CN] JD Gaming vs TYLOO
 DTSTART:20260823T080000Z
 DTEND:20260823T120000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-724645@vct-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:VCT 2026,Stage 2,CN
-DESCRIPTION:VCT 2026: China Stage 2\n状态：Upcoming\n阶段：Grand
-  Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/724645/jd-gaming
- -vs-tyloo-vct-2026-china-stage-2-gf
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: China Stage 2\n状态：Completed\n阶段：Gran
+ d Final Playoffs\n比分：1:3\nVLR：https://www.vlr.gg/724645/jd-gamin
+ g-vs-tyloo-vct-2026-china-stage-2-gf
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT CN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3809,14 +3809,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Sharper Esports vs ONSIDE GAMING
 DTSTART:20260823T080000Z
 DTEND:20260823T100000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-730551@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 3 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/730551/shar
- per-esports-vs-onside-gaming-vct-2026-pacific-stage-2-lr3
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 3 Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/730551/sha
+ rper-esports-vs-onside-gaming-vct-2026-pacific-stage-2-lr3
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3827,14 +3827,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] T1 vs DetonatioN FocusMe
 DTSTART:20260823T110000Z
 DTEND:20260823T130000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-730552@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 3 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/730552/t1-v
- s-detonation-focusme-vct-2026-pacific-stage-2-lr3
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 3 Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/730552/t1-
+ vs-detonation-focusme-vct-2026-pacific-stage-2-lr3
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3845,14 +3845,14 @@ BEGIN:VEVENT
 SUMMARY:[EMEA] Enterprise Esports vs Team Liquid
 DTSTART:20260823T140000Z
 DTEND:20260823T160000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-731404@vct-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:VCT 2026,Stage 2,EMEA
-DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Lower
-  Round 2 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/731404/enterp
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/731404/enterp
  rise-esports-vs-team-liquid-vct-2026-emea-stage-2-lr2
-LAST-MODIFIED:20260823T043319Z
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3863,14 +3863,14 @@ BEGIN:VEVENT
 SUMMARY:[EMEA] BBL Esports vs Fire Flux Esports
 DTSTART:20260823T170000Z
 DTEND:20260823T190000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-731406@vct-calendar
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:VCT 2026,Stage 2,EMEA
-DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Lower
-  Round 2 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/731406/bbl-es
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/731406/bbl-es
  ports-vs-fire-flux-esports-vct-2026-emea-stage-2-lr2
-LAST-MODIFIED:20260823T043319Z
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3881,14 +3881,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] ENVY vs G2 Esports
 DTSTART:20260823T210000Z
 DTEND:20260823T230000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-729758@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Lo
- wer Round 3 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/729758/env
- y-vs-g2-esports-vct-2026-americas-stage-2-lr3
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 3 Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/729758/en
+ vy-vs-g2-esports-vct-2026-americas-stage-2-lr3
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3899,14 +3899,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] Evil Geniuses vs KRÜ Esports
 DTSTART:20260824T000000Z
 DTEND:20260824T020000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-729759@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Lo
- wer Round 3 Play-Ins\n比分：TBD\nVLR：https://www.vlr.gg/729759/evi
- l-geniuses-vs-kr-esports-vct-2026-americas-stage-2-lr3
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 3 Play-Ins\n比分：2:1\nVLR：https://www.vlr.gg/729759/ev
+ il-geniuses-vs-kr-esports-vct-2026-americas-stage-2-lr3
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3914,40 +3914,40 @@ URL:https://www.vlr.gg/729759/evil-geniuses-vs-kr-esports-vct-2026-america
  s-stage-2-lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Paper Rex vs TBD
+SUMMARY:[PAC] Paper Rex vs Nongshim RedForce
 DTSTART:20260826T080000Z
 DTEND:20260826T100000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-742476@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
  er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742476/pape
- r-rex-vs-tbd-vct-2026-pacific-stage-2-ur1
-LAST-MODIFIED:20260823T043319Z
+ r-rex-vs-nongshim-redforce-vct-2026-pacific-stage-2-ur1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742476/paper-rex-vs-tbd-vct-2026-pacific-stage-2-ur
- 1
+URL:https://www.vlr.gg/742476/paper-rex-vs-nongshim-redforce-vct-2026-paci
+ fic-stage-2-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Global Esports vs TBD
+SUMMARY:[PAC] Global Esports vs KIWOOM DRX
 DTSTART:20260826T110000Z
 DTEND:20260826T130000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-742477@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
  er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742477/glob
- al-esports-vs-tbd-vct-2026-pacific-stage-2-ur1
-LAST-MODIFIED:20260823T043319Z
+ al-esports-vs-kiwoom-drx-vct-2026-pacific-stage-2-ur1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742477/global-esports-vs-tbd-vct-2026-pacific-stage
- -2-ur1
+URL:https://www.vlr.gg/742477/global-esports-vs-kiwoom-drx-vct-2026-pacifi
+ c-stage-2-ur1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PAC] Gen.G vs TBD
@@ -3984,73 +3984,74 @@ TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/742479/varrel-vs-tbd-vct-2026-pacific-stage-2-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LOUD vs TBD
+SUMMARY:[AMER] LOUD vs FURIA
 DTSTART:20260827T210000Z
 DTEND:20260827T230000Z
-DTSTAMP:20260810T052324Z
+DTSTAMP:20260824T044027Z
 UID:vlr-734302@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
 DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Up
  per Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734302/lou
- d-vs-tbd-vct-2026-americas-stage-2-ur1
-LAST-MODIFIED:20260810T052324Z
+ d-vs-furia-vct-2026-americas-stage-2-ur1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/734302/loud-vs-tbd-vct-2026-americas-stage-2-ur1
+URL:https://www.vlr.gg/734302/loud-vs-furia-vct-2026-americas-stage-2-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LEVIATÁN vs TBD
+SUMMARY:[AMER] LEVIATÁN vs MIBR
 DTSTART:20260828T000000Z
 DTEND:20260828T020000Z
-DTSTAMP:20260810T052324Z
+DTSTAMP:20260824T044027Z
 UID:vlr-734303@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
 DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Up
  per Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734303/lev
- iat-n-vs-tbd-vct-2026-americas-stage-2-ur1
-LAST-MODIFIED:20260810T052324Z
+ iat-n-vs-mibr-vct-2026-americas-stage-2-ur1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/734303/leviat-n-vs-tbd-vct-2026-americas-stage-2-ur
- 1
+URL:https://www.vlr.gg/734303/leviat-n-vs-mibr-vct-2026-americas-stage-2-u
+ r1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] TBD vs ONSIDE GAMING
 DTSTART:20260828T080000Z
 DTEND:20260828T100000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-742482@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742482/tbd-
- vct-2026-pacific-stage-2-lr1
-LAST-MODIFIED:20260823T043319Z
+ er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742482/onsi
+ de-gaming-vs-tbd-vct-2026-pacific-stage-2-lr1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742482/tbd-vct-2026-pacific-stage-2-lr1
+URL:https://www.vlr.gg/742482/onside-gaming-vs-tbd-vct-2026-pacific-stage-
+ 2-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] TBD vs T1
 DTSTART:20260828T110000Z
 DTEND:20260828T130000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260824T044027Z
 UID:vlr-742483@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742483/tbd-
- vct-2026-pacific-stage-2-lr1
-LAST-MODIFIED:20260823T043319Z
+ er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742483/t1-v
+ s-tbd-vct-2026-pacific-stage-2-lr1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742483/tbd-vct-2026-pacific-stage-2-lr1
+URL:https://www.vlr.gg/742483/t1-vs-tbd-vct-2026-pacific-stage-2-lr1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[EMEA] FUT Esports vs Karmine Corp
@@ -4071,21 +4072,22 @@ URL:https://www.vlr.gg/731400/fut-esports-vs-karmine-corp-vct-2026-emea-st
  age-2-ubf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] TBD vs TBD
+SUMMARY:[EMEA] Team Liquid vs Fire Flux Esports
 DTSTART:20260828T170000Z
 DTEND:20260828T190000Z
-DTSTAMP:20260821T043354Z
+DTSTAMP:20260824T044027Z
 UID:vlr-731407@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,EMEA
 DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Upcoming\n阶段：Lower
-  Round 3 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/731407/tbd-vc
- t-2026-emea-stage-2-lr3
-LAST-MODIFIED:20260821T043354Z
+  Round 3 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/731407/team-l
+ iquid-vs-fire-flux-esports-vct-2026-emea-stage-2-lr3
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/731407/tbd-vct-2026-emea-stage-2-lr3
+URL:https://www.vlr.gg/731407/team-liquid-vs-fire-flux-esports-vct-2026-em
+ ea-stage-2-lr3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[AMER] NRG vs TBD
@@ -4174,38 +4176,40 @@ TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/731408/tbd-vct-2026-emea-stage-2-lbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] TBD vs TBD
+SUMMARY:[AMER] TBD vs G2 Esports
 DTSTART:20260829T210000Z
 DTEND:20260829T230000Z
-DTSTAMP:20260810T052324Z
+DTSTAMP:20260824T044027Z
 UID:vlr-734309@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
 DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Lo
- wer Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734309/tbd
- -vct-2026-americas-stage-2-lr1
-LAST-MODIFIED:20260810T052324Z
+ wer Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734309/g2-
+ esports-vs-tbd-vct-2026-americas-stage-2-lr1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/734309/tbd-vct-2026-americas-stage-2-lr1
+URL:https://www.vlr.gg/734309/g2-esports-vs-tbd-vct-2026-americas-stage-2-
+ lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] TBD vs TBD
+SUMMARY:[AMER] TBD vs Evil Geniuses
 DTSTART:20260830T000000Z
 DTEND:20260830T020000Z
-DTSTAMP:20260810T052324Z
+DTSTAMP:20260824T044027Z
 UID:vlr-734310@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
 DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Lo
- wer Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734310/tbd
- -vct-2026-americas-stage-2-lr1
-LAST-MODIFIED:20260810T052324Z
+ wer Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734310/evi
+ l-geniuses-vs-tbd-vct-2026-americas-stage-2-lr1
+LAST-MODIFIED:20260824T044027Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/734310/tbd-vct-2026-americas-stage-2-lr1
+URL:https://www.vlr.gg/734310/evil-geniuses-vs-tbd-vct-2026-americas-stage
+ -2-lr1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[EMEA] TBD vs TBD
