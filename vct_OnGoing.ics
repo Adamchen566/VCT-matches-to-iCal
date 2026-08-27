@@ -3917,14 +3917,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Paper Rex vs Nongshim RedForce
 DTSTART:20260826T080000Z
 DTEND:20260826T100000Z
-DTSTAMP:20260824T044027Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742476@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
- er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742476/pape
- r-rex-vs-nongshim-redforce-vct-2026-pacific-stage-2-ur1
-LAST-MODIFIED:20260824T044027Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/742476/pap
+ er-rex-vs-nongshim-redforce-vct-2026-pacific-stage-2-ur1
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3935,14 +3935,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Global Esports vs KIWOOM DRX
 DTSTART:20260826T110000Z
 DTEND:20260826T130000Z
-DTSTAMP:20260824T044027Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742477@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
- er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742477/glob
- al-esports-vs-kiwoom-drx-vct-2026-pacific-stage-2-ur1
-LAST-MODIFIED:20260824T044027Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/742477/glo
+ bal-esports-vs-kiwoom-drx-vct-2026-pacific-stage-2-ur1
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3950,38 +3950,40 @@ URL:https://www.vlr.gg/742477/global-esports-vs-kiwoom-drx-vct-2026-pacifi
  c-stage-2-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Gen.G vs TBD
+SUMMARY:[PAC] Gen.G vs Nongshim RedForce
 DTSTART:20260827T080000Z
 DTEND:20260827T100000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742478@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
- er Semifinals Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742478/ge
- n-g-vs-tbd-vct-2026-pacific-stage-2-ubsf
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Semifinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/742478/g
+ en-g-vs-nongshim-redforce-vct-2026-pacific-stage-2-ubsf
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742478/gen-g-vs-tbd-vct-2026-pacific-stage-2-ubsf
+URL:https://www.vlr.gg/742478/gen-g-vs-nongshim-redforce-vct-2026-pacific-
+ stage-2-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] VARREL vs TBD
+SUMMARY:[PAC] VARREL vs Global Esports
 DTSTART:20260827T110000Z
 DTEND:20260827T130000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742479@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
- er Semifinals Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742479/va
- rrel-vs-tbd-vct-2026-pacific-stage-2-ubsf
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Semifinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/742479/v
+ arrel-vs-global-esports-vct-2026-pacific-stage-2-ubsf
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742479/varrel-vs-tbd-vct-2026-pacific-stage-2-ubsf
+URL:https://www.vlr.gg/742479/varrel-vs-global-esports-vct-2026-pacific-st
+ age-2-ubsf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[AMER] LOUD vs FURIA
@@ -4019,39 +4021,40 @@ URL:https://www.vlr.gg/734303/leviat-n-vs-mibr-vct-2026-americas-stage-2-u
  r1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs ONSIDE GAMING
+SUMMARY:[PAC] Paper Rex vs ONSIDE GAMING
 DTSTART:20260828T080000Z
 DTEND:20260828T100000Z
-DTSTAMP:20260824T044027Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742482@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742482/onsi
- de-gaming-vs-tbd-vct-2026-pacific-stage-2-lr1
-LAST-MODIFIED:20260824T044027Z
+ er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742482/pape
+ r-rex-vs-onside-gaming-vct-2026-pacific-stage-2-lr1
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742482/onside-gaming-vs-tbd-vct-2026-pacific-stage-
- 2-lr1
+URL:https://www.vlr.gg/742482/paper-rex-vs-onside-gaming-vct-2026-pacific-
+ stage-2-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs T1
+SUMMARY:[PAC] KIWOOM DRX vs T1
 DTSTART:20260828T110000Z
 DTEND:20260828T130000Z
-DTSTAMP:20260824T044027Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742483@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742483/t1-v
- s-tbd-vct-2026-pacific-stage-2-lr1
-LAST-MODIFIED:20260824T044027Z
+ er Round 1 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742483/kiwo
+ om-drx-vs-t1-vct-2026-pacific-stage-2-lr1
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742483/t1-vs-tbd-vct-2026-pacific-stage-2-lr1
+URL:https://www.vlr.gg/742483/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-lr
+ 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[EMEA] FUT Esports vs Karmine Corp
@@ -4125,38 +4128,38 @@ URL:https://www.vlr.gg/734305/100-thieves-vs-tbd-vct-2026-americas-stage-2
  -ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] VARREL vs TBD
 DTSTART:20260829T080000Z
 DTEND:20260829T100000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742484@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 2 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742484/tbd-
- vct-2026-pacific-stage-2-lr2
-LAST-MODIFIED:20260823T043319Z
+ er Round 2 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742484/varr
+ el-vs-tbd-vct-2026-pacific-stage-2-lr2
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742484/tbd-vct-2026-pacific-stage-2-lr2
+URL:https://www.vlr.gg/742484/varrel-vs-tbd-vct-2026-pacific-stage-2-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] Gen.G vs TBD
 DTSTART:20260829T110000Z
 DTEND:20260829T130000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742485@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 2 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742485/tbd-
- vct-2026-pacific-stage-2-lr2
-LAST-MODIFIED:20260823T043319Z
+ er Round 2 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742485/gen-
+ g-vs-tbd-vct-2026-pacific-stage-2-lr2
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742485/tbd-vct-2026-pacific-stage-2-lr2
+URL:https://www.vlr.gg/742485/gen-g-vs-tbd-vct-2026-pacific-stage-2-lr2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[EMEA] TBD vs TBD
@@ -4263,21 +4266,22 @@ TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/734312/tbd-vct-2026-americas-stage-2-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] Nongshim RedForce vs Global Esports
 DTSTART:20260904T080000Z
 DTEND:20260904T100000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260827T145758Z
 UID:vlr-742480@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
- er Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742480/tbd-vct
- -2026-pacific-stage-2-ubf
-LAST-MODIFIED:20260823T043319Z
+ er Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742480/nongshi
+ m-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf
+LAST-MODIFIED:20260827T145758Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742480/tbd-vct-2026-pacific-stage-2-ubf
+URL:https://www.vlr.gg/742480/nongshim-redforce-vs-global-esports-vct-2026
+ -pacific-stage-2-ubf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PAC] TBD vs TBD
