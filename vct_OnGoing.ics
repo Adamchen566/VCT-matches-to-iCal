@@ -4273,14 +4273,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Nongshim RedForce vs Global Esports
 DTSTART:20260904T080000Z
 DTEND:20260904T100000Z
-DTSTAMP:20260827T145758Z
+DTSTAMP:20260904T082635Z
 UID:vlr-742480@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Upp
- er Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742480/nongshi
- m-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf
-LAST-MODIFIED:20260827T145758Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：LIVE\n阶段：Upper 
+ Final Playoffs\n比分：0:0\nVLR：https://www.vlr.gg/742480/nongshim-re
+ dforce-vs-global-esports-vct-2026-pacific-stage-2-ubf
+LAST-MODIFIED:20260904T082635Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
