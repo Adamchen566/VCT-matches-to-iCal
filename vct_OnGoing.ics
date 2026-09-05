@@ -4273,14 +4273,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Nongshim RedForce vs Global Esports
 DTSTART:20260904T080000Z
 DTEND:20260904T100000Z
-DTSTAMP:20260904T082635Z
+DTSTAMP:20260905T080110Z
 UID:vlr-742480@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：LIVE\n阶段：Upper 
- Final Playoffs\n比分：0:0\nVLR：https://www.vlr.gg/742480/nongshim-re
- dforce-vs-global-esports-vct-2026-pacific-stage-2-ubf
-LAST-MODIFIED:20260904T082635Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Final Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/742480/nongsh
+ im-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4291,14 +4291,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] VARREL vs T1
 DTSTART:20260904T110000Z
 DTEND:20260904T130000Z
-DTSTAMP:20260830T094234Z
+DTSTAMP:20260905T080110Z
 UID:vlr-742486@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Round 3 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742486/varr
- el-vs-t1-vct-2026-pacific-stage-2-lr3
-LAST-MODIFIED:20260830T094234Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 3 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/742486/var
+ rel-vs-t1-vct-2026-pacific-stage-2-lr3
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4308,14 +4308,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] NRG vs 100 Thieves
 DTSTART:20260904T170000Z
 DTEND:20260904T190000Z
-DTSTAMP:20260829T104357Z
+DTSTAMP:20260905T080110Z
 UID:vlr-734307@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Up
- per Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734307/nrg-vs
- -100-thieves-vct-2026-americas-stage-2-ubf
-LAST-MODIFIED:20260829T104357Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：U
+ pper Final Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/734307/nrg-v
+ s-100-thieves-vct-2026-americas-stage-2-ubf
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4326,14 +4326,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] G2 Esports vs LOUD
 DTSTART:20260904T200000Z
 DTEND:20260904T220000Z
-DTSTAMP:20260831T102808Z
+DTSTAMP:20260905T080110Z
 UID:vlr-734313@vct-calendar
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Lo
- wer Round 3 Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734313/g2-
- esports-vs-loud-vct-2026-americas-stage-2-lr3
-LAST-MODIFIED:20260831T102808Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 3 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/734313/g2
+ -esports-vs-loud-vct-2026-americas-stage-2-lr3
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4341,71 +4341,74 @@ URL:https://www.vlr.gg/734313/g2-esports-vs-loud-vct-2026-americas-stage-2
  -lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] Global Esports vs T1
 DTSTART:20260905T080000Z
 DTEND:20260905T120000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260905T080110Z
 UID:vlr-742487@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Low
- er Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742487/tbd-vct
- -2026-pacific-stage-2-lbf
-LAST-MODIFIED:20260823T043319Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：LIVE\n阶段：Lower 
+ Final Playoffs\n比分：0:0\nVLR：https://www.vlr.gg/742487/global-espo
+ rts-vs-t1-vct-2026-pacific-stage-2-lbf
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742487/tbd-vct-2026-pacific-stage-2-lbf
+URL:https://www.vlr.gg/742487/global-esports-vs-t1-vct-2026-pacific-stage-
+ 2-lbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] TBD vs TBD
+SUMMARY:[AMER] NRG vs LOUD
 DTSTART:20260905T170000Z
 DTEND:20260905T210000Z
-DTSTAMP:20260810T052324Z
+DTSTAMP:20260905T080110Z
 UID:vlr-734314@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
 DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Lo
- wer Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734314/tbd-vc
- t-2026-americas-stage-2-lbf
-LAST-MODIFIED:20260810T052324Z
+ wer Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734314/nrg-vs
+ -loud-vct-2026-americas-stage-2-lbf
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/734314/tbd-vct-2026-americas-stage-2-lbf
+URL:https://www.vlr.gg/734314/nrg-vs-loud-vct-2026-americas-stage-2-lbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] TBD vs TBD
+SUMMARY:[PAC] Nongshim RedForce vs TBD
 DTSTART:20260906T080000Z
 DTEND:20260906T120000Z
-DTSTAMP:20260823T043319Z
+DTSTAMP:20260905T080110Z
 UID:vlr-742481@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Upcoming\n阶段：Gra
- nd Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742481/tbd-vct
- -2026-pacific-stage-2-gf
-LAST-MODIFIED:20260823T043319Z
+ nd Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/742481/nongshi
+ m-redforce-vs-tbd-vct-2026-pacific-stage-2-gf
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/742481/tbd-vct-2026-pacific-stage-2-gf
+URL:https://www.vlr.gg/742481/nongshim-redforce-vs-tbd-vct-2026-pacific-st
+ age-2-gf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] TBD vs TBD
+SUMMARY:[AMER] 100 Thieves vs TBD
 DTSTART:20260906T170000Z
 DTEND:20260906T210000Z
-DTSTAMP:20260810T052324Z
+DTSTAMP:20260905T080110Z
 UID:vlr-734308@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026,Stage 2,AMER
 DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Gr
- and Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734308/tbd-vc
- t-2026-americas-stage-2-gf
-LAST-MODIFIED:20260810T052324Z
+ and Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734308/100-th
+ ieves-vs-tbd-vct-2026-americas-stage-2-gf
+LAST-MODIFIED:20260905T080110Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.vlr.gg/734308/tbd-vct-2026-americas-stage-2-gf
+URL:https://www.vlr.gg/734308/100-thieves-vs-tbd-vct-2026-americas-stage-2
+ -gf
 END:VEVENT
 END:VCALENDAR
