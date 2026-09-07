@@ -4379,14 +4379,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Nongshim RedForce vs Global Esports
 DTSTART:20260906T080000Z
 DTEND:20260906T120000Z
-DTSTAMP:20260906T082006Z
+DTSTAMP:20260907T085310Z
 UID:vlr-742481@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,PAC
-DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：LIVE\n阶段：Grand 
- Final Playoffs\n比分：0:0\nVLR：https://www.vlr.gg/742481/nongshim-re
- dforce-vs-global-esports-vct-2026-pacific-stage-2-gf
-LAST-MODIFIED:20260906T082006Z
+DESCRIPTION:VCT 2026: Pacific Stage 2\n状态：Completed\n阶段：Gr
+ and Final Playoffs\n比分：2:3\nVLR：https://www.vlr.gg/742481/nongsh
+ im-redforce-vs-global-esports-vct-2026-pacific-stage-2-gf
+LAST-MODIFIED:20260907T085310Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4397,14 +4397,14 @@ BEGIN:VEVENT
 SUMMARY:[AMER] 100 Thieves vs LOUD
 DTSTART:20260906T170000Z
 DTEND:20260906T210000Z
-DTSTAMP:20260906T082006Z
+DTSTAMP:20260907T085310Z
 UID:vlr-734308@vct-calendar
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:VCT 2026,Stage 2,AMER
-DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Upcoming\n阶段：Gr
- and Final Playoffs\n比分：TBD\nVLR：https://www.vlr.gg/734308/100-th
- ieves-vs-loud-vct-2026-americas-stage-2-gf
-LAST-MODIFIED:20260906T082006Z
+DESCRIPTION:VCT 2026: Americas Stage 2\n状态：Completed\n阶段：G
+ rand Final Playoffs\n比分：3:2\nVLR：https://www.vlr.gg/734308/100-t
+ hieves-vs-loud-vct-2026-americas-stage-2-gf
+LAST-MODIFIED:20260907T085310Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
