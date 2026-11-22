@@ -1,0 +1,3840 @@
+year,team_id,team,map,played,wins,win_rate,picked,banned
+2021,682,Gambit Esports,Ascent,5,2,0.400,4,0
+2021,682,Gambit Esports,Bind,6,5,0.833,2,1
+2021,682,Gambit Esports,Breeze,5,5,1.000,4,0
+2021,682,Gambit Esports,Fracture,2,2,1.000,1,2
+2021,682,Gambit Esports,Haven,1,1,1.000,0,9
+2021,682,Gambit Esports,Icebox,8,5,0.625,0,1
+2021,682,Gambit Esports,Split,5,2,0.400,6,1
+2021,2,Sentinels,Ascent,1,1,1.000,0,8
+2021,2,Sentinels,Bind,3,3,1.000,1,2
+2021,2,Sentinels,Breeze,4,2,0.500,3,0
+2021,2,Sentinels,Fracture,1,1,1.000,0,0
+2021,2,Sentinels,Haven,9,7,0.778,7,0
+2021,2,Sentinels,Icebox,4,2,0.500,0,3
+2021,2,Sentinels,Split,8,3,0.375,4,1
+2021,2355,KRÜ Esports,Ascent,6,3,0.500,2,1
+2021,2355,KRÜ Esports,Bind,3,2,0.667,2,3
+2021,2355,KRÜ Esports,Breeze,1,0,0.000,0,4
+2021,2355,KRÜ Esports,Fracture,2,0,0.000,2,2
+2021,2355,KRÜ Esports,Haven,7,4,0.571,5,4
+2021,2355,KRÜ Esports,Icebox,5,1,0.200,2,3
+2021,2355,KRÜ Esports,Split,5,3,0.600,1,0
+2021,474,Team Liquid,Ascent,9,7,0.778,7,0
+2021,474,Team Liquid,Bind,6,2,0.333,3,1
+2021,474,Team Liquid,Breeze,2,2,1.000,3,1
+2021,474,Team Liquid,Fracture,0,0,,0,4
+2021,474,Team Liquid,Haven,6,4,0.667,1,2
+2021,474,Team Liquid,Icebox,0,0,,0,8
+2021,474,Team Liquid,Split,6,5,0.833,1,0
+2021,188,Cloud9,Ascent,5,4,0.800,3,2
+2021,188,Cloud9,Bind,3,2,0.667,2,2
+2021,188,Cloud9,Breeze,7,6,0.857,3,0
+2021,188,Cloud9,Fracture,1,0,0.000,0,0
+2021,188,Cloud9,Haven,2,1,0.500,1,4
+2021,188,Cloud9,Icebox,3,1,0.333,1,1
+2021,188,Cloud9,Split,5,3,0.600,1,3
+2021,2593,FNATIC,Ascent,3,2,0.667,0,1
+2021,2593,FNATIC,Bind,3,2,0.667,3,1
+2021,2593,FNATIC,Breeze,0,0,,0,4
+2021,2593,FNATIC,Fracture,2,2,1.000,0,0
+2021,2593,FNATIC,Haven,7,3,0.429,0,1
+2021,2593,FNATIC,Icebox,7,6,0.857,8,0
+2021,2593,FNATIC,Split,3,0,0.000,0,5
+2021,3531,Acend,Ascent,5,4,0.800,1,1
+2021,3531,Acend,Bind,5,5,1.000,5,0
+2021,3531,Acend,Breeze,4,2,0.500,1,1
+2021,3531,Acend,Fracture,1,0,0.000,0,0
+2021,3531,Acend,Haven,2,0,0.000,1,6
+2021,3531,Acend,Icebox,4,2,0.500,3,1
+2021,3531,Acend,Split,3,3,1.000,0,4
+2021,257,G2 Esports,Ascent,4,3,0.750,5,0
+2021,257,G2 Esports,Bind,5,3,0.600,4,0
+2021,257,G2 Esports,Breeze,3,2,0.667,0,2
+2021,257,G2 Esports,Haven,5,2,0.400,2,0
+2021,257,G2 Esports,Icebox,5,3,0.600,6,0
+2021,257,G2 Esports,Split,2,1,0.500,0,8
+2021,120,100 Thieves,Ascent,6,3,0.500,3,0
+2021,120,100 Thieves,Bind,0,0,,0,8
+2021,120,100 Thieves,Breeze,5,2,0.400,5,0
+2021,120,100 Thieves,Haven,4,1,0.250,2,0
+2021,120,100 Thieves,Icebox,4,4,1.000,3,0
+2021,120,100 Thieves,Split,3,2,0.667,0,0
+2021,2328,NUTURN,Ascent,6,4,0.667,5,0
+2021,2328,NUTURN,Bind,7,4,0.571,6,0
+2021,2328,NUTURN,Breeze,0,0,,0,1
+2021,2328,NUTURN,Haven,7,1,0.143,0,0
+2021,2328,NUTURN,Icebox,0,0,,0,5
+2021,2328,NUTURN,Split,1,1,1.000,0,1
+2021,1670,F4Q,Ascent,4,0,0.000,1,0
+2021,1670,F4Q,Bind,5,3,0.600,4,1
+2021,1670,F4Q,Breeze,2,0,0.000,0,0
+2021,1670,F4Q,Haven,5,2,0.400,4,0
+2021,1670,F4Q,Icebox,1,0,0.000,0,6
+2021,1670,F4Q,Split,4,2,0.500,3,0
+2021,4050,FULL SENSE,Ascent,5,4,0.800,2,0
+2021,4050,FULL SENSE,Bind,5,2,0.400,2,1
+2021,4050,FULL SENSE,Breeze,3,0,0.000,1,0
+2021,4050,FULL SENSE,Fracture,0,0,,0,2
+2021,4050,FULL SENSE,Haven,4,2,0.500,3,0
+2021,4050,FULL SENSE,Icebox,1,1,1.000,0,4
+2021,4050,FULL SENSE,Split,2,1,0.500,1,0
+2021,2406,FURIA,Ascent,6,3,0.500,4,0
+2021,2406,FURIA,Bind,0,0,,0,4
+2021,2406,FURIA,Breeze,1,1,1.000,0,0
+2021,2406,FURIA,Fracture,1,1,1.000,0,1
+2021,2406,FURIA,Haven,5,3,0.600,2,0
+2021,2406,FURIA,Icebox,3,2,0.667,0,1
+2021,2406,FURIA,Split,3,2,0.667,0,1
+2021,427,ENVY,Ascent,4,3,0.750,4,0
+2021,427,ENVY,Bind,3,1,0.333,2,0
+2021,427,ENVY,Breeze,1,1,1.000,0,7
+2021,427,ENVY,Fracture,0,0,,0,3
+2021,427,ENVY,Haven,4,2,0.500,3,0
+2021,427,ENVY,Icebox,3,3,1.000,1,1
+2021,427,ENVY,Split,3,1,0.333,1,0
+2021,4567,Papara SuperMassive,Ascent,2,1,0.500,2,0
+2021,4567,Papara SuperMassive,Bind,2,0,0.000,0,3
+2021,4567,Papara SuperMassive,Breeze,3,3,1.000,2,1
+2021,4567,Papara SuperMassive,Haven,3,2,0.667,3,0
+2021,4567,Papara SuperMassive,Icebox,2,0,0.000,0,2
+2021,4567,Papara SuperMassive,Split,5,1,0.200,3,0
+2021,2815,Version1,Ascent,4,2,0.500,3,0
+2021,2815,Version1,Bind,1,0,0.000,0,5
+2021,2815,Version1,Breeze,2,1,0.500,1,0
+2021,2815,Version1,Haven,2,2,1.000,1,0
+2021,2815,Version1,Icebox,5,2,0.400,3,0
+2021,2815,Version1,Split,2,0,0.000,1,2
+2021,2112,X10 Esports,Ascent,3,1,0.333,0,2
+2021,2112,X10 Esports,Bind,0,0,,0,6
+2021,2112,X10 Esports,Breeze,2,0,0.000,1,0
+2021,2112,X10 Esports,Fracture,1,0,0.000,1,0
+2021,2112,X10 Esports,Haven,4,3,0.750,3,0
+2021,2112,X10 Esports,Icebox,5,2,0.400,2,0
+2021,2112,X10 Esports,Split,1,1,1.000,0,3
+2021,198,Vision Strikers,Ascent,1,0,0.000,1,3
+2021,198,Vision Strikers,Bind,1,0,0.000,1,1
+2021,198,Vision Strikers,Breeze,2,1,0.500,1,2
+2021,198,Vision Strikers,Fracture,1,0,0.000,0,1
+2021,198,Vision Strikers,Haven,4,4,1.000,3,0
+2021,198,Vision Strikers,Icebox,4,2,0.500,1,1
+2021,198,Vision Strikers,Split,2,2,1.000,2,1
+2021,1209,Guild Esports,Ascent,1,0,0.000,0,5
+2021,1209,Guild Esports,Bind,2,1,0.500,0,0
+2021,1209,Guild Esports,Breeze,3,1,0.333,0,0
+2021,1209,Guild Esports,Haven,3,3,1.000,4,0
+2021,1209,Guild Esports,Icebox,2,2,1.000,1,0
+2021,1209,Guild Esports,Split,4,2,0.500,4,0
+2021,277,Crazy Raccoon,Ascent,2,0,0.000,1,1
+2021,277,Crazy Raccoon,Bind,1,0,0.000,0,4
+2021,277,Crazy Raccoon,Fracture,0,0,,0,1
+2021,277,Crazy Raccoon,Haven,4,1,0.250,0,0
+2021,277,Crazy Raccoon,Icebox,5,0,0.000,4,1
+2021,277,Crazy Raccoon,Split,2,1,0.500,2,2
+2021,2542,DAMWON Gaming,Ascent,6,5,0.833,4,0
+2021,2542,DAMWON Gaming,Bind,5,4,0.800,3,0
+2021,2542,DAMWON Gaming,Breeze,1,0,0.000,0,2
+2021,2542,DAMWON Gaming,Haven,1,0,0.000,2,0
+2021,2542,DAMWON Gaming,Icebox,0,0,,0,4
+2021,2542,DAMWON Gaming,Split,1,0,0.000,1,0
+2021,420,Team Vikings,Ascent,2,1,0.500,2,2
+2021,420,Team Vikings,Bind,1,1,1.000,1,0
+2021,420,Team Vikings,Breeze,0,0,,0,2
+2021,420,Team Vikings,Fracture,0,0,,0,1
+2021,420,Team Vikings,Haven,4,1,0.250,1,0
+2021,420,Team Vikings,Icebox,5,2,0.400,2,0
+2021,420,Team Vikings,Split,1,0,0.000,0,4
+2021,581,Liberty,Ascent,2,1,0.500,2,0
+2021,581,Liberty,Bind,3,1,0.333,3,0
+2021,581,Liberty,Breeze,0,0,,0,5
+2021,581,Liberty,Haven,1,0,0.000,2,0
+2021,581,Liberty,Icebox,4,1,0.250,3,0
+2021,581,Liberty,Split,3,1,0.333,0,1
+2021,3512,Sharks Esports,Ascent,4,1,0.250,1,0
+2021,3512,Sharks Esports,Bind,2,0,0.000,1,0
+2021,3512,Sharks Esports,Breeze,0,0,,0,3
+2021,3512,Sharks Esports,Haven,3,2,0.667,3,0
+2021,3512,Sharks Esports,Icebox,2,0,0.000,1,0
+2021,3512,Sharks Esports,Split,1,1,1.000,0,2
+2021,624,Paper Rex,Ascent,2,0,0.000,0,1
+2021,624,Paper Rex,Bind,1,0,0.000,1,1
+2021,624,Paper Rex,Breeze,2,1,0.500,3,0
+2021,624,Paper Rex,Haven,2,1,0.500,0,3
+2021,624,Paper Rex,Icebox,3,1,0.333,3,0
+2021,624,Paper Rex,Split,2,1,0.500,0,0
+2021,2988,NORTHEPTION,Ascent,4,3,0.750,2,0
+2021,2988,NORTHEPTION,Bind,2,2,1.000,0,0
+2021,2988,NORTHEPTION,Breeze,0,0,,0,2
+2021,2988,NORTHEPTION,Haven,2,1,0.500,1,0
+2021,2988,NORTHEPTION,Icebox,3,2,0.667,2,0
+2021,2988,NORTHEPTION,Split,1,0,0.000,1,2
+2021,637,Rise,Ascent,3,1,0.333,2,0
+2021,637,Rise,Bind,2,1,0.500,0,0
+2021,637,Rise,Breeze,4,2,0.500,0,0
+2021,637,Rise,Haven,2,2,1.000,1,0
+2021,637,Rise,Icebox,0,0,,0,3
+2021,637,Rise,Split,1,0,0.000,1,0
+2021,4894,Keyd Stars,Ascent,0,0,,1,2
+2021,4894,Keyd Stars,Bind,2,0,0.000,0,1
+2021,4894,Keyd Stars,Breeze,2,1,0.500,1,0
+2021,4894,Keyd Stars,Fracture,0,0,,0,2
+2021,4894,Keyd Stars,Haven,2,0,0.000,0,2
+2021,4894,Keyd Stars,Icebox,3,1,0.333,4,0
+2021,4894,Keyd Stars,Split,2,1,0.500,2,0
+2021,719,Australs,Ascent,3,2,0.667,2,0
+2021,719,Australs,Bind,0,0,,0,3
+2021,719,Australs,Haven,1,0,0.000,0,0
+2021,719,Australs,Icebox,3,2,0.667,2,0
+2021,719,Australs,Split,4,2,0.500,4,0
+2021,1184,FUT Esports,Ascent,2,1,0.500,0,1
+2021,1184,FUT Esports,Bind,0,0,,0,2
+2021,1184,FUT Esports,Breeze,1,0,0.000,2,0
+2021,1184,FUT Esports,Haven,2,0,0.000,0,0
+2021,1184,FUT Esports,Icebox,3,2,0.667,2,0
+2021,1184,FUT Esports,Split,2,2,1.000,2,0
+2021,533,XSET,Ascent,3,1,0.333,2,0
+2021,533,XSET,Bind,2,1,0.500,2,1
+2021,533,XSET,Breeze,1,0,0.000,0,2
+2021,533,XSET,Haven,1,0,0.000,2,0
+2021,533,XSET,Icebox,1,1,1.000,0,1
+2021,533,XSET,Split,2,2,1.000,2,0
+2021,4094,Six Karma,Ascent,2,0,0.000,0,0
+2021,4094,Six Karma,Bind,2,1,0.500,0,0
+2021,4094,Six Karma,Breeze,2,1,0.500,1,0
+2021,4094,Six Karma,Icebox,0,0,,0,2
+2021,4094,Six Karma,Split,3,2,0.667,2,0
+2021,6199,Team Secret,Ascent,0,0,,0,2
+2021,6199,Team Secret,Bind,1,0,0.000,0,2
+2021,6199,Team Secret,Breeze,2,0,0.000,0,2
+2021,6199,Team Secret,Fracture,0,0,,0,1
+2021,6199,Team Secret,Haven,2,2,1.000,2,0
+2021,6199,Team Secret,Icebox,3,2,0.667,2,0
+2021,6199,Team Secret,Split,1,1,1.000,0,1
+2021,918,Global Esports,Ascent,1,0,0.000,0,2
+2021,918,Global Esports,Bind,1,0,0.000,0,0
+2021,918,Global Esports,Breeze,0,0,,0,1
+2021,918,Global Esports,Haven,2,2,1.000,2,0
+2021,918,Global Esports,Icebox,1,0,0.000,0,0
+2021,918,Global Esports,Split,3,1,0.333,3,0
+2021,243,Gamelanders Blue,Ascent,2,1,0.500,1,0
+2021,243,Gamelanders Blue,Bind,1,1,1.000,0,0
+2021,243,Gamelanders Blue,Breeze,1,1,1.000,0,0
+2021,243,Gamelanders Blue,Haven,0,0,,0,2
+2021,243,Gamelanders Blue,Icebox,2,2,1.000,1,0
+2021,243,Gamelanders Blue,Split,2,0,0.000,0,0
+2021,17,Gen.G,Ascent,1,0,0.000,0,2
+2021,17,Gen.G,Breeze,2,1,0.500,0,0
+2021,17,Gen.G,Haven,1,1,1.000,0,0
+2021,17,Gen.G,Icebox,1,0,0.000,0,1
+2021,17,Gen.G,Split,3,2,0.667,3,0
+2021,921,Oxygen Esports,Ascent,2,1,0.500,2,0
+2021,921,Oxygen Esports,Breeze,1,0,0.000,1,0
+2021,921,Oxygen Esports,Icebox,0,0,,0,2
+2021,921,Oxygen Esports,Split,3,1,0.333,0,0
+2021,466,BOOM Esports,Ascent,2,1,0.500,1,0
+2021,466,BOOM Esports,Bind,2,0,0.000,0,1
+2021,466,BOOM Esports,Breeze,0,0,,0,2
+2021,466,BOOM Esports,Haven,1,0,0.000,1,0
+2021,466,BOOM Esports,Icebox,1,1,1.000,1,0
+2021,5448,ZETA DIVISION,Ascent,1,0,0.000,0,0
+2021,5448,ZETA DIVISION,Bind,1,0,0.000,0,0
+2021,5448,ZETA DIVISION,Breeze,1,0,0.000,0,0
+2021,5448,ZETA DIVISION,Icebox,0,0,,0,2
+2021,5448,ZETA DIVISION,Split,2,1,0.500,2,0
+2021,2934,FENNEL,Ascent,1,0,0.000,1,0
+2021,2934,FENNEL,Bind,1,0,0.000,1,0
+2021,2934,FENNEL,Breeze,0,0,,0,2
+2021,2934,FENNEL,Haven,1,0,0.000,0,0
+2021,2934,FENNEL,Icebox,1,0,0.000,0,0
+2021,2934,FENNEL,Split,1,1,1.000,1,0
+2021,6267,One Breath Gaming,Ascent,1,0,0.000,0,1
+2021,6267,One Breath Gaming,Breeze,1,0,0.000,0,0
+2021,6267,One Breath Gaming,Haven,2,0,0.000,1,0
+2021,6267,One Breath Gaming,Icebox,0,0,,0,1
+2021,6267,One Breath Gaming,Split,1,1,1.000,1,0
+2021,104,REJECT,Ascent,2,0,0.000,1,0
+2021,104,REJECT,Bind,2,0,0.000,2,0
+2021,104,REJECT,Breeze,1,1,1.000,1,0
+2021,104,REJECT,Split,0,0,,0,2
+2021,363,INFINITY,Ascent,0,0,,0,1
+2021,363,INFINITY,Bind,2,1,0.500,0,0
+2021,363,INFINITY,Breeze,1,0,0.000,0,0
+2021,363,INFINITY,Icebox,1,0,0.000,1,0
+2021,363,INFINITY,Split,1,0,0.000,0,0
+2021,642,Luminosity,Ascent,1,0,0.000,1,0
+2021,642,Luminosity,Bind,0,0,,1,0
+2021,642,Luminosity,Breeze,0,0,,0,2
+2021,642,Luminosity,Haven,2,1,0.500,1,0
+2021,642,Luminosity,Split,2,0,0.000,0,0
+2021,337,FaZe Clan,Ascent,1,0,0.000,0,0
+2021,337,FaZe Clan,Bind,1,0,0.000,1,0
+2021,337,FaZe Clan,Breeze,2,1,0.500,2,0
+2021,337,FaZe Clan,Haven,0,0,,0,1
+2021,337,FaZe Clan,Icebox,1,0,0.000,0,0
+2021,337,FaZe Clan,Split,0,0,,0,1
+2021,1466,Anubis Gaming,Ascent,1,0,0.000,0,0
+2021,1466,Anubis Gaming,Bind,1,0,0.000,0,0
+2021,1466,Anubis Gaming,Breeze,1,0,0.000,2,0
+2021,1466,Anubis Gaming,Haven,0,0,,0,2
+2021,1466,Anubis Gaming,Split,1,0,0.000,1,0
+2021,724,E-Xolos LAZER,Ascent,1,0,0.000,1,0
+2021,724,E-Xolos LAZER,Bind,0,0,,0,1
+2021,724,E-Xolos LAZER,Haven,2,0,0.000,0,0
+2021,724,E-Xolos LAZER,Icebox,1,0,0.000,1,0
+2022,8127,OpTic Gaming,Ascent,11,3,0.273,4,3
+2022,8127,OpTic Gaming,Bind,12,11,0.917,9,0
+2022,8127,OpTic Gaming,Breeze,7,3,0.429,0,11
+2022,8127,OpTic Gaming,Fracture,11,7,0.636,5,1
+2022,8127,OpTic Gaming,Haven,9,6,0.667,5,6
+2022,8127,OpTic Gaming,Icebox,6,2,0.333,1,12
+2022,8127,OpTic Gaming,Pearl,2,2,1.000,0,0
+2022,8127,OpTic Gaming,Split,5,3,0.600,3,4
+2022,8185,KIWOOM DRX,Ascent,10,8,0.800,3,4
+2022,8185,KIWOOM DRX,Bind,4,2,0.500,1,7
+2022,8185,KIWOOM DRX,Breeze,8,5,0.625,5,2
+2022,8185,KIWOOM DRX,Fracture,6,5,0.833,2,6
+2022,8185,KIWOOM DRX,Haven,8,4,0.500,6,2
+2022,8185,KIWOOM DRX,Icebox,6,3,0.500,1,2
+2022,8185,KIWOOM DRX,Pearl,0,0,,0,4
+2022,8185,KIWOOM DRX,Split,2,0,0.000,0,6
+2022,628,FunPlus Phoenix,Ascent,8,6,0.750,6,1
+2022,628,FunPlus Phoenix,Bind,7,6,0.857,2,4
+2022,628,FunPlus Phoenix,Breeze,5,1,0.200,0,8
+2022,628,FunPlus Phoenix,Fracture,7,6,0.857,3,1
+2022,628,FunPlus Phoenix,Haven,5,2,0.400,2,9
+2022,628,FunPlus Phoenix,Icebox,7,4,0.571,4,5
+2022,628,FunPlus Phoenix,Pearl,2,0,0.000,0,1
+2022,628,FunPlus Phoenix,Split,2,1,0.500,1,0
+2022,474,Team Liquid,Ascent,8,5,0.625,1,2
+2022,474,Team Liquid,Bind,6,1,0.167,1,5
+2022,474,Team Liquid,Breeze,5,5,1.000,3,0
+2022,474,Team Liquid,Fracture,3,2,0.667,1,11
+2022,474,Team Liquid,Haven,6,4,0.667,4,1
+2022,474,Team Liquid,Icebox,6,3,0.500,4,2
+2022,474,Team Liquid,Pearl,1,0,0.000,0,3
+2022,474,Team Liquid,Split,2,1,0.500,1,3
+2022,6961,LOUD,Ascent,9,8,0.889,8,0
+2022,6961,LOUD,Bind,4,2,0.500,0,6
+2022,6961,LOUD,Breeze,5,4,0.800,4,2
+2022,6961,LOUD,Fracture,5,2,0.400,1,5
+2022,6961,LOUD,Haven,5,3,0.600,1,3
+2022,6961,LOUD,Icebox,4,3,0.750,1,0
+2022,6961,LOUD,Pearl,1,0,0.000,0,6
+2022,6961,LOUD,Split,1,0,0.000,0,4
+2022,2355,KRÜ Esports,Ascent,6,3,0.500,0,3
+2022,2355,KRÜ Esports,Bind,3,1,0.333,2,1
+2022,2355,KRÜ Esports,Breeze,4,4,1.000,4,1
+2022,2355,KRÜ Esports,Fracture,5,2,0.400,1,6
+2022,2355,KRÜ Esports,Haven,4,1,0.250,2,1
+2022,2355,KRÜ Esports,Icebox,7,4,0.571,5,2
+2022,2355,KRÜ Esports,Pearl,0,0,,0,2
+2022,2355,KRÜ Esports,Split,1,0,0.000,0,6
+2022,624,Paper Rex,Ascent,4,2,0.500,0,4
+2022,624,Paper Rex,Bind,6,2,0.333,5,0
+2022,624,Paper Rex,Breeze,1,0,0.000,0,8
+2022,624,Paper Rex,Fracture,3,2,0.667,2,3
+2022,624,Paper Rex,Haven,8,5,0.625,1,0
+2022,624,Paper Rex,Icebox,3,2,0.667,1,3
+2022,624,Paper Rex,Pearl,2,2,1.000,1,0
+2022,624,Paper Rex,Split,3,2,0.667,2,4
+2022,2593,FNATIC,Ascent,5,1,0.200,2,3
+2022,2593,FNATIC,Bind,6,4,0.667,3,0
+2022,2593,FNATIC,Breeze,1,1,1.000,0,11
+2022,2593,FNATIC,Fracture,5,1,0.200,2,2
+2022,2593,FNATIC,Haven,4,3,0.750,0,3
+2022,2593,FNATIC,Icebox,4,2,0.500,4,0
+2022,2593,FNATIC,Pearl,2,0,0.000,1,2
+2022,2593,FNATIC,Split,2,1,0.500,0,3
+2022,5448,ZETA DIVISION,Ascent,3,0,0.000,0,8
+2022,5448,ZETA DIVISION,Bind,3,0,0.000,1,3
+2022,5448,ZETA DIVISION,Breeze,0,0,,0,7
+2022,5448,ZETA DIVISION,Fracture,6,4,0.667,4,0
+2022,5448,ZETA DIVISION,Haven,5,1,0.200,0,1
+2022,5448,ZETA DIVISION,Icebox,5,3,0.600,4,2
+2022,5448,ZETA DIVISION,Pearl,1,1,1.000,1,0
+2022,5448,ZETA DIVISION,Split,5,3,0.600,2,0
+2022,120,100 Thieves,Ascent,5,3,0.600,4,0
+2022,120,100 Thieves,Bind,3,1,0.333,2,0
+2022,120,100 Thieves,Breeze,4,3,0.750,2,1
+2022,120,100 Thieves,Fracture,4,2,0.500,1,4
+2022,120,100 Thieves,Haven,4,3,0.750,1,2
+2022,120,100 Thieves,Icebox,3,2,0.667,1,5
+2022,120,100 Thieves,Pearl,1,1,1.000,0,0
+2022,120,100 Thieves,Split,0,0,,0,3
+2022,7391,Ninjas In Pyjamas,Ascent,3,2,0.667,4,0
+2022,7391,Ninjas In Pyjamas,Bind,0,0,,0,7
+2022,7391,Ninjas In Pyjamas,Breeze,4,2,0.500,1,1
+2022,7391,Ninjas In Pyjamas,Fracture,3,0,0.000,1,3
+2022,7391,Ninjas In Pyjamas,Haven,2,1,0.500,0,2
+2022,7391,Ninjas In Pyjamas,Icebox,6,2,0.333,3,1
+2022,7391,Ninjas In Pyjamas,Split,3,3,1.000,2,0
+2022,2359,LEVIATÁN,Ascent,5,4,0.800,5,0
+2022,2359,LEVIATÁN,Bind,2,1,0.500,1,0
+2022,2359,LEVIATÁN,Breeze,1,0,0.000,0,2
+2022,2359,LEVIATÁN,Fracture,1,0,0.000,0,6
+2022,2359,LEVIATÁN,Haven,6,3,0.500,3,1
+2022,2359,LEVIATÁN,Icebox,3,0,0.000,0,5
+2022,2359,LEVIATÁN,Pearl,0,0,,0,1
+2022,2359,LEVIATÁN,Split,2,0,0.000,0,0
+2022,7397,XERXIA Esports,Ascent,4,2,0.500,0,2
+2022,7397,XERXIA Esports,Bind,2,0,0.000,1,3
+2022,7397,XERXIA Esports,Breeze,0,0,,0,2
+2022,7397,XERXIA Esports,Fracture,2,0,0.000,1,2
+2022,7397,XERXIA Esports,Haven,4,1,0.250,2,1
+2022,7397,XERXIA Esports,Icebox,4,2,0.500,3,0
+2022,7397,XERXIA Esports,Pearl,0,0,,0,1
+2022,7397,XERXIA Esports,Split,2,1,0.500,0,3
+2022,257,G2 Esports,Ascent,2,0,0.000,1,2
+2022,257,G2 Esports,Bind,6,5,0.833,5,1
+2022,257,G2 Esports,Breeze,1,0,0.000,1,4
+2022,257,G2 Esports,Fracture,1,0,0.000,1,3
+2022,257,G2 Esports,Haven,5,3,0.600,0,3
+2022,257,G2 Esports,Icebox,1,0,0.000,0,3
+2022,257,G2 Esports,Split,2,1,0.500,0,0
+2022,533,XSET,Ascent,3,1,0.333,0,1
+2022,533,XSET,Bind,2,0,0.000,0,5
+2022,533,XSET,Breeze,1,1,1.000,0,3
+2022,533,XSET,Fracture,3,2,0.667,1,3
+2022,533,XSET,Haven,3,0,0.000,2,0
+2022,533,XSET,Icebox,1,1,1.000,0,2
+2022,533,XSET,Pearl,4,3,0.750,3,0
+2022,533,XSET,Split,1,1,1.000,1,0
+2022,466,BOOM Esports,Ascent,0,0,,0,4
+2022,466,BOOM Esports,Bind,3,1,0.333,1,2
+2022,466,BOOM Esports,Breeze,3,3,1.000,2,2
+2022,466,BOOM Esports,Fracture,5,2,0.400,2,0
+2022,466,BOOM Esports,Haven,4,4,1.000,1,0
+2022,466,BOOM Esports,Icebox,1,1,1.000,0,2
+2022,466,BOOM Esports,Pearl,1,0,0.000,0,1
+2022,466,BOOM Esports,Split,1,0,0.000,1,1
+2022,2988,NORTHEPTION,Ascent,4,0,0.000,1,2
+2022,2988,NORTHEPTION,Bind,4,1,0.250,1,0
+2022,2988,NORTHEPTION,Breeze,1,1,1.000,0,1
+2022,2988,NORTHEPTION,Fracture,1,0,0.000,1,2
+2022,2988,NORTHEPTION,Haven,3,2,0.667,1,0
+2022,2988,NORTHEPTION,Icebox,0,0,,0,7
+2022,2988,NORTHEPTION,Split,4,3,0.750,3,2
+2022,1209,Guild Esports,Ascent,2,0,0.000,1,3
+2022,1209,Guild Esports,Bind,2,0,0.000,0,5
+2022,1209,Guild Esports,Breeze,2,1,0.500,2,1
+2022,1209,Guild Esports,Fracture,3,2,0.667,2,2
+2022,1209,Guild Esports,Haven,3,1,0.333,0,2
+2022,1209,Guild Esports,Icebox,3,2,0.667,1,0
+2022,1209,Guild Esports,Split,2,2,1.000,1,1
+2022,2032,ONIC G,Ascent,2,1,0.500,2,0
+2022,2032,ONIC G,Bind,1,0,0.000,0,4
+2022,2032,ONIC G,Breeze,4,3,0.750,2,0
+2022,2032,ONIC G,Fracture,3,2,0.667,1,1
+2022,2032,ONIC G,Haven,3,1,0.333,1,1
+2022,2032,ONIC G,Icebox,3,2,0.667,1,1
+2022,2032,ONIC G,Split,0,0,,0,3
+2022,6675,The Guard,Ascent,2,2,1.000,2,1
+2022,6675,The Guard,Bind,0,0,,0,3
+2022,6675,The Guard,Breeze,1,0,0.000,0,4
+2022,6675,The Guard,Fracture,3,1,0.333,0,1
+2022,6675,The Guard,Haven,4,2,0.500,2,2
+2022,6675,The Guard,Icebox,4,2,0.500,3,0
+2022,6675,The Guard,Split,1,0,0.000,0,1
+2022,2406,FURIA,Ascent,5,3,0.600,5,0
+2022,2406,FURIA,Bind,1,1,1.000,0,4
+2022,2406,FURIA,Breeze,3,1,0.333,2,0
+2022,2406,FURIA,Fracture,2,2,1.000,0,1
+2022,2406,FURIA,Haven,2,0,0.000,1,0
+2022,2406,FURIA,Icebox,2,1,0.500,0,0
+2022,2406,FURIA,Pearl,0,0,,0,2
+2022,2406,FURIA,Split,0,0,,0,3
+2022,8182,Incheon On Sla2ers,Ascent,1,1,1.000,0,1
+2022,8182,Incheon On Sla2ers,Bind,4,4,1.000,4,0
+2022,8182,Incheon On Sla2ers,Breeze,0,0,,0,5
+2022,8182,Incheon On Sla2ers,Fracture,3,1,0.333,0,0
+2022,8182,Incheon On Sla2ers,Haven,2,1,0.500,1,2
+2022,8182,Incheon On Sla2ers,Icebox,2,1,0.500,2,0
+2022,8182,Incheon On Sla2ers,Split,3,0,0.000,0,2
+2022,6946,TBK Esports,Ascent,2,0,0.000,0,1
+2022,6946,TBK Esports,Bind,3,2,0.667,2,1
+2022,6946,TBK Esports,Breeze,3,1,0.333,0,0
+2022,6946,TBK Esports,Fracture,3,2,0.667,1,1
+2022,6946,TBK Esports,Haven,3,2,0.667,3,0
+2022,6946,TBK Esports,Icebox,0,0,,0,5
+2022,6946,TBK Esports,Split,0,0,,0,1
+2022,1120,EDward Gaming,Ascent,1,1,1.000,1,5
+2022,1120,EDward Gaming,Bind,3,2,0.667,1,3
+2022,1120,EDward Gaming,Breeze,1,0,0.000,0,1
+2022,1120,EDward Gaming,Fracture,3,3,1.000,3,0
+2022,1120,EDward Gaming,Haven,2,1,0.500,0,3
+2022,1120,EDward Gaming,Icebox,2,2,1.000,0,0
+2022,1120,EDward Gaming,Pearl,1,0,0.000,1,0
+2022,1120,EDward Gaming,Split,1,1,1.000,1,0
+2022,8326,M3 Champions,Ascent,2,1,0.500,1,0
+2022,8326,M3 Champions,Bind,3,3,1.000,1,1
+2022,8326,M3 Champions,Breeze,3,1,0.333,2,0
+2022,8326,M3 Champions,Fracture,1,1,1.000,0,0
+2022,8326,M3 Champions,Haven,0,0,,0,4
+2022,8326,M3 Champions,Icebox,3,1,0.333,1,0
+2022,8326,M3 Champions,Split,1,0,0.000,0,2
+2022,4210,Made in Thailand,Ascent,2,1,0.500,0,2
+2022,4210,Made in Thailand,Bind,2,1,0.500,0,1
+2022,4210,Made in Thailand,Breeze,1,0,0.000,0,1
+2022,4210,Made in Thailand,Fracture,2,2,1.000,0,0
+2022,4210,Made in Thailand,Haven,2,1,0.500,2,0
+2022,4210,Made in Thailand,Icebox,2,0,0.000,2,0
+2022,4210,Made in Thailand,Split,0,0,,0,4
+2022,6199,Team Secret,Ascent,2,1,0.500,2,1
+2022,6199,Team Secret,Bind,2,1,0.500,0,0
+2022,6199,Team Secret,Breeze,2,1,0.500,0,0
+2022,6199,Team Secret,Fracture,1,0,0.000,0,2
+2022,6199,Team Secret,Haven,2,1,0.500,1,1
+2022,6199,Team Secret,Icebox,2,1,0.500,1,1
+2022,6199,Team Secret,Split,0,0,,0,3
+2022,337,FaZe Clan,Ascent,3,2,0.667,0,0
+2022,337,FaZe Clan,Bind,0,0,,0,4
+2022,337,FaZe Clan,Breeze,3,1,0.333,3,0
+2022,337,FaZe Clan,Haven,2,1,0.500,2,0
+2022,337,FaZe Clan,Icebox,3,0,0.000,0,0
+2022,337,FaZe Clan,Split,0,0,,0,3
+2022,6387,BLEED,Ascent,1,1,1.000,0,0
+2022,6387,BLEED,Bind,3,3,1.000,2,0
+2022,6387,BLEED,Breeze,1,0,0.000,0,2
+2022,6387,BLEED,Fracture,0,0,,0,4
+2022,6387,BLEED,Haven,3,1,0.333,1,0
+2022,6387,BLEED,Icebox,2,1,0.500,1,2
+2022,4894,Keyd Stars,Ascent,1,1,1.000,0,1
+2022,4894,Keyd Stars,Bind,2,2,1.000,1,0
+2022,4894,Keyd Stars,Breeze,3,0,0.000,2,0
+2022,4894,Keyd Stars,Fracture,3,1,0.333,1,0
+2022,4894,Keyd Stars,Haven,0,0,,0,4
+2022,4894,Keyd Stars,Icebox,1,1,1.000,0,0
+2022,4894,Keyd Stars,Split,0,0,,0,3
+2022,1208,ORDER,Ascent,4,3,0.750,1,0
+2022,1208,ORDER,Bind,0,0,,0,4
+2022,1208,ORDER,Breeze,3,1,0.333,2,0
+2022,1208,ORDER,Fracture,1,1,1.000,0,0
+2022,1208,ORDER,Haven,0,0,,0,3
+2022,1208,ORDER,Icebox,1,0,0.000,1,0
+2022,1208,ORDER,Split,0,0,,0,1
+2022,8903,OG LDN UTD,Ascent,2,1,0.500,0,0
+2022,8903,OG LDN UTD,Bind,2,0,0.000,1,0
+2022,8903,OG LDN UTD,Breeze,1,1,1.000,0,2
+2022,8903,OG LDN UTD,Fracture,0,0,,0,4
+2022,8903,OG LDN UTD,Haven,3,2,0.667,3,0
+2022,8903,OG LDN UTD,Icebox,1,1,1.000,0,0
+2022,8903,OG LDN UTD,Split,0,0,,0,2
+2022,5443,KONE eSports Club,Ascent,2,2,1.000,1,0
+2022,5443,KONE eSports Club,Bind,1,0,0.000,0,1
+2022,5443,KONE eSports Club,Breeze,0,0,,0,1
+2022,5443,KONE eSports Club,Fracture,0,0,,0,4
+2022,5443,KONE eSports Club,Haven,3,1,0.333,2,0
+2022,5443,KONE eSports Club,Icebox,0,0,,0,1
+2022,5443,KONE eSports Club,Split,3,2,0.667,1,1
+2022,2,Sentinels,Ascent,1,0,0.000,0,2
+2022,2,Sentinels,Bind,0,0,,0,3
+2022,2,Sentinels,Breeze,3,2,0.667,2,0
+2022,2,Sentinels,Fracture,2,2,1.000,1,1
+2022,2,Sentinels,Haven,1,0,0.000,0,0
+2022,2,Sentinels,Icebox,1,0,0.000,0,0
+2022,188,Cloud9,Ascent,3,1,0.333,1,0
+2022,188,Cloud9,Bind,0,0,,0,4
+2022,188,Cloud9,Breeze,1,1,1.000,1,0
+2022,188,Cloud9,Fracture,3,1,0.333,2,0
+2022,188,Cloud9,Icebox,1,1,1.000,0,2
+2022,188,Cloud9,Split,0,0,,0,2
+2022,277,Crazy Raccoon,Ascent,1,0,0.000,1,0
+2022,277,Crazy Raccoon,Bind,2,1,0.500,0,1
+2022,277,Crazy Raccoon,Breeze,1,0,0.000,1,0
+2022,277,Crazy Raccoon,Fracture,0,0,,0,3
+2022,277,Crazy Raccoon,Haven,1,1,1.000,0,1
+2022,277,Crazy Raccoon,Icebox,1,0,0.000,1,0
+2022,277,Crazy Raccoon,Split,2,1,0.500,0,1
+2022,4325,CERBERUS Esports,Ascent,1,0,0.000,1,0
+2022,4325,CERBERUS Esports,Bind,2,1,0.500,0,0
+2022,4325,CERBERUS Esports,Breeze,2,1,0.500,0,0
+2022,4325,CERBERUS Esports,Fracture,0,0,,0,3
+2022,4325,CERBERUS Esports,Haven,2,0,0.000,2,0
+2022,4325,CERBERUS Esports,Split,0,0,,0,3
+2022,1110,Alter Ego,Ascent,0,0,,0,1
+2022,1110,Alter Ego,Bind,3,1,0.333,2,0
+2022,1110,Alter Ego,Breeze,0,0,,0,3
+2022,1110,Alter Ego,Fracture,1,0,0.000,1,0
+2022,1110,Alter Ego,Haven,3,2,0.667,0,0
+2022,1110,Alter Ego,Icebox,0,0,,0,2
+2022,1034,NRG,Ascent,1,0,0.000,0,2
+2022,1034,NRG,Bind,2,1,0.500,0,0
+2022,1034,NRG,Breeze,1,0,0.000,0,0
+2022,1034,NRG,Fracture,0,0,,0,3
+2022,1034,NRG,Haven,0,0,,0,1
+2022,1034,NRG,Icebox,3,2,0.667,3,0
+2022,367,9z Globant,Ascent,2,0,0.000,0,0
+2022,367,9z Globant,Bind,2,0,0.000,2,0
+2022,367,9z Globant,Breeze,0,0,,0,3
+2022,367,9z Globant,Fracture,1,1,1.000,0,0
+2022,367,9z Globant,Haven,2,1,0.500,1,1
+2022,367,9z Globant,Split,0,0,,0,2
+2022,4915,Natus Vincere,Bind,1,0,0.000,0,0
+2022,4915,Natus Vincere,Breeze,1,0,0.000,1,1
+2022,4915,Natus Vincere,Fracture,1,0,0.000,0,2
+2022,4915,Natus Vincere,Haven,2,1,0.500,2,1
+2022,4915,Natus Vincere,Icebox,1,1,1.000,0,1
+2022,4915,Natus Vincere,Split,1,0,0.000,0,1
+2022,3107,Griffin E-Sports,Ascent,0,0,,0,2
+2022,3107,Griffin E-Sports,Bind,1,0,0.000,0,0
+2022,3107,Griffin E-Sports,Breeze,1,0,0.000,1,0
+2022,3107,Griffin E-Sports,Fracture,1,0,0.000,0,0
+2022,3107,Griffin E-Sports,Haven,2,1,0.500,1,0
+2022,3107,Griffin E-Sports,Icebox,0,0,,0,2
+2022,3107,Griffin E-Sports,Split,1,1,1.000,0,0
+2022,3531,Acend,Ascent,0,0,,0,2
+2022,3531,Acend,Bind,1,0,0.000,0,0
+2022,3531,Acend,Breeze,1,0,0.000,0,0
+2022,3531,Acend,Fracture,2,1,0.500,0,0
+2022,3531,Acend,Haven,1,0,0.000,1,0
+2022,3531,Acend,Icebox,0,0,,0,1
+2022,3531,Acend,Split,1,1,1.000,1,1
+2022,104,REJECT,Ascent,1,0,0.000,0,0
+2022,104,REJECT,Bind,1,0,0.000,1,0
+2022,104,REJECT,Breeze,0,0,,0,3
+2022,104,REJECT,Fracture,1,0,0.000,0,1
+2022,104,REJECT,Icebox,1,1,1.000,0,2
+2022,104,REJECT,Split,2,1,0.500,2,0
+2022,4330,Fancy United Esports,Ascent,2,0,0.000,1,0
+2022,4330,Fancy United Esports,Breeze,0,0,,0,2
+2022,4330,Fancy United Esports,Fracture,2,0,0.000,1,0
+2022,4330,Fancy United Esports,Haven,0,0,,0,2
+2022,4330,Fancy United Esports,Icebox,1,1,1.000,0,0
+2022,5248,Evil Geniuses,Ascent,1,0,0.000,0,0
+2022,5248,Evil Geniuses,Bind,1,0,0.000,1,0
+2022,5248,Evil Geniuses,Breeze,1,0,0.000,0,1
+2022,5248,Evil Geniuses,Fracture,0,0,,0,1
+2022,5248,Evil Geniuses,Haven,0,0,,0,2
+2022,5248,Evil Geniuses,Icebox,2,1,0.500,1,0
+2022,724,E-Xolos LAZER,Ascent,0,0,,0,1
+2022,724,E-Xolos LAZER,Bind,2,0,0.000,0,0
+2022,724,E-Xolos LAZER,Breeze,0,0,,0,2
+2022,724,E-Xolos LAZER,Fracture,2,0,0.000,2,0
+2022,724,E-Xolos LAZER,Haven,1,1,1.000,0,0
+2022,724,E-Xolos LAZER,Icebox,0,0,,0,1
+2022,2542,DAMWON Gaming,Ascent,2,1,0.500,1,0
+2022,2542,DAMWON Gaming,Bind,1,0,0.000,1,1
+2022,2542,DAMWON Gaming,Breeze,0,0,,0,1
+2022,2542,DAMWON Gaming,Haven,1,0,0.000,0,0
+2022,2542,DAMWON Gaming,Icebox,0,0,,0,2
+2022,2542,DAMWON Gaming,Split,1,0,0.000,0,0
+2022,9353,Shopify Rebellion Black,Ascent,1,0,0.000,0,0
+2022,9353,Shopify Rebellion Black,Breeze,1,0,0.000,0,1
+2022,9353,Shopify Rebellion Black,Fracture,2,0,0.000,2,0
+2022,9353,Shopify Rebellion Black,Haven,0,0,,0,2
+2022,9353,Shopify Rebellion Black,Icebox,0,0,,0,1
+2022,7269,FUSION,Ascent,1,0,0.000,0,1
+2022,7269,FUSION,Breeze,1,0,0.000,0,1
+2022,7269,FUSION,Fracture,1,0,0.000,1,0
+2022,7269,FUSION,Haven,0,0,,0,1
+2022,7269,FUSION,Icebox,1,0,0.000,1,0
+2022,7269,FUSION,Split,0,0,,0,1
+2022,8086,Maru Gaming,Ascent,0,0,,0,1
+2022,8086,Maru Gaming,Bind,1,0,0.000,0,0
+2022,8086,Maru Gaming,Fracture,1,0,0.000,1,0
+2022,8086,Maru Gaming,Haven,0,0,,0,2
+2022,8086,Maru Gaming,Icebox,1,0,0.000,1,1
+2022,8086,Maru Gaming,Split,1,0,0.000,0,0
+2022,397,BBL Esports,Ascent,1,0,0.000,1,0
+2022,397,BBL Esports,Bind,0,0,,0,1
+2022,397,BBL Esports,Breeze,0,0,,0,1
+2022,397,BBL Esports,Fracture,1,0,0.000,0,0
+2022,397,BBL Esports,Haven,1,0,0.000,1,0
+2022,397,BBL Esports,Icebox,1,0,0.000,0,0
+2022,397,BBL Esports,Split,0,0,,0,2
+2023,5248,Evil Geniuses,Ascent,15,11,0.733,7,4
+2023,5248,Evil Geniuses,Bind,8,4,0.500,0,13
+2023,5248,Evil Geniuses,Fracture,13,11,0.846,11,1
+2023,5248,Evil Geniuses,Haven,7,2,0.286,3,15
+2023,5248,Evil Geniuses,Icebox,1,0,0.000,0,3
+2023,5248,Evil Geniuses,Lotus,9,5,0.556,1,10
+2023,5248,Evil Geniuses,Pearl,12,7,0.583,5,2
+2023,5248,Evil Geniuses,Split,13,5,0.385,7,3
+2023,6961,LOUD,Ascent,17,11,0.647,12,1
+2023,6961,LOUD,Bind,5,3,0.600,0,5
+2023,6961,LOUD,Fracture,8,4,0.500,1,16
+2023,6961,LOUD,Haven,8,8,1.000,1,7
+2023,6961,LOUD,Icebox,3,2,0.667,0,2
+2023,6961,LOUD,Lotus,7,3,0.429,4,6
+2023,6961,LOUD,Pearl,12,6,0.500,6,6
+2023,6961,LOUD,Split,16,11,0.688,7,8
+2023,8185,KIWOOM DRX,Ascent,11,6,0.545,8,6
+2023,8185,KIWOOM DRX,Bind,9,4,0.444,1,5
+2023,8185,KIWOOM DRX,Fracture,11,6,0.545,3,5
+2023,8185,KIWOOM DRX,Haven,12,7,0.583,6,1
+2023,8185,KIWOOM DRX,Icebox,3,2,0.667,1,1
+2023,8185,KIWOOM DRX,Lotus,5,2,0.400,1,22
+2023,8185,KIWOOM DRX,Pearl,12,8,0.667,6,5
+2023,8185,KIWOOM DRX,Split,10,7,0.700,4,5
+2023,1034,NRG,Ascent,8,3,0.375,0,14
+2023,1034,NRG,Bind,10,6,0.600,8,0
+2023,1034,NRG,Fracture,4,1,0.250,0,16
+2023,1034,NRG,Haven,12,10,0.833,5,1
+2023,1034,NRG,Icebox,4,3,0.750,3,1
+2023,1034,NRG,Lotus,9,4,0.444,5,6
+2023,1034,NRG,Pearl,10,6,0.600,3,3
+2023,1034,NRG,Split,9,5,0.556,2,4
+2023,2593,FNATIC,Ascent,8,5,0.625,0,7
+2023,2593,FNATIC,Bind,7,5,0.714,3,0
+2023,2593,FNATIC,Fracture,7,5,0.714,3,2
+2023,2593,FNATIC,Haven,13,11,0.846,9,3
+2023,2593,FNATIC,Icebox,5,5,1.000,4,0
+2023,2593,FNATIC,Lotus,15,13,0.867,10,3
+2023,2593,FNATIC,Pearl,0,0,,0,27
+2023,2593,FNATIC,Split,11,9,0.818,2,10
+2023,624,Paper Rex,Ascent,8,4,0.500,0,6
+2023,624,Paper Rex,Bind,8,6,0.750,4,0
+2023,624,Paper Rex,Fracture,9,6,0.667,5,4
+2023,624,Paper Rex,Haven,1,1,1.000,0,22
+2023,624,Paper Rex,Icebox,1,0,0.000,1,4
+2023,624,Paper Rex,Lotus,10,6,0.600,4,3
+2023,624,Paper Rex,Pearl,14,11,0.786,6,3
+2023,624,Paper Rex,Split,12,7,0.583,7,5
+2023,4915,Natus Vincere,Ascent,10,6,0.600,6,3
+2023,4915,Natus Vincere,Bind,7,2,0.286,1,3
+2023,4915,Natus Vincere,Fracture,8,6,0.750,6,1
+2023,4915,Natus Vincere,Haven,2,0,0.000,0,21
+2023,4915,Natus Vincere,Icebox,2,1,0.500,1,6
+2023,4915,Natus Vincere,Lotus,13,5,0.385,4,4
+2023,4915,Natus Vincere,Pearl,9,8,0.889,6,0
+2023,4915,Natus Vincere,Split,8,4,0.500,3,6
+2023,1184,FUT Esports,Ascent,7,4,0.571,1,6
+2023,1184,FUT Esports,Bind,4,3,0.750,2,7
+2023,1184,FUT Esports,Fracture,2,1,0.500,0,16
+2023,1184,FUT Esports,Haven,10,5,0.500,6,3
+2023,1184,FUT Esports,Icebox,4,1,0.250,1,1
+2023,1184,FUT Esports,Lotus,13,8,0.615,8,1
+2023,1184,FUT Esports,Pearl,8,5,0.625,4,4
+2023,1184,FUT Esports,Split,7,1,0.143,1,5
+2023,14,T1,Ascent,5,3,0.600,2,5
+2023,14,T1,Bind,8,4,0.500,6,2
+2023,14,T1,Fracture,11,7,0.636,6,0
+2023,14,T1,Haven,9,3,0.333,1,8
+2023,14,T1,Icebox,1,0,0.000,0,3
+2023,14,T1,Lotus,8,6,0.750,4,2
+2023,14,T1,Pearl,9,2,0.222,2,1
+2023,14,T1,Split,1,0,0.000,0,18
+2023,474,Team Liquid,Ascent,8,6,0.750,5,4
+2023,474,Team Liquid,Bind,6,3,0.500,5,2
+2023,474,Team Liquid,Fracture,8,4,0.500,4,2
+2023,474,Team Liquid,Haven,7,2,0.286,1,7
+2023,474,Team Liquid,Icebox,2,1,0.500,0,3
+2023,474,Team Liquid,Lotus,10,4,0.400,1,2
+2023,474,Team Liquid,Pearl,0,0,,0,11
+2023,474,Team Liquid,Split,10,6,0.600,5,4
+2023,2359,LEVIATÁN,Ascent,9,1,0.111,3,4
+2023,2359,LEVIATÁN,Bind,2,1,0.500,0,3
+2023,2359,LEVIATÁN,Fracture,2,1,0.500,1,12
+2023,2359,LEVIATÁN,Haven,7,3,0.429,7,2
+2023,2359,LEVIATÁN,Icebox,3,2,0.667,0,1
+2023,2359,LEVIATÁN,Lotus,7,2,0.286,2,5
+2023,2359,LEVIATÁN,Pearl,10,9,0.900,7,0
+2023,2359,LEVIATÁN,Split,7,4,0.571,0,6
+2023,1120,EDward Gaming,Ascent,3,1,0.333,0,12
+2023,1120,EDward Gaming,Bind,8,7,0.875,5,2
+2023,1120,EDward Gaming,Fracture,8,5,0.625,5,3
+2023,1120,EDward Gaming,Haven,7,5,0.714,6,2
+2023,1120,EDward Gaming,Icebox,1,0,0.000,0,0
+2023,1120,EDward Gaming,Lotus,4,2,0.500,2,9
+2023,1120,EDward Gaming,Pearl,6,2,0.333,0,3
+2023,1120,EDward Gaming,Split,9,7,0.778,2,1
+2023,188,Cloud9,Ascent,7,5,0.714,0,4
+2023,188,Cloud9,Bind,2,0,0.000,1,5
+2023,188,Cloud9,Fracture,5,3,0.600,4,3
+2023,188,Cloud9,Haven,7,2,0.286,0,4
+2023,188,Cloud9,Icebox,1,0,0.000,0,4
+2023,188,Cloud9,Lotus,9,7,0.778,6,1
+2023,188,Cloud9,Pearl,9,7,0.778,3,6
+2023,188,Cloud9,Split,5,4,0.800,3,4
+2023,6199,Team Secret,Ascent,8,8,1.000,2,5
+2023,6199,Team Secret,Bind,2,0,0.000,0,2
+2023,6199,Team Secret,Fracture,7,3,0.429,1,1
+2023,6199,Team Secret,Haven,10,6,0.600,8,0
+2023,6199,Team Secret,Icebox,4,1,0.250,4,0
+2023,6199,Team Secret,Lotus,6,3,0.500,4,3
+2023,6199,Team Secret,Pearl,2,1,0.500,0,14
+2023,6199,Team Secret,Split,6,1,0.167,0,6
+2023,2304,Giants Gaming,Ascent,7,4,0.571,3,4
+2023,2304,Giants Gaming,Bind,2,1,0.500,1,4
+2023,2304,Giants Gaming,Fracture,1,0,0.000,0,15
+2023,2304,Giants Gaming,Haven,5,3,0.600,2,8
+2023,2304,Giants Gaming,Icebox,7,4,0.571,2,0
+2023,2304,Giants Gaming,Lotus,8,6,0.750,2,1
+2023,2304,Giants Gaming,Pearl,6,3,0.500,3,3
+2023,2304,Giants Gaming,Split,8,4,0.500,7,3
+2023,17,Gen.G,Ascent,9,4,0.444,5,4
+2023,17,Gen.G,Bind,0,0,,0,8
+2023,17,Gen.G,Fracture,9,3,0.333,4,5
+2023,17,Gen.G,Haven,9,6,0.667,4,1
+2023,17,Gen.G,Icebox,0,0,,0,5
+2023,17,Gen.G,Lotus,7,2,0.286,3,3
+2023,17,Gen.G,Pearl,6,1,0.167,1,5
+2023,17,Gen.G,Split,3,2,0.667,1,2
+2023,2355,KRÜ Esports,Ascent,11,6,0.545,9,1
+2023,2355,KRÜ Esports,Bind,3,2,0.667,2,1
+2023,2355,KRÜ Esports,Fracture,2,0,0.000,0,10
+2023,2355,KRÜ Esports,Haven,3,1,0.333,0,8
+2023,2355,KRÜ Esports,Icebox,0,0,,0,5
+2023,2355,KRÜ Esports,Lotus,8,3,0.375,1,5
+2023,2355,KRÜ Esports,Pearl,7,2,0.286,0,3
+2023,2355,KRÜ Esports,Split,9,2,0.222,6,1
+2023,5448,ZETA DIVISION,Ascent,11,4,0.364,5,3
+2023,5448,ZETA DIVISION,Bind,3,1,0.333,0,5
+2023,5448,ZETA DIVISION,Fracture,7,4,0.571,4,3
+2023,5448,ZETA DIVISION,Haven,10,3,0.300,2,3
+2023,5448,ZETA DIVISION,Icebox,0,0,,0,4
+2023,5448,ZETA DIVISION,Lotus,5,4,0.800,0,4
+2023,5448,ZETA DIVISION,Pearl,3,0,0.000,2,7
+2023,5448,ZETA DIVISION,Split,4,3,0.750,3,2
+2023,2406,FURIA,Ascent,8,4,0.500,6,0
+2023,2406,FURIA,Bind,5,1,0.200,0,0
+2023,2406,FURIA,Fracture,3,0,0.000,0,5
+2023,2406,FURIA,Haven,7,3,0.429,4,1
+2023,2406,FURIA,Icebox,3,2,0.667,2,0
+2023,2406,FURIA,Lotus,0,0,,0,14
+2023,2406,FURIA,Pearl,6,3,0.500,2,4
+2023,2406,FURIA,Split,5,3,0.600,0,4
+2023,7035,Movistar KOI (KOI),Ascent,7,3,0.429,3,1
+2023,7035,Movistar KOI (KOI),Bind,1,0,0.000,0,7
+2023,7035,Movistar KOI (KOI),Fracture,5,2,0.400,4,1
+2023,7035,Movistar KOI (KOI),Haven,4,1,0.250,2,3
+2023,7035,Movistar KOI (KOI),Icebox,2,0,0.000,0,1
+2023,7035,Movistar KOI (KOI),Lotus,7,2,0.286,1,3
+2023,7035,Movistar KOI (KOI),Pearl,4,1,0.250,1,4
+2023,7035,Movistar KOI (KOI),Split,4,2,0.500,3,5
+2023,120,100 Thieves,Ascent,4,0,0.000,1,7
+2023,120,100 Thieves,Bind,2,0,0.000,0,3
+2023,120,100 Thieves,Fracture,6,2,0.333,4,1
+2023,120,100 Thieves,Haven,4,4,1.000,1,1
+2023,120,100 Thieves,Icebox,5,3,0.600,3,0
+2023,120,100 Thieves,Lotus,5,1,0.200,0,2
+2023,120,100 Thieves,Pearl,4,3,0.750,1,7
+2023,120,100 Thieves,Split,4,2,0.500,3,5
+2023,8304,TALON,Ascent,6,2,0.333,3,4
+2023,8304,TALON,Bind,1,1,1.000,0,4
+2023,8304,TALON,Fracture,6,4,0.667,2,5
+2023,8304,TALON,Haven,6,3,0.500,2,3
+2023,8304,TALON,Icebox,3,1,0.333,1,0
+2023,8304,TALON,Lotus,2,2,1.000,2,3
+2023,8304,TALON,Pearl,3,2,0.667,2,4
+2023,8304,TALON,Split,6,2,0.333,2,5
+2023,8877,Karmine Corp,Ascent,7,1,0.143,2,7
+2023,8877,Karmine Corp,Bind,1,1,1.000,0,1
+2023,8877,Karmine Corp,Fracture,0,0,,0,5
+2023,8877,Karmine Corp,Haven,5,1,0.200,1,4
+2023,8877,Karmine Corp,Icebox,2,1,0.500,0,2
+2023,8877,Karmine Corp,Lotus,7,3,0.429,6,1
+2023,8877,Karmine Corp,Pearl,4,1,0.250,1,5
+2023,8877,Karmine Corp,Split,6,1,0.167,4,3
+2023,2,Sentinels,Ascent,3,2,0.667,0,3
+2023,2,Sentinels,Bind,3,3,1.000,0,2
+2023,2,Sentinels,Fracture,6,3,0.500,1,2
+2023,2,Sentinels,Haven,3,0,0.000,1,7
+2023,2,Sentinels,Icebox,1,0,0.000,0,5
+2023,2,Sentinels,Lotus,3,1,0.333,3,3
+2023,2,Sentinels,Pearl,6,2,0.333,3,0
+2023,2,Sentinels,Split,7,2,0.286,5,4
+2023,2059,Team Vitality,Ascent,4,1,0.250,0,3
+2023,2059,Team Vitality,Bind,2,0,0.000,1,3
+2023,2059,Team Vitality,Fracture,3,1,0.333,0,4
+2023,2059,Team Vitality,Haven,7,3,0.429,4,0
+2023,2059,Team Vitality,Icebox,0,0,,0,5
+2023,2059,Team Vitality,Lotus,7,4,0.571,1,1
+2023,2059,Team Vitality,Pearl,2,0,0.000,2,10
+2023,2059,Team Vitality,Split,6,4,0.667,5,0
+2023,878,Rex Regum Qeon,Ascent,5,2,0.400,2,1
+2023,878,Rex Regum Qeon,Bind,1,0,0.000,1,1
+2023,878,Rex Regum Qeon,Fracture,3,1,0.333,1,4
+2023,878,Rex Regum Qeon,Haven,7,5,0.714,4,0
+2023,878,Rex Regum Qeon,Icebox,1,1,1.000,0,2
+2023,878,Rex Regum Qeon,Lotus,4,1,0.250,2,8
+2023,878,Rex Regum Qeon,Pearl,5,2,0.400,0,5
+2023,878,Rex Regum Qeon,Split,5,2,0.400,3,5
+2023,397,BBL Esports,Ascent,6,5,0.833,5,0
+2023,397,BBL Esports,Bind,3,1,0.333,0,0
+2023,397,BBL Esports,Fracture,1,0,0.000,0,8
+2023,397,BBL Esports,Haven,6,3,0.500,3,0
+2023,397,BBL Esports,Icebox,3,1,0.333,2,2
+2023,397,BBL Esports,Lotus,2,0,0.000,0,4
+2023,397,BBL Esports,Pearl,3,0,0.000,0,5
+2023,397,BBL Esports,Split,4,0,0.000,0,1
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Ascent,2,2,1.000,1,1
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Bind,5,3,0.600,3,2
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Fracture,1,0,0.000,0,8
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Haven,6,2,0.333,2,2
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Lotus,6,3,0.500,3,0
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Pearl,2,0,0.000,1,1
+2023,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Split,6,4,0.667,4,1
+2023,1001,Team Heretics,Ascent,4,0,0.000,2,4
+2023,1001,Team Heretics,Fracture,3,0,0.000,1,4
+2023,1001,Team Heretics,Haven,3,0,0.000,0,6
+2023,1001,Team Heretics,Icebox,3,1,0.333,1,1
+2023,1001,Team Heretics,Lotus,6,4,0.667,5,1
+2023,1001,Team Heretics,Pearl,5,2,0.400,2,1
+2023,1001,Team Heretics,Split,2,1,0.500,0,5
+2023,7386,MIBR,Ascent,1,0,0.000,0,7
+2023,7386,MIBR,Bind,1,0,0.000,0,1
+2023,7386,MIBR,Fracture,4,1,0.250,1,2
+2023,7386,MIBR,Haven,2,0,0.000,1,4
+2023,7386,MIBR,Icebox,2,1,0.500,1,0
+2023,7386,MIBR,Lotus,6,3,0.500,5,0
+2023,7386,MIBR,Pearl,6,1,0.167,2,3
+2023,7386,MIBR,Split,4,1,0.250,1,5
+2023,918,Global Esports,Ascent,2,0,0.000,0,7
+2023,918,Global Esports,Fracture,1,0,0.000,0,8
+2023,918,Global Esports,Haven,4,1,0.250,0,3
+2023,918,Global Esports,Icebox,2,2,1.000,0,2
+2023,918,Global Esports,Lotus,5,2,0.400,1,1
+2023,918,Global Esports,Pearl,7,4,0.571,5,0
+2023,918,Global Esports,Split,5,1,0.200,5,1
+2023,278,DetonatioN FocusMe,Ascent,4,0,0.000,1,3
+2023,278,DetonatioN FocusMe,Bind,1,0,0.000,1,1
+2023,278,DetonatioN FocusMe,Fracture,4,1,0.250,2,0
+2023,278,DetonatioN FocusMe,Haven,4,0,0.000,2,4
+2023,278,DetonatioN FocusMe,Icebox,1,0,0.000,0,4
+2023,278,DetonatioN FocusMe,Lotus,5,0,0.000,3,2
+2023,278,DetonatioN FocusMe,Pearl,4,0,0.000,1,2
+2023,278,DetonatioN FocusMe,Split,1,1,1.000,1,6
+2023,11328,FunPlus Phoenix,Ascent,5,3,0.600,1,0
+2023,11328,FunPlus Phoenix,Bind,4,0,0.000,0,1
+2023,11328,FunPlus Phoenix,Fracture,2,1,0.500,1,2
+2023,11328,FunPlus Phoenix,Haven,1,1,1.000,0,5
+2023,11328,FunPlus Phoenix,Icebox,0,0,,0,1
+2023,11328,FunPlus Phoenix,Lotus,5,3,0.600,5,0
+2023,11328,FunPlus Phoenix,Pearl,4,2,0.500,3,1
+2023,11328,FunPlus Phoenix,Split,2,0,0.000,0,4
+2023,731,TYLOO,Ascent,4,2,0.500,0,1
+2023,731,TYLOO,Bind,5,4,0.800,5,0
+2023,731,TYLOO,Fracture,3,2,0.667,1,5
+2023,731,TYLOO,Haven,1,0,0.000,0,3
+2023,731,TYLOO,Lotus,2,2,1.000,1,4
+2023,731,TYLOO,Pearl,2,1,0.500,1,2
+2023,731,TYLOO,Split,4,2,0.500,2,0
+2023,9052,Monarch Effect,Ascent,3,3,1.000,3,0
+2023,9052,Monarch Effect,Bind,3,3,1.000,0,2
+2023,9052,Monarch Effect,Fracture,1,0,0.000,0,0
+2023,9052,Monarch Effect,Haven,2,0,0.000,2,4
+2023,9052,Monarch Effect,Lotus,4,1,0.250,0,3
+2023,9052,Monarch Effect,Pearl,2,0,0.000,0,2
+2023,9052,Monarch Effect,Split,4,2,0.500,1,1
+2023,1224,Weibo Gaming,Ascent,1,0,0.000,1,0
+2023,1224,Weibo Gaming,Bind,3,1,0.333,0,1
+2023,1224,Weibo Gaming,Fracture,2,1,0.500,1,0
+2023,1224,Weibo Gaming,Haven,5,3,0.600,4,0
+2023,1224,Weibo Gaming,Lotus,2,1,0.500,0,3
+2023,1224,Weibo Gaming,Pearl,0,0,,0,6
+2023,1224,Weibo Gaming,Split,3,2,0.667,0,2
+2023,11980,Four Angry Men,Ascent,1,1,1.000,0,1
+2023,11980,Four Angry Men,Bind,4,2,0.500,1,0
+2023,11980,Four Angry Men,Fracture,0,0,,0,2
+2023,11980,Four Angry Men,Haven,3,1,0.333,1,0
+2023,11980,Four Angry Men,Lotus,3,2,0.667,0,0
+2023,11980,Four Angry Men,Pearl,3,2,0.667,0,1
+2023,11980,Four Angry Men,Split,2,0,0.000,0,1
+2023,11981,Dragon Ranger Gaming,Ascent,3,1,0.333,1,1
+2023,11981,Dragon Ranger Gaming,Bind,2,0,0.000,1,1
+2023,11981,Dragon Ranger Gaming,Fracture,0,0,,0,4
+2023,11981,Dragon Ranger Gaming,Haven,4,4,1.000,0,0
+2023,11981,Dragon Ranger Gaming,Lotus,2,1,0.500,2,1
+2023,11981,Dragon Ranger Gaming,Pearl,1,1,1.000,1,0
+2023,11981,Dragon Ranger Gaming,Split,3,1,0.333,0,3
+2023,12202,Gank Gaming,Ascent,3,0,0.000,0,1
+2023,12202,Gank Gaming,Bind,4,2,0.500,1,0
+2023,12202,Gank Gaming,Fracture,0,0,,0,1
+2023,12202,Gank Gaming,Haven,1,0,0.000,1,0
+2023,12202,Gank Gaming,Lotus,3,3,1.000,2,1
+2023,12202,Gank Gaming,Pearl,0,0,,0,4
+2023,12202,Gank Gaming,Split,2,1,0.500,0,1
+2023,804,Royal Never Give Up,Ascent,2,1,0.500,1,1
+2023,804,Royal Never Give Up,Bind,4,3,0.750,2,0
+2023,804,Royal Never Give Up,Fracture,0,0,,0,2
+2023,804,Royal Never Give Up,Haven,2,1,0.500,0,2
+2023,804,Royal Never Give Up,Lotus,1,0,0.000,0,1
+2023,804,Royal Never Give Up,Split,4,2,0.500,0,0
+2023,4462,Shenzhen NTER,Ascent,2,1,0.500,0,0
+2023,4462,Shenzhen NTER,Bind,0,0,,0,4
+2023,4462,Shenzhen NTER,Fracture,2,1,0.500,1,0
+2023,4462,Shenzhen NTER,Haven,2,0,0.000,1,1
+2023,4462,Shenzhen NTER,Lotus,4,2,0.500,2,0
+2023,4462,Shenzhen NTER,Pearl,1,0,0.000,0,1
+2023,4462,Shenzhen NTER,Split,2,2,1.000,0,1
+2023,1837,Attacking Soul Esports,Ascent,2,0,0.000,1,2
+2023,1837,Attacking Soul Esports,Bind,1,0,0.000,0,2
+2023,1837,Attacking Soul Esports,Fracture,3,1,0.333,3,0
+2023,1837,Attacking Soul Esports,Haven,1,1,1.000,0,0
+2023,1837,Attacking Soul Esports,Lotus,2,1,0.500,1,0
+2023,1837,Attacking Soul Esports,Pearl,1,0,0.000,0,4
+2023,1837,Attacking Soul Esports,Split,3,2,0.667,0,2
+2023,5944,Night Wings Gaming,Ascent,2,0,0.000,0,1
+2023,5944,Night Wings Gaming,Bind,2,1,0.500,0,0
+2023,5944,Night Wings Gaming,Fracture,0,0,,0,3
+2023,5944,Night Wings Gaming,Haven,3,1,0.333,0,0
+2023,5944,Night Wings Gaming,Lotus,1,0,0.000,1,2
+2023,5944,Night Wings Gaming,Pearl,1,1,1.000,0,0
+2023,5944,Night Wings Gaming,Split,3,2,0.667,2,0
+2023,12685,Trace Esports,Ascent,1,0,0.000,0,0
+2023,12685,Trace Esports,Bind,1,1,1.000,1,1
+2023,12685,Trace Esports,Fracture,0,0,,0,2
+2023,12685,Trace Esports,Haven,2,1,0.500,0,1
+2023,12685,Trace Esports,Lotus,4,1,0.250,2,0
+2023,12685,Trace Esports,Pearl,0,0,,0,2
+2023,12685,Trace Esports,Split,3,2,0.667,2,1
+2023,12011,Douyu Gaming,Ascent,2,1,0.500,1,1
+2023,12011,Douyu Gaming,Bind,1,0,0.000,0,1
+2023,12011,Douyu Gaming,Fracture,0,0,,0,2
+2023,12011,Douyu Gaming,Haven,2,1,0.500,1,0
+2023,12011,Douyu Gaming,Lotus,2,1,0.500,0,1
+2023,12011,Douyu Gaming,Pearl,1,0,0.000,0,1
+2023,12011,Douyu Gaming,Split,2,1,0.500,1,0
+2023,12064,Nova Esports,Ascent,2,2,1.000,0,0
+2023,12064,Nova Esports,Bind,3,0,0.000,0,0
+2023,12064,Nova Esports,Fracture,1,1,1.000,0,0
+2023,12064,Nova Esports,Haven,0,0,,0,1
+2023,12064,Nova Esports,Lotus,1,0,0.000,0,0
+2023,12064,Nova Esports,Pearl,0,0,,0,1
+2023,12064,Nova Esports,Split,3,1,0.333,1,0
+2023,4460,Number One Player,Bind,1,0,0.000,0,0
+2023,4460,Number One Player,Fracture,1,1,1.000,0,0
+2023,4460,Number One Player,Lotus,4,1,0.250,0,0
+2023,4460,Number One Player,Pearl,1,1,1.000,0,0
+2023,4460,Number One Player,Split,2,0,0.000,0,0
+2023,4683,Invincible Gaming,Ascent,0,0,,0,1
+2023,4683,Invincible Gaming,Bind,2,2,1.000,0,0
+2023,4683,Invincible Gaming,Fracture,1,0,0.000,0,0
+2023,4683,Invincible Gaming,Haven,0,0,,0,1
+2023,4683,Invincible Gaming,Lotus,3,1,0.333,0,0
+2023,4683,Invincible Gaming,Pearl,1,0,0.000,0,0
+2023,4683,Invincible Gaming,Split,2,0,0.000,1,0
+2023,11985,Rare Atom,Ascent,2,0,0.000,0,0
+2023,11985,Rare Atom,Bind,2,0,0.000,0,1
+2023,11985,Rare Atom,Fracture,0,0,,0,1
+2023,11985,Rare Atom,Haven,1,0,0.000,1,0
+2023,11985,Rare Atom,Lotus,3,2,0.667,1,0
+2023,11985,Rare Atom,Pearl,0,0,,0,2
+2023,1211,Totoro Gaming,Ascent,2,2,1.000,1,1
+2023,1211,Totoro Gaming,Fracture,0,0,,0,2
+2023,1211,Totoro Gaming,Haven,1,1,1.000,0,1
+2023,1211,Totoro Gaming,Lotus,1,1,1.000,0,0
+2023,1211,Totoro Gaming,Pearl,1,1,1.000,1,0
+2023,1211,Totoro Gaming,Split,1,1,1.000,1,2
+2023,11983,Kingzone,Fracture,2,0,0.000,0,0
+2023,11983,Kingzone,Lotus,3,0,0.000,0,0
+2023,11983,Kingzone,Pearl,1,0,0.000,0,0
+2023,12065,Team tarik,Lotus,1,0,0.000,0,0
+2023,12066,Team FRTTT,Lotus,1,1,1.000,0,0
+2023,12999,Team Bunny,Bind,1,1,1.000,0,0
+2023,13000,Team SuperBusS,Bind,1,0,0.000,0,0
+2024,17,Gen.G,Abyss,1,1,1.000,0,4
+2024,17,Gen.G,Ascent,18,15,0.833,12,3
+2024,17,Gen.G,Bind,13,8,0.615,2,18
+2024,17,Gen.G,Breeze,12,8,0.667,5,3
+2024,17,Gen.G,Haven,4,3,0.750,2,4
+2024,17,Gen.G,Icebox,17,10,0.588,4,11
+2024,17,Gen.G,Lotus,23,16,0.696,15,3
+2024,17,Gen.G,Split,14,7,0.500,2,7
+2024,17,Gen.G,Sunset,10,5,0.500,3,21
+2024,1001,Team Heretics,Abyss,8,4,0.500,2,0
+2024,1001,Team Heretics,Ascent,2,1,0.500,0,34
+2024,1001,Team Heretics,Bind,16,12,0.750,4,6
+2024,1001,Team Heretics,Breeze,5,2,0.400,0,8
+2024,1001,Team Heretics,Haven,5,3,0.600,1,2
+2024,1001,Team Heretics,Icebox,17,12,0.706,4,6
+2024,1001,Team Heretics,Lotus,24,14,0.583,14,6
+2024,1001,Team Heretics,Split,12,5,0.417,2,9
+2024,1001,Team Heretics,Sunset,22,17,0.773,20,1
+2024,624,Paper Rex,Abyss,1,1,1.000,0,1
+2024,624,Paper Rex,Ascent,12,5,0.417,1,14
+2024,624,Paper Rex,Bind,13,7,0.538,6,6
+2024,624,Paper Rex,Breeze,2,0,0.000,0,17
+2024,624,Paper Rex,Haven,1,0,0.000,0,8
+2024,624,Paper Rex,Icebox,12,7,0.583,5,13
+2024,624,Paper Rex,Lotus,18,8,0.444,7,0
+2024,624,Paper Rex,Split,9,7,0.778,4,2
+2024,624,Paper Rex,Sunset,19,16,0.842,13,0
+2024,1120,EDward Gaming,Abyss,4,3,0.750,1,3
+2024,1120,EDward Gaming,Ascent,7,4,0.571,3,21
+2024,1120,EDward Gaming,Bind,17,10,0.588,11,3
+2024,1120,EDward Gaming,Breeze,8,6,0.750,4,2
+2024,1120,EDward Gaming,Haven,6,2,0.333,5,0
+2024,1120,EDward Gaming,Icebox,12,5,0.417,3,11
+2024,1120,EDward Gaming,Lotus,9,7,0.778,3,16
+2024,1120,EDward Gaming,Split,8,6,0.750,4,2
+2024,1120,EDward Gaming,Sunset,16,12,0.750,3,2
+2024,11058,G2 Esports,Abyss,2,1,0.500,1,1
+2024,11058,G2 Esports,Ascent,10,7,0.700,7,8
+2024,11058,G2 Esports,Bind,15,9,0.600,9,4
+2024,11058,G2 Esports,Breeze,6,3,0.500,2,7
+2024,11058,G2 Esports,Haven,4,2,0.500,0,1
+2024,11058,G2 Esports,Icebox,17,7,0.412,7,7
+2024,11058,G2 Esports,Lotus,17,11,0.647,6,6
+2024,11058,G2 Esports,Split,8,5,0.625,2,2
+2024,11058,G2 Esports,Sunset,6,2,0.333,3,26
+2024,2359,LEVIATÁN,Abyss,4,3,0.750,1,5
+2024,2359,LEVIATÁN,Ascent,9,5,0.556,2,11
+2024,2359,LEVIATÁN,Bind,12,6,0.500,2,5
+2024,2359,LEVIATÁN,Breeze,6,3,0.500,4,0
+2024,2359,LEVIATÁN,Haven,3,2,0.667,2,1
+2024,2359,LEVIATÁN,Icebox,20,16,0.800,13,1
+2024,2359,LEVIATÁN,Lotus,12,7,0.583,2,13
+2024,2359,LEVIATÁN,Split,3,0,0.000,1,14
+2024,2359,LEVIATÁN,Sunset,13,9,0.692,7,5
+2024,2,Sentinels,Abyss,1,0,0.000,0,3
+2024,2,Sentinels,Ascent,7,2,0.286,0,16
+2024,2,Sentinels,Bind,10,5,0.500,3,7
+2024,2,Sentinels,Breeze,4,0,0.000,0,11
+2024,2,Sentinels,Haven,6,4,0.667,3,2
+2024,2,Sentinels,Icebox,9,4,0.444,0,16
+2024,2,Sentinels,Lotus,17,13,0.765,10,1
+2024,2,Sentinels,Split,16,12,0.750,13,0
+2024,2,Sentinels,Sunset,11,8,0.727,5,2
+2024,11328,FunPlus Phoenix,Abyss,3,2,0.667,3,0
+2024,11328,FunPlus Phoenix,Ascent,11,6,0.545,0,4
+2024,11328,FunPlus Phoenix,Bind,8,4,0.500,1,12
+2024,11328,FunPlus Phoenix,Breeze,7,3,0.429,5,2
+2024,11328,FunPlus Phoenix,Haven,7,3,0.429,4,1
+2024,11328,FunPlus Phoenix,Icebox,11,6,0.545,6,4
+2024,11328,FunPlus Phoenix,Lotus,17,10,0.588,11,0
+2024,11328,FunPlus Phoenix,Split,1,0,0.000,0,20
+2024,11328,FunPlus Phoenix,Sunset,12,6,0.500,2,9
+2024,2593,FNATIC,Abyss,2,0,0.000,0,3
+2024,2593,FNATIC,Ascent,6,3,0.500,0,7
+2024,2593,FNATIC,Bind,12,8,0.667,5,5
+2024,2593,FNATIC,Breeze,8,5,0.625,5,0
+2024,2593,FNATIC,Haven,7,7,1.000,7,0
+2024,2593,FNATIC,Icebox,7,2,0.286,4,11
+2024,2593,FNATIC,Lotus,21,13,0.619,10,0
+2024,2593,FNATIC,Split,6,4,0.667,1,7
+2024,2593,FNATIC,Sunset,6,3,0.500,0,22
+2024,12685,Trace Esports,Abyss,3,0,0.000,0,2
+2024,12685,Trace Esports,Ascent,7,7,1.000,3,9
+2024,12685,Trace Esports,Bind,12,5,0.417,5,7
+2024,12685,Trace Esports,Breeze,5,2,0.400,0,3
+2024,12685,Trace Esports,Haven,7,4,0.571,1,3
+2024,12685,Trace Esports,Icebox,0,0,,0,27
+2024,12685,Trace Esports,Lotus,12,8,0.667,7,1
+2024,12685,Trace Esports,Split,5,3,0.600,1,1
+2024,12685,Trace Esports,Sunset,17,8,0.471,11,0
+2024,8185,KIWOOM DRX,Abyss,6,5,0.833,6,1
+2024,8185,KIWOOM DRX,Ascent,9,5,0.556,2,8
+2024,8185,KIWOOM DRX,Bind,10,6,0.600,6,3
+2024,8185,KIWOOM DRX,Breeze,4,3,0.750,1,2
+2024,8185,KIWOOM DRX,Haven,7,4,0.571,2,3
+2024,8185,KIWOOM DRX,Icebox,7,4,0.571,3,5
+2024,8185,KIWOOM DRX,Lotus,9,5,0.556,2,12
+2024,8185,KIWOOM DRX,Split,5,3,0.600,3,3
+2024,8185,KIWOOM DRX,Sunset,7,2,0.286,1,8
+2024,1184,FUT Esports,Abyss,1,0,0.000,1,2
+2024,1184,FUT Esports,Ascent,4,4,1.000,1,3
+2024,1184,FUT Esports,Bind,11,4,0.364,6,4
+2024,1184,FUT Esports,Breeze,2,1,0.500,0,17
+2024,1184,FUT Esports,Haven,1,0,0.000,0,6
+2024,1184,FUT Esports,Icebox,8,4,0.500,2,7
+2024,1184,FUT Esports,Lotus,12,6,0.500,6,2
+2024,1184,FUT Esports,Split,10,6,0.600,6,5
+2024,1184,FUT Esports,Sunset,13,5,0.385,5,5
+2024,2059,Team Vitality,Abyss,0,0,,0,6
+2024,2059,Team Vitality,Ascent,7,3,0.429,3,4
+2024,2059,Team Vitality,Bind,4,1,0.250,1,7
+2024,2059,Team Vitality,Breeze,5,4,0.800,4,1
+2024,2059,Team Vitality,Haven,4,1,0.250,0,6
+2024,2059,Team Vitality,Icebox,10,5,0.500,7,5
+2024,2059,Team Vitality,Lotus,13,6,0.462,3,3
+2024,2059,Team Vitality,Split,1,0,0.000,0,11
+2024,2059,Team Vitality,Sunset,17,11,0.647,7,0
+2024,8877,Karmine Corp,Ascent,2,1,0.500,0,18
+2024,8877,Karmine Corp,Bind,9,4,0.444,3,2
+2024,8877,Karmine Corp,Breeze,3,1,0.333,0,11
+2024,8877,Karmine Corp,Haven,1,0,0.000,0,1
+2024,8877,Karmine Corp,Icebox,8,4,0.500,4,9
+2024,8877,Karmine Corp,Lotus,14,9,0.643,7,0
+2024,8877,Karmine Corp,Split,7,4,0.571,4,1
+2024,8877,Karmine Corp,Sunset,13,6,0.462,6,3
+2024,120,100 Thieves,Abyss,1,0,0.000,1,0
+2024,120,100 Thieves,Ascent,7,5,0.714,1,1
+2024,120,100 Thieves,Bind,14,8,0.571,13,1
+2024,120,100 Thieves,Breeze,3,3,1.000,1,6
+2024,120,100 Thieves,Haven,3,1,0.333,1,3
+2024,120,100 Thieves,Icebox,10,6,0.600,4,3
+2024,120,100 Thieves,Lotus,5,1,0.200,1,15
+2024,120,100 Thieves,Split,8,5,0.625,0,5
+2024,120,100 Thieves,Sunset,5,1,0.200,2,12
+2024,2355,KRÜ Esports,Abyss,3,1,0.333,1,3
+2024,2355,KRÜ Esports,Ascent,8,2,0.250,1,4
+2024,2355,KRÜ Esports,Bind,1,0,0.000,0,20
+2024,2355,KRÜ Esports,Breeze,4,3,0.750,2,5
+2024,2355,KRÜ Esports,Haven,4,3,0.750,2,4
+2024,2355,KRÜ Esports,Icebox,10,4,0.400,4,2
+2024,2355,KRÜ Esports,Lotus,10,6,0.600,5,0
+2024,2355,KRÜ Esports,Split,7,4,0.571,4,1
+2024,2355,KRÜ Esports,Sunset,9,4,0.444,3,2
+2024,6961,LOUD,Ascent,8,3,0.375,5,3
+2024,6961,LOUD,Bind,7,4,0.571,0,6
+2024,6961,LOUD,Breeze,3,2,0.667,0,4
+2024,6961,LOUD,Haven,1,1,1.000,1,0
+2024,6961,LOUD,Icebox,12,6,0.500,7,4
+2024,6961,LOUD,Lotus,7,3,0.429,3,5
+2024,6961,LOUD,Split,5,2,0.400,1,13
+2024,6961,LOUD,Sunset,9,4,0.444,4,4
+2024,14,T1,Ascent,7,4,0.571,1,2
+2024,14,T1,Bind,6,1,0.167,1,7
+2024,14,T1,Breeze,5,3,0.600,3,1
+2024,14,T1,Haven,1,1,1.000,0,2
+2024,14,T1,Icebox,4,1,0.250,0,12
+2024,14,T1,Lotus,14,8,0.571,12,2
+2024,14,T1,Split,4,0,0.000,2,6
+2024,14,T1,Sunset,8,3,0.375,1,5
+2024,11981,Dragon Ranger Gaming,Ascent,9,4,0.444,8,2
+2024,11981,Dragon Ranger Gaming,Bind,7,4,0.571,1,6
+2024,11981,Dragon Ranger Gaming,Breeze,8,2,0.250,2,3
+2024,11981,Dragon Ranger Gaming,Haven,1,1,1.000,1,0
+2024,11981,Dragon Ranger Gaming,Icebox,7,4,0.571,4,0
+2024,11981,Dragon Ranger Gaming,Lotus,3,1,0.333,0,13
+2024,11981,Dragon Ranger Gaming,Split,5,2,0.400,3,6
+2024,11981,Dragon Ranger Gaming,Sunset,7,2,0.286,1,7
+2024,8304,TALON,Abyss,2,1,0.500,0,1
+2024,8304,TALON,Ascent,10,2,0.200,5,4
+2024,8304,TALON,Bind,4,3,0.750,2,5
+2024,8304,TALON,Breeze,4,3,0.750,1,3
+2024,8304,TALON,Haven,2,0,0.000,1,2
+2024,8304,TALON,Icebox,5,2,0.400,2,9
+2024,8304,TALON,Lotus,11,7,0.636,8,1
+2024,8304,TALON,Split,1,0,0.000,0,9
+2024,8304,TALON,Sunset,6,1,0.167,0,4
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Abyss,0,0,,0,2
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Ascent,5,3,0.600,3,7
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Bind,9,4,0.444,2,3
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Breeze,1,0,0.000,1,7
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Haven,1,0,0.000,0,6
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Icebox,10,5,0.500,4,5
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Lotus,11,5,0.455,3,0
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Split,2,1,0.500,1,4
+2024,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sunset,6,3,0.500,5,4
+2024,6199,Team Secret,Abyss,1,0,0.000,1,0
+2024,6199,Team Secret,Ascent,5,3,0.600,1,4
+2024,6199,Team Secret,Bind,0,0,,0,16
+2024,6199,Team Secret,Breeze,7,3,0.429,5,0
+2024,6199,Team Secret,Haven,1,0,0.000,1,0
+2024,6199,Team Secret,Icebox,6,4,0.667,3,0
+2024,6199,Team Secret,Lotus,9,2,0.222,0,5
+2024,6199,Team Secret,Split,4,4,1.000,0,9
+2024,6199,Team Secret,Sunset,9,7,0.778,6,0
+2024,5448,ZETA DIVISION,Ascent,9,4,0.444,6,0
+2024,5448,ZETA DIVISION,Bind,3,3,1.000,1,1
+2024,5448,ZETA DIVISION,Breeze,1,0,0.000,0,10
+2024,5448,ZETA DIVISION,Haven,2,2,1.000,0,0
+2024,5448,ZETA DIVISION,Icebox,6,1,0.167,1,5
+2024,5448,ZETA DIVISION,Lotus,7,3,0.429,2,2
+2024,5448,ZETA DIVISION,Split,2,0,0.000,1,10
+2024,5448,ZETA DIVISION,Sunset,9,3,0.333,4,2
+2024,188,Cloud9,Abyss,1,0,0.000,1,0
+2024,188,Cloud9,Ascent,8,1,0.125,1,5
+2024,188,Cloud9,Bind,5,2,0.400,3,4
+2024,188,Cloud9,Breeze,0,0,,0,10
+2024,188,Cloud9,Haven,2,0,0.000,1,0
+2024,188,Cloud9,Icebox,6,4,0.667,5,1
+2024,188,Cloud9,Lotus,7,4,0.571,3,1
+2024,188,Cloud9,Split,4,1,0.250,0,6
+2024,188,Cloud9,Sunset,5,4,0.800,1,3
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Ascent,3,1,0.333,0,6
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Bind,7,3,0.429,4,5
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Breeze,2,2,1.000,2,0
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Haven,1,0,0.000,0,3
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Icebox,7,2,0.286,2,3
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Lotus,9,4,0.444,3,1
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Split,5,1,0.200,2,5
+2024,14137,Wuxi Titan Esports Club (Titan Esports Club),Sunset,4,2,0.500,2,7
+2024,4915,Natus Vincere,Ascent,8,4,0.500,5,0
+2024,4915,Natus Vincere,Bind,5,2,0.400,4,3
+2024,4915,Natus Vincere,Breeze,4,2,0.500,2,3
+2024,4915,Natus Vincere,Haven,1,1,1.000,1,0
+2024,4915,Natus Vincere,Icebox,1,0,0.000,0,9
+2024,4915,Natus Vincere,Lotus,5,1,0.200,0,9
+2024,4915,Natus Vincere,Split,7,4,0.571,3,1
+2024,4915,Natus Vincere,Sunset,6,2,0.333,0,5
+2024,7035,Movistar KOI (KOI),Ascent,1,0,0.000,0,9
+2024,7035,Movistar KOI (KOI),Bind,6,1,0.167,2,3
+2024,7035,Movistar KOI (KOI),Breeze,3,0,0.000,1,0
+2024,7035,Movistar KOI (KOI),Haven,1,0,0.000,0,2
+2024,7035,Movistar KOI (KOI),Icebox,9,5,0.556,4,0
+2024,7035,Movistar KOI (KOI),Lotus,1,1,1.000,0,11
+2024,7035,Movistar KOI (KOI),Split,7,4,0.571,4,3
+2024,7035,Movistar KOI (KOI),Sunset,7,2,0.286,4,2
+2024,7386,MIBR,Ascent,4,1,0.250,4,4
+2024,7386,MIBR,Bind,5,2,0.400,2,5
+2024,7386,MIBR,Breeze,3,2,0.667,0,0
+2024,7386,MIBR,Haven,0,0,,0,3
+2024,7386,MIBR,Icebox,6,0,0.000,0,6
+2024,7386,MIBR,Lotus,4,2,0.500,1,7
+2024,7386,MIBR,Split,6,2,0.333,5,4
+2024,7386,MIBR,Sunset,5,1,0.200,3,1
+2024,12064,Nova Esports,Ascent,8,2,0.250,3,1
+2024,12064,Nova Esports,Bind,5,2,0.400,3,2
+2024,12064,Nova Esports,Breeze,0,0,,0,9
+2024,12064,Nova Esports,Haven,0,0,,0,4
+2024,12064,Nova Esports,Icebox,2,2,1.000,0,8
+2024,12064,Nova Esports,Lotus,8,2,0.250,2,2
+2024,12064,Nova Esports,Split,6,3,0.500,3,2
+2024,12064,Nova Esports,Sunset,4,2,0.500,3,0
+2024,13576,JD Gaming,Abyss,0,0,,0,1
+2024,13576,JD Gaming,Ascent,3,1,0.333,1,6
+2024,13576,JD Gaming,Bind,6,3,0.500,3,1
+2024,13576,JD Gaming,Breeze,1,0,0.000,1,8
+2024,13576,JD Gaming,Haven,4,3,0.750,2,0
+2024,13576,JD Gaming,Icebox,8,5,0.625,3,0
+2024,13576,JD Gaming,Lotus,5,2,0.400,2,3
+2024,13576,JD Gaming,Split,1,0,0.000,0,6
+2024,13576,JD Gaming,Sunset,5,2,0.400,2,3
+2024,878,Rex Regum Qeon,Ascent,5,4,0.800,3,5
+2024,878,Rex Regum Qeon,Bind,1,0,0.000,0,6
+2024,878,Rex Regum Qeon,Breeze,3,2,0.667,1,0
+2024,878,Rex Regum Qeon,Haven,1,0,0.000,1,2
+2024,878,Rex Regum Qeon,Icebox,7,3,0.429,3,1
+2024,878,Rex Regum Qeon,Lotus,6,1,0.167,2,3
+2024,878,Rex Regum Qeon,Split,5,4,0.800,2,2
+2024,878,Rex Regum Qeon,Sunset,4,2,0.500,1,7
+2024,474,Team Liquid,Ascent,5,2,0.400,2,0
+2024,474,Team Liquid,Bind,3,2,0.667,1,6
+2024,474,Team Liquid,Breeze,1,0,0.000,0,9
+2024,474,Team Liquid,Haven,1,0,0.000,0,0
+2024,474,Team Liquid,Icebox,8,5,0.625,5,1
+2024,474,Team Liquid,Lotus,6,2,0.333,4,2
+2024,474,Team Liquid,Split,5,1,0.200,1,5
+2024,474,Team Liquid,Sunset,3,1,0.333,1,5
+2024,6387,BLEED,Ascent,6,3,0.500,3,5
+2024,6387,BLEED,Bind,4,0,0.000,2,1
+2024,6387,BLEED,Breeze,2,0,0.000,2,1
+2024,6387,BLEED,Icebox,4,1,0.250,1,5
+2024,6387,BLEED,Lotus,7,2,0.286,2,2
+2024,6387,BLEED,Split,3,1,0.333,0,5
+2024,6387,BLEED,Sunset,5,1,0.200,2,5
+2024,918,Global Esports,Ascent,6,1,0.167,2,2
+2024,918,Global Esports,Bind,2,0,0.000,2,9
+2024,918,Global Esports,Breeze,1,0,0.000,1,3
+2024,918,Global Esports,Icebox,7,4,0.571,4,1
+2024,918,Global Esports,Lotus,8,3,0.375,2,4
+2024,918,Global Esports,Split,2,1,0.500,1,4
+2024,918,Global Esports,Sunset,5,2,0.400,1,3
+2024,14419,GIANTX,Ascent,2,1,0.500,0,4
+2024,14419,GIANTX,Bind,3,1,0.333,2,4
+2024,14419,GIANTX,Breeze,4,2,0.500,1,0
+2024,14419,GIANTX,Haven,1,0,0.000,0,1
+2024,14419,GIANTX,Icebox,3,1,0.333,0,6
+2024,14419,GIANTX,Lotus,5,3,0.600,3,3
+2024,14419,GIANTX,Split,6,1,0.167,3,4
+2024,14419,GIANTX,Sunset,7,3,0.429,3,2
+2024,1119,All Gamers,Abyss,0,0,,0,1
+2024,1119,All Gamers,Ascent,2,0,0.000,0,11
+2024,1119,All Gamers,Bind,2,1,0.500,1,6
+2024,1119,All Gamers,Breeze,3,1,0.333,2,0
+2024,1119,All Gamers,Haven,3,1,0.333,1,0
+2024,1119,All Gamers,Icebox,7,2,0.286,3,0
+2024,1119,All Gamers,Lotus,3,2,0.667,2,6
+2024,1119,All Gamers,Split,1,1,1.000,0,2
+2024,1119,All Gamers,Sunset,10,3,0.300,5,2
+2024,1034,NRG,Ascent,6,5,0.833,6,0
+2024,1034,NRG,Bind,3,0,0.000,0,6
+2024,1034,NRG,Breeze,4,4,1.000,3,0
+2024,1034,NRG,Haven,1,0,0.000,1,2
+2024,1034,NRG,Icebox,1,0,0.000,0,9
+2024,1034,NRG,Lotus,2,1,0.500,1,7
+2024,1034,NRG,Split,5,2,0.400,1,1
+2024,1034,NRG,Sunset,8,3,0.375,1,1
+2024,278,DetonatioN FocusMe,Ascent,6,3,0.500,3,1
+2024,278,DetonatioN FocusMe,Bind,0,0,,0,6
+2024,278,DetonatioN FocusMe,Breeze,3,1,0.333,0,4
+2024,278,DetonatioN FocusMe,Haven,2,0,0.000,1,0
+2024,278,DetonatioN FocusMe,Icebox,3,0,0.000,1,6
+2024,278,DetonatioN FocusMe,Lotus,8,1,0.125,4,2
+2024,278,DetonatioN FocusMe,Split,3,1,0.333,2,4
+2024,278,DetonatioN FocusMe,Sunset,5,2,0.400,1,1
+2024,731,TYLOO,Ascent,6,2,0.333,3,1
+2024,731,TYLOO,Bind,4,3,0.750,3,1
+2024,731,TYLOO,Breeze,1,1,1.000,0,5
+2024,731,TYLOO,Haven,3,1,0.333,0,0
+2024,731,TYLOO,Icebox,6,1,0.167,4,3
+2024,731,TYLOO,Lotus,1,0,0.000,0,8
+2024,731,TYLOO,Split,4,2,0.500,2,1
+2024,731,TYLOO,Sunset,5,1,0.200,0,5
+2024,13790,Wolves Esports,Ascent,7,4,0.571,4,1
+2024,13790,Wolves Esports,Bind,4,1,0.250,1,3
+2024,13790,Wolves Esports,Breeze,2,1,0.500,0,2
+2024,13790,Wolves Esports,Haven,0,0,,0,1
+2024,13790,Wolves Esports,Icebox,6,4,0.667,5,1
+2024,13790,Wolves Esports,Lotus,4,0,0.000,0,7
+2024,13790,Wolves Esports,Split,3,1,0.333,1,5
+2024,13790,Wolves Esports,Sunset,4,1,0.250,2,6
+2024,5248,Evil Geniuses,Ascent,3,2,0.667,0,6
+2024,5248,Evil Geniuses,Bind,4,3,0.750,2,5
+2024,5248,Evil Geniuses,Breeze,1,0,0.000,0,1
+2024,5248,Evil Geniuses,Haven,0,0,,0,5
+2024,5248,Evil Geniuses,Icebox,5,2,0.400,3,2
+2024,5248,Evil Geniuses,Lotus,9,2,0.222,4,0
+2024,5248,Evil Geniuses,Split,1,0,0.000,0,5
+2024,5248,Evil Geniuses,Sunset,7,4,0.571,3,0
+2024,397,BBL Esports,Ascent,6,1,0.167,5,0
+2024,397,BBL Esports,Bind,5,2,0.400,1,4
+2024,397,BBL Esports,Breeze,2,1,0.500,0,6
+2024,397,BBL Esports,Haven,0,0,,0,2
+2024,397,BBL Esports,Icebox,2,1,0.500,2,3
+2024,397,BBL Esports,Lotus,4,1,0.250,0,5
+2024,397,BBL Esports,Split,3,2,0.667,1,1
+2024,397,BBL Esports,Sunset,6,3,0.500,3,3
+2024,12694,Gentle Mates,Ascent,2,2,1.000,0,3
+2024,12694,Gentle Mates,Bind,0,0,,0,12
+2024,12694,Gentle Mates,Breeze,3,1,0.333,2,1
+2024,12694,Gentle Mates,Haven,0,0,,0,2
+2024,12694,Gentle Mates,Icebox,4,2,0.500,3,2
+2024,12694,Gentle Mates,Lotus,5,0,0.000,1,2
+2024,12694,Gentle Mates,Split,5,2,0.400,3,2
+2024,12694,Gentle Mates,Sunset,9,3,0.333,3,0
+2024,2406,FURIA,Ascent,2,1,0.500,1,4
+2024,2406,FURIA,Bind,3,1,0.333,1,1
+2024,2406,FURIA,Breeze,4,0,0.000,2,0
+2024,2406,FURIA,Haven,2,1,0.500,0,1
+2024,2406,FURIA,Icebox,7,4,0.571,5,1
+2024,2406,FURIA,Lotus,4,0,0.000,2,6
+2024,2406,FURIA,Split,3,0,0.000,1,3
+2024,2406,FURIA,Sunset,2,1,0.500,0,8
+2024,15315,Team International,Abyss,1,0,0.000,0,0
+2024,15315,Team International,Ascent,1,0,0.000,0,0
+2024,15316,Team Spain,Ascent,1,1,1.000,0,0
+2024,15805,Team China,Abyss,1,1,1.000,0,0
+2025,11058,G2 Esports,Abyss,7,5,0.714,6,0
+2025,11058,G2 Esports,Ascent,13,11,0.846,7,7
+2025,11058,G2 Esports,Bind,6,4,0.667,2,11
+2025,11058,G2 Esports,Corrode,7,3,0.429,2,3
+2025,11058,G2 Esports,Fracture,4,2,0.500,0,9
+2025,11058,G2 Esports,Haven,14,10,0.714,5,10
+2025,11058,G2 Esports,Icebox,4,3,0.750,1,10
+2025,11058,G2 Esports,Lotus,22,16,0.727,13,5
+2025,11058,G2 Esports,Pearl,10,7,0.700,2,4
+2025,11058,G2 Esports,Split,10,5,0.500,4,6
+2025,11058,G2 Esports,Sunset,3,3,1.000,1,8
+2025,474,Team Liquid,Abyss,8,6,0.750,3,1
+2025,474,Team Liquid,Ascent,7,6,0.857,1,5
+2025,474,Team Liquid,Bind,12,8,0.667,7,0
+2025,474,Team Liquid,Corrode,4,1,0.250,3,1
+2025,474,Team Liquid,Fracture,8,4,0.500,3,3
+2025,474,Team Liquid,Haven,9,5,0.556,4,12
+2025,474,Team Liquid,Icebox,8,2,0.250,0,10
+2025,474,Team Liquid,Lotus,12,8,0.667,2,10
+2025,474,Team Liquid,Pearl,4,0,0.000,0,17
+2025,474,Team Liquid,Split,12,9,0.750,8,1
+2025,474,Team Liquid,Sunset,9,4,0.444,6,2
+2025,2593,FNATIC,Abyss,7,4,0.571,0,3
+2025,2593,FNATIC,Ascent,12,6,0.500,8,5
+2025,2593,FNATIC,Bind,8,5,0.625,2,2
+2025,2593,FNATIC,Corrode,4,3,0.750,2,7
+2025,2593,FNATIC,Fracture,8,6,0.750,6,2
+2025,2593,FNATIC,Haven,13,8,0.615,2,7
+2025,2593,FNATIC,Icebox,8,7,0.875,2,4
+2025,2593,FNATIC,Lotus,15,9,0.600,8,7
+2025,2593,FNATIC,Pearl,2,1,0.500,0,14
+2025,2593,FNATIC,Split,10,8,0.800,8,1
+2025,2593,FNATIC,Sunset,6,0,0.000,1,10
+2025,14,T1,Abyss,2,0,0.000,0,11
+2025,14,T1,Ascent,4,2,0.500,4,5
+2025,14,T1,Bind,10,6,0.600,6,6
+2025,14,T1,Corrode,4,2,0.500,1,5
+2025,14,T1,Fracture,11,5,0.455,0,4
+2025,14,T1,Haven,14,8,0.571,9,5
+2025,14,T1,Icebox,4,1,0.250,1,9
+2025,14,T1,Lotus,16,7,0.438,4,7
+2025,14,T1,Pearl,6,5,0.833,3,3
+2025,14,T1,Split,9,5,0.556,4,3
+2025,14,T1,Sunset,7,5,0.714,4,0
+2025,2,Sentinels,Abyss,5,3,0.600,0,0
+2025,2,Sentinels,Ascent,5,2,0.400,0,15
+2025,2,Sentinels,Bind,3,1,0.333,0,10
+2025,2,Sentinels,Corrode,5,4,0.800,3,0
+2025,2,Sentinels,Fracture,1,0,0.000,1,11
+2025,2,Sentinels,Haven,11,5,0.455,1,6
+2025,2,Sentinels,Icebox,7,2,0.286,0,8
+2025,2,Sentinels,Lotus,17,11,0.647,11,4
+2025,2,Sentinels,Pearl,10,7,0.700,9,0
+2025,2,Sentinels,Split,11,7,0.636,4,3
+2025,2,Sentinels,Sunset,9,5,0.556,6,1
+2025,878,Rex Regum Qeon,Abyss,4,1,0.250,2,1
+2025,878,Rex Regum Qeon,Ascent,13,5,0.385,5,6
+2025,878,Rex Regum Qeon,Bind,4,0,0.000,1,9
+2025,878,Rex Regum Qeon,Corrode,6,3,0.500,1,1
+2025,878,Rex Regum Qeon,Fracture,4,2,0.500,3,1
+2025,878,Rex Regum Qeon,Haven,15,9,0.600,8,2
+2025,878,Rex Regum Qeon,Icebox,10,7,0.700,8,4
+2025,878,Rex Regum Qeon,Lotus,12,6,0.500,0,15
+2025,878,Rex Regum Qeon,Pearl,6,3,0.500,2,4
+2025,878,Rex Regum Qeon,Split,3,2,0.667,0,8
+2025,878,Rex Regum Qeon,Sunset,7,4,0.571,3,1
+2025,624,Paper Rex,Abyss,1,0,0.000,0,5
+2025,624,Paper Rex,Ascent,11,6,0.545,0,15
+2025,624,Paper Rex,Bind,9,7,0.778,5,1
+2025,624,Paper Rex,Corrode,1,0,0.000,0,8
+2025,624,Paper Rex,Fracture,7,5,0.714,4,1
+2025,624,Paper Rex,Haven,7,4,0.571,0,24
+2025,624,Paper Rex,Icebox,7,5,0.714,4,3
+2025,624,Paper Rex,Lotus,22,16,0.727,12,2
+2025,624,Paper Rex,Pearl,6,3,0.500,4,4
+2025,624,Paper Rex,Split,6,3,0.500,4,2
+2025,624,Paper Rex,Sunset,7,6,0.857,3,0
+2025,1120,EDward Gaming,Abyss,3,1,0.333,2,8
+2025,1120,EDward Gaming,Ascent,7,4,0.571,3,6
+2025,1120,EDward Gaming,Bind,9,5,0.556,6,4
+2025,1120,EDward Gaming,Corrode,6,4,0.667,3,1
+2025,1120,EDward Gaming,Fracture,8,7,0.875,4,3
+2025,1120,EDward Gaming,Haven,10,7,0.700,4,5
+2025,1120,EDward Gaming,Icebox,4,2,0.500,2,10
+2025,1120,EDward Gaming,Lotus,14,3,0.214,2,12
+2025,1120,EDward Gaming,Pearl,7,5,0.714,2,4
+2025,1120,EDward Gaming,Split,7,4,0.571,3,4
+2025,1120,EDward Gaming,Sunset,5,3,0.600,4,0
+2025,8185,KIWOOM DRX,Abyss,6,6,1.000,6,0
+2025,8185,KIWOOM DRX,Ascent,8,7,0.875,4,4
+2025,8185,KIWOOM DRX,Bind,10,6,0.600,1,5
+2025,8185,KIWOOM DRX,Corrode,6,2,0.333,3,3
+2025,8185,KIWOOM DRX,Fracture,7,6,0.857,5,2
+2025,8185,KIWOOM DRX,Haven,9,5,0.556,5,8
+2025,8185,KIWOOM DRX,Icebox,9,4,0.444,4,2
+2025,8185,KIWOOM DRX,Lotus,17,8,0.471,3,6
+2025,8185,KIWOOM DRX,Pearl,2,0,0.000,1,12
+2025,8185,KIWOOM DRX,Split,4,3,0.750,1,6
+2025,8185,KIWOOM DRX,Sunset,2,1,0.500,0,13
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Abyss,2,1,0.500,0,1
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Ascent,7,4,0.571,1,4
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Bind,6,4,0.667,4,3
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Corrode,2,1,0.500,0,8
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Fracture,6,4,0.667,3,4
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Haven,13,5,0.385,7,7
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Icebox,9,6,0.667,5,3
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Lotus,16,10,0.625,7,6
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Pearl,7,5,0.714,5,4
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Split,3,0,0.000,0,9
+2025,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sunset,7,4,0.571,1,0
+2025,7386,MIBR,Abyss,7,4,0.571,7,1
+2025,7386,MIBR,Ascent,5,0,0.000,1,11
+2025,7386,MIBR,Bind,6,2,0.333,1,2
+2025,7386,MIBR,Corrode,5,4,0.800,2,2
+2025,7386,MIBR,Fracture,0,0,,0,12
+2025,7386,MIBR,Haven,9,5,0.556,1,6
+2025,7386,MIBR,Icebox,8,7,0.875,8,0
+2025,7386,MIBR,Lotus,10,2,0.200,3,11
+2025,7386,MIBR,Pearl,5,4,0.800,3,3
+2025,7386,MIBR,Split,9,6,0.667,2,4
+2025,7386,MIBR,Sunset,6,3,0.500,2,2
+2025,13581,Xi Lai Gaming,Abyss,3,0,0.000,1,1
+2025,13581,Xi Lai Gaming,Ascent,5,3,0.600,1,7
+2025,13581,Xi Lai Gaming,Bind,6,3,0.500,6,0
+2025,13581,Xi Lai Gaming,Corrode,1,0,0.000,0,10
+2025,13581,Xi Lai Gaming,Fracture,5,4,0.800,2,6
+2025,13581,Xi Lai Gaming,Haven,11,9,0.818,5,4
+2025,13581,Xi Lai Gaming,Icebox,5,1,0.200,2,6
+2025,13581,Xi Lai Gaming,Lotus,19,13,0.684,8,2
+2025,13581,Xi Lai Gaming,Pearl,5,3,0.600,0,6
+2025,13581,Xi Lai Gaming,Split,2,2,1.000,0,8
+2025,13581,Xi Lai Gaming,Sunset,6,2,0.333,3,4
+2025,1034,NRG,Abyss,5,3,0.600,2,2
+2025,1034,NRG,Ascent,5,2,0.400,0,6
+2025,1034,NRG,Bind,6,2,0.333,0,10
+2025,1034,NRG,Corrode,8,8,1.000,6,0
+2025,1034,NRG,Fracture,5,2,0.400,2,1
+2025,1034,NRG,Haven,10,4,0.400,6,5
+2025,1034,NRG,Icebox,5,4,0.800,2,3
+2025,1034,NRG,Lotus,14,9,0.643,8,3
+2025,1034,NRG,Pearl,3,2,0.667,1,1
+2025,1034,NRG,Split,0,0,,0,8
+2025,1034,NRG,Sunset,5,1,0.200,1,8
+2025,11981,Dragon Ranger Gaming,Abyss,4,2,0.500,2,1
+2025,11981,Dragon Ranger Gaming,Ascent,8,5,0.625,4,1
+2025,11981,Dragon Ranger Gaming,Bind,3,2,0.667,0,10
+2025,11981,Dragon Ranger Gaming,Corrode,3,2,0.667,1,2
+2025,11981,Dragon Ranger Gaming,Fracture,4,2,0.500,0,6
+2025,11981,Dragon Ranger Gaming,Haven,10,5,0.500,5,9
+2025,11981,Dragon Ranger Gaming,Icebox,4,1,0.250,0,7
+2025,11981,Dragon Ranger Gaming,Lotus,14,7,0.500,11,2
+2025,11981,Dragon Ranger Gaming,Pearl,6,2,0.333,1,3
+2025,11981,Dragon Ranger Gaming,Split,2,1,0.500,0,5
+2025,11981,Dragon Ranger Gaming,Sunset,6,4,0.667,1,2
+2025,14419,GIANTX,Abyss,0,0,,1,6
+2025,14419,GIANTX,Ascent,10,7,0.700,7,3
+2025,14419,GIANTX,Bind,8,3,0.375,1,6
+2025,14419,GIANTX,Corrode,4,2,0.500,0,6
+2025,14419,GIANTX,Fracture,3,2,0.667,1,1
+2025,14419,GIANTX,Haven,10,5,0.500,4,6
+2025,14419,GIANTX,Icebox,2,1,0.500,0,9
+2025,14419,GIANTX,Lotus,12,4,0.333,6,3
+2025,14419,GIANTX,Pearl,2,0,0.000,1,2
+2025,14419,GIANTX,Split,4,1,0.250,0,3
+2025,14419,GIANTX,Sunset,9,6,0.667,5,0
+2025,1001,Team Heretics,Abyss,3,0,0.000,1,5
+2025,1001,Team Heretics,Ascent,9,5,0.556,4,2
+2025,1001,Team Heretics,Bind,4,4,1.000,0,4
+2025,1001,Team Heretics,Corrode,3,2,0.667,1,6
+2025,1001,Team Heretics,Fracture,4,1,0.250,2,7
+2025,1001,Team Heretics,Haven,11,9,0.818,9,1
+2025,1001,Team Heretics,Icebox,10,4,0.400,5,4
+2025,1001,Team Heretics,Lotus,9,5,0.556,6,5
+2025,1001,Team Heretics,Pearl,5,3,0.600,0,3
+2025,1001,Team Heretics,Split,3,1,0.333,1,8
+2025,1001,Team Heretics,Sunset,3,2,0.667,1,5
+2025,17,Gen.G,Abyss,2,1,0.500,0,1
+2025,17,Gen.G,Ascent,8,4,0.500,1,6
+2025,17,Gen.G,Bind,3,1,0.333,1,6
+2025,17,Gen.G,Corrode,3,2,0.667,0,1
+2025,17,Gen.G,Fracture,3,1,0.333,0,10
+2025,17,Gen.G,Haven,14,11,0.786,10,0
+2025,17,Gen.G,Icebox,6,3,0.500,0,7
+2025,17,Gen.G,Lotus,12,8,0.667,11,1
+2025,17,Gen.G,Pearl,3,2,0.667,0,9
+2025,17,Gen.G,Split,5,2,0.400,2,5
+2025,17,Gen.G,Sunset,5,2,0.400,2,3
+2025,397,BBL Esports,Abyss,1,1,1.000,1,0
+2025,397,BBL Esports,Ascent,9,5,0.556,5,2
+2025,397,BBL Esports,Bind,4,1,0.250,1,8
+2025,397,BBL Esports,Corrode,2,0,0.000,0,5
+2025,397,BBL Esports,Fracture,5,2,0.400,0,5
+2025,397,BBL Esports,Haven,7,3,0.429,3,5
+2025,397,BBL Esports,Icebox,8,5,0.625,4,2
+2025,397,BBL Esports,Lotus,7,5,0.714,2,8
+2025,397,BBL Esports,Pearl,5,4,0.800,4,1
+2025,397,BBL Esports,Split,4,3,0.750,0,4
+2025,397,BBL Esports,Sunset,5,3,0.600,2,1
+2025,13790,Wolves Esports,Abyss,1,1,1.000,0,0
+2025,13790,Wolves Esports,Ascent,6,3,0.500,3,5
+2025,13790,Wolves Esports,Bind,2,0,0.000,1,2
+2025,13790,Wolves Esports,Corrode,3,0,0.000,2,1
+2025,13790,Wolves Esports,Fracture,4,1,0.250,1,5
+2025,13790,Wolves Esports,Haven,6,4,0.667,1,8
+2025,13790,Wolves Esports,Icebox,6,2,0.333,4,5
+2025,13790,Wolves Esports,Lotus,11,5,0.455,3,5
+2025,13790,Wolves Esports,Pearl,6,4,0.667,5,2
+2025,13790,Wolves Esports,Split,7,3,0.429,5,3
+2025,13790,Wolves Esports,Sunset,2,1,0.500,0,8
+2025,8304,TALON,Abyss,1,1,1.000,1,0
+2025,8304,TALON,Ascent,2,1,0.500,0,9
+2025,8304,TALON,Bind,9,5,0.556,5,1
+2025,8304,TALON,Corrode,4,3,0.750,3,2
+2025,8304,TALON,Fracture,4,2,0.500,2,1
+2025,8304,TALON,Haven,9,6,0.667,3,5
+2025,8304,TALON,Icebox,8,3,0.375,5,1
+2025,8304,TALON,Lotus,9,5,0.556,2,4
+2025,8304,TALON,Pearl,3,0,0.000,0,8
+2025,8304,TALON,Split,3,1,0.333,0,7
+2025,8304,TALON,Sunset,2,0,0.000,1,3
+2025,4915,Natus Vincere,Abyss,1,1,1.000,1,0
+2025,4915,Natus Vincere,Ascent,5,3,0.600,0,6
+2025,4915,Natus Vincere,Bind,4,2,0.500,3,1
+2025,4915,Natus Vincere,Corrode,4,2,0.500,3,0
+2025,4915,Natus Vincere,Fracture,4,1,0.250,3,3
+2025,4915,Natus Vincere,Haven,8,4,0.500,0,7
+2025,4915,Natus Vincere,Icebox,8,6,0.750,5,2
+2025,4915,Natus Vincere,Lotus,3,0,0.000,1,14
+2025,4915,Natus Vincere,Pearl,3,1,0.333,2,3
+2025,4915,Natus Vincere,Split,5,3,0.600,1,0
+2025,4915,Natus Vincere,Sunset,4,1,0.250,0,2
+2025,2059,Team Vitality,Abyss,3,2,0.667,0,3
+2025,2059,Team Vitality,Ascent,3,2,0.667,1,6
+2025,2059,Team Vitality,Bind,9,4,0.444,2,3
+2025,2059,Team Vitality,Corrode,1,1,1.000,0,0
+2025,2059,Team Vitality,Fracture,3,2,0.667,1,1
+2025,2059,Team Vitality,Haven,10,3,0.300,5,0
+2025,2059,Team Vitality,Icebox,3,0,0.000,1,3
+2025,2059,Team Vitality,Lotus,9,6,0.667,6,4
+2025,2059,Team Vitality,Pearl,0,0,,0,14
+2025,2059,Team Vitality,Split,7,4,0.571,4,2
+2025,2059,Team Vitality,Sunset,1,0,0.000,1,4
+2025,11060,Nongshim RedForce,Abyss,0,0,,0,5
+2025,11060,Nongshim RedForce,Ascent,6,3,0.500,2,1
+2025,11060,Nongshim RedForce,Bind,4,2,0.500,3,2
+2025,11060,Nongshim RedForce,Corrode,3,2,0.667,1,2
+2025,11060,Nongshim RedForce,Fracture,3,0,0.000,0,6
+2025,11060,Nongshim RedForce,Haven,4,2,0.500,0,7
+2025,11060,Nongshim RedForce,Icebox,3,0,0.000,0,9
+2025,11060,Nongshim RedForce,Lotus,12,7,0.583,6,1
+2025,11060,Nongshim RedForce,Pearl,7,6,0.857,3,1
+2025,11060,Nongshim RedForce,Split,6,4,0.667,3,1
+2025,11060,Nongshim RedForce,Sunset,1,0,0.000,1,3
+2025,12685,Trace Esports,Abyss,3,1,0.333,1,1
+2025,12685,Trace Esports,Ascent,3,1,0.333,1,3
+2025,12685,Trace Esports,Bind,5,2,0.400,3,1
+2025,12685,Trace Esports,Corrode,1,0,0.000,0,4
+2025,12685,Trace Esports,Fracture,3,0,0.000,1,2
+2025,12685,Trace Esports,Haven,7,3,0.429,1,8
+2025,12685,Trace Esports,Icebox,3,3,1.000,0,8
+2025,12685,Trace Esports,Lotus,12,7,0.583,9,3
+2025,12685,Trace Esports,Pearl,4,2,0.500,2,4
+2025,12685,Trace Esports,Split,4,3,0.750,1,3
+2025,12685,Trace Esports,Sunset,3,1,0.333,1,1
+2025,120,100 Thieves,Abyss,0,0,,0,3
+2025,120,100 Thieves,Ascent,1,1,1.000,0,6
+2025,120,100 Thieves,Bind,8,5,0.625,7,0
+2025,120,100 Thieves,Corrode,2,2,1.000,0,1
+2025,120,100 Thieves,Fracture,3,2,0.667,2,0
+2025,120,100 Thieves,Haven,8,4,0.500,6,1
+2025,120,100 Thieves,Icebox,6,2,0.333,1,5
+2025,120,100 Thieves,Lotus,4,3,0.750,1,15
+2025,120,100 Thieves,Pearl,4,0,0.000,0,7
+2025,120,100 Thieves,Split,5,3,0.600,1,0
+2025,120,100 Thieves,Sunset,4,1,0.250,1,0
+2025,188,Cloud9,Abyss,2,0,0.000,0,0
+2025,188,Cloud9,Ascent,3,1,0.333,1,7
+2025,188,Cloud9,Bind,2,2,1.000,2,3
+2025,188,Cloud9,Corrode,3,1,0.333,2,1
+2025,188,Cloud9,Fracture,3,2,0.667,1,0
+2025,188,Cloud9,Haven,8,5,0.625,2,9
+2025,188,Cloud9,Icebox,4,2,0.500,4,6
+2025,188,Cloud9,Lotus,13,6,0.462,5,2
+2025,188,Cloud9,Pearl,6,3,0.500,1,1
+2025,188,Cloud9,Split,1,1,1.000,1,3
+2025,188,Cloud9,Sunset,0,0,,0,6
+2025,2355,KRÜ Esports,Abyss,3,2,0.667,1,0
+2025,2355,KRÜ Esports,Ascent,4,2,0.500,0,4
+2025,2355,KRÜ Esports,Bind,6,4,0.667,3,0
+2025,2355,KRÜ Esports,Corrode,2,0,0.000,2,2
+2025,2355,KRÜ Esports,Fracture,2,1,0.500,1,5
+2025,2355,KRÜ Esports,Haven,9,4,0.444,1,6
+2025,2355,KRÜ Esports,Icebox,5,3,0.600,4,4
+2025,2355,KRÜ Esports,Lotus,6,1,0.167,2,3
+2025,2355,KRÜ Esports,Pearl,2,1,0.500,0,9
+2025,2355,KRÜ Esports,Split,4,2,0.500,2,1
+2025,2355,KRÜ Esports,Sunset,2,2,1.000,2,2
+2025,8877,Karmine Corp,Abyss,2,0,0.000,0,0
+2025,8877,Karmine Corp,Ascent,2,0,0.000,0,8
+2025,8877,Karmine Corp,Bind,6,4,0.667,5,0
+2025,8877,Karmine Corp,Corrode,2,0,0.000,0,3
+2025,8877,Karmine Corp,Fracture,2,0,0.000,0,5
+2025,8877,Karmine Corp,Haven,4,3,0.750,1,3
+2025,8877,Karmine Corp,Icebox,6,5,0.833,4,2
+2025,8877,Karmine Corp,Lotus,9,4,0.444,1,1
+2025,8877,Karmine Corp,Pearl,3,2,0.667,1,1
+2025,8877,Karmine Corp,Split,2,0,0.000,0,4
+2025,8877,Karmine Corp,Sunset,4,2,0.500,2,1
+2025,2359,LEVIATÁN,Abyss,0,0,,0,1
+2025,2359,LEVIATÁN,Ascent,5,2,0.400,2,3
+2025,2359,LEVIATÁN,Bind,2,1,0.500,2,6
+2025,2359,LEVIATÁN,Corrode,1,0,0.000,0,7
+2025,2359,LEVIATÁN,Fracture,3,1,0.333,2,1
+2025,2359,LEVIATÁN,Haven,7,5,0.714,2,0
+2025,2359,LEVIATÁN,Icebox,5,0,0.000,1,3
+2025,2359,LEVIATÁN,Lotus,7,4,0.571,2,4
+2025,2359,LEVIATÁN,Pearl,3,1,0.333,1,3
+2025,2359,LEVIATÁN,Split,4,1,0.250,2,3
+2025,2359,LEVIATÁN,Sunset,3,2,0.667,2,1
+2025,1184,FUT Esports,Abyss,2,1,0.500,2,1
+2025,1184,FUT Esports,Ascent,4,1,0.250,1,2
+2025,1184,FUT Esports,Bind,5,2,0.400,3,1
+2025,1184,FUT Esports,Corrode,0,0,,0,1
+2025,1184,FUT Esports,Fracture,4,4,1.000,2,5
+2025,1184,FUT Esports,Haven,5,2,0.400,1,6
+2025,1184,FUT Esports,Icebox,2,0,0.000,1,7
+2025,1184,FUT Esports,Lotus,7,4,0.571,2,3
+2025,1184,FUT Esports,Pearl,3,2,0.667,3,1
+2025,1184,FUT Esports,Split,5,1,0.200,0,4
+2025,1184,FUT Esports,Sunset,3,1,0.333,1,1
+2025,1119,All Gamers,Abyss,2,1,0.500,1,0
+2025,1119,All Gamers,Ascent,2,0,0.000,0,7
+2025,1119,All Gamers,Bind,4,2,0.500,1,2
+2025,1119,All Gamers,Corrode,3,2,0.667,3,2
+2025,1119,All Gamers,Fracture,3,1,0.333,2,2
+2025,1119,All Gamers,Haven,2,0,0.000,0,6
+2025,1119,All Gamers,Icebox,4,3,0.750,2,7
+2025,1119,All Gamers,Lotus,9,3,0.333,4,0
+2025,1119,All Gamers,Pearl,4,0,0.000,0,2
+2025,1119,All Gamers,Split,2,0,0.000,1,2
+2025,1119,All Gamers,Sunset,3,2,0.667,1,0
+2025,12064,Nova Esports,Abyss,2,1,0.500,2,0
+2025,12064,Nova Esports,Ascent,4,1,0.250,2,3
+2025,12064,Nova Esports,Bind,4,2,0.500,1,2
+2025,12064,Nova Esports,Corrode,2,1,0.500,0,1
+2025,12064,Nova Esports,Fracture,5,2,0.400,1,3
+2025,12064,Nova Esports,Haven,4,2,0.500,4,10
+2025,12064,Nova Esports,Icebox,3,2,0.667,1,3
+2025,12064,Nova Esports,Lotus,5,0,0.000,0,4
+2025,12064,Nova Esports,Pearl,2,1,0.500,0,3
+2025,12064,Nova Esports,Split,6,3,0.500,5,0
+2025,12064,Nova Esports,Sunset,1,0,0.000,0,3
+2025,5248,Evil Geniuses,Abyss,2,1,0.500,1,0
+2025,5248,Evil Geniuses,Ascent,3,2,0.667,0,4
+2025,5248,Evil Geniuses,Bind,1,0,0.000,0,3
+2025,5248,Evil Geniuses,Corrode,4,2,0.500,3,2
+2025,5248,Evil Geniuses,Fracture,3,2,0.667,2,0
+2025,5248,Evil Geniuses,Haven,5,1,0.200,2,12
+2025,5248,Evil Geniuses,Icebox,2,2,1.000,0,7
+2025,5248,Evil Geniuses,Lotus,8,5,0.625,5,0
+2025,5248,Evil Geniuses,Pearl,5,2,0.400,3,0
+2025,5248,Evil Geniuses,Split,4,1,0.250,1,1
+2025,5248,Evil Geniuses,Sunset,1,0,0.000,0,5
+2025,12694,Gentle Mates,Abyss,2,1,0.500,2,0
+2025,12694,Gentle Mates,Ascent,3,1,0.333,0,4
+2025,12694,Gentle Mates,Bind,2,1,0.500,0,2
+2025,12694,Gentle Mates,Corrode,3,1,0.333,3,1
+2025,12694,Gentle Mates,Fracture,4,0,0.000,0,3
+2025,12694,Gentle Mates,Haven,6,3,0.500,4,3
+2025,12694,Gentle Mates,Icebox,3,2,0.667,1,1
+2025,12694,Gentle Mates,Lotus,6,1,0.167,1,5
+2025,12694,Gentle Mates,Pearl,4,2,0.500,1,1
+2025,12694,Gentle Mates,Split,2,1,0.500,1,5
+2025,12694,Gentle Mates,Sunset,2,0,0.000,1,3
+2025,731,TYLOO,Abyss,1,0,0.000,1,0
+2025,731,TYLOO,Ascent,3,1,0.333,0,8
+2025,731,TYLOO,Bind,3,1,0.333,1,2
+2025,731,TYLOO,Corrode,3,2,0.667,2,1
+2025,731,TYLOO,Fracture,4,2,0.500,1,0
+2025,731,TYLOO,Haven,7,1,0.143,3,2
+2025,731,TYLOO,Icebox,5,4,0.800,4,1
+2025,731,TYLOO,Lotus,4,2,0.500,0,7
+2025,731,TYLOO,Pearl,3,0,0.000,2,0
+2025,731,TYLOO,Split,3,1,0.333,1,1
+2025,731,TYLOO,Sunset,0,0,,0,8
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Abyss,3,2,0.667,2,0
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Ascent,2,1,0.500,1,5
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Bind,1,0,0.000,0,2
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Corrode,1,0,0.000,1,2
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Fracture,7,3,0.429,5,0
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Haven,6,2,0.333,3,6
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Icebox,5,2,0.400,2,1
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Lotus,5,1,0.200,1,2
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Pearl,1,0,0.000,0,7
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Split,2,2,1.000,0,4
+2025,14137,Wuxi Titan Esports Club (Titan Esports Club),Sunset,3,1,0.333,0,1
+2025,6961,LOUD,Abyss,0,0,,0,4
+2025,6961,LOUD,Ascent,2,1,0.500,1,4
+2025,6961,LOUD,Bind,4,1,0.250,0,1
+2025,6961,LOUD,Corrode,1,0,0.000,0,1
+2025,6961,LOUD,Fracture,1,1,1.000,0,5
+2025,6961,LOUD,Haven,7,2,0.286,5,4
+2025,6961,LOUD,Icebox,3,1,0.333,1,3
+2025,6961,LOUD,Lotus,5,3,0.600,4,4
+2025,6961,LOUD,Pearl,4,1,0.250,0,1
+2025,6961,LOUD,Split,7,2,0.286,1,1
+2025,6961,LOUD,Sunset,2,1,0.500,2,0
+2025,13576,JD Gaming,Abyss,2,1,0.500,1,0
+2025,13576,JD Gaming,Ascent,2,1,0.500,2,5
+2025,13576,JD Gaming,Bind,2,0,0.000,0,6
+2025,13576,JD Gaming,Corrode,2,0,0.000,0,0
+2025,13576,JD Gaming,Fracture,3,1,0.333,1,1
+2025,13576,JD Gaming,Haven,8,2,0.250,2,0
+2025,13576,JD Gaming,Icebox,4,2,0.500,2,2
+2025,13576,JD Gaming,Lotus,5,3,0.600,2,6
+2025,13576,JD Gaming,Pearl,4,2,0.500,3,1
+2025,13576,JD Gaming,Split,1,1,1.000,0,3
+2025,13576,JD Gaming,Sunset,2,1,0.500,0,2
+2025,11328,FunPlus Phoenix,Abyss,2,0,0.000,0,0
+2025,11328,FunPlus Phoenix,Ascent,3,1,0.333,2,1
+2025,11328,FunPlus Phoenix,Bind,3,1,0.333,1,4
+2025,11328,FunPlus Phoenix,Corrode,1,1,1.000,0,1
+2025,11328,FunPlus Phoenix,Fracture,2,1,0.500,2,4
+2025,11328,FunPlus Phoenix,Haven,8,4,0.500,3,2
+2025,11328,FunPlus Phoenix,Icebox,5,1,0.200,2,3
+2025,11328,FunPlus Phoenix,Lotus,1,0,0.000,1,9
+2025,11328,FunPlus Phoenix,Pearl,3,3,1.000,1,0
+2025,11328,FunPlus Phoenix,Split,2,0,0.000,0,4
+2025,11328,FunPlus Phoenix,Sunset,4,2,0.500,2,0
+2025,278,DetonatioN FocusMe,Abyss,4,3,0.750,3,0
+2025,278,DetonatioN FocusMe,Ascent,4,1,0.250,3,0
+2025,278,DetonatioN FocusMe,Bind,0,0,,0,9
+2025,278,DetonatioN FocusMe,Corrode,2,1,0.500,2,0
+2025,278,DetonatioN FocusMe,Fracture,2,0,0.000,1,2
+2025,278,DetonatioN FocusMe,Haven,4,1,0.250,1,3
+2025,278,DetonatioN FocusMe,Icebox,2,2,1.000,0,5
+2025,278,DetonatioN FocusMe,Lotus,9,1,0.111,2,3
+2025,278,DetonatioN FocusMe,Pearl,4,1,0.250,2,1
+2025,278,DetonatioN FocusMe,Split,1,1,1.000,0,5
+2025,278,DetonatioN FocusMe,Sunset,2,1,0.500,1,2
+2025,466,BOOM Esports,Ascent,7,3,0.429,3,0
+2025,466,BOOM Esports,Bind,4,2,0.500,2,0
+2025,466,BOOM Esports,Corrode,3,0,0.000,1,0
+2025,466,BOOM Esports,Fracture,4,2,0.500,2,0
+2025,466,BOOM Esports,Haven,3,2,0.667,2,3
+2025,466,BOOM Esports,Icebox,2,1,0.500,0,5
+2025,466,BOOM Esports,Lotus,6,2,0.333,2,6
+2025,466,BOOM Esports,Pearl,3,1,0.333,2,3
+2025,466,BOOM Esports,Split,1,0,0.000,0,8
+2025,466,BOOM Esports,Sunset,0,0,,0,3
+2025,6199,Team Secret,Abyss,1,1,1.000,1,0
+2025,6199,Team Secret,Ascent,4,2,0.500,4,4
+2025,6199,Team Secret,Bind,1,1,1.000,0,3
+2025,6199,Team Secret,Corrode,2,0,0.000,2,1
+2025,6199,Team Secret,Fracture,1,0,0.000,0,4
+2025,6199,Team Secret,Haven,4,0,0.000,0,6
+2025,6199,Team Secret,Icebox,4,1,0.250,2,4
+2025,6199,Team Secret,Lotus,7,3,0.429,1,2
+2025,6199,Team Secret,Pearl,4,1,0.250,1,0
+2025,6199,Team Secret,Split,2,0,0.000,1,0
+2025,6199,Team Secret,Sunset,2,1,0.500,0,0
+2025,7035,Movistar KOI (KOI),Abyss,1,0,0.000,1,1
+2025,7035,Movistar KOI (KOI),Ascent,3,1,0.333,0,2
+2025,7035,Movistar KOI (KOI),Bind,2,0,0.000,0,4
+2025,7035,Movistar KOI (KOI),Corrode,1,1,1.000,0,2
+2025,7035,Movistar KOI (KOI),Fracture,2,2,1.000,0,1
+2025,7035,Movistar KOI (KOI),Haven,4,1,0.250,1,6
+2025,7035,Movistar KOI (KOI),Icebox,5,2,0.400,4,2
+2025,7035,Movistar KOI (KOI),Lotus,7,2,0.286,6,1
+2025,7035,Movistar KOI (KOI),Pearl,3,0,0.000,0,2
+2025,7035,Movistar KOI (KOI),Split,2,0,0.000,0,1
+2025,7035,Movistar KOI (KOI),Sunset,1,0,0.000,0,2
+2025,11479,Apeks,Abyss,1,0,0.000,0,1
+2025,11479,Apeks,Ascent,5,1,0.200,3,1
+2025,11479,Apeks,Bind,1,0,0.000,0,5
+2025,11479,Apeks,Corrode,2,1,0.500,0,1
+2025,11479,Apeks,Fracture,0,0,,0,5
+2025,11479,Apeks,Haven,4,0,0.000,2,4
+2025,11479,Apeks,Icebox,3,0,0.000,0,5
+2025,11479,Apeks,Lotus,8,2,0.250,3,0
+2025,11479,Apeks,Pearl,2,1,0.500,1,0
+2025,11479,Apeks,Split,3,0,0.000,1,2
+2025,11479,Apeks,Sunset,2,2,1.000,2,0
+2025,918,Global Esports,Abyss,3,0,0.000,0,0
+2025,918,Global Esports,Ascent,1,0,0.000,0,4
+2025,918,Global Esports,Bind,2,0,0.000,1,1
+2025,918,Global Esports,Corrode,4,2,0.500,2,0
+2025,918,Global Esports,Fracture,0,0,,0,4
+2025,918,Global Esports,Haven,4,1,0.250,0,6
+2025,918,Global Esports,Icebox,2,1,0.500,2,4
+2025,918,Global Esports,Lotus,6,1,0.167,2,3
+2025,918,Global Esports,Pearl,3,2,0.667,1,0
+2025,918,Global Esports,Split,5,2,0.400,5,0
+2025,918,Global Esports,Sunset,0,0,,0,4
+2025,2406,FURIA,Abyss,1,0,0.000,0,1
+2025,2406,FURIA,Ascent,6,1,0.167,4,1
+2025,2406,FURIA,Bind,1,0,0.000,0,1
+2025,2406,FURIA,Corrode,3,1,0.333,2,0
+2025,2406,FURIA,Fracture,2,0,0.000,1,2
+2025,2406,FURIA,Haven,3,1,0.333,2,4
+2025,2406,FURIA,Icebox,2,0,0.000,1,4
+2025,2406,FURIA,Lotus,4,2,0.500,2,5
+2025,2406,FURIA,Pearl,3,0,0.000,1,5
+2025,2406,FURIA,Split,2,0,0.000,0,2
+2025,2406,FURIA,Sunset,2,0,0.000,0,1
+2025,15072,2Game Esports,Abyss,1,0,0.000,1,1
+2025,15072,2Game Esports,Ascent,5,2,0.400,3,0
+2025,15072,2Game Esports,Bind,1,0,0.000,0,2
+2025,15072,2Game Esports,Corrode,1,0,0.000,0,3
+2025,15072,2Game Esports,Fracture,0,0,,0,7
+2025,15072,2Game Esports,Haven,5,0,0.000,3,1
+2025,15072,2Game Esports,Icebox,2,0,0.000,0,6
+2025,15072,2Game Esports,Lotus,6,1,0.167,1,3
+2025,15072,2Game Esports,Pearl,3,1,0.333,1,1
+2025,15072,2Game Esports,Split,1,0,0.000,0,0
+2025,15072,2Game Esports,Sunset,3,3,1.000,3,0
+2025,5448,ZETA DIVISION,Abyss,0,0,,0,1
+2025,5448,ZETA DIVISION,Ascent,1,1,1.000,0,5
+2025,5448,ZETA DIVISION,Bind,1,0,0.000,1,3
+2025,5448,ZETA DIVISION,Corrode,2,1,0.500,2,3
+2025,5448,ZETA DIVISION,Fracture,2,0,0.000,1,2
+2025,5448,ZETA DIVISION,Haven,4,0,0.000,2,1
+2025,5448,ZETA DIVISION,Icebox,3,1,0.333,0,4
+2025,5448,ZETA DIVISION,Lotus,7,4,0.571,4,0
+2025,5448,ZETA DIVISION,Pearl,1,1,1.000,0,2
+2025,5448,ZETA DIVISION,Split,5,2,0.400,2,1
+2025,5448,ZETA DIVISION,Sunset,2,1,0.500,0,2
+2025,15315,Team International,Ascent,1,0,0.000,0,0
+2025,17715,Team Thailand,Ascent,1,1,1.000,0,0
+2025,12065,Team tarik,Corrode,1,0,0.000,0,0
+2025,19008,Team Toast,Corrode,1,1,1.000,0,0
+2025,19687,Pure Aim,Abyss,1,0,0.000,0,0
+2025,19688,Precise Defeat,Abyss,1,1,1.000,0,0
+2025,19550,Team World,Corrode,1,1,1.000,0,0
+2025,19507,Glory Once Again,Corrode,1,0,0.000,0,0
+2025,19707,Team Alpha,Corrode,1,1,1.000,0,0
+2025,19708,Team Omega,Corrode,1,0,0.000,0,0
+2025,19721,Team France,Corrode,1,0,0.000,0,0
+2025,19722,Team EMEA,Corrode,1,1,1.000,0,0
+2026,624,Paper Rex,Abyss,3,1,0.333,0,19
+2026,624,Paper Rex,Ascent,11,9,0.818,3,3
+2026,624,Paper Rex,Bind,4,1,0.250,2,5
+2026,624,Paper Rex,Breeze,18,12,0.667,8,2
+2026,624,Paper Rex,Corrode,8,4,0.500,0,5
+2026,624,Paper Rex,Fracture,6,5,0.833,3,0
+2026,624,Paper Rex,Haven,10,6,0.600,7,15
+2026,624,Paper Rex,Lotus,12,8,0.667,5,4
+2026,624,Paper Rex,Pearl,10,5,0.500,2,15
+2026,624,Paper Rex,Split,22,14,0.636,12,3
+2026,624,Paper Rex,Summit,4,3,0.750,3,1
+2026,624,Paper Rex,Sunset,4,0,0.000,2,3
+2026,11058,G2 Esports,Abyss,11,7,0.636,8,3
+2026,11058,G2 Esports,Ascent,10,4,0.400,2,5
+2026,11058,G2 Esports,Bind,4,3,0.750,2,6
+2026,11058,G2 Esports,Breeze,14,9,0.643,4,6
+2026,11058,G2 Esports,Corrode,6,2,0.333,2,3
+2026,11058,G2 Esports,Fracture,1,1,1.000,0,11
+2026,11058,G2 Esports,Haven,14,8,0.571,8,10
+2026,11058,G2 Esports,Lotus,16,12,0.750,11,2
+2026,11058,G2 Esports,Pearl,6,6,1.000,3,6
+2026,11058,G2 Esports,Split,18,9,0.500,2,12
+2026,11058,G2 Esports,Summit,3,1,0.333,0,13
+2026,11058,G2 Esports,Sunset,6,5,0.833,4,5
+2026,1034,NRG,Abyss,10,5,0.500,8,3
+2026,1034,NRG,Ascent,4,1,0.250,0,11
+2026,1034,NRG,Bind,3,1,0.333,0,12
+2026,1034,NRG,Breeze,13,10,0.769,6,9
+2026,1034,NRG,Corrode,3,1,0.333,3,1
+2026,1034,NRG,Fracture,4,3,0.750,2,0
+2026,1034,NRG,Haven,14,10,0.714,4,8
+2026,1034,NRG,Lotus,13,10,0.769,5,1
+2026,1034,NRG,Pearl,13,8,0.615,8,1
+2026,1034,NRG,Split,9,3,0.333,2,20
+2026,1034,NRG,Summit,7,6,0.857,4,0
+2026,1034,NRG,Sunset,6,1,0.167,0,6
+2026,13581,Xi Lai Gaming,Abyss,6,2,0.333,4,0
+2026,13581,Xi Lai Gaming,Ascent,3,2,0.667,0,9
+2026,13581,Xi Lai Gaming,Bind,7,7,1.000,6,1
+2026,13581,Xi Lai Gaming,Breeze,12,6,0.500,2,3
+2026,13581,Xi Lai Gaming,Corrode,0,0,,0,5
+2026,13581,Xi Lai Gaming,Fracture,3,2,0.667,1,5
+2026,13581,Xi Lai Gaming,Haven,13,5,0.385,1,13
+2026,13581,Xi Lai Gaming,Lotus,20,10,0.500,14,2
+2026,13581,Xi Lai Gaming,Pearl,6,3,0.500,3,10
+2026,13581,Xi Lai Gaming,Split,15,10,0.667,3,6
+2026,13581,Xi Lai Gaming,Summit,5,3,0.600,4,2
+2026,13581,Xi Lai Gaming,Sunset,3,1,0.333,0,7
+2026,2059,Team Vitality,Abyss,8,4,0.500,5,2
+2026,2059,Team Vitality,Ascent,8,4,0.500,2,8
+2026,2059,Team Vitality,Bind,3,0,0.000,0,4
+2026,2059,Team Vitality,Breeze,12,8,0.667,9,1
+2026,2059,Team Vitality,Corrode,3,3,1.000,1,0
+2026,2059,Team Vitality,Fracture,2,1,0.500,0,11
+2026,2059,Team Vitality,Haven,14,5,0.357,5,8
+2026,2059,Team Vitality,Lotus,13,9,0.692,8,3
+2026,2059,Team Vitality,Pearl,6,5,0.833,4,4
+2026,2059,Team Vitality,Split,14,8,0.571,4,9
+2026,2059,Team Vitality,Summit,6,4,0.667,0,6
+2026,2059,Team Vitality,Sunset,3,1,0.333,0,11
+2026,1120,EDward Gaming,Abyss,4,3,0.750,0,3
+2026,1120,EDward Gaming,Ascent,4,2,0.500,0,10
+2026,1120,EDward Gaming,Bind,4,2,0.500,2,3
+2026,1120,EDward Gaming,Breeze,13,9,0.692,7,6
+2026,1120,EDward Gaming,Corrode,3,3,1.000,0,0
+2026,1120,EDward Gaming,Fracture,7,4,0.571,7,0
+2026,1120,EDward Gaming,Haven,15,8,0.533,7,7
+2026,1120,EDward Gaming,Lotus,10,5,0.500,2,9
+2026,1120,EDward Gaming,Pearl,7,3,0.429,2,12
+2026,1120,EDward Gaming,Split,13,7,0.538,4,11
+2026,1120,EDward Gaming,Summit,3,0,0.000,0,5
+2026,1120,EDward Gaming,Sunset,6,3,0.500,6,0
+2026,11060,Nongshim RedForce,Abyss,8,5,0.625,4,1
+2026,11060,Nongshim RedForce,Ascent,7,3,0.429,1,6
+2026,11060,Nongshim RedForce,Bind,4,4,1.000,3,1
+2026,11060,Nongshim RedForce,Breeze,8,6,0.750,6,7
+2026,11060,Nongshim RedForce,Corrode,5,4,0.800,3,0
+2026,11060,Nongshim RedForce,Fracture,3,2,0.667,0,2
+2026,11060,Nongshim RedForce,Haven,16,9,0.562,3,6
+2026,11060,Nongshim RedForce,Lotus,4,0,0.000,0,10
+2026,11060,Nongshim RedForce,Pearl,3,3,1.000,2,9
+2026,11060,Nongshim RedForce,Split,13,6,0.462,7,7
+2026,11060,Nongshim RedForce,Summit,5,3,0.600,1,8
+2026,11060,Nongshim RedForce,Sunset,8,6,0.750,3,2
+2026,14,T1,Abyss,4,3,0.750,0,6
+2026,14,T1,Ascent,11,4,0.364,4,4
+2026,14,T1,Bind,6,5,0.833,5,2
+2026,14,T1,Breeze,11,7,0.636,4,3
+2026,14,T1,Corrode,1,0,0.000,0,7
+2026,14,T1,Fracture,0,0,,0,8
+2026,14,T1,Haven,15,10,0.667,6,10
+2026,14,T1,Lotus,14,10,0.714,12,3
+2026,14,T1,Pearl,8,6,0.750,1,0
+2026,14,T1,Split,8,4,0.500,2,11
+2026,14,T1,Summit,3,1,0.333,1,11
+2026,14,T1,Sunset,3,2,0.667,1,1
+2026,918,Global Esports,Abyss,7,5,0.714,3,2
+2026,918,Global Esports,Ascent,7,5,0.714,6,3
+2026,918,Global Esports,Bind,3,1,0.333,2,4
+2026,918,Global Esports,Breeze,13,8,0.615,7,2
+2026,918,Global Esports,Corrode,1,0,0.000,1,1
+2026,918,Global Esports,Fracture,2,0,0.000,0,9
+2026,918,Global Esports,Haven,9,6,0.667,3,9
+2026,918,Global Esports,Lotus,7,3,0.429,1,12
+2026,918,Global Esports,Pearl,6,4,0.667,1,8
+2026,918,Global Esports,Split,15,7,0.467,6,4
+2026,918,Global Esports,Summit,6,4,0.667,4,1
+2026,918,Global Esports,Sunset,6,2,0.333,0,3
+2026,120,100 Thieves,Abyss,4,2,0.500,0,12
+2026,120,100 Thieves,Ascent,8,6,0.750,6,1
+2026,120,100 Thieves,Bind,5,4,0.800,3,0
+2026,120,100 Thieves,Breeze,10,6,0.600,5,3
+2026,120,100 Thieves,Corrode,3,2,0.667,1,3
+2026,120,100 Thieves,Fracture,2,1,0.500,0,3
+2026,120,100 Thieves,Haven,10,7,0.700,3,11
+2026,120,100 Thieves,Lotus,6,2,0.333,2,16
+2026,120,100 Thieves,Pearl,7,3,0.429,5,3
+2026,120,100 Thieves,Split,12,7,0.583,3,4
+2026,120,100 Thieves,Summit,7,5,0.714,3,4
+2026,120,100 Thieves,Sunset,6,3,0.500,3,3
+2026,474,Team Liquid,Abyss,6,3,0.500,2,7
+2026,474,Team Liquid,Ascent,7,4,0.571,3,3
+2026,474,Team Liquid,Bind,7,6,0.857,5,3
+2026,474,Team Liquid,Breeze,10,7,0.700,8,3
+2026,474,Team Liquid,Corrode,4,1,0.250,0,2
+2026,474,Team Liquid,Fracture,1,0,0.000,0,2
+2026,474,Team Liquid,Haven,6,3,0.500,1,17
+2026,474,Team Liquid,Lotus,13,8,0.615,3,3
+2026,474,Team Liquid,Pearl,7,4,0.571,2,3
+2026,474,Team Liquid,Split,13,8,0.615,7,5
+2026,474,Team Liquid,Summit,5,2,0.400,4,1
+2026,474,Team Liquid,Sunset,1,0,0.000,0,11
+2026,2359,LEVIATÁN,Abyss,2,1,0.500,1,2
+2026,2359,LEVIATÁN,Ascent,7,6,0.857,5,0
+2026,2359,LEVIATÁN,Bind,7,5,0.714,5,1
+2026,2359,LEVIATÁN,Breeze,6,0,0.000,1,19
+2026,2359,LEVIATÁN,Corrode,1,1,1.000,0,0
+2026,2359,LEVIATÁN,Fracture,5,2,0.400,4,4
+2026,2359,LEVIATÁN,Haven,9,6,0.667,5,5
+2026,2359,LEVIATÁN,Lotus,7,3,0.429,1,12
+2026,2359,LEVIATÁN,Pearl,9,5,0.556,1,5
+2026,2359,LEVIATÁN,Split,18,15,0.833,9,5
+2026,2359,LEVIATÁN,Summit,4,1,0.250,0,2
+2026,2359,LEVIATÁN,Sunset,4,3,0.750,1,2
+2026,1184,FUT Esports,Abyss,2,0,0.000,2,8
+2026,1184,FUT Esports,Ascent,12,7,0.583,10,3
+2026,1184,FUT Esports,Bind,3,3,1.000,2,3
+2026,1184,FUT Esports,Breeze,2,1,0.500,0,14
+2026,1184,FUT Esports,Corrode,1,1,1.000,0,0
+2026,1184,FUT Esports,Fracture,5,2,0.400,0,5
+2026,1184,FUT Esports,Haven,14,11,0.786,11,2
+2026,1184,FUT Esports,Lotus,13,3,0.231,2,9
+2026,1184,FUT Esports,Pearl,6,0,0.000,0,9
+2026,1184,FUT Esports,Split,14,6,0.429,4,1
+2026,1184,FUT Esports,Summit,3,2,0.667,0,4
+2026,1184,FUT Esports,Sunset,4,3,0.750,2,2
+2026,13576,JD Gaming,Abyss,4,3,0.750,2,1
+2026,13576,JD Gaming,Ascent,5,2,0.400,0,9
+2026,13576,JD Gaming,Bind,4,2,0.500,1,3
+2026,13576,JD Gaming,Breeze,8,3,0.375,3,14
+2026,13576,JD Gaming,Corrode,4,1,0.250,0,2
+2026,13576,JD Gaming,Fracture,4,2,0.500,0,1
+2026,13576,JD Gaming,Haven,13,6,0.462,8,7
+2026,13576,JD Gaming,Lotus,9,5,0.556,4,4
+2026,13576,JD Gaming,Pearl,5,2,0.400,3,5
+2026,13576,JD Gaming,Split,11,5,0.455,4,4
+2026,13576,JD Gaming,Summit,7,2,0.286,5,4
+2026,13576,JD Gaming,Sunset,4,1,0.250,2,8
+2026,731,TYLOO,Abyss,2,1,0.500,1,5
+2026,731,TYLOO,Ascent,3,1,0.333,0,8
+2026,731,TYLOO,Bind,6,4,0.667,3,2
+2026,731,TYLOO,Breeze,9,6,0.667,3,6
+2026,731,TYLOO,Corrode,4,2,0.500,1,2
+2026,731,TYLOO,Fracture,4,3,0.750,3,2
+2026,731,TYLOO,Haven,9,5,0.556,2,8
+2026,731,TYLOO,Lotus,6,2,0.333,2,9
+2026,731,TYLOO,Pearl,6,1,0.167,1,4
+2026,731,TYLOO,Split,14,9,0.643,7,4
+2026,731,TYLOO,Summit,6,5,0.833,3,5
+2026,731,TYLOO,Sunset,7,6,0.857,5,0
+2026,1119,All Gamers,Abyss,4,2,0.500,1,1
+2026,1119,All Gamers,Ascent,3,2,0.667,1,5
+2026,1119,All Gamers,Bind,7,3,0.429,2,1
+2026,1119,All Gamers,Breeze,2,1,0.500,0,23
+2026,1119,All Gamers,Corrode,2,1,0.500,1,0
+2026,1119,All Gamers,Fracture,2,1,0.500,0,6
+2026,1119,All Gamers,Haven,9,5,0.556,6,8
+2026,1119,All Gamers,Lotus,11,8,0.727,5,5
+2026,1119,All Gamers,Pearl,6,2,0.333,0,1
+2026,1119,All Gamers,Split,17,10,0.588,13,2
+2026,1119,All Gamers,Summit,6,3,0.500,1,1
+2026,1119,All Gamers,Sunset,7,2,0.286,0,4
+2026,11981,Dragon Ranger Gaming,Abyss,3,0,0.000,1,1
+2026,11981,Dragon Ranger Gaming,Ascent,4,3,0.750,1,3
+2026,11981,Dragon Ranger Gaming,Bind,3,1,0.333,0,5
+2026,11981,Dragon Ranger Gaming,Breeze,11,5,0.455,4,3
+2026,11981,Dragon Ranger Gaming,Corrode,4,2,0.500,2,0
+2026,11981,Dragon Ranger Gaming,Fracture,1,0,0.000,0,10
+2026,11981,Dragon Ranger Gaming,Haven,13,8,0.615,8,8
+2026,11981,Dragon Ranger Gaming,Lotus,15,7,0.467,8,2
+2026,11981,Dragon Ranger Gaming,Pearl,3,1,0.333,1,5
+2026,11981,Dragon Ranger Gaming,Split,10,4,0.400,1,9
+2026,11981,Dragon Ranger Gaming,Summit,3,1,0.333,1,6
+2026,11981,Dragon Ranger Gaming,Sunset,3,2,0.667,1,1
+2026,6961,LOUD,Abyss,5,3,0.600,2,1
+2026,6961,LOUD,Ascent,3,0,0.000,1,9
+2026,6961,LOUD,Bind,2,0,0.000,0,4
+2026,6961,LOUD,Breeze,7,5,0.714,4,2
+2026,6961,LOUD,Corrode,0,0,,0,1
+2026,6961,LOUD,Fracture,0,0,,0,5
+2026,6961,LOUD,Haven,13,5,0.385,2,5
+2026,6961,LOUD,Lotus,11,5,0.455,2,3
+2026,6961,LOUD,Pearl,3,1,0.333,2,2
+2026,6961,LOUD,Split,6,3,0.500,0,18
+2026,6961,LOUD,Summit,11,8,0.727,8,1
+2026,6961,LOUD,Sunset,10,8,0.800,9,0
+2026,1001,Team Heretics,Abyss,3,0,0.000,0,1
+2026,1001,Team Heretics,Ascent,9,6,0.667,3,3
+2026,1001,Team Heretics,Bind,5,1,0.200,2,4
+2026,1001,Team Heretics,Breeze,6,3,0.500,1,6
+2026,1001,Team Heretics,Corrode,1,1,1.000,0,0
+2026,1001,Team Heretics,Fracture,5,4,0.800,3,1
+2026,1001,Team Heretics,Haven,12,7,0.583,9,3
+2026,1001,Team Heretics,Lotus,14,8,0.571,8,1
+2026,1001,Team Heretics,Pearl,4,1,0.250,1,12
+2026,1001,Team Heretics,Split,4,2,0.500,1,18
+2026,1001,Team Heretics,Summit,3,3,1.000,0,1
+2026,1001,Team Heretics,Sunset,3,1,0.333,1,1
+2026,2406,FURIA,Abyss,5,3,0.600,2,0
+2026,2406,FURIA,Ascent,2,0,0.000,0,6
+2026,2406,FURIA,Bind,2,0,0.000,0,6
+2026,2406,FURIA,Breeze,13,6,0.462,5,2
+2026,2406,FURIA,Corrode,0,0,,0,4
+2026,2406,FURIA,Fracture,0,0,,0,4
+2026,2406,FURIA,Haven,15,7,0.467,7,3
+2026,2406,FURIA,Lotus,3,1,0.333,0,12
+2026,2406,FURIA,Pearl,5,3,0.600,0,4
+2026,2406,FURIA,Split,10,6,0.600,5,2
+2026,2406,FURIA,Summit,3,0,0.000,2,1
+2026,2406,FURIA,Sunset,5,2,0.400,3,1
+2026,12685,Trace Esports,Abyss,4,1,0.250,4,0
+2026,12685,Trace Esports,Ascent,7,2,0.286,4,1
+2026,12685,Trace Esports,Bind,5,2,0.400,2,3
+2026,12685,Trace Esports,Breeze,8,3,0.375,2,5
+2026,12685,Trace Esports,Corrode,1,1,1.000,0,0
+2026,12685,Trace Esports,Fracture,1,0,0.000,0,2
+2026,12685,Trace Esports,Haven,3,0,0.000,0,18
+2026,12685,Trace Esports,Lotus,12,6,0.500,4,1
+2026,12685,Trace Esports,Pearl,1,0,0.000,0,11
+2026,12685,Trace Esports,Split,9,6,0.667,4,7
+2026,12685,Trace Esports,Summit,3,1,0.333,0,4
+2026,12685,Trace Esports,Sunset,9,5,0.556,6,0
+2026,4050,FULL SENSE,Abyss,1,0,0.000,0,4
+2026,4050,FULL SENSE,Ascent,3,2,0.667,1,7
+2026,4050,FULL SENSE,Bind,3,2,0.667,1,2
+2026,4050,FULL SENSE,Breeze,5,1,0.200,2,9
+2026,4050,FULL SENSE,Corrode,2,1,0.500,2,0
+2026,4050,FULL SENSE,Fracture,5,2,0.400,3,2
+2026,4050,FULL SENSE,Haven,8,1,0.125,3,11
+2026,4050,FULL SENSE,Lotus,7,4,0.571,2,6
+2026,4050,FULL SENSE,Pearl,8,5,0.625,3,0
+2026,4050,FULL SENSE,Split,11,8,0.727,4,7
+2026,4050,FULL SENSE,Summit,4,1,0.250,2,1
+2026,4050,FULL SENSE,Sunset,5,2,0.400,3,1
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Abyss,1,0,0.000,0,3
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Ascent,5,3,0.600,2,1
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Bind,3,2,0.667,0,3
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Breeze,9,3,0.333,6,5
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Corrode,2,1,0.500,1,0
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Fracture,6,3,0.500,3,0
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Haven,9,4,0.444,2,5
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Lotus,2,0,0.000,1,12
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Pearl,1,1,1.000,1,8
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Split,9,3,0.333,3,5
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Summit,7,4,0.571,2,2
+2026,14137,Wuxi Titan Esports Club (Titan Esports Club),Sunset,8,0,0.000,2,2
+2026,8185,KIWOOM DRX,Abyss,3,1,0.333,2,0
+2026,8185,KIWOOM DRX,Ascent,3,1,0.333,1,5
+2026,8185,KIWOOM DRX,Bind,3,1,0.333,1,6
+2026,8185,KIWOOM DRX,Breeze,6,2,0.333,1,5
+2026,8185,KIWOOM DRX,Corrode,3,2,0.667,1,2
+2026,8185,KIWOOM DRX,Fracture,4,2,0.500,4,1
+2026,8185,KIWOOM DRX,Haven,10,6,0.600,1,6
+2026,8185,KIWOOM DRX,Lotus,9,4,0.444,5,2
+2026,8185,KIWOOM DRX,Pearl,4,2,0.500,2,6
+2026,8185,KIWOOM DRX,Split,7,3,0.429,3,12
+2026,8185,KIWOOM DRX,Summit,3,2,0.667,0,1
+2026,8185,KIWOOM DRX,Sunset,6,3,0.500,3,2
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Abyss,6,4,0.667,5,0
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Ascent,2,1,0.500,0,4
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Bind,4,1,0.250,0,4
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Breeze,6,3,0.500,3,7
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Corrode,0,0,,0,6
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Fracture,3,1,0.333,2,1
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Haven,7,3,0.429,0,4
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Lotus,8,4,0.500,5,0
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Pearl,6,5,0.833,4,2
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Split,10,2,0.200,2,9
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Summit,5,3,0.600,4,0
+2026,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sunset,3,2,0.667,0,4
+2026,12694,Gentle Mates,Abyss,4,2,0.500,3,0
+2026,12694,Gentle Mates,Ascent,5,2,0.400,1,0
+2026,12694,Gentle Mates,Bind,6,4,0.667,0,4
+2026,12694,Gentle Mates,Breeze,0,0,,0,19
+2026,12694,Gentle Mates,Corrode,3,0,0.000,0,3
+2026,12694,Gentle Mates,Fracture,3,2,0.667,1,1
+2026,12694,Gentle Mates,Haven,10,5,0.500,5,2
+2026,12694,Gentle Mates,Lotus,6,2,0.333,1,5
+2026,12694,Gentle Mates,Pearl,8,7,0.875,6,0
+2026,12694,Gentle Mates,Split,9,3,0.333,5,5
+2026,12694,Gentle Mates,Summit,1,0,0.000,0,3
+2026,12694,Gentle Mates,Sunset,4,2,0.500,2,0
+2026,7386,MIBR,Abyss,5,1,0.200,1,1
+2026,7386,MIBR,Ascent,3,2,0.667,0,6
+2026,7386,MIBR,Bind,3,2,0.667,3,0
+2026,7386,MIBR,Breeze,9,5,0.556,3,0
+2026,7386,MIBR,Corrode,3,2,0.667,2,1
+2026,7386,MIBR,Fracture,2,1,0.500,1,2
+2026,7386,MIBR,Haven,11,6,0.545,4,5
+2026,7386,MIBR,Lotus,3,1,0.333,2,3
+2026,7386,MIBR,Pearl,0,0,,0,11
+2026,7386,MIBR,Split,9,4,0.444,5,2
+2026,7386,MIBR,Summit,1,0,0.000,0,9
+2026,7386,MIBR,Sunset,7,4,0.571,4,1
+2026,878,Rex Regum Qeon,Abyss,2,1,0.500,1,1
+2026,878,Rex Regum Qeon,Ascent,2,0,0.000,1,3
+2026,878,Rex Regum Qeon,Bind,4,2,0.500,0,2
+2026,878,Rex Regum Qeon,Breeze,9,2,0.222,1,4
+2026,878,Rex Regum Qeon,Corrode,3,3,1.000,3,0
+2026,878,Rex Regum Qeon,Fracture,3,3,1.000,1,0
+2026,878,Rex Regum Qeon,Haven,11,5,0.455,5,6
+2026,878,Rex Regum Qeon,Lotus,4,3,0.750,1,2
+2026,878,Rex Regum Qeon,Pearl,6,1,0.167,6,1
+2026,878,Rex Regum Qeon,Split,2,1,0.500,1,18
+2026,878,Rex Regum Qeon,Summit,4,2,0.500,0,0
+2026,878,Rex Regum Qeon,Sunset,6,2,0.333,3,0
+2026,278,DetonatioN FocusMe,Abyss,1,1,1.000,0,0
+2026,278,DetonatioN FocusMe,Ascent,8,4,0.500,6,0
+2026,278,DetonatioN FocusMe,Bind,3,1,0.333,1,3
+2026,278,DetonatioN FocusMe,Breeze,5,2,0.400,0,9
+2026,278,DetonatioN FocusMe,Corrode,1,0,0.000,0,4
+2026,278,DetonatioN FocusMe,Fracture,2,1,0.500,0,1
+2026,278,DetonatioN FocusMe,Haven,8,3,0.375,2,8
+2026,278,DetonatioN FocusMe,Lotus,7,3,0.429,2,3
+2026,278,DetonatioN FocusMe,Pearl,7,3,0.429,6,4
+2026,278,DetonatioN FocusMe,Split,8,6,0.750,3,5
+2026,278,DetonatioN FocusMe,Summit,2,0,0.000,0,2
+2026,278,DetonatioN FocusMe,Sunset,3,2,0.667,1,3
+2026,2593,FNATIC,Abyss,4,3,0.750,1,0
+2026,2593,FNATIC,Ascent,4,1,0.250,1,5
+2026,2593,FNATIC,Bind,6,3,0.500,4,1
+2026,2593,FNATIC,Breeze,7,3,0.429,3,5
+2026,2593,FNATIC,Corrode,4,2,0.500,4,0
+2026,2593,FNATIC,Fracture,2,2,1.000,1,1
+2026,2593,FNATIC,Haven,6,1,0.167,1,6
+2026,2593,FNATIC,Lotus,6,3,0.500,3,4
+2026,2593,FNATIC,Pearl,0,0,,0,14
+2026,2593,FNATIC,Split,10,7,0.700,3,3
+2026,2593,FNATIC,Summit,4,1,0.250,1,2
+2026,2593,FNATIC,Sunset,2,2,1.000,2,1
+2026,8877,Karmine Corp,Abyss,4,3,0.750,2,2
+2026,8877,Karmine Corp,Ascent,4,4,1.000,1,0
+2026,8877,Karmine Corp,Bind,1,0,0.000,0,1
+2026,8877,Karmine Corp,Breeze,2,0,0.000,0,12
+2026,8877,Karmine Corp,Corrode,1,0,0.000,0,2
+2026,8877,Karmine Corp,Fracture,2,0,0.000,1,0
+2026,8877,Karmine Corp,Haven,13,8,0.615,6,0
+2026,8877,Karmine Corp,Lotus,9,5,0.556,5,1
+2026,8877,Karmine Corp,Pearl,3,1,0.333,0,3
+2026,8877,Karmine Corp,Split,4,0,0.000,0,14
+2026,8877,Karmine Corp,Summit,5,1,0.200,1,4
+2026,8877,Karmine Corp,Sunset,5,5,1.000,5,1
+2026,397,BBL Esports,Abyss,6,4,0.667,0,0
+2026,397,BBL Esports,Ascent,5,3,0.600,0,0
+2026,397,BBL Esports,Bind,0,0,,0,12
+2026,397,BBL Esports,Breeze,7,4,0.571,5,1
+2026,397,BBL Esports,Corrode,1,1,1.000,0,5
+2026,397,BBL Esports,Fracture,1,0,0.000,0,2
+2026,397,BBL Esports,Haven,11,5,0.455,8,1
+2026,397,BBL Esports,Lotus,5,2,0.400,1,3
+2026,397,BBL Esports,Pearl,4,2,0.500,3,1
+2026,397,BBL Esports,Split,7,2,0.286,0,8
+2026,397,BBL Esports,Summit,2,1,0.500,2,3
+2026,397,BBL Esports,Sunset,4,3,0.750,1,1
+2026,13790,Wolves Esports,Abyss,4,1,0.250,0,0
+2026,13790,Wolves Esports,Ascent,3,2,0.667,2,5
+2026,13790,Wolves Esports,Bind,5,2,0.400,2,0
+2026,13790,Wolves Esports,Breeze,3,0,0.000,1,12
+2026,13790,Wolves Esports,Corrode,0,0,,0,5
+2026,13790,Wolves Esports,Fracture,3,1,0.333,2,0
+2026,13790,Wolves Esports,Haven,8,3,0.375,5,5
+2026,13790,Wolves Esports,Lotus,11,3,0.273,5,0
+2026,13790,Wolves Esports,Pearl,2,2,1.000,1,1
+2026,13790,Wolves Esports,Split,3,1,0.333,0,8
+2026,13790,Wolves Esports,Summit,4,1,0.250,1,1
+2026,13790,Wolves Esports,Sunset,4,2,0.500,0,1
+2026,188,Cloud9,Abyss,2,1,0.500,0,1
+2026,188,Cloud9,Ascent,0,0,,0,6
+2026,188,Cloud9,Bind,2,1,0.500,0,3
+2026,188,Cloud9,Breeze,11,6,0.545,6,4
+2026,188,Cloud9,Corrode,1,0,0.000,1,6
+2026,188,Cloud9,Fracture,0,0,,0,2
+2026,188,Cloud9,Haven,6,3,0.500,2,5
+2026,188,Cloud9,Lotus,5,0,0.000,0,4
+2026,188,Cloud9,Pearl,6,2,0.333,4,4
+2026,188,Cloud9,Split,10,9,0.900,6,0
+2026,188,Cloud9,Summit,2,0,0.000,1,4
+2026,188,Cloud9,Sunset,3,0,0.000,0,1
+2026,2355,KRÜ Esports,Abyss,2,1,0.500,0,0
+2026,2355,KRÜ Esports,Ascent,3,2,0.667,1,4
+2026,2355,KRÜ Esports,Bind,3,1,0.333,0,2
+2026,2355,KRÜ Esports,Breeze,11,2,0.182,2,4
+2026,2355,KRÜ Esports,Corrode,0,0,,0,2
+2026,2355,KRÜ Esports,Fracture,0,0,,0,6
+2026,2355,KRÜ Esports,Haven,5,3,0.600,2,9
+2026,2355,KRÜ Esports,Lotus,9,7,0.778,8,0
+2026,2355,KRÜ Esports,Pearl,2,1,0.500,2,5
+2026,2355,KRÜ Esports,Split,5,1,0.200,2,4
+2026,2355,KRÜ Esports,Summit,3,1,0.333,1,1
+2026,2355,KRÜ Esports,Sunset,5,2,0.400,2,3
+2026,427,ENVY,Abyss,3,0,0.000,3,1
+2026,427,ENVY,Ascent,6,4,0.667,5,0
+2026,427,ENVY,Bind,3,2,0.667,1,2
+2026,427,ENVY,Breeze,5,2,0.400,1,10
+2026,427,ENVY,Corrode,3,1,0.333,1,0
+2026,427,ENVY,Fracture,1,0,0.000,0,1
+2026,427,ENVY,Haven,7,2,0.286,4,7
+2026,427,ENVY,Lotus,3,1,0.333,2,5
+2026,427,ENVY,Pearl,5,2,0.400,1,1
+2026,427,ENVY,Split,5,1,0.200,0,7
+2026,427,ENVY,Summit,2,1,0.500,1,1
+2026,427,ENVY,Sunset,3,2,0.667,0,3
+2026,5248,Evil Geniuses,Abyss,3,2,0.667,1,1
+2026,5248,Evil Geniuses,Ascent,2,1,0.500,1,3
+2026,5248,Evil Geniuses,Bind,4,0,0.000,0,2
+2026,5248,Evil Geniuses,Breeze,6,2,0.333,4,9
+2026,5248,Evil Geniuses,Corrode,2,1,0.500,1,0
+2026,5248,Evil Geniuses,Fracture,1,0,0.000,1,0
+2026,5248,Evil Geniuses,Haven,10,4,0.400,6,0
+2026,5248,Evil Geniuses,Lotus,5,1,0.200,0,6
+2026,5248,Evil Geniuses,Pearl,4,1,0.250,2,1
+2026,5248,Evil Geniuses,Split,1,0,0.000,0,12
+2026,5248,Evil Geniuses,Summit,2,2,1.000,0,3
+2026,5248,Evil Geniuses,Sunset,5,3,0.600,3,1
+2026,4915,Natus Vincere,Abyss,1,0,0.000,0,3
+2026,4915,Natus Vincere,Ascent,4,2,0.500,2,1
+2026,4915,Natus Vincere,Bind,6,2,0.333,2,0
+2026,4915,Natus Vincere,Breeze,5,2,0.400,2,5
+2026,4915,Natus Vincere,Corrode,0,0,,0,5
+2026,4915,Natus Vincere,Fracture,1,1,1.000,1,1
+2026,4915,Natus Vincere,Haven,6,3,0.500,0,7
+2026,4915,Natus Vincere,Lotus,4,2,0.500,1,7
+2026,4915,Natus Vincere,Pearl,2,0,0.000,1,3
+2026,4915,Natus Vincere,Split,8,5,0.625,5,1
+2026,4915,Natus Vincere,Summit,2,1,0.500,0,0
+2026,4915,Natus Vincere,Sunset,4,1,0.250,3,1
+2026,5448,ZETA DIVISION,Abyss,2,1,0.500,0,1
+2026,5448,ZETA DIVISION,Ascent,2,0,0.000,1,2
+2026,5448,ZETA DIVISION,Bind,4,2,0.500,2,3
+2026,5448,ZETA DIVISION,Breeze,4,2,0.500,2,3
+2026,5448,ZETA DIVISION,Corrode,1,0,0.000,0,0
+2026,5448,ZETA DIVISION,Fracture,3,1,0.333,0,1
+2026,5448,ZETA DIVISION,Haven,9,3,0.333,3,0
+2026,5448,ZETA DIVISION,Lotus,3,0,0.000,0,9
+2026,5448,ZETA DIVISION,Pearl,1,0,0.000,0,7
+2026,5448,ZETA DIVISION,Split,9,2,0.222,7,0
+2026,5448,ZETA DIVISION,Summit,0,0,,0,8
+2026,5448,ZETA DIVISION,Sunset,5,4,0.800,2,0
+2026,17,Gen.G,Abyss,2,0,0.000,1,1
+2026,17,Gen.G,Ascent,3,1,0.333,1,4
+2026,17,Gen.G,Bind,2,0,0.000,0,3
+2026,17,Gen.G,Breeze,6,3,0.500,4,7
+2026,17,Gen.G,Corrode,0,0,,0,3
+2026,17,Gen.G,Fracture,1,0,0.000,0,3
+2026,17,Gen.G,Haven,7,4,0.571,2,1
+2026,17,Gen.G,Lotus,5,3,0.600,2,2
+2026,17,Gen.G,Pearl,4,0,0.000,0,1
+2026,17,Gen.G,Split,5,2,0.400,2,7
+2026,17,Gen.G,Summit,3,3,1.000,2,0
+2026,17,Gen.G,Sunset,5,3,0.600,2,0
+2026,14419,GIANTX,Abyss,3,2,0.667,2,2
+2026,14419,GIANTX,Ascent,5,1,0.200,4,1
+2026,14419,GIANTX,Bind,4,0,0.000,2,1
+2026,14419,GIANTX,Breeze,5,0,0.000,0,4
+2026,14419,GIANTX,Corrode,0,0,,0,5
+2026,14419,GIANTX,Fracture,0,0,,0,4
+2026,14419,GIANTX,Haven,7,4,0.571,2,4
+2026,14419,GIANTX,Lotus,2,1,0.500,1,5
+2026,14419,GIANTX,Pearl,4,1,0.250,2,0
+2026,14419,GIANTX,Split,8,4,0.500,5,3
+2026,14419,GIANTX,Summit,1,1,1.000,0,5
+2026,14419,GIANTX,Sunset,3,0,0.000,0,2
+2026,11328,FunPlus Phoenix,Abyss,0,0,,0,2
+2026,11328,FunPlus Phoenix,Ascent,4,2,0.500,4,2
+2026,11328,FunPlus Phoenix,Bind,3,0,0.000,2,1
+2026,11328,FunPlus Phoenix,Breeze,3,3,1.000,0,3
+2026,11328,FunPlus Phoenix,Corrode,0,0,,0,1
+2026,11328,FunPlus Phoenix,Fracture,2,1,0.500,2,0
+2026,11328,FunPlus Phoenix,Haven,2,0,0.000,1,10
+2026,11328,FunPlus Phoenix,Lotus,6,1,0.167,0,3
+2026,11328,FunPlus Phoenix,Pearl,7,4,0.571,2,0
+2026,11328,FunPlus Phoenix,Split,7,2,0.286,0,6
+2026,11328,FunPlus Phoenix,Summit,2,2,1.000,1,0
+2026,11328,FunPlus Phoenix,Sunset,5,3,0.600,4,4
+2026,2,Sentinels,Abyss,1,1,1.000,0,0
+2026,2,Sentinels,Ascent,3,0,0.000,1,2
+2026,2,Sentinels,Bind,2,1,0.500,1,3
+2026,2,Sentinels,Breeze,8,4,0.500,5,1
+2026,2,Sentinels,Corrode,2,0,0.000,1,0
+2026,2,Sentinels,Fracture,1,0,0.000,0,2
+2026,2,Sentinels,Haven,6,3,0.500,2,8
+2026,2,Sentinels,Lotus,5,2,0.400,0,3
+2026,2,Sentinels,Pearl,1,1,1.000,1,4
+2026,2,Sentinels,Split,6,2,0.333,4,5
+2026,2,Sentinels,Summit,3,2,0.667,1,2
+2026,2,Sentinels,Sunset,2,1,0.500,1,4
+2026,11229,VARREL,Abyss,1,0,0.000,0,4
+2026,11229,VARREL,Ascent,1,1,1.000,0,2
+2026,11229,VARREL,Bind,3,1,0.333,2,2
+2026,11229,VARREL,Breeze,2,0,0.000,0,7
+2026,11229,VARREL,Corrode,1,1,1.000,1,1
+2026,11229,VARREL,Fracture,2,0,0.000,0,0
+2026,11229,VARREL,Haven,9,3,0.333,2,1
+2026,11229,VARREL,Lotus,5,1,0.200,2,3
+2026,11229,VARREL,Pearl,2,1,0.500,2,3
+2026,11229,VARREL,Split,8,3,0.375,6,5
+2026,11229,VARREL,Summit,3,1,0.333,1,2
+2026,11229,VARREL,Sunset,3,3,1.000,0,2
+2026,12064,Nova Esports,Abyss,1,1,1.000,1,1
+2026,12064,Nova Esports,Ascent,3,2,0.667,2,0
+2026,12064,Nova Esports,Bind,1,0,0.000,0,5
+2026,12064,Nova Esports,Breeze,6,4,0.667,1,7
+2026,12064,Nova Esports,Corrode,1,0,0.000,1,0
+2026,12064,Nova Esports,Fracture,2,1,0.500,0,2
+2026,12064,Nova Esports,Haven,3,0,0.000,2,7
+2026,12064,Nova Esports,Lotus,6,4,0.667,5,1
+2026,12064,Nova Esports,Pearl,2,0,0.000,1,1
+2026,12064,Nova Esports,Split,7,2,0.286,2,4
+2026,12064,Nova Esports,Summit,4,2,0.500,1,5
+2026,12064,Nova Esports,Sunset,4,3,0.750,2,3
+2026,6392,Eternal Fire,Ascent,6,2,0.333,1,2
+2026,6392,Eternal Fire,Bind,2,2,1.000,1,0
+2026,6392,Eternal Fire,Breeze,2,1,0.500,2,5
+2026,6392,Eternal Fire,Fracture,3,1,0.333,1,2
+2026,6392,Eternal Fire,Haven,1,0,0.000,0,14
+2026,6392,Eternal Fire,Lotus,12,6,0.500,6,0
+2026,6392,Eternal Fire,Pearl,3,3,1.000,2,3
+2026,6392,Eternal Fire,Split,9,5,0.556,3,1
+2026,6392,Eternal Fire,Summit,1,1,1.000,1,3
+2026,6392,Eternal Fire,Sunset,1,0,0.000,0,4
+2026,3478,PCIFIC Esports,Abyss,3,1,0.333,3,0
+2026,3478,PCIFIC Esports,Ascent,5,1,0.200,0,0
+2026,3478,PCIFIC Esports,Bind,1,1,1.000,0,4
+2026,3478,PCIFIC Esports,Breeze,2,0,0.000,0,9
+2026,3478,PCIFIC Esports,Fracture,1,0,0.000,0,0
+2026,3478,PCIFIC Esports,Haven,3,0,0.000,0,8
+2026,3478,PCIFIC Esports,Lotus,5,2,0.400,2,4
+2026,3478,PCIFIC Esports,Pearl,2,1,0.500,1,1
+2026,3478,PCIFIC Esports,Split,11,2,0.182,6,1
+2026,3478,PCIFIC Esports,Summit,2,0,0.000,2,2
+2026,3478,PCIFIC Esports,Sunset,3,0,0.000,1,1
+2026,6199,Team Secret,Abyss,1,0,0.000,0,2
+2026,6199,Team Secret,Ascent,3,0,0.000,2,1
+2026,6199,Team Secret,Bind,2,1,0.500,0,3
+2026,6199,Team Secret,Breeze,5,1,0.200,2,5
+2026,6199,Team Secret,Corrode,0,0,,0,3
+2026,6199,Team Secret,Fracture,2,1,0.500,1,0
+2026,6199,Team Secret,Haven,4,2,0.500,4,8
+2026,6199,Team Secret,Lotus,2,0,0.000,1,8
+2026,6199,Team Secret,Pearl,2,0,0.000,1,1
+2026,6199,Team Secret,Split,9,1,0.111,3,0
+2026,6199,Team Secret,Summit,4,1,0.250,2,0
+2026,6199,Team Secret,Sunset,2,2,1.000,0,1
+2026,20085,Fire Flux Esports,Abyss,2,1,0.500,2,0
+2026,20085,Fire Flux Esports,Ascent,2,2,1.000,0,4
+2026,20085,Fire Flux Esports,Breeze,0,0,,0,1
+2026,20085,Fire Flux Esports,Haven,1,0,0.000,1,5
+2026,20085,Fire Flux Esports,Lotus,3,1,0.333,0,2
+2026,20085,Fire Flux Esports,Split,4,3,0.750,3,0
+2026,20085,Fire Flux Esports,Summit,3,2,0.667,1,2
+2026,20085,Fire Flux Esports,Sunset,1,1,1.000,0,0
+2026,876,Enterprise Esports,Abyss,3,2,0.667,1,0
+2026,876,Enterprise Esports,Ascent,0,0,,0,2
+2026,876,Enterprise Esports,Breeze,0,0,,0,2
+2026,876,Enterprise Esports,Haven,2,1,0.500,0,2
+2026,876,Enterprise Esports,Lotus,6,3,0.500,3,0
+2026,876,Enterprise Esports,Split,2,2,1.000,0,2
+2026,876,Enterprise Esports,Summit,2,1,0.500,2,0
+2026,876,Enterprise Esports,Sunset,0,0,,0,4
+2026,11232,Joblife,Ascent,3,1,0.333,1,0
+2026,11232,Joblife,Breeze,2,2,1.000,1,0
+2026,11232,Joblife,Haven,0,0,,0,2
+2026,11232,Joblife,Lotus,4,3,0.750,3,0
+2026,11232,Joblife,Split,4,1,0.250,0,0
+2026,11232,Joblife,Summit,0,0,,0,4
+2026,11232,Joblife,Sunset,0,0,,0,4
+2026,14478,Eintracht Frankfurt,Abyss,0,0,,0,1
+2026,14478,Eintracht Frankfurt,Ascent,2,1,0.500,0,1
+2026,14478,Eintracht Frankfurt,Breeze,0,0,,0,3
+2026,14478,Eintracht Frankfurt,Haven,2,2,1.000,0,0
+2026,14478,Eintracht Frankfurt,Lotus,4,3,0.750,4,0
+2026,14478,Eintracht Frankfurt,Split,3,2,0.667,1,1
+2026,14478,Eintracht Frankfurt,Summit,1,0,0.000,0,4
+2026,623,Sharper Esports,Ascent,3,3,1.000,3,0
+2026,623,Sharper Esports,Breeze,3,2,0.667,0,0
+2026,623,Sharper Esports,Haven,3,1,0.333,0,0
+2026,623,Sharper Esports,Lotus,0,0,,0,4
+2026,623,Sharper Esports,Summit,0,0,,0,3
+2026,623,Sharper Esports,Sunset,3,0,0.000,1,1
+2026,19189,ONSIDE GAMING,Abyss,1,0,0.000,1,0
+2026,19189,ONSIDE GAMING,Ascent,3,1,0.333,0,2
+2026,19189,ONSIDE GAMING,Breeze,1,1,1.000,0,0
+2026,19189,ONSIDE GAMING,Haven,2,2,1.000,2,0
+2026,19189,ONSIDE GAMING,Lotus,1,0,0.000,0,1
+2026,19189,ONSIDE GAMING,Split,1,1,1.000,1,1
+2026,19189,ONSIDE GAMING,Summit,0,0,,0,5
+2026,19189,ONSIDE GAMING,Sunset,2,1,0.500,1,1
+2026,18019,ULF Esports,Abyss,1,1,1.000,0,1
+2026,18019,ULF Esports,Bind,1,0,0.000,0,2
+2026,18019,ULF Esports,Breeze,2,0,0.000,0,0
+2026,18019,ULF Esports,Corrode,1,0,0.000,1,3
+2026,18019,ULF Esports,Haven,1,0,0.000,1,0
+2026,18019,ULF Esports,Pearl,1,0,0.000,0,2
+2026,18019,ULF Esports,Split,2,2,1.000,2,0
+2026,22142,BESTIA,Ascent,1,0,0.000,0,2
+2026,22142,BESTIA,Breeze,3,2,0.667,2,0
+2026,22142,BESTIA,Haven,0,0,,0,1
+2026,22142,BESTIA,Lotus,1,1,1.000,1,1
+2026,22142,BESTIA,Summit,1,0,0.000,0,0
+2026,22142,BESTIA,Sunset,1,0,0.000,0,2
+2026,18299,QT DIG∞,Ascent,1,0,0.000,0,1
+2026,18299,QT DIG∞,Breeze,1,0,0.000,0,0
+2026,18299,QT DIG∞,Haven,1,1,1.000,1,0
+2026,18299,QT DIG∞,Lotus,1,1,1.000,1,0
+2026,18299,QT DIG∞,Split,1,0,0.000,0,0
+2026,18299,QT DIG∞,Summit,1,0,0.000,0,1
+2026,18299,QT DIG∞,Sunset,0,0,,0,2
+2026,20603,A Team,Ascent,1,0,0.000,1,1
+2026,20603,A Team,Breeze,0,0,,0,1
+2026,20603,A Team,Haven,1,1,1.000,0,0
+2026,20603,A Team,Lotus,1,0,0.000,0,1
+2026,20603,A Team,Split,0,0,,0,1
+2026,20603,A Team,Summit,1,0,0.000,0,0
+2026,20603,A Team,Sunset,1,0,0.000,1,0
+2026,12784,KeepBest Gaming,Ascent,1,0,0.000,0,1
+2026,12784,KeepBest Gaming,Breeze,1,0,0.000,1,0
+2026,12784,KeepBest Gaming,Lotus,0,0,,0,1
+2026,12784,KeepBest Gaming,Summit,1,0,0.000,0,0
+2026,12784,KeepBest Gaming,Sunset,2,1,0.500,0,0
+2026,17167,Xipto Esports,Ascent,0,0,,0,2
+2026,17167,Xipto Esports,Breeze,0,0,,0,2
+2026,17167,Xipto Esports,Haven,1,0,0.000,1,0
+2026,17167,Xipto Esports,Split,1,1,1.000,0,0
+2026,17167,Xipto Esports,Summit,1,0,0.000,0,0
+2026,17167,Xipto Esports,Sunset,2,0,0.000,1,0
+2026,15072,2Game Esports,Ascent,1,1,1.000,1,0
+2026,15072,2Game Esports,Breeze,0,0,,0,2
+2026,15072,2Game Esports,Haven,1,0,0.000,1,0
+2026,15072,2Game Esports,Split,2,0,0.000,0,0
+2026,15072,2Game Esports,Summit,0,0,,0,2
+2026,15072,2Game Esports,Sunset,1,0,0.000,0,0
+2026,23141,Fluxo W7M,Ascent,1,0,0.000,1,0
+2026,23141,Fluxo W7M,Breeze,1,0,0.000,0,0
+2026,23141,Fluxo W7M,Haven,0,0,,0,2
+2026,23141,Fluxo W7M,Lotus,2,1,0.500,1,0
+2026,23141,Fluxo W7M,Split,1,0,0.000,0,0
+2026,23141,Fluxo W7M,Summit,0,0,,0,1
+2026,23141,Fluxo W7M,Sunset,0,0,,0,1
+2026,11001,M80,Ascent,1,0,0.000,0,1
+2026,11001,M80,Breeze,1,0,0.000,1,0
+2026,11001,M80,Haven,0,0,,0,2
+2026,11001,M80,Split,1,0,0.000,1,0
+2026,11001,M80,Sunset,1,0,0.000,0,1
+all,624,Paper Rex,Abyss,5,2,0.400,0,25
+all,624,Paper Rex,Ascent,48,26,0.542,4,43
+all,624,Paper Rex,Bind,41,23,0.561,23,13
+all,624,Paper Rex,Breeze,23,13,0.565,11,27
+all,624,Paper Rex,Corrode,9,4,0.444,0,13
+all,624,Paper Rex,Fracture,25,18,0.720,14,8
+all,624,Paper Rex,Haven,29,17,0.586,8,72
+all,624,Paper Rex,Icebox,26,15,0.577,14,23
+all,624,Paper Rex,Lotus,62,38,0.613,28,9
+all,624,Paper Rex,Pearl,32,21,0.656,13,22
+all,624,Paper Rex,Split,54,34,0.630,29,16
+all,624,Paper Rex,Summit,4,3,0.750,3,1
+all,624,Paper Rex,Sunset,30,22,0.733,18,3
+all,2593,FNATIC,Abyss,13,7,0.538,1,6
+all,2593,FNATIC,Ascent,38,18,0.474,11,28
+all,2593,FNATIC,Bind,42,27,0.643,20,9
+all,2593,FNATIC,Breeze,16,9,0.562,8,20
+all,2593,FNATIC,Corrode,8,5,0.625,6,7
+all,2593,FNATIC,Fracture,24,16,0.667,12,7
+all,2593,FNATIC,Haven,50,33,0.660,19,20
+all,2593,FNATIC,Icebox,31,22,0.710,22,15
+all,2593,FNATIC,Lotus,57,38,0.667,31,14
+all,2593,FNATIC,Pearl,4,1,0.250,1,57
+all,2593,FNATIC,Split,42,29,0.690,14,29
+all,2593,FNATIC,Summit,4,1,0.250,1,2
+all,2593,FNATIC,Sunset,14,5,0.357,3,33
+all,474,Team Liquid,Abyss,14,9,0.643,5,8
+all,474,Team Liquid,Ascent,44,30,0.682,19,14
+all,474,Team Liquid,Bind,40,22,0.550,22,17
+all,474,Team Liquid,Breeze,18,14,0.778,14,13
+all,474,Team Liquid,Corrode,8,2,0.250,3,3
+all,474,Team Liquid,Fracture,20,10,0.500,8,22
+all,474,Team Liquid,Haven,35,18,0.514,11,39
+all,474,Team Liquid,Icebox,24,11,0.458,9,24
+all,474,Team Liquid,Lotus,41,22,0.537,10,17
+all,474,Team Liquid,Pearl,12,4,0.333,2,34
+all,474,Team Liquid,Split,48,30,0.625,23,18
+all,474,Team Liquid,Summit,5,2,0.400,4,1
+all,474,Team Liquid,Sunset,13,5,0.385,7,18
+all,8185,KIWOOM DRX,Abyss,15,12,0.800,14,1
+all,8185,KIWOOM DRX,Ascent,41,27,0.659,18,27
+all,8185,KIWOOM DRX,Bind,36,19,0.528,10,26
+all,8185,KIWOOM DRX,Breeze,18,10,0.556,7,9
+all,8185,KIWOOM DRX,Corrode,9,4,0.444,4,5
+all,8185,KIWOOM DRX,Fracture,28,19,0.679,14,14
+all,8185,KIWOOM DRX,Haven,46,26,0.565,20,20
+all,8185,KIWOOM DRX,Icebox,25,13,0.520,9,10
+all,8185,KIWOOM DRX,Lotus,40,19,0.475,11,42
+all,8185,KIWOOM DRX,Pearl,18,10,0.556,9,27
+all,8185,KIWOOM DRX,Split,28,16,0.571,11,32
+all,8185,KIWOOM DRX,Summit,3,2,0.667,0,1
+all,8185,KIWOOM DRX,Sunset,15,6,0.400,4,23
+all,1120,EDward Gaming,Abyss,11,7,0.636,3,14
+all,1120,EDward Gaming,Ascent,22,12,0.545,7,54
+all,1120,EDward Gaming,Bind,41,26,0.634,25,15
+all,1120,EDward Gaming,Breeze,22,15,0.682,11,9
+all,1120,EDward Gaming,Corrode,9,7,0.778,3,1
+all,1120,EDward Gaming,Fracture,26,19,0.731,19,6
+all,1120,EDward Gaming,Haven,40,23,0.575,22,17
+all,1120,EDward Gaming,Icebox,19,9,0.474,5,21
+all,1120,EDward Gaming,Lotus,37,17,0.459,9,46
+all,1120,EDward Gaming,Pearl,21,10,0.476,5,19
+all,1120,EDward Gaming,Split,38,25,0.658,14,18
+all,1120,EDward Gaming,Summit,3,0,0.000,0,5
+all,1120,EDward Gaming,Sunset,27,18,0.667,13,2
+all,11058,G2 Esports,Abyss,20,13,0.650,15,4
+all,11058,G2 Esports,Ascent,33,22,0.667,16,20
+all,11058,G2 Esports,Bind,25,16,0.640,13,21
+all,11058,G2 Esports,Breeze,20,12,0.600,6,13
+all,11058,G2 Esports,Corrode,13,5,0.385,4,6
+all,11058,G2 Esports,Fracture,5,3,0.600,0,20
+all,11058,G2 Esports,Haven,32,20,0.625,13,21
+all,11058,G2 Esports,Icebox,21,10,0.476,8,17
+all,11058,G2 Esports,Lotus,55,39,0.709,30,13
+all,11058,G2 Esports,Pearl,16,13,0.812,5,10
+all,11058,G2 Esports,Split,36,19,0.528,8,20
+all,11058,G2 Esports,Summit,3,1,0.333,0,13
+all,11058,G2 Esports,Sunset,15,10,0.667,8,39
+all,2,Sentinels,Abyss,7,4,0.571,0,3
+all,2,Sentinels,Ascent,20,7,0.350,1,46
+all,2,Sentinels,Bind,21,13,0.619,5,27
+all,2,Sentinels,Breeze,19,8,0.421,10,12
+all,2,Sentinels,Corrode,7,4,0.571,4,0
+all,2,Sentinels,Fracture,11,6,0.545,3,16
+all,2,Sentinels,Haven,36,19,0.528,14,23
+all,2,Sentinels,Icebox,22,8,0.364,0,32
+all,2,Sentinels,Lotus,42,27,0.643,24,11
+all,2,Sentinels,Pearl,17,10,0.588,13,4
+all,2,Sentinels,Split,48,26,0.542,30,13
+all,2,Sentinels,Summit,3,2,0.667,1,2
+all,2,Sentinels,Sunset,22,14,0.636,12,7
+all,14,T1,Abyss,6,3,0.500,0,17
+all,14,T1,Ascent,27,13,0.481,11,16
+all,14,T1,Bind,30,16,0.533,18,17
+all,14,T1,Breeze,16,10,0.625,7,4
+all,14,T1,Corrode,5,2,0.400,1,12
+all,14,T1,Fracture,22,12,0.545,6,12
+all,14,T1,Haven,39,22,0.564,16,25
+all,14,T1,Icebox,9,2,0.222,1,24
+all,14,T1,Lotus,52,31,0.596,32,14
+all,14,T1,Pearl,23,13,0.565,6,4
+all,14,T1,Split,22,9,0.409,8,38
+all,14,T1,Summit,3,1,0.333,1,11
+all,14,T1,Sunset,18,10,0.556,6,6
+all,17,Gen.G,Abyss,5,2,0.400,1,6
+all,17,Gen.G,Ascent,39,24,0.615,19,19
+all,17,Gen.G,Bind,18,9,0.500,3,35
+all,17,Gen.G,Breeze,20,12,0.600,9,10
+all,17,Gen.G,Corrode,3,2,0.667,0,4
+all,17,Gen.G,Fracture,13,4,0.308,4,18
+all,17,Gen.G,Haven,35,25,0.714,18,6
+all,17,Gen.G,Icebox,24,13,0.542,4,24
+all,17,Gen.G,Lotus,47,29,0.617,31,9
+all,17,Gen.G,Pearl,13,3,0.231,1,15
+all,17,Gen.G,Split,30,15,0.500,10,21
+all,17,Gen.G,Summit,3,3,1.000,2,0
+all,17,Gen.G,Sunset,20,10,0.500,7,24
+all,1001,Team Heretics,Abyss,14,4,0.286,3,6
+all,1001,Team Heretics,Ascent,24,12,0.500,9,43
+all,1001,Team Heretics,Bind,25,17,0.680,6,14
+all,1001,Team Heretics,Breeze,11,5,0.455,1,14
+all,1001,Team Heretics,Corrode,4,3,0.750,1,6
+all,1001,Team Heretics,Fracture,12,5,0.417,6,12
+all,1001,Team Heretics,Haven,31,19,0.613,19,12
+all,1001,Team Heretics,Icebox,30,17,0.567,10,11
+all,1001,Team Heretics,Lotus,53,31,0.585,33,13
+all,1001,Team Heretics,Pearl,14,6,0.429,3,16
+all,1001,Team Heretics,Split,21,9,0.429,4,40
+all,1001,Team Heretics,Summit,3,3,1.000,0,1
+all,1001,Team Heretics,Sunset,28,20,0.714,22,7
+all,6961,LOUD,Abyss,5,3,0.600,2,5
+all,6961,LOUD,Ascent,39,23,0.590,27,17
+all,6961,LOUD,Bind,22,10,0.455,0,22
+all,6961,LOUD,Breeze,15,11,0.733,8,8
+all,6961,LOUD,Corrode,1,0,0.000,0,2
+all,6961,LOUD,Fracture,14,7,0.500,2,31
+all,6961,LOUD,Haven,34,19,0.559,10,19
+all,6961,LOUD,Icebox,22,12,0.545,9,9
+all,6961,LOUD,Lotus,30,14,0.467,13,18
+all,6961,LOUD,Pearl,20,8,0.400,8,15
+all,6961,LOUD,Split,35,18,0.514,9,44
+all,6961,LOUD,Summit,11,8,0.727,8,1
+all,6961,LOUD,Sunset,21,13,0.619,15,4
+all,2359,LEVIATÁN,Abyss,6,4,0.667,2,8
+all,2359,LEVIATÁN,Ascent,35,18,0.514,17,18
+all,2359,LEVIATÁN,Bind,25,14,0.560,10,15
+all,2359,LEVIATÁN,Breeze,13,3,0.231,5,21
+all,2359,LEVIATÁN,Corrode,2,1,0.500,0,7
+all,2359,LEVIATÁN,Fracture,11,4,0.364,7,23
+all,2359,LEVIATÁN,Haven,32,19,0.594,19,9
+all,2359,LEVIATÁN,Icebox,31,18,0.581,14,10
+all,2359,LEVIATÁN,Lotus,33,16,0.485,7,34
+all,2359,LEVIATÁN,Pearl,22,15,0.682,9,9
+all,2359,LEVIATÁN,Split,34,20,0.588,12,28
+all,2359,LEVIATÁN,Summit,4,1,0.250,0,2
+all,2359,LEVIATÁN,Sunset,20,14,0.700,10,8
+all,1034,NRG,Abyss,15,8,0.533,10,5
+all,1034,NRG,Ascent,24,11,0.458,6,33
+all,1034,NRG,Bind,24,10,0.417,8,28
+all,1034,NRG,Breeze,18,14,0.778,9,9
+all,1034,NRG,Corrode,11,9,0.818,9,1
+all,1034,NRG,Fracture,13,6,0.462,4,20
+all,1034,NRG,Haven,37,24,0.649,16,17
+all,1034,NRG,Icebox,13,9,0.692,8,13
+all,1034,NRG,Lotus,38,24,0.632,19,17
+all,1034,NRG,Pearl,26,16,0.615,12,5
+all,1034,NRG,Split,23,10,0.435,5,33
+all,1034,NRG,Summit,7,6,0.857,4,0
+all,1034,NRG,Sunset,19,5,0.263,2,15
+all,120,100 Thieves,Abyss,5,2,0.400,1,15
+all,120,100 Thieves,Ascent,31,18,0.581,15,15
+all,120,100 Thieves,Bind,32,18,0.562,25,12
+all,120,100 Thieves,Breeze,22,14,0.636,13,10
+all,120,100 Thieves,Corrode,5,4,0.800,1,4
+all,120,100 Thieves,Fracture,15,7,0.467,7,8
+all,120,100 Thieves,Haven,33,20,0.606,14,18
+all,120,100 Thieves,Icebox,28,17,0.607,12,13
+all,120,100 Thieves,Lotus,20,7,0.350,4,48
+all,120,100 Thieves,Pearl,16,7,0.438,6,17
+all,120,100 Thieves,Split,32,19,0.594,7,17
+all,120,100 Thieves,Summit,7,5,0.714,3,4
+all,120,100 Thieves,Sunset,15,5,0.333,6,15
+all,2355,KRÜ Esports,Abyss,8,4,0.500,2,3
+all,2355,KRÜ Esports,Ascent,38,18,0.474,13,17
+all,2355,KRÜ Esports,Bind,19,10,0.526,9,27
+all,2355,KRÜ Esports,Breeze,20,9,0.450,8,14
+all,2355,KRÜ Esports,Corrode,2,0,0.000,2,4
+all,2355,KRÜ Esports,Fracture,11,3,0.273,4,29
+all,2355,KRÜ Esports,Haven,32,16,0.500,12,32
+all,2355,KRÜ Esports,Icebox,27,12,0.444,15,16
+all,2355,KRÜ Esports,Lotus,33,17,0.515,16,8
+all,2355,KRÜ Esports,Pearl,11,4,0.364,2,19
+all,2355,KRÜ Esports,Split,31,12,0.387,15,13
+all,2355,KRÜ Esports,Summit,3,1,0.333,1,1
+all,2355,KRÜ Esports,Sunset,16,8,0.500,7,7
+all,1184,FUT Esports,Abyss,5,1,0.200,5,11
+all,1184,FUT Esports,Ascent,29,17,0.586,13,15
+all,1184,FUT Esports,Bind,23,12,0.522,13,17
+all,1184,FUT Esports,Breeze,5,2,0.400,2,31
+all,1184,FUT Esports,Corrode,1,1,1.000,0,1
+all,1184,FUT Esports,Fracture,11,7,0.636,2,26
+all,1184,FUT Esports,Haven,32,18,0.562,18,17
+all,1184,FUT Esports,Icebox,17,7,0.412,6,15
+all,1184,FUT Esports,Lotus,45,21,0.467,18,15
+all,1184,FUT Esports,Pearl,17,7,0.412,7,14
+all,1184,FUT Esports,Split,38,16,0.421,13,15
+all,1184,FUT Esports,Summit,3,2,0.667,0,4
+all,1184,FUT Esports,Sunset,20,9,0.450,8,8
+all,2059,Team Vitality,Abyss,11,6,0.545,5,11
+all,2059,Team Vitality,Ascent,22,10,0.455,6,21
+all,2059,Team Vitality,Bind,18,5,0.278,4,17
+all,2059,Team Vitality,Breeze,17,12,0.706,13,2
+all,2059,Team Vitality,Corrode,4,4,1.000,1,0
+all,2059,Team Vitality,Fracture,8,4,0.500,1,16
+all,2059,Team Vitality,Haven,35,12,0.343,14,14
+all,2059,Team Vitality,Icebox,13,5,0.385,8,13
+all,2059,Team Vitality,Lotus,42,25,0.595,18,11
+all,2059,Team Vitality,Pearl,8,5,0.625,6,28
+all,2059,Team Vitality,Split,28,16,0.571,13,22
+all,2059,Team Vitality,Summit,6,4,0.667,0,6
+all,2059,Team Vitality,Sunset,21,12,0.571,8,15
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Abyss,8,5,0.625,5,3
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Ascent,16,10,0.625,5,16
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Bind,24,12,0.500,9,12
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Breeze,7,3,0.429,4,14
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Corrode,2,1,0.500,0,14
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Fracture,10,5,0.500,5,13
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Haven,27,10,0.370,9,19
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Icebox,19,11,0.579,9,8
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Lotus,41,22,0.537,18,6
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Pearl,15,10,0.667,10,7
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Split,21,7,0.333,7,23
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Summit,5,3,0.600,4,0
+all,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),Sunset,16,9,0.562,6,8
+all,188,Cloud9,Abyss,5,1,0.200,1,1
+all,188,Cloud9,Ascent,26,12,0.462,6,24
+all,188,Cloud9,Bind,14,7,0.500,8,21
+all,188,Cloud9,Breeze,19,13,0.684,10,14
+all,188,Cloud9,Corrode,4,1,0.250,3,7
+all,188,Cloud9,Fracture,12,6,0.500,7,5
+all,188,Cloud9,Haven,25,11,0.440,6,22
+all,188,Cloud9,Icebox,15,8,0.533,10,14
+all,188,Cloud9,Lotus,34,17,0.500,14,8
+all,188,Cloud9,Pearl,21,12,0.571,8,11
+all,188,Cloud9,Split,25,18,0.720,11,18
+all,188,Cloud9,Summit,2,0,0.000,1,4
+all,188,Cloud9,Sunset,8,4,0.500,1,10
+all,878,Rex Regum Qeon,Abyss,6,2,0.333,3,2
+all,878,Rex Regum Qeon,Ascent,25,11,0.440,11,15
+all,878,Rex Regum Qeon,Bind,10,2,0.200,2,18
+all,878,Rex Regum Qeon,Breeze,12,4,0.333,2,4
+all,878,Rex Regum Qeon,Corrode,9,6,0.667,4,1
+all,878,Rex Regum Qeon,Fracture,10,6,0.600,5,5
+all,878,Rex Regum Qeon,Haven,34,19,0.559,18,10
+all,878,Rex Regum Qeon,Icebox,18,11,0.611,11,7
+all,878,Rex Regum Qeon,Lotus,26,11,0.423,5,28
+all,878,Rex Regum Qeon,Pearl,17,6,0.353,8,10
+all,878,Rex Regum Qeon,Split,15,9,0.600,6,33
+all,878,Rex Regum Qeon,Summit,4,2,0.500,0,0
+all,878,Rex Regum Qeon,Sunset,17,8,0.471,7,8
+all,11981,Dragon Ranger Gaming,Abyss,7,2,0.286,3,2
+all,11981,Dragon Ranger Gaming,Ascent,24,13,0.542,14,7
+all,11981,Dragon Ranger Gaming,Bind,15,7,0.467,2,22
+all,11981,Dragon Ranger Gaming,Breeze,19,7,0.368,6,6
+all,11981,Dragon Ranger Gaming,Corrode,7,4,0.571,3,2
+all,11981,Dragon Ranger Gaming,Fracture,5,2,0.400,0,20
+all,11981,Dragon Ranger Gaming,Haven,28,18,0.643,14,17
+all,11981,Dragon Ranger Gaming,Icebox,11,5,0.455,4,7
+all,11981,Dragon Ranger Gaming,Lotus,34,16,0.471,21,18
+all,11981,Dragon Ranger Gaming,Pearl,10,4,0.400,3,8
+all,11981,Dragon Ranger Gaming,Split,20,8,0.400,4,23
+all,11981,Dragon Ranger Gaming,Summit,3,1,0.333,1,6
+all,11981,Dragon Ranger Gaming,Sunset,16,8,0.500,3,10
+all,5248,Evil Geniuses,Abyss,5,3,0.600,2,1
+all,5248,Evil Geniuses,Ascent,24,16,0.667,8,17
+all,5248,Evil Geniuses,Bind,18,7,0.389,3,23
+all,5248,Evil Geniuses,Breeze,8,2,0.250,4,11
+all,5248,Evil Geniuses,Corrode,6,3,0.500,4,2
+all,5248,Evil Geniuses,Fracture,17,13,0.765,14,2
+all,5248,Evil Geniuses,Haven,22,7,0.318,11,34
+all,5248,Evil Geniuses,Icebox,10,5,0.500,4,12
+all,5248,Evil Geniuses,Lotus,31,13,0.419,10,16
+all,5248,Evil Geniuses,Pearl,21,10,0.476,10,3
+all,5248,Evil Geniuses,Split,19,6,0.316,8,21
+all,5248,Evil Geniuses,Summit,2,2,1.000,0,3
+all,5248,Evil Geniuses,Sunset,13,7,0.538,6,6
+all,4915,Natus Vincere,Abyss,2,1,0.500,1,3
+all,4915,Natus Vincere,Ascent,27,15,0.556,13,10
+all,4915,Natus Vincere,Bind,23,8,0.348,10,7
+all,4915,Natus Vincere,Breeze,10,4,0.400,5,9
+all,4915,Natus Vincere,Corrode,4,2,0.500,3,5
+all,4915,Natus Vincere,Fracture,14,8,0.571,10,7
+all,4915,Natus Vincere,Haven,19,9,0.474,3,36
+all,4915,Natus Vincere,Icebox,12,8,0.667,6,18
+all,4915,Natus Vincere,Lotus,25,8,0.320,6,34
+all,4915,Natus Vincere,Pearl,14,9,0.643,9,6
+all,4915,Natus Vincere,Split,29,16,0.552,12,9
+all,4915,Natus Vincere,Summit,2,1,0.500,0,0
+all,4915,Natus Vincere,Sunset,14,4,0.286,3,8
+all,2406,FURIA,Abyss,6,3,0.500,2,1
+all,2406,FURIA,Ascent,29,12,0.414,20,11
+all,2406,FURIA,Bind,12,3,0.250,1,16
+all,2406,FURIA,Breeze,21,8,0.381,9,2
+all,2406,FURIA,Corrode,3,1,0.333,2,4
+all,2406,FURIA,Fracture,8,3,0.375,1,13
+all,2406,FURIA,Haven,34,15,0.441,16,9
+all,2406,FURIA,Icebox,17,9,0.529,8,6
+all,2406,FURIA,Lotus,11,3,0.273,4,37
+all,2406,FURIA,Pearl,14,6,0.429,3,15
+all,2406,FURIA,Split,23,11,0.478,6,15
+all,2406,FURIA,Summit,3,0,0.000,2,1
+all,2406,FURIA,Sunset,9,3,0.333,3,10
+all,12685,Trace Esports,Abyss,10,2,0.200,5,3
+all,12685,Trace Esports,Ascent,18,10,0.556,8,13
+all,12685,Trace Esports,Bind,23,10,0.435,11,12
+all,12685,Trace Esports,Breeze,13,5,0.385,2,8
+all,12685,Trace Esports,Corrode,2,1,0.500,0,4
+all,12685,Trace Esports,Fracture,4,0,0.000,1,6
+all,12685,Trace Esports,Haven,19,8,0.421,2,30
+all,12685,Trace Esports,Icebox,3,3,1.000,0,35
+all,12685,Trace Esports,Lotus,40,22,0.550,22,5
+all,12685,Trace Esports,Pearl,5,2,0.400,2,17
+all,12685,Trace Esports,Split,21,14,0.667,8,12
+all,12685,Trace Esports,Summit,3,1,0.333,0,4
+all,12685,Trace Esports,Sunset,29,14,0.483,18,1
+all,5448,ZETA DIVISION,Abyss,2,1,0.500,0,2
+all,5448,ZETA DIVISION,Ascent,27,9,0.333,12,18
+all,5448,ZETA DIVISION,Bind,15,6,0.400,5,15
+all,5448,ZETA DIVISION,Breeze,6,2,0.333,2,20
+all,5448,ZETA DIVISION,Corrode,3,1,0.333,2,3
+all,5448,ZETA DIVISION,Fracture,18,9,0.500,9,6
+all,5448,ZETA DIVISION,Haven,30,9,0.300,7,5
+all,5448,ZETA DIVISION,Icebox,14,5,0.357,5,17
+all,5448,ZETA DIVISION,Lotus,22,11,0.500,6,15
+all,5448,ZETA DIVISION,Pearl,6,2,0.333,3,16
+all,5448,ZETA DIVISION,Split,27,11,0.407,17,13
+all,5448,ZETA DIVISION,Summit,0,0,,0,8
+all,5448,ZETA DIVISION,Sunset,16,8,0.500,6,4
+all,7386,MIBR,Abyss,12,5,0.417,8,2
+all,7386,MIBR,Ascent,13,3,0.231,5,28
+all,7386,MIBR,Bind,15,6,0.400,6,8
+all,7386,MIBR,Breeze,12,7,0.583,3,0
+all,7386,MIBR,Corrode,8,6,0.750,4,3
+all,7386,MIBR,Fracture,6,2,0.333,2,16
+all,7386,MIBR,Haven,22,11,0.500,6,18
+all,7386,MIBR,Icebox,16,8,0.500,9,6
+all,7386,MIBR,Lotus,23,8,0.348,11,21
+all,7386,MIBR,Pearl,11,5,0.455,5,17
+all,7386,MIBR,Split,28,13,0.464,13,15
+all,7386,MIBR,Summit,1,0,0.000,0,9
+all,7386,MIBR,Sunset,18,8,0.444,9,4
+all,8877,Karmine Corp,Abyss,6,3,0.500,2,2
+all,8877,Karmine Corp,Ascent,15,6,0.400,3,33
+all,8877,Karmine Corp,Bind,17,9,0.529,8,4
+all,8877,Karmine Corp,Breeze,5,1,0.200,0,23
+all,8877,Karmine Corp,Corrode,3,0,0.000,0,5
+all,8877,Karmine Corp,Fracture,4,0,0.000,1,10
+all,8877,Karmine Corp,Haven,23,12,0.522,8,8
+all,8877,Karmine Corp,Icebox,16,10,0.625,8,13
+all,8877,Karmine Corp,Lotus,39,21,0.538,19,3
+all,8877,Karmine Corp,Pearl,10,4,0.400,2,9
+all,8877,Karmine Corp,Split,19,5,0.263,8,22
+all,8877,Karmine Corp,Summit,5,1,0.200,1,4
+all,8877,Karmine Corp,Sunset,22,13,0.591,13,5
+all,918,Global Esports,Abyss,10,5,0.500,3,2
+all,918,Global Esports,Ascent,17,6,0.353,8,18
+all,918,Global Esports,Bind,8,1,0.125,5,14
+all,918,Global Esports,Breeze,14,8,0.571,8,6
+all,918,Global Esports,Corrode,5,2,0.400,3,1
+all,918,Global Esports,Fracture,3,0,0.000,0,21
+all,918,Global Esports,Haven,19,10,0.526,5,18
+all,918,Global Esports,Icebox,12,7,0.583,6,7
+all,918,Global Esports,Lotus,26,9,0.346,6,20
+all,918,Global Esports,Pearl,16,10,0.625,7,8
+all,918,Global Esports,Split,30,12,0.400,20,9
+all,918,Global Esports,Summit,6,4,0.667,4,1
+all,918,Global Esports,Sunset,11,4,0.364,1,10
+all,6199,Team Secret,Abyss,3,1,0.333,2,2
+all,6199,Team Secret,Ascent,22,14,0.636,11,17
+all,6199,Team Secret,Bind,8,3,0.375,0,26
+all,6199,Team Secret,Breeze,16,5,0.312,7,7
+all,6199,Team Secret,Corrode,2,0,0.000,2,4
+all,6199,Team Secret,Fracture,11,4,0.364,2,8
+all,6199,Team Secret,Haven,23,11,0.478,16,15
+all,6199,Team Secret,Icebox,19,9,0.474,12,5
+all,6199,Team Secret,Lotus,24,8,0.333,6,18
+all,6199,Team Secret,Pearl,8,2,0.250,2,15
+all,6199,Team Secret,Split,22,7,0.318,4,19
+all,6199,Team Secret,Summit,4,1,0.250,2,0
+all,6199,Team Secret,Sunset,13,10,0.769,6,1
+all,11328,FunPlus Phoenix,Abyss,5,2,0.400,3,2
+all,11328,FunPlus Phoenix,Ascent,23,12,0.522,7,7
+all,11328,FunPlus Phoenix,Bind,18,5,0.278,4,18
+all,11328,FunPlus Phoenix,Breeze,10,6,0.600,5,5
+all,11328,FunPlus Phoenix,Corrode,1,1,1.000,0,2
+all,11328,FunPlus Phoenix,Fracture,6,3,0.500,5,6
+all,11328,FunPlus Phoenix,Haven,18,8,0.444,8,18
+all,11328,FunPlus Phoenix,Icebox,16,7,0.438,8,8
+all,11328,FunPlus Phoenix,Lotus,29,14,0.483,17,12
+all,11328,FunPlus Phoenix,Pearl,14,9,0.643,6,1
+all,11328,FunPlus Phoenix,Split,12,2,0.167,0,34
+all,11328,FunPlus Phoenix,Summit,2,2,1.000,1,0
+all,11328,FunPlus Phoenix,Sunset,21,11,0.524,8,13
+all,397,BBL Esports,Abyss,7,5,0.714,1,0
+all,397,BBL Esports,Ascent,27,14,0.519,16,2
+all,397,BBL Esports,Bind,12,4,0.333,2,25
+all,397,BBL Esports,Breeze,9,5,0.556,5,8
+all,397,BBL Esports,Corrode,3,1,0.333,0,10
+all,397,BBL Esports,Fracture,8,2,0.250,0,15
+all,397,BBL Esports,Haven,25,11,0.440,15,8
+all,397,BBL Esports,Icebox,14,7,0.500,8,7
+all,397,BBL Esports,Lotus,18,8,0.444,3,20
+all,397,BBL Esports,Pearl,12,6,0.500,7,7
+all,397,BBL Esports,Split,18,7,0.389,1,16
+all,397,BBL Esports,Summit,2,1,0.500,2,3
+all,397,BBL Esports,Sunset,15,9,0.600,6,5
+all,731,TYLOO,Abyss,3,1,0.333,2,5
+all,731,TYLOO,Ascent,16,6,0.375,3,18
+all,731,TYLOO,Bind,18,12,0.667,12,5
+all,731,TYLOO,Breeze,10,7,0.700,3,11
+all,731,TYLOO,Corrode,7,4,0.571,3,3
+all,731,TYLOO,Fracture,11,7,0.636,5,7
+all,731,TYLOO,Haven,20,7,0.350,5,13
+all,731,TYLOO,Icebox,11,5,0.455,8,4
+all,731,TYLOO,Lotus,13,6,0.462,3,28
+all,731,TYLOO,Pearl,11,2,0.182,4,6
+all,731,TYLOO,Split,25,14,0.560,12,6
+all,731,TYLOO,Summit,6,5,0.833,3,5
+all,731,TYLOO,Sunset,12,7,0.583,5,13
+all,13581,Xi Lai Gaming,Abyss,9,2,0.222,5,1
+all,13581,Xi Lai Gaming,Ascent,8,5,0.625,1,16
+all,13581,Xi Lai Gaming,Bind,13,10,0.769,12,1
+all,13581,Xi Lai Gaming,Breeze,12,6,0.500,2,3
+all,13581,Xi Lai Gaming,Corrode,1,0,0.000,0,15
+all,13581,Xi Lai Gaming,Fracture,8,6,0.750,3,11
+all,13581,Xi Lai Gaming,Haven,24,14,0.583,6,17
+all,13581,Xi Lai Gaming,Icebox,5,1,0.200,2,6
+all,13581,Xi Lai Gaming,Lotus,39,23,0.590,22,4
+all,13581,Xi Lai Gaming,Pearl,11,6,0.545,3,16
+all,13581,Xi Lai Gaming,Split,17,12,0.706,3,14
+all,13581,Xi Lai Gaming,Summit,5,3,0.600,4,2
+all,13581,Xi Lai Gaming,Sunset,9,3,0.333,3,11
+all,13576,JD Gaming,Abyss,6,4,0.667,3,2
+all,13576,JD Gaming,Ascent,10,4,0.400,3,20
+all,13576,JD Gaming,Bind,12,5,0.417,4,10
+all,13576,JD Gaming,Breeze,9,3,0.333,4,22
+all,13576,JD Gaming,Corrode,6,1,0.167,0,2
+all,13576,JD Gaming,Fracture,7,3,0.429,1,2
+all,13576,JD Gaming,Haven,25,11,0.440,12,7
+all,13576,JD Gaming,Icebox,12,7,0.583,5,2
+all,13576,JD Gaming,Lotus,19,10,0.526,8,13
+all,13576,JD Gaming,Pearl,9,4,0.444,6,6
+all,13576,JD Gaming,Split,13,6,0.462,4,13
+all,13576,JD Gaming,Summit,7,2,0.286,5,4
+all,13576,JD Gaming,Sunset,11,4,0.364,4,13
+all,1119,All Gamers,Abyss,6,3,0.500,2,2
+all,1119,All Gamers,Ascent,7,2,0.286,1,23
+all,1119,All Gamers,Bind,13,6,0.462,4,9
+all,1119,All Gamers,Breeze,5,2,0.400,2,23
+all,1119,All Gamers,Corrode,5,3,0.600,4,2
+all,1119,All Gamers,Fracture,5,2,0.400,2,8
+all,1119,All Gamers,Haven,14,6,0.429,7,14
+all,1119,All Gamers,Icebox,11,5,0.455,5,7
+all,1119,All Gamers,Lotus,23,13,0.565,11,11
+all,1119,All Gamers,Pearl,10,2,0.200,0,3
+all,1119,All Gamers,Split,20,11,0.550,14,6
+all,1119,All Gamers,Summit,6,3,0.500,1,1
+all,1119,All Gamers,Sunset,20,7,0.350,6,6
+all,278,DetonatioN FocusMe,Abyss,5,4,0.800,3,0
+all,278,DetonatioN FocusMe,Ascent,22,8,0.364,13,4
+all,278,DetonatioN FocusMe,Bind,4,1,0.250,2,19
+all,278,DetonatioN FocusMe,Breeze,8,3,0.375,0,13
+all,278,DetonatioN FocusMe,Corrode,3,1,0.333,2,4
+all,278,DetonatioN FocusMe,Fracture,8,2,0.250,3,3
+all,278,DetonatioN FocusMe,Haven,18,4,0.222,6,15
+all,278,DetonatioN FocusMe,Icebox,6,2,0.333,1,15
+all,278,DetonatioN FocusMe,Lotus,29,5,0.172,11,10
+all,278,DetonatioN FocusMe,Pearl,15,4,0.267,9,7
+all,278,DetonatioN FocusMe,Split,13,9,0.692,6,20
+all,278,DetonatioN FocusMe,Summit,2,0,0.000,0,2
+all,278,DetonatioN FocusMe,Sunset,10,5,0.500,3,6
+all,14419,GIANTX,Abyss,3,2,0.667,3,8
+all,14419,GIANTX,Ascent,17,9,0.529,11,8
+all,14419,GIANTX,Bind,15,4,0.267,5,11
+all,14419,GIANTX,Breeze,9,2,0.222,1,4
+all,14419,GIANTX,Corrode,4,2,0.500,0,11
+all,14419,GIANTX,Fracture,3,2,0.667,1,5
+all,14419,GIANTX,Haven,18,9,0.500,6,11
+all,14419,GIANTX,Icebox,5,2,0.400,0,15
+all,14419,GIANTX,Lotus,19,8,0.421,10,11
+all,14419,GIANTX,Pearl,6,1,0.167,3,2
+all,14419,GIANTX,Split,18,6,0.333,8,10
+all,14419,GIANTX,Summit,1,1,1.000,0,5
+all,14419,GIANTX,Sunset,19,9,0.474,8,4
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Abyss,4,2,0.500,2,3
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Ascent,10,5,0.500,3,12
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Bind,11,5,0.455,4,10
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Breeze,11,5,0.455,8,5
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Corrode,3,1,0.333,2,2
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Fracture,13,6,0.462,8,0
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Haven,16,6,0.375,5,14
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Icebox,12,4,0.333,4,4
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Lotus,16,5,0.312,5,15
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Pearl,2,1,0.500,1,15
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Split,16,6,0.375,5,14
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Summit,7,4,0.571,2,2
+all,14137,Wuxi Titan Esports Club (Titan Esports Club),Sunset,15,3,0.200,4,10
+all,13790,Wolves Esports,Abyss,5,2,0.400,0,0
+all,13790,Wolves Esports,Ascent,16,9,0.562,9,11
+all,13790,Wolves Esports,Bind,11,3,0.273,4,5
+all,13790,Wolves Esports,Breeze,5,1,0.200,1,14
+all,13790,Wolves Esports,Corrode,3,0,0.000,2,6
+all,13790,Wolves Esports,Fracture,7,2,0.286,3,5
+all,13790,Wolves Esports,Haven,14,7,0.500,6,14
+all,13790,Wolves Esports,Icebox,12,6,0.500,9,6
+all,13790,Wolves Esports,Lotus,26,8,0.308,8,12
+all,13790,Wolves Esports,Pearl,8,6,0.750,6,3
+all,13790,Wolves Esports,Split,13,5,0.385,6,16
+all,13790,Wolves Esports,Summit,4,1,0.250,1,1
+all,13790,Wolves Esports,Sunset,10,4,0.400,2,15
+all,11060,Nongshim RedForce,Abyss,8,5,0.625,4,6
+all,11060,Nongshim RedForce,Ascent,13,6,0.462,3,7
+all,11060,Nongshim RedForce,Bind,8,6,0.750,6,3
+all,11060,Nongshim RedForce,Breeze,8,6,0.750,6,7
+all,11060,Nongshim RedForce,Corrode,8,6,0.750,4,2
+all,11060,Nongshim RedForce,Fracture,6,2,0.333,0,8
+all,11060,Nongshim RedForce,Haven,20,11,0.550,3,13
+all,11060,Nongshim RedForce,Icebox,3,0,0.000,0,9
+all,11060,Nongshim RedForce,Lotus,16,7,0.438,6,11
+all,11060,Nongshim RedForce,Pearl,10,9,0.900,5,10
+all,11060,Nongshim RedForce,Split,19,10,0.526,10,8
+all,11060,Nongshim RedForce,Summit,5,3,0.600,1,8
+all,11060,Nongshim RedForce,Sunset,9,6,0.667,4,5
+all,8304,TALON,Abyss,3,2,0.667,1,1
+all,8304,TALON,Ascent,18,5,0.278,8,17
+all,8304,TALON,Bind,14,9,0.643,7,10
+all,8304,TALON,Breeze,4,3,0.750,1,3
+all,8304,TALON,Corrode,4,3,0.750,3,2
+all,8304,TALON,Fracture,10,6,0.600,4,6
+all,8304,TALON,Haven,17,9,0.529,6,10
+all,8304,TALON,Icebox,16,6,0.375,8,10
+all,8304,TALON,Lotus,22,14,0.636,12,8
+all,8304,TALON,Pearl,6,2,0.333,2,12
+all,8304,TALON,Split,10,3,0.300,2,21
+all,8304,TALON,Sunset,8,1,0.125,1,7
+all,12694,Gentle Mates,Abyss,6,3,0.500,5,0
+all,12694,Gentle Mates,Ascent,10,5,0.500,1,7
+all,12694,Gentle Mates,Bind,8,5,0.625,0,18
+all,12694,Gentle Mates,Breeze,3,1,0.333,2,20
+all,12694,Gentle Mates,Corrode,6,1,0.167,3,4
+all,12694,Gentle Mates,Fracture,7,2,0.286,1,4
+all,12694,Gentle Mates,Haven,16,8,0.500,9,7
+all,12694,Gentle Mates,Icebox,7,4,0.571,4,3
+all,12694,Gentle Mates,Lotus,17,3,0.176,3,12
+all,12694,Gentle Mates,Pearl,12,9,0.750,7,1
+all,12694,Gentle Mates,Split,16,6,0.375,9,12
+all,12694,Gentle Mates,Summit,1,0,0.000,0,3
+all,12694,Gentle Mates,Sunset,15,5,0.333,6,3
+all,12064,Nova Esports,Abyss,3,2,0.667,3,1
+all,12064,Nova Esports,Ascent,17,7,0.412,7,4
+all,12064,Nova Esports,Bind,13,4,0.308,4,9
+all,12064,Nova Esports,Breeze,6,4,0.667,1,16
+all,12064,Nova Esports,Corrode,3,1,0.333,1,1
+all,12064,Nova Esports,Fracture,8,4,0.500,1,5
+all,12064,Nova Esports,Haven,7,2,0.286,6,22
+all,12064,Nova Esports,Icebox,5,4,0.800,1,11
+all,12064,Nova Esports,Lotus,20,6,0.300,7,7
+all,12064,Nova Esports,Pearl,4,1,0.250,1,5
+all,12064,Nova Esports,Split,22,9,0.409,11,6
+all,12064,Nova Esports,Summit,4,2,0.500,1,5
+all,12064,Nova Esports,Sunset,9,5,0.556,5,6
+all,7035,Movistar KOI (KOI),Abyss,1,0,0.000,1,1
+all,7035,Movistar KOI (KOI),Ascent,11,4,0.364,3,12
+all,7035,Movistar KOI (KOI),Bind,9,1,0.111,2,14
+all,7035,Movistar KOI (KOI),Breeze,3,0,0.000,1,0
+all,7035,Movistar KOI (KOI),Corrode,1,1,1.000,0,2
+all,7035,Movistar KOI (KOI),Fracture,7,4,0.571,4,2
+all,7035,Movistar KOI (KOI),Haven,9,2,0.222,3,11
+all,7035,Movistar KOI (KOI),Icebox,16,7,0.438,8,3
+all,7035,Movistar KOI (KOI),Lotus,15,5,0.333,7,15
+all,7035,Movistar KOI (KOI),Pearl,7,1,0.143,1,6
+all,7035,Movistar KOI (KOI),Split,13,6,0.462,7,9
+all,7035,Movistar KOI (KOI),Sunset,8,2,0.250,4,4
+all,4050,FULL SENSE,Abyss,1,0,0.000,0,4
+all,4050,FULL SENSE,Ascent,8,6,0.750,3,7
+all,4050,FULL SENSE,Bind,8,4,0.500,3,3
+all,4050,FULL SENSE,Breeze,8,1,0.125,3,9
+all,4050,FULL SENSE,Corrode,2,1,0.500,2,0
+all,4050,FULL SENSE,Fracture,5,2,0.400,3,4
+all,4050,FULL SENSE,Haven,12,3,0.250,6,11
+all,4050,FULL SENSE,Icebox,1,1,1.000,0,4
+all,4050,FULL SENSE,Lotus,7,4,0.571,2,6
+all,4050,FULL SENSE,Pearl,8,5,0.625,3,0
+all,4050,FULL SENSE,Split,13,9,0.692,5,7
+all,4050,FULL SENSE,Summit,4,1,0.250,2,1
+all,4050,FULL SENSE,Sunset,5,2,0.400,3,1
+all,427,ENVY,Abyss,3,0,0.000,3,1
+all,427,ENVY,Ascent,10,7,0.700,9,0
+all,427,ENVY,Bind,6,3,0.500,3,2
+all,427,ENVY,Breeze,6,3,0.500,1,17
+all,427,ENVY,Corrode,3,1,0.333,1,0
+all,427,ENVY,Fracture,1,0,0.000,0,4
+all,427,ENVY,Haven,11,4,0.364,7,7
+all,427,ENVY,Icebox,3,3,1.000,1,1
+all,427,ENVY,Lotus,3,1,0.333,2,5
+all,427,ENVY,Pearl,5,2,0.400,1,1
+all,427,ENVY,Split,8,2,0.250,1,7
+all,427,ENVY,Summit,2,1,0.500,1,1
+all,427,ENVY,Sunset,3,2,0.667,0,3
+all,8127,OpTic Gaming,Ascent,11,3,0.273,4,3
+all,8127,OpTic Gaming,Bind,12,11,0.917,9,0
+all,8127,OpTic Gaming,Breeze,7,3,0.429,0,11
+all,8127,OpTic Gaming,Fracture,11,7,0.636,5,1
+all,8127,OpTic Gaming,Haven,9,6,0.667,5,6
+all,8127,OpTic Gaming,Icebox,6,2,0.333,1,12
+all,8127,OpTic Gaming,Pearl,2,2,1.000,0,0
+all,8127,OpTic Gaming,Split,5,3,0.600,3,4
+all,466,BOOM Esports,Ascent,9,4,0.444,4,4
+all,466,BOOM Esports,Bind,9,3,0.333,3,3
+all,466,BOOM Esports,Breeze,3,3,1.000,2,4
+all,466,BOOM Esports,Corrode,3,0,0.000,1,0
+all,466,BOOM Esports,Fracture,9,4,0.444,4,0
+all,466,BOOM Esports,Haven,8,6,0.750,4,3
+all,466,BOOM Esports,Icebox,4,3,0.750,1,7
+all,466,BOOM Esports,Lotus,6,2,0.333,2,6
+all,466,BOOM Esports,Pearl,4,1,0.250,2,4
+all,466,BOOM Esports,Split,2,0,0.000,1,9
+all,466,BOOM Esports,Sunset,0,0,,0,3
+all,2304,Giants Gaming,Ascent,7,4,0.571,3,4
+all,2304,Giants Gaming,Bind,2,1,0.500,1,4
+all,2304,Giants Gaming,Fracture,1,0,0.000,0,15
+all,2304,Giants Gaming,Haven,5,3,0.600,2,8
+all,2304,Giants Gaming,Icebox,7,4,0.571,2,0
+all,2304,Giants Gaming,Lotus,8,6,0.750,2,1
+all,2304,Giants Gaming,Pearl,6,3,0.500,3,3
+all,2304,Giants Gaming,Split,8,4,0.500,7,3
+all,628,FunPlus Phoenix,Ascent,8,6,0.750,6,1
+all,628,FunPlus Phoenix,Bind,7,6,0.857,2,4
+all,628,FunPlus Phoenix,Breeze,5,1,0.200,0,8
+all,628,FunPlus Phoenix,Fracture,7,6,0.857,3,1
+all,628,FunPlus Phoenix,Haven,5,2,0.400,2,9
+all,628,FunPlus Phoenix,Icebox,7,4,0.571,4,5
+all,628,FunPlus Phoenix,Pearl,2,0,0.000,0,1
+all,628,FunPlus Phoenix,Split,2,1,0.500,1,0
+all,257,G2 Esports,Ascent,6,3,0.500,6,2
+all,257,G2 Esports,Bind,11,8,0.727,9,1
+all,257,G2 Esports,Breeze,4,2,0.500,1,6
+all,257,G2 Esports,Fracture,1,0,0.000,1,3
+all,257,G2 Esports,Haven,10,5,0.500,2,3
+all,257,G2 Esports,Icebox,6,3,0.500,6,3
+all,257,G2 Esports,Split,4,2,0.500,0,8
+all,6387,BLEED,Ascent,7,4,0.571,3,5
+all,6387,BLEED,Bind,7,3,0.429,4,1
+all,6387,BLEED,Breeze,3,0,0.000,2,3
+all,6387,BLEED,Fracture,0,0,,0,4
+all,6387,BLEED,Haven,3,1,0.333,1,0
+all,6387,BLEED,Icebox,6,2,0.333,2,7
+all,6387,BLEED,Lotus,7,2,0.286,2,2
+all,6387,BLEED,Split,3,1,0.333,0,5
+all,6387,BLEED,Sunset,5,1,0.200,2,5
+all,11229,VARREL,Abyss,1,0,0.000,0,4
+all,11229,VARREL,Ascent,1,1,1.000,0,2
+all,11229,VARREL,Bind,3,1,0.333,2,2
+all,11229,VARREL,Breeze,2,0,0.000,0,7
+all,11229,VARREL,Corrode,1,1,1.000,1,1
+all,11229,VARREL,Fracture,2,0,0.000,0,0
+all,11229,VARREL,Haven,9,3,0.333,2,1
+all,11229,VARREL,Lotus,5,1,0.200,2,3
+all,11229,VARREL,Pearl,2,1,0.500,2,3
+all,11229,VARREL,Split,8,3,0.375,6,5
+all,11229,VARREL,Summit,3,1,0.333,1,2
+all,11229,VARREL,Sunset,3,3,1.000,0,2
+all,6392,Eternal Fire,Ascent,6,2,0.333,1,2
+all,6392,Eternal Fire,Bind,2,2,1.000,1,0
+all,6392,Eternal Fire,Breeze,2,1,0.500,2,5
+all,6392,Eternal Fire,Fracture,3,1,0.333,1,2
+all,6392,Eternal Fire,Haven,1,0,0.000,0,14
+all,6392,Eternal Fire,Lotus,12,6,0.500,6,0
+all,6392,Eternal Fire,Pearl,3,3,1.000,2,3
+all,6392,Eternal Fire,Split,9,5,0.556,3,1
+all,6392,Eternal Fire,Summit,1,1,1.000,1,3
+all,6392,Eternal Fire,Sunset,1,0,0.000,0,4
+all,3478,PCIFIC Esports,Abyss,3,1,0.333,3,0
+all,3478,PCIFIC Esports,Ascent,5,1,0.200,0,0
+all,3478,PCIFIC Esports,Bind,1,1,1.000,0,4
+all,3478,PCIFIC Esports,Breeze,2,0,0.000,0,9
+all,3478,PCIFIC Esports,Fracture,1,0,0.000,0,0
+all,3478,PCIFIC Esports,Haven,3,0,0.000,0,8
+all,3478,PCIFIC Esports,Lotus,5,2,0.400,2,4
+all,3478,PCIFIC Esports,Pearl,2,1,0.500,1,1
+all,3478,PCIFIC Esports,Split,11,2,0.182,6,1
+all,3478,PCIFIC Esports,Summit,2,0,0.000,2,2
+all,3478,PCIFIC Esports,Sunset,3,0,0.000,1,1
+all,15072,2Game Esports,Abyss,1,0,0.000,1,1
+all,15072,2Game Esports,Ascent,6,3,0.500,4,0
+all,15072,2Game Esports,Bind,1,0,0.000,0,2
+all,15072,2Game Esports,Breeze,0,0,,0,2
+all,15072,2Game Esports,Corrode,1,0,0.000,0,3
+all,15072,2Game Esports,Fracture,0,0,,0,7
+all,15072,2Game Esports,Haven,6,0,0.000,4,1
+all,15072,2Game Esports,Icebox,2,0,0.000,0,6
+all,15072,2Game Esports,Lotus,6,1,0.167,1,3
+all,15072,2Game Esports,Pearl,3,1,0.333,1,1
+all,15072,2Game Esports,Split,3,0,0.000,0,0
+all,15072,2Game Esports,Summit,0,0,,0,2
+all,15072,2Game Esports,Sunset,4,3,0.750,3,0
+all,682,Gambit Esports,Ascent,5,2,0.400,4,0
+all,682,Gambit Esports,Bind,6,5,0.833,2,1
+all,682,Gambit Esports,Breeze,5,5,1.000,4,0
+all,682,Gambit Esports,Fracture,2,2,1.000,1,2
+all,682,Gambit Esports,Haven,1,1,1.000,0,9
+all,682,Gambit Esports,Icebox,8,5,0.625,0,1
+all,682,Gambit Esports,Split,5,2,0.400,6,1
+all,1209,Guild Esports,Ascent,3,0,0.000,1,8
+all,1209,Guild Esports,Bind,4,1,0.250,0,5
+all,1209,Guild Esports,Breeze,5,2,0.400,2,1
+all,1209,Guild Esports,Fracture,3,2,0.667,2,2
+all,1209,Guild Esports,Haven,6,4,0.667,4,2
+all,1209,Guild Esports,Icebox,5,4,0.800,2,0
+all,1209,Guild Esports,Split,6,4,0.667,5,1
+all,11479,Apeks,Abyss,1,0,0.000,0,1
+all,11479,Apeks,Ascent,5,1,0.200,3,1
+all,11479,Apeks,Bind,1,0,0.000,0,5
+all,11479,Apeks,Corrode,2,1,0.500,0,1
+all,11479,Apeks,Fracture,0,0,,0,5
+all,11479,Apeks,Haven,4,0,0.000,2,4
+all,11479,Apeks,Icebox,3,0,0.000,0,5
+all,11479,Apeks,Lotus,8,2,0.250,3,0
+all,11479,Apeks,Pearl,2,1,0.500,1,0
+all,11479,Apeks,Split,3,0,0.000,1,2
+all,11479,Apeks,Sunset,2,2,1.000,2,0
+all,3531,Acend,Ascent,5,4,0.800,1,3
+all,3531,Acend,Bind,6,5,0.833,5,0
+all,3531,Acend,Breeze,5,2,0.400,1,1
+all,3531,Acend,Fracture,3,1,0.333,0,0
+all,3531,Acend,Haven,3,0,0.000,2,6
+all,3531,Acend,Icebox,4,2,0.500,3,2
+all,3531,Acend,Split,4,4,1.000,1,5
+all,2988,NORTHEPTION,Ascent,8,3,0.375,3,2
+all,2988,NORTHEPTION,Bind,6,3,0.500,1,0
+all,2988,NORTHEPTION,Breeze,1,1,1.000,0,3
+all,2988,NORTHEPTION,Fracture,1,0,0.000,1,2
+all,2988,NORTHEPTION,Haven,5,3,0.600,2,0
+all,2988,NORTHEPTION,Icebox,3,2,0.667,2,7
+all,2988,NORTHEPTION,Split,5,3,0.600,4,4
+all,533,XSET,Ascent,6,2,0.333,2,1
+all,533,XSET,Bind,4,1,0.250,2,6
+all,533,XSET,Breeze,2,1,0.500,0,5
+all,533,XSET,Fracture,3,2,0.667,1,3
+all,533,XSET,Haven,4,0,0.000,4,0
+all,533,XSET,Icebox,2,2,1.000,0,3
+all,533,XSET,Pearl,4,3,0.750,3,0
+all,533,XSET,Split,3,3,1.000,3,0
+all,277,Crazy Raccoon,Ascent,3,0,0.000,2,1
+all,277,Crazy Raccoon,Bind,3,1,0.333,0,5
+all,277,Crazy Raccoon,Breeze,1,0,0.000,1,0
+all,277,Crazy Raccoon,Fracture,0,0,,0,4
+all,277,Crazy Raccoon,Haven,5,2,0.400,0,1
+all,277,Crazy Raccoon,Icebox,6,0,0.000,5,1
+all,277,Crazy Raccoon,Split,4,2,0.500,2,3
+all,2328,NUTURN,Ascent,6,4,0.667,5,0
+all,2328,NUTURN,Bind,7,4,0.571,6,0
+all,2328,NUTURN,Breeze,0,0,,0,1
+all,2328,NUTURN,Haven,7,1,0.143,0,0
+all,2328,NUTURN,Icebox,0,0,,0,5
+all,2328,NUTURN,Split,1,1,1.000,0,1
+all,1670,F4Q,Ascent,4,0,0.000,1,0
+all,1670,F4Q,Bind,5,3,0.600,4,1
+all,1670,F4Q,Breeze,2,0,0.000,0,0
+all,1670,F4Q,Haven,5,2,0.400,4,0
+all,1670,F4Q,Icebox,1,0,0.000,0,6
+all,1670,F4Q,Split,4,2,0.500,3,0
+all,4894,Keyd Stars,Ascent,1,1,1.000,1,3
+all,4894,Keyd Stars,Bind,4,2,0.500,1,1
+all,4894,Keyd Stars,Breeze,5,1,0.200,3,0
+all,4894,Keyd Stars,Fracture,3,1,0.333,1,2
+all,4894,Keyd Stars,Haven,2,0,0.000,0,6
+all,4894,Keyd Stars,Icebox,4,2,0.500,4,0
+all,4894,Keyd Stars,Split,2,1,0.500,2,3
+all,7391,Ninjas In Pyjamas,Ascent,3,2,0.667,4,0
+all,7391,Ninjas In Pyjamas,Bind,0,0,,0,7
+all,7391,Ninjas In Pyjamas,Breeze,4,2,0.500,1,1
+all,7391,Ninjas In Pyjamas,Fracture,3,0,0.000,1,3
+all,7391,Ninjas In Pyjamas,Haven,2,1,0.500,0,2
+all,7391,Ninjas In Pyjamas,Icebox,6,2,0.333,3,1
+all,7391,Ninjas In Pyjamas,Split,3,3,1.000,2,0
+all,2542,DAMWON Gaming,Ascent,8,6,0.750,5,0
+all,2542,DAMWON Gaming,Bind,6,4,0.667,4,1
+all,2542,DAMWON Gaming,Breeze,1,0,0.000,0,3
+all,2542,DAMWON Gaming,Haven,2,0,0.000,2,0
+all,2542,DAMWON Gaming,Icebox,0,0,,0,6
+all,2542,DAMWON Gaming,Split,2,0,0.000,1,0
+all,9052,Monarch Effect,Ascent,3,3,1.000,3,0
+all,9052,Monarch Effect,Bind,3,3,1.000,0,2
+all,9052,Monarch Effect,Fracture,1,0,0.000,0,0
+all,9052,Monarch Effect,Haven,2,0,0.000,2,4
+all,9052,Monarch Effect,Lotus,4,1,0.250,0,3
+all,9052,Monarch Effect,Pearl,2,0,0.000,0,2
+all,9052,Monarch Effect,Split,4,2,0.500,1,1
+all,7397,XERXIA Esports,Ascent,4,2,0.500,0,2
+all,7397,XERXIA Esports,Bind,2,0,0.000,1,3
+all,7397,XERXIA Esports,Breeze,0,0,,0,2
+all,7397,XERXIA Esports,Fracture,2,0,0.000,1,2
+all,7397,XERXIA Esports,Haven,4,1,0.250,2,1
+all,7397,XERXIA Esports,Icebox,4,2,0.500,3,0
+all,7397,XERXIA Esports,Pearl,0,0,,0,1
+all,7397,XERXIA Esports,Split,2,1,0.500,0,3
+all,4567,Papara SuperMassive,Ascent,2,1,0.500,2,0
+all,4567,Papara SuperMassive,Bind,2,0,0.000,0,3
+all,4567,Papara SuperMassive,Breeze,3,3,1.000,2,1
+all,4567,Papara SuperMassive,Haven,3,2,0.667,3,0
+all,4567,Papara SuperMassive,Icebox,2,0,0.000,0,2
+all,4567,Papara SuperMassive,Split,5,1,0.200,3,0
+all,2815,Version1,Ascent,4,2,0.500,3,0
+all,2815,Version1,Bind,1,0,0.000,0,5
+all,2815,Version1,Breeze,2,1,0.500,1,0
+all,2815,Version1,Haven,2,2,1.000,1,0
+all,2815,Version1,Icebox,5,2,0.400,3,0
+all,2815,Version1,Split,2,0,0.000,1,2
+all,2112,X10 Esports,Ascent,3,1,0.333,0,2
+all,2112,X10 Esports,Bind,0,0,,0,6
+all,2112,X10 Esports,Breeze,2,0,0.000,1,0
+all,2112,X10 Esports,Fracture,1,0,0.000,1,0
+all,2112,X10 Esports,Haven,4,3,0.750,3,0
+all,2112,X10 Esports,Icebox,5,2,0.400,2,0
+all,2112,X10 Esports,Split,1,1,1.000,0,3
+all,337,FaZe Clan,Ascent,4,2,0.500,0,0
+all,337,FaZe Clan,Bind,1,0,0.000,1,4
+all,337,FaZe Clan,Breeze,5,2,0.400,5,0
+all,337,FaZe Clan,Haven,2,1,0.500,2,1
+all,337,FaZe Clan,Icebox,4,0,0.000,0,0
+all,337,FaZe Clan,Split,0,0,,0,4
+all,2032,ONIC G,Ascent,2,1,0.500,2,0
+all,2032,ONIC G,Bind,1,0,0.000,0,4
+all,2032,ONIC G,Breeze,4,3,0.750,2,0
+all,2032,ONIC G,Fracture,3,2,0.667,1,1
+all,2032,ONIC G,Haven,3,1,0.333,1,1
+all,2032,ONIC G,Icebox,3,2,0.667,1,1
+all,2032,ONIC G,Split,0,0,,0,3
+all,1224,Weibo Gaming,Ascent,1,0,0.000,1,0
+all,1224,Weibo Gaming,Bind,3,1,0.333,0,1
+all,1224,Weibo Gaming,Fracture,2,1,0.500,1,0
+all,1224,Weibo Gaming,Haven,5,3,0.600,4,0
+all,1224,Weibo Gaming,Lotus,2,1,0.500,0,3
+all,1224,Weibo Gaming,Pearl,0,0,,0,6
+all,1224,Weibo Gaming,Split,3,2,0.667,0,2
+all,11980,Four Angry Men,Ascent,1,1,1.000,0,1
+all,11980,Four Angry Men,Bind,4,2,0.500,1,0
+all,11980,Four Angry Men,Fracture,0,0,,0,2
+all,11980,Four Angry Men,Haven,3,1,0.333,1,0
+all,11980,Four Angry Men,Lotus,3,2,0.667,0,0
+all,11980,Four Angry Men,Pearl,3,2,0.667,0,1
+all,11980,Four Angry Men,Split,2,0,0.000,0,1
+all,20085,Fire Flux Esports,Abyss,2,1,0.500,2,0
+all,20085,Fire Flux Esports,Ascent,2,2,1.000,0,4
+all,20085,Fire Flux Esports,Breeze,0,0,,0,1
+all,20085,Fire Flux Esports,Haven,1,0,0.000,1,5
+all,20085,Fire Flux Esports,Lotus,3,1,0.333,0,2
+all,20085,Fire Flux Esports,Split,4,3,0.750,3,0
+all,20085,Fire Flux Esports,Summit,3,2,0.667,1,2
+all,20085,Fire Flux Esports,Sunset,1,1,1.000,0,0
+all,198,Vision Strikers,Ascent,1,0,0.000,1,3
+all,198,Vision Strikers,Bind,1,0,0.000,1,1
+all,198,Vision Strikers,Breeze,2,1,0.500,1,2
+all,198,Vision Strikers,Fracture,1,0,0.000,0,1
+all,198,Vision Strikers,Haven,4,4,1.000,3,0
+all,198,Vision Strikers,Icebox,4,2,0.500,1,1
+all,198,Vision Strikers,Split,2,2,1.000,2,1
+all,6675,The Guard,Ascent,2,2,1.000,2,1
+all,6675,The Guard,Bind,0,0,,0,3
+all,6675,The Guard,Breeze,1,0,0.000,0,4
+all,6675,The Guard,Fracture,3,1,0.333,0,1
+all,6675,The Guard,Haven,4,2,0.500,2,2
+all,6675,The Guard,Icebox,4,2,0.500,3,0
+all,6675,The Guard,Split,1,0,0.000,0,1
+all,8182,Incheon On Sla2ers,Ascent,1,1,1.000,0,1
+all,8182,Incheon On Sla2ers,Bind,4,4,1.000,4,0
+all,8182,Incheon On Sla2ers,Breeze,0,0,,0,5
+all,8182,Incheon On Sla2ers,Fracture,3,1,0.333,0,0
+all,8182,Incheon On Sla2ers,Haven,2,1,0.500,1,2
+all,8182,Incheon On Sla2ers,Icebox,2,1,0.500,2,0
+all,8182,Incheon On Sla2ers,Split,3,0,0.000,0,2
+all,876,Enterprise Esports,Abyss,3,2,0.667,1,0
+all,876,Enterprise Esports,Ascent,0,0,,0,2
+all,876,Enterprise Esports,Breeze,0,0,,0,2
+all,876,Enterprise Esports,Haven,2,1,0.500,0,2
+all,876,Enterprise Esports,Lotus,6,3,0.500,3,0
+all,876,Enterprise Esports,Split,2,2,1.000,0,2
+all,876,Enterprise Esports,Summit,2,1,0.500,2,0
+all,876,Enterprise Esports,Sunset,0,0,,0,4
+all,6946,TBK Esports,Ascent,2,0,0.000,0,1
+all,6946,TBK Esports,Bind,3,2,0.667,2,1
+all,6946,TBK Esports,Breeze,3,1,0.333,0,0
+all,6946,TBK Esports,Fracture,3,2,0.667,1,1
+all,6946,TBK Esports,Haven,3,2,0.667,3,0
+all,6946,TBK Esports,Icebox,0,0,,0,5
+all,6946,TBK Esports,Split,0,0,,0,1
+all,420,Team Vikings,Ascent,2,1,0.500,2,2
+all,420,Team Vikings,Bind,1,1,1.000,1,0
+all,420,Team Vikings,Breeze,0,0,,0,2
+all,420,Team Vikings,Fracture,0,0,,0,1
+all,420,Team Vikings,Haven,4,1,0.250,1,0
+all,420,Team Vikings,Icebox,5,2,0.400,2,0
+all,420,Team Vikings,Split,1,0,0.000,0,4
+all,581,Liberty,Ascent,2,1,0.500,2,0
+all,581,Liberty,Bind,3,1,0.333,3,0
+all,581,Liberty,Breeze,0,0,,0,5
+all,581,Liberty,Haven,1,0,0.000,2,0
+all,581,Liberty,Icebox,4,1,0.250,3,0
+all,581,Liberty,Split,3,1,0.333,0,1
+all,8326,M3 Champions,Ascent,2,1,0.500,1,0
+all,8326,M3 Champions,Bind,3,3,1.000,1,1
+all,8326,M3 Champions,Breeze,3,1,0.333,2,0
+all,8326,M3 Champions,Fracture,1,1,1.000,0,0
+all,8326,M3 Champions,Haven,0,0,,0,4
+all,8326,M3 Champions,Icebox,3,1,0.333,1,0
+all,8326,M3 Champions,Split,1,0,0.000,0,2
+all,12202,Gank Gaming,Ascent,3,0,0.000,0,1
+all,12202,Gank Gaming,Bind,4,2,0.500,1,0
+all,12202,Gank Gaming,Fracture,0,0,,0,1
+all,12202,Gank Gaming,Haven,1,0,0.000,1,0
+all,12202,Gank Gaming,Lotus,3,3,1.000,2,1
+all,12202,Gank Gaming,Pearl,0,0,,0,4
+all,12202,Gank Gaming,Split,2,1,0.500,0,1
+all,804,Royal Never Give Up,Ascent,2,1,0.500,1,1
+all,804,Royal Never Give Up,Bind,4,3,0.750,2,0
+all,804,Royal Never Give Up,Fracture,0,0,,0,2
+all,804,Royal Never Give Up,Haven,2,1,0.500,0,2
+all,804,Royal Never Give Up,Lotus,1,0,0.000,0,1
+all,804,Royal Never Give Up,Split,4,2,0.500,0,0
+all,4462,Shenzhen NTER,Ascent,2,1,0.500,0,0
+all,4462,Shenzhen NTER,Bind,0,0,,0,4
+all,4462,Shenzhen NTER,Fracture,2,1,0.500,1,0
+all,4462,Shenzhen NTER,Haven,2,0,0.000,1,1
+all,4462,Shenzhen NTER,Lotus,4,2,0.500,2,0
+all,4462,Shenzhen NTER,Pearl,1,0,0.000,0,1
+all,4462,Shenzhen NTER,Split,2,2,1.000,0,1
+all,1837,Attacking Soul Esports,Ascent,2,0,0.000,1,2
+all,1837,Attacking Soul Esports,Bind,1,0,0.000,0,2
+all,1837,Attacking Soul Esports,Fracture,3,1,0.333,3,0
+all,1837,Attacking Soul Esports,Haven,1,1,1.000,0,0
+all,1837,Attacking Soul Esports,Lotus,2,1,0.500,1,0
+all,1837,Attacking Soul Esports,Pearl,1,0,0.000,0,4
+all,1837,Attacking Soul Esports,Split,3,2,0.667,0,2
+all,11232,Joblife,Ascent,3,1,0.333,1,0
+all,11232,Joblife,Breeze,2,2,1.000,1,0
+all,11232,Joblife,Haven,0,0,,0,2
+all,11232,Joblife,Lotus,4,3,0.750,3,0
+all,11232,Joblife,Split,4,1,0.250,0,0
+all,11232,Joblife,Summit,0,0,,0,4
+all,11232,Joblife,Sunset,0,0,,0,4
+all,3512,Sharks Esports,Ascent,4,1,0.250,1,0
+all,3512,Sharks Esports,Bind,2,0,0.000,1,0
+all,3512,Sharks Esports,Breeze,0,0,,0,3
+all,3512,Sharks Esports,Haven,3,2,0.667,3,0
+all,3512,Sharks Esports,Icebox,2,0,0.000,1,0
+all,3512,Sharks Esports,Split,1,1,1.000,0,2
+all,637,Rise,Ascent,3,1,0.333,2,0
+all,637,Rise,Bind,2,1,0.500,0,0
+all,637,Rise,Breeze,4,2,0.500,0,0
+all,637,Rise,Haven,2,2,1.000,1,0
+all,637,Rise,Icebox,0,0,,0,3
+all,637,Rise,Split,1,0,0.000,1,0
+all,5944,Night Wings Gaming,Ascent,2,0,0.000,0,1
+all,5944,Night Wings Gaming,Bind,2,1,0.500,0,0
+all,5944,Night Wings Gaming,Fracture,0,0,,0,3
+all,5944,Night Wings Gaming,Haven,3,1,0.333,0,0
+all,5944,Night Wings Gaming,Lotus,1,0,0.000,1,2
+all,5944,Night Wings Gaming,Pearl,1,1,1.000,0,0
+all,5944,Night Wings Gaming,Split,3,2,0.667,2,0
+all,14478,Eintracht Frankfurt,Abyss,0,0,,0,1
+all,14478,Eintracht Frankfurt,Ascent,2,1,0.500,0,1
+all,14478,Eintracht Frankfurt,Breeze,0,0,,0,3
+all,14478,Eintracht Frankfurt,Haven,2,2,1.000,0,0
+all,14478,Eintracht Frankfurt,Lotus,4,3,0.750,4,0
+all,14478,Eintracht Frankfurt,Split,3,2,0.667,1,1
+all,14478,Eintracht Frankfurt,Summit,1,0,0.000,0,4
+all,623,Sharper Esports,Ascent,3,3,1.000,3,0
+all,623,Sharper Esports,Breeze,3,2,0.667,0,0
+all,623,Sharper Esports,Haven,3,1,0.333,0,0
+all,623,Sharper Esports,Lotus,0,0,,0,4
+all,623,Sharper Esports,Summit,0,0,,0,3
+all,623,Sharper Esports,Sunset,3,0,0.000,1,1
+all,719,Australs,Ascent,3,2,0.667,2,0
+all,719,Australs,Bind,0,0,,0,3
+all,719,Australs,Haven,1,0,0.000,0,0
+all,719,Australs,Icebox,3,2,0.667,2,0
+all,719,Australs,Split,4,2,0.500,4,0
+all,104,REJECT,Ascent,3,0,0.000,1,0
+all,104,REJECT,Bind,3,0,0.000,3,0
+all,104,REJECT,Breeze,1,1,1.000,1,3
+all,104,REJECT,Fracture,1,0,0.000,0,1
+all,104,REJECT,Icebox,1,1,1.000,0,2
+all,104,REJECT,Split,2,1,0.500,2,2
+all,4210,Made in Thailand,Ascent,2,1,0.500,0,2
+all,4210,Made in Thailand,Bind,2,1,0.500,0,1
+all,4210,Made in Thailand,Breeze,1,0,0.000,0,1
+all,4210,Made in Thailand,Fracture,2,2,1.000,0,0
+all,4210,Made in Thailand,Haven,2,1,0.500,2,0
+all,4210,Made in Thailand,Icebox,2,0,0.000,2,0
+all,4210,Made in Thailand,Split,0,0,,0,4
+all,19189,ONSIDE GAMING,Abyss,1,0,0.000,1,0
+all,19189,ONSIDE GAMING,Ascent,3,1,0.333,0,2
+all,19189,ONSIDE GAMING,Breeze,1,1,1.000,0,0
+all,19189,ONSIDE GAMING,Haven,2,2,1.000,2,0
+all,19189,ONSIDE GAMING,Lotus,1,0,0.000,0,1
+all,19189,ONSIDE GAMING,Split,1,1,1.000,1,1
+all,19189,ONSIDE GAMING,Summit,0,0,,0,5
+all,19189,ONSIDE GAMING,Sunset,2,1,0.500,1,1
+all,12011,Douyu Gaming,Ascent,2,1,0.500,1,1
+all,12011,Douyu Gaming,Bind,1,0,0.000,0,1
+all,12011,Douyu Gaming,Fracture,0,0,,0,2
+all,12011,Douyu Gaming,Haven,2,1,0.500,1,0
+all,12011,Douyu Gaming,Lotus,2,1,0.500,0,1
+all,12011,Douyu Gaming,Pearl,1,0,0.000,0,1
+all,12011,Douyu Gaming,Split,2,1,0.500,1,0
+all,724,E-Xolos LAZER,Ascent,1,0,0.000,1,1
+all,724,E-Xolos LAZER,Bind,2,0,0.000,0,1
+all,724,E-Xolos LAZER,Breeze,0,0,,0,2
+all,724,E-Xolos LAZER,Fracture,2,0,0.000,2,0
+all,724,E-Xolos LAZER,Haven,3,1,0.333,0,0
+all,724,E-Xolos LAZER,Icebox,1,0,0.000,1,1
+all,4094,Six Karma,Ascent,2,0,0.000,0,0
+all,4094,Six Karma,Bind,2,1,0.500,0,0
+all,4094,Six Karma,Breeze,2,1,0.500,1,0
+all,4094,Six Karma,Icebox,0,0,,0,2
+all,4094,Six Karma,Split,3,2,0.667,2,0
+all,1208,ORDER,Ascent,4,3,0.750,1,0
+all,1208,ORDER,Bind,0,0,,0,4
+all,1208,ORDER,Breeze,3,1,0.333,2,0
+all,1208,ORDER,Fracture,1,1,1.000,0,0
+all,1208,ORDER,Haven,0,0,,0,3
+all,1208,ORDER,Icebox,1,0,0.000,1,0
+all,1208,ORDER,Split,0,0,,0,1
+all,8903,OG LDN UTD,Ascent,2,1,0.500,0,0
+all,8903,OG LDN UTD,Bind,2,0,0.000,1,0
+all,8903,OG LDN UTD,Breeze,1,1,1.000,0,2
+all,8903,OG LDN UTD,Fracture,0,0,,0,4
+all,8903,OG LDN UTD,Haven,3,2,0.667,3,0
+all,8903,OG LDN UTD,Icebox,1,1,1.000,0,0
+all,8903,OG LDN UTD,Split,0,0,,0,2
+all,5443,KONE eSports Club,Ascent,2,2,1.000,1,0
+all,5443,KONE eSports Club,Bind,1,0,0.000,0,1
+all,5443,KONE eSports Club,Breeze,0,0,,0,1
+all,5443,KONE eSports Club,Fracture,0,0,,0,4
+all,5443,KONE eSports Club,Haven,3,1,0.333,2,0
+all,5443,KONE eSports Club,Icebox,0,0,,0,1
+all,5443,KONE eSports Club,Split,3,2,0.667,1,1
+all,4460,Number One Player,Bind,1,0,0.000,0,0
+all,4460,Number One Player,Fracture,1,1,1.000,0,0
+all,4460,Number One Player,Lotus,4,1,0.250,0,0
+all,4460,Number One Player,Pearl,1,1,1.000,0,0
+all,4460,Number One Player,Split,2,0,0.000,0,0
+all,4683,Invincible Gaming,Ascent,0,0,,0,1
+all,4683,Invincible Gaming,Bind,2,2,1.000,0,0
+all,4683,Invincible Gaming,Fracture,1,0,0.000,0,0
+all,4683,Invincible Gaming,Haven,0,0,,0,1
+all,4683,Invincible Gaming,Lotus,3,1,0.333,0,0
+all,4683,Invincible Gaming,Pearl,1,0,0.000,0,0
+all,4683,Invincible Gaming,Split,2,0,0.000,1,0
+all,18019,ULF Esports,Abyss,1,1,1.000,0,1
+all,18019,ULF Esports,Bind,1,0,0.000,0,2
+all,18019,ULF Esports,Breeze,2,0,0.000,0,0
+all,18019,ULF Esports,Corrode,1,0,0.000,1,3
+all,18019,ULF Esports,Haven,1,0,0.000,1,0
+all,18019,ULF Esports,Pearl,1,0,0.000,0,2
+all,18019,ULF Esports,Split,2,2,1.000,2,0
+all,243,Gamelanders Blue,Ascent,2,1,0.500,1,0
+all,243,Gamelanders Blue,Bind,1,1,1.000,0,0
+all,243,Gamelanders Blue,Breeze,1,1,1.000,0,0
+all,243,Gamelanders Blue,Haven,0,0,,0,2
+all,243,Gamelanders Blue,Icebox,2,2,1.000,1,0
+all,243,Gamelanders Blue,Split,2,0,0.000,0,0
+all,11985,Rare Atom,Ascent,2,0,0.000,0,0
+all,11985,Rare Atom,Bind,2,0,0.000,0,1
+all,11985,Rare Atom,Fracture,0,0,,0,1
+all,11985,Rare Atom,Haven,1,0,0.000,1,0
+all,11985,Rare Atom,Lotus,3,2,0.667,1,0
+all,11985,Rare Atom,Pearl,0,0,,0,2
+all,4325,CERBERUS Esports,Ascent,1,0,0.000,1,0
+all,4325,CERBERUS Esports,Bind,2,1,0.500,0,0
+all,4325,CERBERUS Esports,Breeze,2,1,0.500,0,0
+all,4325,CERBERUS Esports,Fracture,0,0,,0,3
+all,4325,CERBERUS Esports,Haven,2,0,0.000,2,0
+all,4325,CERBERUS Esports,Split,0,0,,0,3
+all,1110,Alter Ego,Ascent,0,0,,0,1
+all,1110,Alter Ego,Bind,3,1,0.333,2,0
+all,1110,Alter Ego,Breeze,0,0,,0,3
+all,1110,Alter Ego,Fracture,1,0,0.000,1,0
+all,1110,Alter Ego,Haven,3,2,0.667,0,0
+all,1110,Alter Ego,Icebox,0,0,,0,2
+all,367,9z Globant,Ascent,2,0,0.000,0,0
+all,367,9z Globant,Bind,2,0,0.000,2,0
+all,367,9z Globant,Breeze,0,0,,0,3
+all,367,9z Globant,Fracture,1,1,1.000,0,0
+all,367,9z Globant,Haven,2,1,0.500,1,1
+all,367,9z Globant,Split,0,0,,0,2
+all,22142,BESTIA,Ascent,1,0,0.000,0,2
+all,22142,BESTIA,Breeze,3,2,0.667,2,0
+all,22142,BESTIA,Haven,0,0,,0,1
+all,22142,BESTIA,Lotus,1,1,1.000,1,1
+all,22142,BESTIA,Summit,1,0,0.000,0,0
+all,22142,BESTIA,Sunset,1,0,0.000,0,2
+all,921,Oxygen Esports,Ascent,2,1,0.500,2,0
+all,921,Oxygen Esports,Breeze,1,0,0.000,1,0
+all,921,Oxygen Esports,Icebox,0,0,,0,2
+all,921,Oxygen Esports,Split,3,1,0.333,0,0
+all,3107,Griffin E-Sports,Ascent,0,0,,0,2
+all,3107,Griffin E-Sports,Bind,1,0,0.000,0,0
+all,3107,Griffin E-Sports,Breeze,1,0,0.000,1,0
+all,3107,Griffin E-Sports,Fracture,1,0,0.000,0,0
+all,3107,Griffin E-Sports,Haven,2,1,0.500,1,0
+all,3107,Griffin E-Sports,Icebox,0,0,,0,2
+all,3107,Griffin E-Sports,Split,1,1,1.000,0,0
+all,1211,Totoro Gaming,Ascent,2,2,1.000,1,1
+all,1211,Totoro Gaming,Fracture,0,0,,0,2
+all,1211,Totoro Gaming,Haven,1,1,1.000,0,1
+all,1211,Totoro Gaming,Lotus,1,1,1.000,0,0
+all,1211,Totoro Gaming,Pearl,1,1,1.000,1,0
+all,1211,Totoro Gaming,Split,1,1,1.000,1,2
+all,11983,Kingzone,Fracture,2,0,0.000,0,0
+all,11983,Kingzone,Lotus,3,0,0.000,0,0
+all,11983,Kingzone,Pearl,1,0,0.000,0,0
+all,18299,QT DIG∞,Ascent,1,0,0.000,0,1
+all,18299,QT DIG∞,Breeze,1,0,0.000,0,0
+all,18299,QT DIG∞,Haven,1,1,1.000,1,0
+all,18299,QT DIG∞,Lotus,1,1,1.000,1,0
+all,18299,QT DIG∞,Split,1,0,0.000,0,0
+all,18299,QT DIG∞,Summit,1,0,0.000,0,1
+all,18299,QT DIG∞,Sunset,0,0,,0,2
+all,2934,FENNEL,Ascent,1,0,0.000,1,0
+all,2934,FENNEL,Bind,1,0,0.000,1,0
+all,2934,FENNEL,Breeze,0,0,,0,2
+all,2934,FENNEL,Haven,1,0,0.000,0,0
+all,2934,FENNEL,Icebox,1,0,0.000,0,0
+all,2934,FENNEL,Split,1,1,1.000,1,0
+all,6267,One Breath Gaming,Ascent,1,0,0.000,0,1
+all,6267,One Breath Gaming,Breeze,1,0,0.000,0,0
+all,6267,One Breath Gaming,Haven,2,0,0.000,1,0
+all,6267,One Breath Gaming,Icebox,0,0,,0,1
+all,6267,One Breath Gaming,Split,1,1,1.000,1,0
+all,363,INFINITY,Ascent,0,0,,0,1
+all,363,INFINITY,Bind,2,1,0.500,0,0
+all,363,INFINITY,Breeze,1,0,0.000,0,0
+all,363,INFINITY,Icebox,1,0,0.000,1,0
+all,363,INFINITY,Split,1,0,0.000,0,0
+all,642,Luminosity,Ascent,1,0,0.000,1,0
+all,642,Luminosity,Bind,0,0,,1,0
+all,642,Luminosity,Breeze,0,0,,0,2
+all,642,Luminosity,Haven,2,1,0.500,1,0
+all,642,Luminosity,Split,2,0,0.000,0,0
+all,4330,Fancy United Esports,Ascent,2,0,0.000,1,0
+all,4330,Fancy United Esports,Breeze,0,0,,0,2
+all,4330,Fancy United Esports,Fracture,2,0,0.000,1,0
+all,4330,Fancy United Esports,Haven,0,0,,0,2
+all,4330,Fancy United Esports,Icebox,1,1,1.000,0,0
+all,20603,A Team,Ascent,1,0,0.000,1,1
+all,20603,A Team,Breeze,0,0,,0,1
+all,20603,A Team,Haven,1,1,1.000,0,0
+all,20603,A Team,Lotus,1,0,0.000,0,1
+all,20603,A Team,Split,0,0,,0,1
+all,20603,A Team,Summit,1,0,0.000,0,0
+all,20603,A Team,Sunset,1,0,0.000,1,0
+all,12784,KeepBest Gaming,Ascent,1,0,0.000,0,1
+all,12784,KeepBest Gaming,Breeze,1,0,0.000,1,0
+all,12784,KeepBest Gaming,Lotus,0,0,,0,1
+all,12784,KeepBest Gaming,Summit,1,0,0.000,0,0
+all,12784,KeepBest Gaming,Sunset,2,1,0.500,0,0
+all,17167,Xipto Esports,Ascent,0,0,,0,2
+all,17167,Xipto Esports,Breeze,0,0,,0,2
+all,17167,Xipto Esports,Haven,1,0,0.000,1,0
+all,17167,Xipto Esports,Split,1,1,1.000,0,0
+all,17167,Xipto Esports,Summit,1,0,0.000,0,0
+all,17167,Xipto Esports,Sunset,2,0,0.000,1,0
+all,23141,Fluxo W7M,Ascent,1,0,0.000,1,0
+all,23141,Fluxo W7M,Breeze,1,0,0.000,0,0
+all,23141,Fluxo W7M,Haven,0,0,,0,2
+all,23141,Fluxo W7M,Lotus,2,1,0.500,1,0
+all,23141,Fluxo W7M,Split,1,0,0.000,0,0
+all,23141,Fluxo W7M,Summit,0,0,,0,1
+all,23141,Fluxo W7M,Sunset,0,0,,0,1
+all,1466,Anubis Gaming,Ascent,1,0,0.000,0,0
+all,1466,Anubis Gaming,Bind,1,0,0.000,0,0
+all,1466,Anubis Gaming,Breeze,1,0,0.000,2,0
+all,1466,Anubis Gaming,Haven,0,0,,0,2
+all,1466,Anubis Gaming,Split,1,0,0.000,1,0
+all,9353,Shopify Rebellion Black,Ascent,1,0,0.000,0,0
+all,9353,Shopify Rebellion Black,Breeze,1,0,0.000,0,1
+all,9353,Shopify Rebellion Black,Fracture,2,0,0.000,2,0
+all,9353,Shopify Rebellion Black,Haven,0,0,,0,2
+all,9353,Shopify Rebellion Black,Icebox,0,0,,0,1
+all,7269,FUSION,Ascent,1,0,0.000,0,1
+all,7269,FUSION,Breeze,1,0,0.000,0,1
+all,7269,FUSION,Fracture,1,0,0.000,1,0
+all,7269,FUSION,Haven,0,0,,0,1
+all,7269,FUSION,Icebox,1,0,0.000,1,0
+all,7269,FUSION,Split,0,0,,0,1
+all,8086,Maru Gaming,Ascent,0,0,,0,1
+all,8086,Maru Gaming,Bind,1,0,0.000,0,0
+all,8086,Maru Gaming,Fracture,1,0,0.000,1,0
+all,8086,Maru Gaming,Haven,0,0,,0,2
+all,8086,Maru Gaming,Icebox,1,0,0.000,1,1
+all,8086,Maru Gaming,Split,1,0,0.000,0,0
+all,11001,M80,Ascent,1,0,0.000,0,1
+all,11001,M80,Breeze,1,0,0.000,1,0
+all,11001,M80,Haven,0,0,,0,2
+all,11001,M80,Split,1,0,0.000,1,0
+all,11001,M80,Sunset,1,0,0.000,0,1
+all,15315,Team International,Abyss,1,0,0.000,0,0
+all,15315,Team International,Ascent,2,0,0.000,0,0
+all,12065,Team tarik,Corrode,1,0,0.000,0,0
+all,12065,Team tarik,Lotus,1,0,0.000,0,0
+all,12066,Team FRTTT,Lotus,1,1,1.000,0,0
+all,12999,Team Bunny,Bind,1,1,1.000,0,0
+all,13000,Team SuperBusS,Bind,1,0,0.000,0,0
+all,15316,Team Spain,Ascent,1,1,1.000,0,0
+all,15805,Team China,Abyss,1,1,1.000,0,0
+all,17715,Team Thailand,Ascent,1,1,1.000,0,0
+all,19008,Team Toast,Corrode,1,1,1.000,0,0
+all,19687,Pure Aim,Abyss,1,0,0.000,0,0
+all,19688,Precise Defeat,Abyss,1,1,1.000,0,0
+all,19550,Team World,Corrode,1,1,1.000,0,0
+all,19507,Glory Once Again,Corrode,1,0,0.000,0,0
+all,19707,Team Alpha,Corrode,1,1,1.000,0,0
+all,19708,Team Omega,Corrode,1,0,0.000,0,0
+all,19721,Team France,Corrode,1,0,0.000,0,0
+all,19722,Team EMEA,Corrode,1,1,1.000,0,0

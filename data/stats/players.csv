@@ -1,0 +1,892 @@
+player_id,name,country,other_names,teams,first_match,last_match,maps,top_agents
+4,crashies,United States,,ENVY|OpTic Gaming|NRG|FNATIC,2021-09-11T18:15:00Z,2026-08-14T17:30:00Z,325,Sova|Fade|Skye
+7,bonkar,Sweden,,Guild Esports,2021-10-11T15:00:00Z,2021-10-17T15:00:00Z,15,Omen|Viper|Astra
+9,TenZ,Canada,,Sentinels|Team International|Team Toast|Team World,2021-05-25T22:05:00Z,2025-08-30T05:00:00Z,145,Omen|Jett|Kayo
+10,rhyme,Norway,,Giants Gaming,2023-02-13T20:05:00Z,2023-08-13T19:00:00Z,44,Omen|Astra|Breach
+11,Zyppan,Sweden,,FunPlus Phoenix|Natus Vincere|Gentle Mates,2022-07-11T15:00:00Z,2025-04-24T15:00:00Z,162,Kayo|Raze|Skye
+19,jammyz,United States,,Version1,2021-05-24T17:25:00Z,2021-05-28T15:00:00Z,10,Viper|Killjoy
+36,YaBoiDre,United States,,Luminosity,2021-10-12T23:05:00Z,2021-10-28T21:40:00Z,5,Jett|Raze
+45,SicK,United States,,Sentinels,2021-05-25T22:05:00Z,2021-12-06T19:40:00Z,30,Skye|Sage|Phoenix
+46,ShahZaM,United States,,Sentinels|MIBR,2021-05-25T22:05:00Z,2024-06-22T21:00:00Z,40,Sova|Jett|Breach
+47,zombs,United States,,Sentinels,2021-05-25T22:05:00Z,2021-12-06T19:40:00Z,30,Astra|Viper
+53,Inspire,United States,,FaZe Clan|ENVY,2021-10-27T19:15:00Z,2026-01-26T01:00:00Z,16,Viper|Killjoy|Astra
+56,shroud,Canada,,Sentinels,2022-08-04T20:00:00Z,2022-08-11T20:00:00Z,8,Viper|Brimstone|Astra
+57,Hiko,United States,,100 Thieves,2021-09-10T19:50:00Z,2021-10-30T23:00:00Z,22,Sova|Viper
+64,gMd,Canada,,Gen.G,2021-10-12T19:30:00Z,2021-10-29T19:10:00Z,8,Astra|Brimstone|Omen
+65,effys,Canada,,Version1,2021-05-24T17:25:00Z,2021-10-29T23:15:00Z,16,Sova|Sage
+74,hazed,United States,,NRG,2022-08-05T20:00:00Z,2022-08-12T00:00:00Z,7,Viper|Astra|Brimstone
+92,ScreaM,Belgium,,Team Liquid|Karmine Corp,2021-05-25T18:05:00Z,2023-07-21T17:35:00Z,98,Raze|Jett|Phoenix
+93,Mixwell,Spain,,G2 Esports|Team Heretics|Team Spain|Team International,2021-09-10T16:10:00Z,2024-06-09T07:00:00Z,70,Viper|Chamber|Skye
+97,Kryptix,United Kingdom,,Team Liquid,2021-05-25T18:05:00Z,2021-05-29T17:00:00Z,9,Viper|Killjoy
+98,ardiis,Latvia,,FunPlus Phoenix|NRG|Natus Vincere,2022-07-11T15:00:00Z,2024-07-15T16:00:00Z,146,Jett|Chamber|Kayo
+99,L1NK,United Kingdom,,Team Liquid|Acend,2021-05-25T18:05:00Z,2022-08-09T14:00:00Z,46,Astra|Omen|Brimstone
+101,soulcas,United Kingdom,,Team Liquid|Movistar KOI (KOI),2021-05-25T18:05:00Z,2025-04-24T15:00:00Z,134,Skye|Fade|Kayo
+109,ANGE1,Ukraine,,FunPlus Phoenix|Natus Vincere,2022-07-11T15:00:00Z,2025-08-29T18:40:00Z,188,Omen|Sova|Fade
+111,dinkzj,Russia,,Natus Vincere,2022-08-08T16:10:00Z,2022-08-11T14:00:00Z,7,Breach|Fade|Viper
+114,Enzo,France,,FNATIC|Team Liquid,2022-04-11T17:00:00Z,2024-07-10T19:20:00Z,61,Sova|Fade|Viper
+129,hype,Lithuania,,OG LDN UTD|Apeks,2022-08-07T14:00:00Z,2025-01-24T17:00:00Z,14,Viper|Killjoy|Breach
+156,Temperature,United States,,Gen.G,2021-10-12T19:30:00Z,2021-10-29T19:10:00Z,8,Cypher|Sova|Killjoy
+172,vakk,Lithuania,,Acend|BBL Esports,2022-08-07T16:00:00Z,2025-01-31T19:15:00Z,17,Breach|Cypher|Vyse
+194,Yacine,Sweden,,Guild Esports,2021-10-11T15:00:00Z,2022-08-11T16:35:00Z,22,Raze|Jett|Sage
+195,Desmo,Denmark,,FNATIC,2026-04-23T15:00:00Z,2026-04-23T15:00:00Z,3,Phoenix|Viper|Kayo
+217,SEIDER,Denmark,,FunPlus Phoenix,2022-07-11T15:00:00Z,2022-07-14T17:35:00Z,10,Viper|Omen|Sage
+220,beyAz,France,,Gentle Mates,2024-02-21T18:45:00Z,2024-07-11T16:00:00Z,28,Breach|Kayo|Sova
+233,pyth,Sweden,,BLEED,2022-08-02T09:30:00Z,2022-08-06T08:45:00Z,10,Viper|Breach|Killjoy
+252,d3ffo,Russia,,Gambit Esports|Gank Gaming,2021-09-11T16:00:00Z,2023-06-08T09:00:00Z,45,Jett|Raze|Yoru
+253,Sp1ke,International,,One Breath Gaming,2021-10-11T18:45:00Z,2021-10-12T17:10:00Z,5,Jett
+260,corey,United States,,FaZe Clan,2021-10-27T19:15:00Z,2021-10-29T00:05:00Z,5,Skye|Reyna
+261,Victor,United States,,ENVY|OpTic Gaming|NRG|Sentinels,2021-09-11T18:15:00Z,2026-04-10T21:00:00Z,179,Raze|Kayo|Neon
+262,Shanks,Canada,,Rise,2021-10-27T19:15:00Z,2021-10-31T19:00:00Z,12,Jett
+263,Marved,Canada,,ENVY|OpTic Gaming|Sentinels|NRG|Sentinels,2021-09-11T18:15:00Z,2026-07-17T00:20:00Z,126,Astra|Brimstone|Omen
+279,draken,Sweden,,Guild Esports,2021-10-11T15:00:00Z,2021-10-17T15:00:00Z,15,Cypher|Viper
+292,Fit1nho,Spain,,Giants Gaming|GIANTX,2023-02-13T20:05:00Z,2024-07-09T18:00:00Z,75,Jett|Raze|Breach
+301,TakaS,France,,Gentle Mates,2024-02-21T18:45:00Z,2024-07-11T16:00:00Z,28,Yoru|Neon|Raze
+302,ZE1SH,Egypt,,Karmine Corp,2023-04-21T16:00:00Z,2023-07-21T17:35:00Z,19,Breach|Kayo|Viper
+309,paTiTek,Poland,,Team Heretics|Team Liquid|Enterprise Esports,2024-02-20T16:00:00Z,2026-08-23T14:00:00Z,156,Kayo|Fade|Omen
+312,Sayf,Sweden,,Guild Esports|Team Liquid|Team Vitality,2021-10-11T15:00:00Z,2025-08-23T18:55:00Z,179,Jett|Raze|Tejo
+320,dimasick,Kazakhstan,,Team Liquid,2022-08-08T14:00:00Z,2022-09-11T16:55:00Z,26,Omen|Brimstone|Sage
+322,Duno,International,,Natus Vincere,2022-08-08T16:10:00Z,2022-08-11T14:00:00Z,7,Fade|Omen|Sova
+339,koldamenta,Spain,,G2 Esports|Guild Esports|KOI,2021-09-10T16:10:00Z,2023-07-22T15:00:00Z,75,Sova|Omen|Astra
+363,7ssk7,Belarus,,Natus Vincere,2022-08-08T16:10:00Z,2022-08-11T14:00:00Z,7,Chamber|Jett
+384,Shao,International,,FunPlus Phoenix|Natus Vincere,2022-07-11T15:00:00Z,2026-02-06T16:00:00Z,200,Fade|Omen|Sova
+424,Dep,Japan,,ZETA DIVISION,2022-04-10T15:00:00Z,2025-08-09T10:25:00Z,133,Jett|Raze|Neon
+426,Kaminari,Japan,,REJECT,2021-10-12T05:00:00Z,2021-10-13T07:00:00Z,5,Astra|Cypher
+427,Feez,Japan,,REJECT,2021-10-12T05:00:00Z,2021-10-13T07:00:00Z,5,Viper|Cypher
+438,Boaster,United Kingdom,,FNATIC,2021-05-24T15:00:00Z,2026-08-14T17:30:00Z,343,Omen|Astra|Brimstone
+442,Coffee,Belarus,,One Breath Gaming,2021-10-11T18:45:00Z,2021-10-12T17:10:00Z,5,Skye|Sage|Raze
+443,zeddy,Belarus,,One Breath Gaming|Natus Vincere,2021-10-11T18:45:00Z,2022-08-11T14:00:00Z,12,Omen|Viper|Astra
+448,Meddo,Sweden,,G2 Esports,2022-04-14T17:00:00Z,2022-08-13T18:05:00Z,18,Viper|Killjoy|Breach
+451,ShadoW,Sweden,,Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|KOI,2024-02-21T16:00:00Z,2024-07-10T16:00:00Z,35,Gekko|Sova|Breach
+454,dapr,United States,,Sentinels,2021-05-25T22:05:00Z,2022-08-11T20:00:00Z,38,Cypher|Viper|Fade
+457,nAts,Russia,,Gambit Esports|M3 Champions|Team Liquid,2021-09-11T16:00:00Z,2026-10-03T09:00:00Z,296,Cypher|Viper|Killjoy
+458,Chronicle,Russia,,Gambit Esports|M3 Champions|FNATIC|Team Vitality,2021-09-11T16:00:00Z,2026-10-18T06:00:00Z,371,Viper|Breach|Sova
+468,ZachaREEE,United States,,FaZe Clan,2021-10-27T19:15:00Z,2021-10-29T00:05:00Z,5,Viper|Astra|Sage
+471,fiveK,South Korea,,F4Q,2021-09-10T16:10:00Z,2021-10-15T13:00:00Z,21,Skye|Reyna|Viper
+473,zunba,South Korea,,F4Q,2021-09-10T16:10:00Z,2021-10-15T13:00:00Z,21,Astra|Skye|Yoru
+474,xeta,South Korea,,Cloud9|T1,2021-10-27T22:55:00Z,2023-08-12T22:55:00Z,78,Sova|Breach|Viper
+476,exy,South Korea,,DAMWON Gaming,2022-08-09T07:00:00Z,2022-08-10T09:30:00Z,5,Kayo|Breach
+482,iNTRO,South Korea,,DAMWON Gaming|REJECT|T1,2021-10-11T09:15:00Z,2023-05-07T11:00:00Z,25,Viper|Cypher|Kayo
+485,stax,South Korea,,Vision Strikers|KIWOOM DRX|T1,2021-09-11T13:00:00Z,2026-10-11T11:15:00Z,329,Skye|Kayo|Sova
+486,Jinx,South Korea,,FENNEL,2021-10-11T07:00:00Z,2021-10-13T09:00:00Z,5,Jett|Raze
+488,Rb,South Korea,,Vision Strikers|KIWOOM DRX|Titan Esports Club|Nongshim RedForce,2021-09-11T13:00:00Z,2026-10-09T12:10:00Z,298,Omen|Killjoy|Sova
+495,Leviathan,Spain,,Team Spain,2024-03-24T15:00:00Z,2024-03-24T15:00:00Z,1,
+534,HITBOXKING,Spain,,Team Spain,2024-03-24T15:00:00Z,2024-03-24T15:00:00Z,1,
+536,blackelespanolito,Spain,,Team Spain,2024-03-24T15:00:00Z,2024-03-24T15:00:00Z,1,
+556,SouhcNi,Türkiye,,BBL Esports,2023-02-14T20:45:00Z,2023-07-19T19:10:00Z,28,Sova|Cypher|Killjoy
+558,Toronto,Türkiye,,Oxygen Esports,2021-10-10T17:15:00Z,2021-10-15T15:00:00Z,6,Jett|Sage
+562,zeek,Poland,,Acend|Team Heretics,2021-09-10T13:00:00Z,2023-04-27T16:00:00Z,40,Raze|Sova|Kayo
+565,starxo,Poland,,Acend|KOI|Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|KOI|Gentle Mates,2021-09-10T13:00:00Z,2026-08-12T15:00:00Z,158,Fade|Skye|Sova
+568,Turko,Türkiye,,Papara SuperMassive|BBL Esports,2021-09-10T13:00:00Z,2023-07-19T19:10:00Z,49,Skye|Breach|Sage
+569,pAura,Türkiye,,Papara SuperMassive|BBL Esports,2021-09-10T13:00:00Z,2024-07-05T16:00:00Z,45,Breach|Kayo|Cypher
+570,m1tez,Türkiye,,Oxygen Esports,2021-10-10T17:15:00Z,2021-10-15T15:00:00Z,6,Astra|Reyna
+573,cNed,Türkiye,,Acend|Natus Vincere|Team tarik|Natus Vincere|FUT Esports|PCIFIC Esports,2021-09-10T13:00:00Z,2026-04-29T17:10:00Z,184,Jett|Raze|Neon
+582,Dcop,Mexico,,FUSION,2022-08-06T19:20:00Z,2022-08-09T16:00:00Z,4,Sova|Fade|Raze
+586,sickLy,Colombia,,INFINITY|FUSION,2021-10-12T19:30:00Z,2022-08-09T16:00:00Z,7,Viper|Cypher|Breach
+588,Alejo,Colombia,,INFINITY,2021-10-12T19:30:00Z,2021-10-13T18:30:00Z,5,Astra|Sage|Viper
+589,AztKk,Mexico,,E-Xolos LAZER,2021-10-11T16:00:00Z,2021-10-13T16:00:00Z,4,Kayo|Skye|Reyna
+601,Asuna,United States,,100 Thieves,2021-09-10T19:50:00Z,2026-10-17T07:00:00Z,261,Raze|Kayo|Phoenix
+604,Boostio,United States,,Evil Geniuses|100 Thieves,2022-08-05T00:05:00Z,2025-04-27T23:40:00Z,166,Killjoy|Gekko|Astra
+612,mitch,United States,,Cloud9,2021-10-27T22:55:00Z,2025-08-29T23:30:00Z,79,Killjoy|Breach|Skye
+619,C0M,United States,,Evil Geniuses|LEVIATÁN|Evil Geniuses|FURIA,2022-08-05T00:05:00Z,2026-08-29T21:00:00Z,248,Sova|Fade|Viper
+649,Paula,Brazil,,Team tarik,2023-03-04T17:00:00Z,2023-03-04T17:00:00Z,1,Skye
+650,akemy,Brazil,,E-Xolos LAZER,2021-10-11T16:00:00Z,2021-10-13T16:00:00Z,4,Astra|Omen|Viper
+651,frz,Brazil,,Team Vikings|MIBR|2Game Esports,2021-05-25T15:00:00Z,2026-08-20T21:00:00Z,66,Killjoy|Cypher|Viper
+659,Sacy,Brazil,,Team Vikings|LOUD|Sentinels|Team Alpha,2021-05-25T15:00:00Z,2025-08-30T21:00:00Z,161,Sova|Skye|Fade
+662,pryze,Brazil,,2Game Esports|FURIA|2Game Esports,2025-01-17T22:00:00Z,2025-08-16T23:20:00Z,29,Sova|Fade|Tejo
+681,xand,Brazil,,FURIA|Ninjas In Pyjamas|KRÜ Esports|FURIA,2021-10-11T19:10:00Z,2024-07-13T23:10:00Z,53,Jett|Kayo|Chamber
+683,pANcada,Brazil,,LOUD|Sentinels|Team FRTTT|Sentinels|LOUD,2022-04-14T19:40:00Z,2026-01-31T22:00:00Z,124,Omen|Killjoy|Astra
+687,zepher,Japan,,Crazy Raccoon,2021-05-24T17:25:00Z,2021-05-26T15:00:00Z,4,Jett
+689,Clutch_Fi,Japan,,Team Bunny,2023-05-27T05:30:00Z,2023-05-27T05:30:00Z,1,Omen
+706,Norisen,Japan,,REJECT,2021-10-12T05:00:00Z,2021-10-13T07:00:00Z,5,Skye
+725,nzr,Argentina,,FURIA|LEVIATÁN|FURIA|MIBR,2021-10-11T19:10:00Z,2025-02-07T22:00:00Z,121,Sova|Skye|Raze
+726,Pule,Argentina,,9z Globant,2022-08-06T16:00:00Z,2022-08-10T16:15:00Z,7,Brimstone|Astra|Omen
+727,saadhak,Argentina,,Team Vikings|LOUD|Karmine Corp|KRÜ Esports,2021-05-25T15:00:00Z,2026-08-24T00:20:00Z,257,Kayo|Killjoy|Omen
+729,Zellsis,United States,,Version1|Sentinels|Cloud9|Sentinels|Cloud9,2021-05-24T17:25:00Z,2026-08-19T21:00:00Z,282,Killjoy|Viper|Vyse
+733,stellar,United States,,100 Thieves|FURIA,2022-08-05T20:00:00Z,2025-01-17T22:00:00Z,60,Killjoy|Sage|Viper
+740,aproto,United States,,Luminosity,2021-10-12T23:05:00Z,2021-10-28T21:40:00Z,5,Cypher
+754,nerve,United States,,FURIA,2026-01-16T22:00:00Z,2026-05-16T21:00:00Z,37,Viper|Astra|Omen
+769,TiGG,United States,,Luminosity|Shopify Rebellion Black,2021-10-12T23:05:00Z,2022-08-06T22:30:00Z,9,Astra|Kayo|Sage
+771,k1Ng,South Korea,,Vision Strikers|Gen.G,2021-09-11T13:00:00Z,2023-07-22T08:00:00Z,56,Killjoy|Viper|Cypher
+772,Zest,South Korea,,KIWOOM DRX|BLEED,2022-04-10T15:00:00Z,2024-07-08T08:00:00Z,118,Sova|Fade|Viper
+773,Lakia,South Korea,,NUTURN|Vision Strikers|DAMWON Gaming|Gen.G,2021-05-24T20:45:00Z,2026-05-01T08:00:00Z,154,Sova|Skye|Fade
+783,murizzz,Brazil,,Keyd Stars|MIBR,2021-09-11T18:15:00Z,2023-07-15T20:00:00Z,47,Viper|Sage|Kayo
+796,eeiu,Canada,,NRG|100 Thieves|FURIA,2022-08-05T20:00:00Z,2026-07-16T21:00:00Z,148,Sova|Fade|Tejo
+804,BuZz,South Korea,,Vision Strikers|KIWOOM DRX|T1,2021-09-11T13:00:00Z,2026-10-11T11:15:00Z,365,Jett|Raze|Neon
+805,Bazzi,South Korea,,Crazy Raccoon|Incheon On Sla2ers|Global Esports,2021-09-11T16:00:00Z,2023-07-19T08:00:00Z,46,Skye|Raze|Fade
+817,FiNESSE,Canada,,ENVY|OpTic Gaming|NRG,2021-09-11T18:15:00Z,2025-04-25T21:00:00Z,179,Viper|Killjoy|Breach
+824,AYRIN,Canada,,XSET|Global Esports,2021-10-12T23:05:00Z,2023-07-19T08:00:00Z,54,Killjoy|Viper|Kayo
+826,supamen,United States,,Rise|FaZe Clan|Evil Geniuses,2021-10-27T19:15:00Z,2026-08-30T00:00:00Z,136,Omen|Viper|Astra
+828,Reformed,Canada,,Evil Geniuses,2022-08-05T00:05:00Z,2022-08-07T23:10:00Z,5,Sage|Kayo|Fade
+844,bdog,United States,,Shopify Rebellion Black|FURIA,2022-08-05T23:45:00Z,2025-01-17T22:00:00Z,6,Chamber|Breach
+849,POISED,Canada,,Rise|FaZe Clan,2021-10-27T19:15:00Z,2022-08-13T20:00:00Z,23,Kayo|Killjoy|Astra
+862,b0i,United States,,100 Thieves,2021-10-12T19:30:00Z,2021-10-30T23:00:00Z,12,Viper|Astra
+864,BcJ,United States,,XSET|Evil Geniuses,2021-10-12T23:05:00Z,2023-04-10T19:00:00Z,35,Omen|Sova|Fade
+868,logaN,France,,Gentle Mates,2024-02-21T18:45:00Z,2024-05-03T15:00:00Z,15,Cypher|Killjoy|Omen
+871,pl1xx,Australia,,Weibo Gaming|Wolves Esports,2023-06-01T09:00:00Z,2024-07-05T11:00:00Z,46,Kayo|Fade|Sova
+872,Autumn,Australia,,FunPlus Phoenix|Global Esports,2024-02-22T11:05:00Z,2026-10-04T09:00:00Z,193,Yoru|Viper|Cypher
+875,Texta,Australia,,ORDER,2022-08-01T05:00:00Z,2022-08-05T05:00:00Z,9,Omen|Viper|Brimstone
+881,yay,United States,,ENVY|OpTic Gaming|Cloud9|BLEED|Evil Geniuses,2021-09-11T18:15:00Z,2025-08-24T00:25:00Z,144,Chamber|Jett|Raze
+882,dephh,United Kingdom,,XSET|Sentinels,2021-10-12T23:05:00Z,2023-05-06T19:00:00Z,47,Kayo|Astra|Breach
+935,Nyang,Brazil,,Gamelanders Blue,2021-10-12T16:00:00Z,2021-10-16T20:00:00Z,8,Viper|Kayo|Sage
+937,JhoW,Brazil,,Keyd Stars,2021-09-11T18:15:00Z,2021-12-06T17:00:00Z,11,Killjoy|Sage|Viper
+938,Jonn,Brazil,,Gamelanders Blue|Ninjas In Pyjamas,2021-10-12T16:00:00Z,2022-08-10T18:45:00Z,29,Jett|Reyna|Neon
+939,mwzera,Brazil,,Gamelanders Blue|Keyd Stars|FURIA|KRÜ Esports,2021-10-12T16:00:00Z,2026-08-24T00:20:00Z,131,Sova|Fade|Raze
+941,TxoziN,Brazil,,MIBR,2023-05-13T22:30:00Z,2023-07-15T20:00:00Z,7,Killjoy|Viper
+950,fra,Brazil,,Sharks Esports,2021-05-24T20:45:00Z,2021-10-14T16:00:00Z,12,Cypher|Killjoy|Skye
+983,TS,South Korea,,Incheon On Sla2ers|Gen.G,2022-08-08T07:00:00Z,2023-07-22T08:00:00Z,58,Omen|Astra|Sova
+985,Efina,South Korea,,F4Q|Gen.G,2021-09-10T16:10:00Z,2026-08-29T11:00:00Z,40,Fade|Killjoy|Cypher
+991,Skeeyy,Japan,,REJECT,2021-10-12T05:00:00Z,2021-10-13T07:00:00Z,5,Sova
+992,rion,Japan,,Crazy Raccoon,2021-05-24T17:25:00Z,2022-08-12T05:00:00Z,12,Omen|Viper|Astra
+993,Medusa,South Korea,,Crazy Raccoon|REJECT|DetonatioN FocusMe,2021-05-24T17:25:00Z,2024-07-06T08:00:00Z,45,Viper|Killjoy|Cypher
+998,mittiii,Japan,,FENNEL|Team International,2021-10-11T07:00:00Z,2024-06-09T07:00:00Z,6,Kayo|Killjoy|Breach
+999,Laz,Japan,,ZETA DIVISION,2021-09-12T13:00:00Z,2024-07-07T11:00:00Z,115,Chamber|Killjoy|Sova
+1000,crow,Japan,,ZETA DIVISION,2021-09-12T13:00:00Z,2023-08-11T21:45:00Z,76,Breach|Skye|Kayo
+1001,barce,Japan,,ZETA DIVISION,2021-09-12T13:00:00Z,2021-09-14T15:50:00Z,2,Brimstone
+1002,takej,Japan,,ZETA DIVISION|REJECT|DetonatioN FocusMe,2021-09-12T13:00:00Z,2023-07-18T08:00:00Z,34,Viper|Omen|Brimstone
+1003,Reita,Japan,,ZETA DIVISION|REJECT|DetonatioN FocusMe,2021-09-12T13:00:00Z,2023-07-18T08:00:00Z,30,Sova|Jett|Killjoy
+1014,Pepper,Japan,,Glory Once Again,2025-08-30T05:00:00Z,2025-08-30T05:00:00Z,1,Viper
+1026,ade,Japan,,Crazy Raccoon,2021-09-11T16:00:00Z,2021-12-05T15:00:00Z,10,Viper|Astra|Brimstone
+1046,Fisker,Japan,,Crazy Raccoon,2021-09-11T16:00:00Z,2021-12-05T15:00:00Z,10,Skye|Jett
+1077,SamuraiDeeper,Japan,,REJECT,2021-10-12T05:00:00Z,2021-10-13T07:00:00Z,5,Jett
+1113,dicey,United States,,FaZe Clan,2022-08-05T00:05:00Z,2022-08-13T20:00:00Z,11,Chamber
+1129,Rossy,United States,,T1|LEVIATÁN|ENVY,2024-02-17T06:00:00Z,2026-08-23T21:00:00Z,100,Viper|Omen|Kayo
+1137,Twisten,Czech Republic,,Team Vitality,2023-02-23T17:05:00Z,2023-05-25T17:20:00Z,31,Jett|Raze|Sage
+1139,qRaxs,Türkiye,,FUT Esports,2021-10-10T17:15:00Z,2025-08-15T15:00:00Z,167,Kayo|Gekko|Fade
+1144,Boo,Lithuania,,OG LDN UTD|Team Heretics,2022-08-07T14:00:00Z,2026-08-14T15:00:00Z,279,Omen|Astra|Viper
+1162,Russ,United Kingdom,,Guild Esports|Global Esports,2022-07-10T19:35:00Z,2024-07-05T11:00:00Z,41,Kayo|Gekko|Fade
+1175,signed,New Zealand,,Royal Never Give Up,2023-06-01T12:00:00Z,2023-07-03T11:30:00Z,13,Skye|Breach|Sova
+1209,SWERL,Australia,,Royal Never Give Up|Nova Esports,2023-06-01T12:00:00Z,2025-08-02T09:00:00Z,63,Raze|Jett|Neon
+1219,v1xen,Brazil,,Keyd Stars|Ninjas In Pyjamas,2021-09-11T18:15:00Z,2022-08-10T18:45:00Z,22,Viper|Astra|Omen
+1221,krain,Brazil,,Liberty,2021-09-10T19:50:00Z,2021-10-16T16:00:00Z,13,Sova|Skye|Breach
+1265,johnqt,Morocco,,Sentinels|Team International|Sentinels,2024-02-17T22:00:00Z,2026-08-22T23:10:00Z,203,Viper|Cypher|Tejo
+1281,MOLSI,Poland,,OG LDN UTD|Team Vitality|Apeks,2022-08-07T14:00:00Z,2025-08-13T18:20:00Z,71,Kayo|Breach|Raze
+1287,Capi,Argentina,,Australs,2021-10-11T19:10:00Z,2021-10-17T16:00:00Z,11,Cypher|Sage
+1289,BEAST,Argentina,,Six Karma,2021-10-12T16:00:00Z,2021-10-14T19:10:00Z,9,Sova|Sage
+1291,bnj,Argentina,,KRÜ Esports|Ninjas In Pyjamas|9z Globant,2021-05-24T15:00:00Z,2022-08-10T16:15:00Z,23,Omen|Sova|Viper
+1294,NagZ,Chile,,KRÜ Esports,2021-05-24T15:00:00Z,2026-02-01T00:45:00Z,108,Jett|Chamber|Killjoy
+1311,Melser,Chile,,Australs|LEVIATÁN|KRÜ Esports|VISA KRÜ (KRÜ Esports)|BESTIA,2021-10-11T19:10:00Z,2026-08-22T21:00:00Z,182,Omen|Astra|Viper
+1323,RAINMAKER,Guatemala,,INFINITY,2021-10-12T19:30:00Z,2021-10-13T18:30:00Z,5,Sova|Sage
+1369,doma,Croatia,,FNATIC|Joblife,2021-05-24T15:00:00Z,2026-08-16T15:10:00Z,41,Sage|Omen|Cypher
+1380,Leo,Sweden,,Guild Esports|FNATIC,2021-10-11T15:00:00Z,2024-06-01T08:00:00Z,138,Sova|Fade|Skye
+1395,TENNN,Japan,,NORTHEPTION|ZETA DIVISION,2021-10-12T09:00:00Z,2023-08-11T21:45:00Z,83,Killjoy|Raze|Sage
+1399,sterben,Türkiye,,FUT Esports,2021-10-10T17:15:00Z,2021-10-16T16:40:00Z,10,Viper|Astra|Omen
+1401,SasuKe,Türkiye,,FUT Esports,2021-10-10T17:15:00Z,2021-10-16T16:40:00Z,10,Sova|Skye|Breach
+1411,Will,Canada,,100 Thieves,2022-08-05T20:00:00Z,2022-09-08T16:35:00Z,24,Chamber|Raze|Jett
+1426,minse,Russia,,One Breath Gaming,2021-10-11T18:45:00Z,2021-10-12T17:10:00Z,5,Cypher
+1427,Redgar,Russia,,Gambit Esports|M3 Champions|Team Liquid|GIANTX,2021-09-11T16:00:00Z,2024-06-27T18:00:00Z,122,Omen|Astra|Sova
+1428,sheydos,Russia,,Gambit Esports|M3 Champions|KOI|Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|Karmine Corp,2021-09-11T16:00:00Z,2026-02-05T16:00:00Z,142,Killjoy|Skye|Viper
+1430,crazyguy,Vietnam,,BLEED|Rex Regum Qeon,2024-02-17T06:00:00Z,2026-08-19T10:25:00Z,144,Omen|Sova|Tejo
+1433,Hyzee,Vietnam,,Fancy United Esports,2022-08-01T05:00:00Z,2022-08-03T07:45:00Z,5,Astra|Breach|Kayo
+1437,YESicaN,Vietnam,,Fancy United Esports,2022-08-01T05:00:00Z,2022-08-03T07:45:00Z,5,Kayo|Astra|Viper
+1457,Mistic,United Kingdom,,FNATIC|Team Liquid,2021-05-24T15:00:00Z,2024-07-10T19:20:00Z,86,Omen|Viper|Skye
+1475,kamyk,Poland,,FNATIC|Team Liquid|Gentle Mates|Joblife,2023-03-27T19:30:00Z,2026-08-16T15:10:00Z,76,Breach|Tejo|Omen
+1480,aimDLL,Türkiye,,BBL Esports,2022-08-08T14:00:00Z,2022-08-09T17:10:00Z,4,Killjoy|Sage|Brimstone
+1481,AsLanM4shadoW,Türkiye,,BBL Esports,2022-08-08T14:00:00Z,2023-07-19T19:10:00Z,32,Killjoy|Sage|Kayo
+1507,AvovA,Denmark,,G2 Esports|Team Heretics|Apeks,2021-09-10T16:10:00Z,2025-08-13T18:20:00Z,99,Omen|Astra|Viper
+1524,H1ber,Finland,,FNATIC|Gentle Mates,2022-04-11T17:00:00Z,2026-08-12T15:00:00Z,8,Cypher|Raze|Jett
+1533,Derrek,United States,,Rise|100 Thieves|Evil Geniuses,2021-10-27T19:15:00Z,2025-08-24T00:25:00Z,138,Sova|Fade|Tejo
+1564,rhz,Brazil,,Keyd Stars,2022-08-07T16:00:00Z,2022-08-13T16:00:00Z,10,Sova|Breach|Skye
+1565,light,Brazil,,Sharks Esports,2021-05-24T20:45:00Z,2021-10-14T16:00:00Z,12,Astra|Omen|Brimstone
+1566,prozin,Brazil,,Sharks Esports,2021-05-24T20:45:00Z,2021-10-14T16:00:00Z,12,Raze|Kayo|Phoenix
+1567,bezn1,Brazil,,Ninjas In Pyjamas,2022-04-01T20:00:00Z,2022-08-10T18:45:00Z,21,Cypher|Kayo|Sage
+1575,qck,Brazil,,FURIA|LOUD|2Game Esports,2021-10-11T19:10:00Z,2026-08-20T21:00:00Z,111,Viper|Sage|Phoenix
+1576,pleets,Brazil,,Liberty,2021-09-10T19:50:00Z,2021-10-16T16:00:00Z,13,Astra|Sage
+1578,shion,Brazil,,Liberty,2021-09-10T19:50:00Z,2021-10-16T16:00:00Z,13,Breach|Skye|Raze
+1585,gtn,Brazil,,Team Vikings,2021-05-25T15:00:00Z,2021-12-07T18:15:00Z,13,Raze|Jett|Yoru
+1586,v1nny,Brazil,,LOUD,2025-01-16T22:00:00Z,2025-04-04T23:10:00Z,17,Breach|Kayo|Tejo
+1595,Myssen,Brazil,,Liberty,2021-09-10T19:50:00Z,2021-10-16T16:00:00Z,13,Viper|Breach|Skye
+1607,ntk,Brazil,,Keyd Stars,2021-09-11T18:15:00Z,2021-09-15T19:50:00Z,6,Sova|Sage
+1615,Destrian,Lithuania,,OG LDN UTD|Team Vitality,2022-08-07T14:00:00Z,2024-02-26T15:45:00Z,51,Omen|Fade|Sova
+1670,matheuzin,Brazil,,TBK Esports,2022-08-07T18:45:00Z,2022-08-14T16:00:00Z,14,Chamber|Viper|Killjoy
+1671,kon4n,Brazil,,TBK Esports|FURIA,2022-08-07T18:45:00Z,2024-05-04T00:00:00Z,33,Viper|Sova|Skye
+1684,deNaro,Brazil,,Sharks Esports,2021-05-24T20:45:00Z,2021-10-14T16:00:00Z,12,Sova|Sage
+1711,Khalil,Brazil,,FURIA,2021-10-11T19:10:00Z,2025-04-19T00:00:00Z,114,Omen|Killjoy|Brimstone
+1742,Asteriskk,Indonesia,,BOOM Esports,2021-10-11T07:00:00Z,2021-10-14T09:30:00Z,6,Astra|Sage
+1743,blaZek1ng,Indonesia,,BOOM Esports|Global Esports,2021-10-11T07:00:00Z,2024-07-05T11:00:00Z,55,Sova|Viper|Fade
+1745,adrnking,Indonesia,,Alter Ego,2022-08-01T06:55:00Z,2022-08-04T08:30:00Z,7,Breach|Skye
+1792,disk0,Australia,,ORDER,2022-08-01T05:00:00Z,2022-08-05T05:00:00Z,9,Raze|Chamber|Neon
+1818,tex,Germany,,NRG|LEVIATÁN|MIBR,2022-08-05T20:00:00Z,2026-08-31T00:10:00Z,185,Cypher|Killjoy|Vyse
+1828,XiSTOU,Türkiye,,Oxygen Esports,2021-10-10T17:15:00Z,2021-10-15T15:00:00Z,6,Cypher|Killjoy
+1839,Polvi,Finland,,Global Esports,2024-02-18T06:00:00Z,2024-07-05T11:00:00Z,31,Jett|Raze|Neon
+1851,oderus,United States,,Version1|Apeks,2021-10-27T22:55:00Z,2025-01-16T20:10:00Z,8,Sage|Cypher|Viper
+1857,PureR,United States,,XSET,2021-10-12T23:05:00Z,2021-10-30T20:15:00Z,10,Jett|Skye
+1885,purp0,Russia,,M3 Champions|GIANTX|Team Liquid,2022-08-14T14:00:00Z,2026-08-30T15:00:00Z,117,Jett|Raze|Skye
+1906,Ra1ny,Taiwan,,Griffin E-Sports,2022-08-01T08:50:00Z,2022-08-03T05:00:00Z,6,Skye|Kayo|Sova
+1908,kongared,Thailand,,Made in Thailand,2022-08-02T05:00:00Z,2022-08-05T07:50:00Z,11,Breach|Kayo|Skye
+1912,wannafly,Thailand,,Made in Thailand,2022-08-02T05:00:00Z,2022-08-05T07:50:00Z,11,Chamber|Killjoy|Viper
+1916,free1ng,South Korea,,KIWOOM DRX,2025-01-20T08:00:00Z,2026-08-28T10:05:00Z,141,Tejo|Neon|Viper
+1924,Ace,Hong Kong,,Four Angry Men,2023-06-01T12:00:00Z,2023-07-03T09:00:00Z,16,Omen|Harbor|Astra
+1932,maxie,Sweden,,BLEED,2022-08-02T09:30:00Z,2022-08-06T08:45:00Z,10,Astra|Omen|Viper
+1952,Esperanza,South Korea,,F4Q|DAMWON Gaming,2021-09-10T16:10:00Z,2022-08-10T09:30:00Z,26,Sova|Omen|Sage
+1960,eKo,South Korea,,Incheon On Sla2ers|Gen.G|ZETA DIVISION,2022-08-08T07:00:00Z,2026-08-22T10:10:00Z,74,Fade|Waylay|Breach
+1970,neth,Japan,,Crazy Raccoon|DetonatioN FocusMe,2021-05-24T17:25:00Z,2024-07-06T08:00:00Z,52,Killjoy|Breach|Cypher
+2021,axeddy,Brazil,,KRÜ Esports,2023-02-22T19:30:00Z,2023-05-14T19:00:00Z,9,Breach|Raze|Viper
+2038,weber,United Kingdom,,Team Heretics,2023-05-05T19:15:00Z,2023-05-18T15:35:00Z,7,Skye|Kayo|Breach
+2094,hugeon,Russia,,One Breath Gaming,2021-10-11T18:45:00Z,2021-10-12T17:10:00Z,5,Sova|Breach
+2107,russ,Türkiye,,Papara SuperMassive,2021-09-10T13:00:00Z,2021-10-15T17:25:00Z,17,Sova|Skye|Reyna
+2126,Shawn12590,United States,,Gen.G,2021-10-12T19:30:00Z,2021-10-29T19:10:00Z,8,Skye|Reyna|Sage
+2134,Derialy,Japan,,FENNEL|NORTHEPTION,2021-10-11T07:00:00Z,2022-08-13T10:50:00Z,22,Killjoy|Sage|Brimstone
+2139,neptune,United States,,Rise,2021-10-27T19:15:00Z,2021-10-31T19:00:00Z,12,Skye|Raze|Phoenix
+2140,Rawkus,United States,,FaZe Clan,2021-10-27T19:15:00Z,2021-10-29T00:05:00Z,5,Sova
+2149,C1ndeR,South Korea,,VARREL,2026-01-23T08:00:00Z,2026-09-04T11:00:00Z,31,Omen|Astra|Brimstone
+2164,Paincakes,United States,,Evil Geniuses,2026-05-08T21:00:00Z,2026-08-30T00:00:00Z,25,Sova|Fade|Skye
+2168,trexx,Russia,,Guild Esports|KOI|Team Vitality|Team Liquid,2022-07-10T19:35:00Z,2026-10-03T09:00:00Z,187,Sova|Fade|Kayo
+2170,BABYBAY,United States,,FaZe Clan|G2 Esports,2021-10-27T19:15:00Z,2026-10-16T10:10:00Z,142,Chamber|Vyse|Waylay
+2172,brawk,United States,,NRG,2025-03-21T21:00:00Z,2026-10-11T09:00:00Z,157,Sova|Vyse|Tejo
+2173,MAGNUM,Czech Republic,,FNATIC|Karmine Corp|BBL Esports|Enterprise Esports,2021-05-24T15:00:00Z,2026-08-23T14:00:00Z,147,Killjoy|Cypher|Fade
+2190,baddyG,Poland,,Movistar KOI (KOI),2025-07-17T18:30:00Z,2025-08-13T15:00:00Z,14,Omen|Brimstone|Viper
+2194,SirMaza,Spain,,Team tarik,2023-03-04T17:00:00Z,2023-03-04T17:00:00Z,1,Omen
+2256,Jady,Russia,,M3 Champions,2022-08-07T16:00:00Z,2022-08-14T14:00:00Z,12,Skye|Fade|Sage
+2313,feqew,Lithuania,,OG LDN UTD,2022-08-07T14:00:00Z,2022-08-13T15:55:00Z,9,Chamber|Raze|Jett
+2333,BORKUM,Philippines,,Team Secret,2021-12-02T14:00:00Z,2024-05-03T08:00:00Z,94,Omen|Viper|Astra
+2334,JessieVash,Philippines,,Team Secret,2021-12-02T14:00:00Z,2026-05-01T08:00:00Z,148,Sova|Fade|Skye
+2335,dispenser,Philippines,,Team Secret,2021-12-02T14:00:00Z,2022-08-06T05:00:00Z,17,Killjoy|Sage|Cypher
+2348,Famouz,Indonesia,,BOOM Esports,2022-08-01T08:50:00Z,2025-08-09T10:25:00Z,51,Neon|Raze|Yoru
+2361,Retla,Singapore,,BLEED,2022-08-02T09:30:00Z,2024-07-08T08:00:00Z,36,Killjoy|Cypher|Viper
+2362,Egoist,Singapore,,BLEED,2024-02-17T06:00:00Z,2024-02-19T09:15:00Z,5,Killjoy|Cypher|Skye
+2366,aLerT,Thailand,,Xipto Esports,2026-08-14T10:45:00Z,2026-08-20T11:00:00Z,5,Omen
+2368,b3ta,Thailand,,Made in Thailand,2022-08-02T05:00:00Z,2022-08-05T07:50:00Z,11,Brimstone|Viper|Omen
+2380,ZesBeeW,Singapore,,Team Secret,2025-07-15T10:15:00Z,2025-08-01T08:00:00Z,10,Omen|Neon|Viper
+2403,mizu,Argentina,,9z Globant,2022-08-06T16:00:00Z,2022-08-10T16:15:00Z,7,Chamber|Killjoy
+2408,tuyz,Brazil,,TBK Esports|LOUD|FURIA|Fluxo W7M,2022-08-07T18:45:00Z,2026-08-20T23:30:00Z,178,Omen|Harbor|Astra
+2442,nitr0,United States,,100 Thieves,2021-09-10T19:50:00Z,2021-10-30T23:00:00Z,22,Jett|Astra|Omen
+2452,Patiphan,Thailand,,X10 Esports|TALON,2021-05-25T15:00:00Z,2023-07-19T11:15:00Z,41,Jett|Harbor|Breach
+2462,keznit,Chile,,KRÜ Esports|VISA KRÜ (KRÜ Esports)|ENVY,2021-09-12T13:00:00Z,2026-08-23T21:00:00Z,241,Jett|Raze|Neon
+2468,delz1k,Chile,,KRÜ Esports,2021-05-24T15:00:00Z,2022-09-08T14:00:00Z,59,Astra|Brimstone|Omen
+2489,Munchkin,South Korea,,Crazy Raccoon|T1|Gen.G|T1,2021-05-24T17:25:00Z,2026-10-11T11:15:00Z,326,Viper|Kayo|Killjoy
+2490,jfoeN,Colombia,,INFINITY|E-Xolos LAZER,2021-10-12T19:30:00Z,2022-08-09T18:25:00Z,10,Skye|Kayo|Breach
+2496,Caz,Puerto Rico,,E-Xolos LAZER,2021-10-11T16:00:00Z,2021-10-13T16:00:00Z,4,Sova
+2499,HellFull,Colombia,,E-Xolos LAZER,2021-10-11T16:00:00Z,2021-10-13T16:00:00Z,4,Cypher|Sage
+2511,TENSAI,South Korea,,FENNEL,2021-10-11T07:00:00Z,2021-10-13T09:00:00Z,5,Sova|Viper
+2567,liazzi,Brazil,,Liberty|FURIA|MIBR,2021-09-10T19:50:00Z,2024-07-13T21:00:00Z,28,Killjoy|Jett|Raze
+2610,Klaus,Argentina,,KRÜ Esports,2021-05-24T15:00:00Z,2024-06-29T23:00:00Z,127,Sova|Skye|Viper
+2615,CLZ,Japan,,FENNEL|ZETA DIVISION,2021-10-11T07:00:00Z,2025-08-09T10:25:00Z,33,Tejo|Sova|Astra
+2622,Newzera,France,,Karmine Corp,2023-02-14T17:10:00Z,2023-04-14T19:15:00Z,13,Breach|Harbor|Viper
+2625,sh1n,France,,Karmine Corp,2023-02-14T17:10:00Z,2024-07-15T18:50:00Z,89,Omen|Viper|Fade
+2653,Jesse,Czech Republic,,GIANTX,2026-07-16T15:00:00Z,2026-08-13T18:00:00Z,17,Omen|Phoenix|Harbor
+2670,steel,Canada,,100 Thieves,2021-09-10T19:50:00Z,2021-09-18T18:35:00Z,10,Killjoy|Kayo|Viper
+2671,popogachi,Japan,,Crazy Raccoon,2022-08-09T07:00:00Z,2022-08-12T05:00:00Z,8,Fade|Sova|Skye
+2679,DubsteP,Philippines,,Team Secret,2021-12-02T14:00:00Z,2023-07-23T08:00:00Z,65,Jett|Killjoy|Cypher
+2690,hoody,Finland,,G2 Esports|Giants Gaming|GIANTX,2022-04-14T17:00:00Z,2024-07-09T18:00:00Z,93,Viper|Skye|Cypher
+2753,BandiCoot,Colombia,,Six Karma|E-Xolos LAZER,2021-10-12T16:00:00Z,2022-08-09T18:25:00Z,14,Astra|Viper|Brimstone
+2764,DaveeyS,Colombia,,INFINITY|E-Xolos LAZER|KRÜ Esports,2021-10-12T19:30:00Z,2023-08-11T19:00:00Z,48,Killjoy|Chamber|Kayo
+2786,xander,Colombia,,Six Karma|FUSION,2021-10-12T16:00:00Z,2022-08-09T16:00:00Z,13,Jett|Raze|Chamber
+2827,Wyz,Colombia,,E-Xolos LAZER,2021-10-11T16:00:00Z,2021-10-13T16:00:00Z,4,Jett
+2858,SUYGETSU,International,,FunPlus Phoenix|Natus Vincere|Team FRTTT|Natus Vincere|Karmine Corp,2022-07-16T15:00:00Z,2026-10-03T11:30:00Z,225,Viper|Cypher|Killjoy
+2881,LohaN,Portugal,,Team Liquid,2026-07-15T17:10:00Z,2026-07-15T17:10:00Z,2,Viper
+2894,Kiles,Ukraine,,Acend,2021-09-10T13:00:00Z,2021-12-12T17:30:00Z,24,Cypher|Viper|Killjoy
+2931,vaiZ,Chile,,LEVIATÁN,2022-04-01T20:00:00Z,2022-04-01T20:00:00Z,3,Killjoy|Cypher
+2993,rDeeW,Australia,,ORDER,2022-08-01T05:00:00Z,2022-08-05T05:00:00Z,9,Kayo|Breach|Viper
+2995,Maka,Mexico,,Six Karma,2021-10-12T16:00:00Z,2021-10-14T19:10:00Z,9,Viper|Killjoy|Cypher
+3016,Miracle,China,,Invincible Gaming,2023-06-02T09:00:00Z,2023-06-07T06:00:00Z,9,Killjoy|Viper
+3017,nobody,China,,EDward Gaming,2022-08-08T07:00:00Z,2026-10-02T09:00:00Z,316,Sova|Skye|Fade
+3020,coldfish,China,,Gank Gaming|Wolves Esports|TYLOO,2023-06-01T12:00:00Z,2024-07-07T11:00:00Z,47,Viper|Sova|Omen
+3021,Biank,China,,Bilibili Gaming|Trace Esports|Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2023-07-05T12:00:00Z,2026-02-09T09:00:00Z,144,Sova|Fade|Skye
+3024,DK,China,,Bilibili Gaming,2023-07-05T12:00:00Z,2023-08-18T21:10:00Z,28,Omen|Killjoy|Brimstone
+3025,Zero1,China,,Attacking Soul Esports,2023-07-05T09:00:00Z,2023-07-10T12:00:00Z,8,Skye|Breach|Kayo
+3027,Cyah,Hong Kong,,Monarch Effect,2023-06-02T09:00:00Z,2023-07-07T09:00:00Z,19,Astra|Omen|Viper
+3028,Life,China,,EDward Gaming|Attacking Soul Esports|FunPlus Phoenix|Precise Defeat|FunPlus Phoenix|Dragon Ranger Gaming,2022-08-08T07:00:00Z,2026-08-11T10:05:00Z,202,Jett|Neon|Raze
+3031,Septem7,China,,Shenzhen NTER|All Gamers,2023-06-02T12:00:00Z,2026-04-03T11:10:00Z,18,Killjoy|Cypher|Viper
+3045,LuoK1ng,China,,KONE eSports Club|TYLOO|Trace Esports,2022-08-09T10:30:00Z,2026-08-16T10:35:00Z,179,Omen|Brimstone|Astra
+3049,sword9,China,,KONE eSports Club|All Gamers|TYLOO,2022-08-09T10:30:00Z,2026-05-05T11:00:00Z,99,Sova|Fade|Skye
+3063,meL,United States,,Team Toast,2025-06-22T16:00:00Z,2025-06-22T16:00:00Z,1,Omen
+3070,nukkye,Lithuania,,G2 Esports|Giants Gaming|GIANTX,2021-09-10T16:10:00Z,2024-02-22T18:10:00Z,92,Raze|Killjoy|Sage
+3124,Core,China,,TYLOO,2023-06-02T09:00:00Z,2023-07-14T09:00:00Z,21,Breach|Skye|Killjoy
+3127,MONSTEERR,Czech Republic,,Acend|Movistar KOI (KOI)|Eintracht Frankfurt,2022-08-07T16:00:00Z,2026-08-22T14:00:00Z,32,Vyse|Viper|Cypher
+3157,gaabxx,Brazil,,Sharks Esports,2021-05-24T20:45:00Z,2021-10-14T16:00:00Z,12,Jett|Viper|Sage
+3169,Zap,Brazil,,2Game Esports,2025-01-17T22:00:00Z,2025-03-23T21:00:00Z,6,Tejo|Sova|Omen
+3205,surugamonkey,Japan,,Glory Once Again,2025-08-30T05:00:00Z,2025-08-30T05:00:00Z,1,Omen
+3342,Sushiboys,Thailand,,X10 Esports|XERXIA Esports|TALON,2021-05-25T15:00:00Z,2023-05-14T08:00:00Z,51,Killjoy|Cypher|Jett
+3397,FRTTT,Brazil,,Team FRTTT,2023-03-04T17:00:00Z,2023-03-04T17:00:00Z,1,
+3401,PTC,Thailand,,FULL SENSE|Sharper Esports,2021-10-12T05:00:00Z,2026-08-23T08:00:00Z,32,Breach|Omen|Kayo
+3433,CTC,Brazil,,Gamelanders Blue,2021-10-12T16:00:00Z,2021-10-16T20:00:00Z,8,Sova|Cypher
+3455,Zanatsu,Brazil,,Fluxo W7M,2026-08-15T00:20:00Z,2026-08-20T23:30:00Z,5,Neon|Sova|Raze
+3514,JL,China,,Nova Esports,2023-06-02T09:00:00Z,2023-06-07T08:15:00Z,8,Breach|Sova|Viper
+3517,maizi,China,,TYLOO,2023-06-02T09:00:00Z,2023-06-06T11:20:00Z,7,Sova|Skye|Raze
+3519,jkuro,China,,JD Gaming|JD Mall JDG Esports (JD Gaming)|JD Gaming,2024-02-23T07:00:00Z,2026-10-02T11:00:00Z,140,Omen|Cypher|Astra
+3520,ZmjjKK,China,,EDward Gaming,2022-08-08T07:00:00Z,2026-10-02T09:00:00Z,316,Jett|Neon|Raze
+3547,Ninebody,China,,KONE eSports Club|TYLOO,2022-08-09T10:30:00Z,2025-08-21T09:00:00Z,83,Jett|Raze|Cypher
+3579,MARCTYLINHO,France,,Team France,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Omen
+3582,keloqz,France,,G2 Esports|Team Heretics,2021-09-10T16:10:00Z,2023-07-19T15:00:00Z,50,Jett|Neon|Skye
+3604,MOJJ,Türkiye,,FUT Esports,2021-10-10T17:15:00Z,2023-08-18T19:00:00Z,65,Killjoy|Viper|Cypher
+3622,HellrangeR,India,,Global Esports,2021-10-11T09:15:00Z,2021-10-14T11:15:00Z,8,Breach|Astra|Viper
+3626,Lightningfast,India,,Global Esports,2021-10-11T09:15:00Z,2024-07-05T11:00:00Z,41,Omen|Sage|Viper
+3629,KappA,India,,Global Esports,2021-10-11T09:15:00Z,2021-10-14T11:15:00Z,8,Sova|Breach
+3630,skillZ,India,,Global Esports,2021-10-11T09:15:00Z,2021-10-14T11:15:00Z,8,Killjoy|Raze|Astra
+3672,BONECOLD,Finland,,Acend|Team Vitality,2021-09-10T13:00:00Z,2023-05-25T17:20:00Z,55,Sova|Omen|Brimstone
+3674,iluri,Finland,,Enterprise Esports,2026-08-07T17:00:00Z,2026-08-23T14:00:00Z,15,Sova|Skye|Fade
+3685,flyuh,United States,,FaZe Clan|Movistar KOI (KOI),2022-08-05T00:05:00Z,2025-08-13T15:00:00Z,42,Sova|Kayo|Cypher
+3722,koalanoob,Canada,,Natus Vincere|FURIA,2025-01-15T20:30:00Z,2026-08-29T21:00:00Z,89,Yoru|Omen|Jett
+3741,vo0kashu,Russia,,Dragon Ranger Gaming,2024-02-23T09:55:00Z,2026-08-11T10:05:00Z,180,Cypher|Vyse|Killjoy
+3757,dazzLe,United States,,Luminosity|Shopify Rebellion Black,2021-10-12T23:05:00Z,2022-08-06T22:30:00Z,9,Skye|Breach|Fade
+3826,adverso,Chile,,Australs|LEVIATÁN|KRÜ Esports|VISA KRÜ (KRÜ Esports)|FURIA,2021-10-11T19:10:00Z,2025-08-16T21:00:00Z,70,Sova|Viper|Tejo
+3828,Tacolilla,Chile,,Australs|LEVIATÁN|BESTIA,2021-10-11T19:10:00Z,2026-08-22T21:00:00Z,85,Jett|Chamber|Raze
+3880,bang,United States,,100 Thieves|Sentinels|100 Thieves,2022-08-05T20:00:00Z,2026-10-17T07:00:00Z,278,Omen|Viper|Astra
+3885,valyn,United States,,The Guard|G2 Esports,2022-04-15T21:00:00Z,2026-10-16T10:10:00Z,309,Omen|Astra|Harbor
+3908,Akashi,Vietnam,,CERBERUS Esports,2022-08-01T06:55:00Z,2022-08-04T06:45:00Z,7,Fade|Sova
+3922,KEREME,Poland,,Team EMEA,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Clove
+3943,Ichiro,Belarus,,Dragon Ranger Gaming,2023-06-02T13:00:00Z,2023-07-04T11:15:00Z,15,Breach|Kayo|Sage
+3977,Crws,Thailand,,X10 Esports|XERXIA Esports|TALON|Team SuperBusS|TALON|FULL SENSE,2021-05-25T15:00:00Z,2026-08-22T08:00:00Z,217,Omen|Breach|Viper
+3980,Governor,South Korea,,TALON|Apeks|KRÜ Esports,2024-02-18T08:30:00Z,2026-02-01T00:45:00Z,76,Raze|Neon|Sova
+3983,Virtyy,Dominican Republic,,LOUD,2025-07-18T23:10:00Z,2026-05-16T23:15:00Z,35,Neon|Jett|Raze
+3993,jawgemo,Cambodia,,Evil Geniuses|G2 Esports,2022-08-05T00:05:00Z,2026-10-16T10:10:00Z,322,Yoru|Raze|Neon
+4004,zekken,United States,,XSET|Sentinels|MIBR,2021-10-12T23:05:00Z,2026-08-31T00:10:00Z,281,Raze|Neon|Jett
+4052,Jinboong,South Korea,,DetonatioN FocusMe,2025-01-19T11:00:00Z,2025-08-15T08:00:00Z,34,Vyse|Fade|Killjoy
+4054,Secret,South Korea,,DAMWON Gaming|Gen.G,2021-10-11T09:15:00Z,2023-02-15T22:20:00Z,16,Skye|Kayo|Breach
+4055,Eugene,South Korea,,DAMWON Gaming,2021-10-11T09:15:00Z,2021-10-16T12:00:00Z,14,Sova|Sage
+4056,Sylvan,South Korea,,Gen.G|T1|Team Secret,2023-03-27T09:00:00Z,2026-08-19T08:00:00Z,109,Omen|Brimstone|Astra
+4057,Chibab,South Korea,,Maru Gaming,2022-08-08T09:15:00Z,2022-08-10T07:00:00Z,4,Neon|Raze|Jett
+4095,SkRossi,India,,Global Esports|Team FRTTT|Global Esports,2021-10-11T09:15:00Z,2023-07-19T08:00:00Z,25,Jett|Sage|Kayo
+4122,Persia,South Korea,,Nongshim RedForce,2025-01-18T11:15:00Z,2025-08-16T08:00:00Z,49,Omen|Astra|Brimstone
+4147,Cryocells,United States,,XSET|100 Thieves,2022-07-15T18:45:00Z,2026-10-17T07:00:00Z,233,Jett|Chamber|Cypher
+4164,s0m,United States,,NRG,2022-08-05T20:00:00Z,2025-10-05T11:00:00Z,149,Omen|Harbor|Brimstone
+4181,Cloud,Russia,,Natus Vincere|Giants Gaming|GIANTX|FNATIC,2022-08-08T16:10:00Z,2026-08-14T17:30:00Z,189,Sova|Skye|Fade
+4311,Star1og,China,,Number One Player,2023-06-01T09:00:00Z,2023-06-07T11:15:00Z,9,Omen|Viper|Brimstone
+4320,YiHao,China,,Rare Atom|JD Gaming,2023-06-02T13:00:00Z,2024-04-12T09:00:00Z,21,Omen|Brimstone|Astra
+4321,ceNder,Lithuania,,Team Vitality,2023-02-23T17:05:00Z,2024-08-11T08:00:00Z,92,Omen|Viper|Killjoy
+4325,musashi,Germany,,Eintracht Frankfurt,2026-08-06T15:00:00Z,2026-08-22T14:00:00Z,12,Sova|Fade|Raze
+4373,wippie,Russia,,Version1|Cloud9,2021-10-27T22:55:00Z,2024-02-25T20:00:00Z,13,Viper|Killjoy|Astra
+4375,SuperBusS,Thailand,,FULL SENSE|Team SuperBusS|Team Thailand,2021-10-12T05:00:00Z,2025-03-02T10:00:00Z,22,Astra|Viper
+4376,SantaGolf,Thailand,,FULL SENSE,2021-10-12T05:00:00Z,2021-12-05T21:30:00Z,20,Killjoy|Cypher|Sage
+4377,JohnOlsen,Thailand,,FULL SENSE,2021-10-12T05:00:00Z,2021-12-05T21:30:00Z,20,Jett|Skye
+4378,LAMMYSNAX,Thailand,,FULL SENSE,2021-10-12T05:00:00Z,2021-12-05T21:30:00Z,20,Sova|Skye|Viper
+4382,sScary,Thailand,,X10 Esports|XERXIA Esports|BLEED|FunPlus Phoenix,2021-05-25T15:00:00Z,2026-02-01T09:00:00Z,72,Omen|Viper|Astra
+4402,o0o0o,China,,Nova Esports,2023-06-02T09:00:00Z,2025-08-02T09:00:00Z,75,Breach|Viper|Kayo
+4403,wqc,China,,Nova Esports,2023-06-02T09:00:00Z,2023-06-07T08:15:00Z,10,Neon|Jett|Sova
+4404,suyjing,China,,TYLOO,2023-07-04T09:00:00Z,2023-07-14T09:00:00Z,14,Raze|Skye|Sova
+4410,R1ckLee,China,,Weibo Gaming,2023-06-01T09:00:00Z,2023-07-07T12:00:00Z,16,Killjoy|Viper|Cypher
+4416,Link,China,,Monarch Effect,2023-06-02T09:00:00Z,2023-07-07T09:00:00Z,17,Killjoy|Viper|Cypher
+4426,Klaus,South Korea,,VARREL,2026-01-23T08:00:00Z,2026-09-04T11:00:00Z,29,Omen|Neon|Yoru
+4428,UdoTan,South Korea,,Global Esports,2025-01-19T08:00:00Z,2026-10-04T09:00:00Z,112,Neon|Raze|Veto
+4462,MaKo,South Korea,,Vision Strikers|KIWOOM DRX,2021-09-11T13:00:00Z,2026-08-28T10:05:00Z,337,Omen|Viper|Brimstone
+4479,Jeong Hi,South Korea,,DAMWON Gaming|Maru Gaming,2021-10-11T09:15:00Z,2022-08-10T07:00:00Z,18,Astra|Viper|Brimstone
+4488,WIX,South Korea,,Maru Gaming,2022-08-08T09:15:00Z,2022-08-10T07:00:00Z,4,Chamber|Fade|Kayo
+4521,UNFAKE,Poland,,Team Vitality|Joblife,2025-07-16T17:50:00Z,2026-08-16T15:10:00Z,41,Sova|Fade|Skye
+4544,Filu,Poland,,Movistar KOI (KOI)|Natus Vincere,2025-01-16T17:00:00Z,2026-04-30T15:00:00Z,56,Yoru|Raze|Neon
+4545,Sayaplayer,South Korea,,The Guard|T1,2022-04-15T21:00:00Z,2024-07-08T08:00:00Z,116,Jett|Raze|Chamber
+4558,allow,South Korea,,NUTURN|DAMWON Gaming,2021-05-24T20:45:00Z,2022-08-10T09:30:00Z,26,Jett|Sova|Raze
+4559,Suggest,South Korea,,NUTURN|DetonatioN FocusMe|Gen.G,2021-05-24T20:45:00Z,2025-03-30T08:00:00Z,44,Raze|Killjoy|Skye
+4560,peri,South Korea,,NUTURN,2021-05-24T20:45:00Z,2021-10-16T09:00:00Z,21,Astra|Omen
+4562,solo,South Korea,,NUTURN,2021-05-24T20:45:00Z,2021-10-16T09:00:00Z,21,Breach|Killjoy|Cypher
+4581,JonahP,Canada,,The Guard|G2 Esports|Sentinels,2022-04-15T21:00:00Z,2026-08-22T23:10:00Z,232,Breach|Viper|Fade
+4603,xms,France,,Karmine Corp,2023-02-14T17:10:00Z,2023-07-21T17:35:00Z,32,Killjoy|Omen|Harbor
+4629,azury,Germany,,Eintracht Frankfurt,2026-08-06T15:00:00Z,2026-08-22T14:00:00Z,12,Viper|Omen|Fade
+4657,Moves,South Korea,,Maru Gaming,2022-08-08T09:15:00Z,2022-08-10T07:00:00Z,4,Breach|Fade|Killjoy
+4663,JoXJo,South Korea,,NORTHEPTION,2022-07-10T13:00:00Z,2022-08-13T10:50:00Z,17,Fade|Breach|Skye
+4678,BeYN,South Korea,,KIWOOM DRX,2024-04-06T11:00:00Z,2026-08-28T10:05:00Z,181,Sova|Fade|Breach
+4705,Flex1n,China,,Totoro Gaming|Trace Esports|TYLOO|Bilibili Gaming|Dragon Ranger Gaming,2023-06-01T09:00:00Z,2026-06-09T14:00:00Z,178,Omen|Astra|Viper
+4710,YOU,Hong Kong,,Totoro Gaming|Trace Esports|Xi Lai Gaming,2023-06-01T09:00:00Z,2025-05-04T09:00:00Z,87,Sova|Breach|Skye
+4711,XiaoFei,China,,Night Wings Gaming,2023-06-01T12:00:00Z,2023-06-08T06:00:00Z,12,Skye|Viper|Sova
+4712,heybay,Hong Kong,,Totoro Gaming|Trace Esports|Nova Esports,2023-06-01T09:00:00Z,2026-01-31T09:00:00Z,124,Viper|Breach|Kayo
+4720,Haodong,China,,EDward Gaming|Titan Esports Club|Precise Defeat|Wuxi Titan Esports Club (Titan Esports Club),2022-08-08T07:00:00Z,2026-08-16T08:00:00Z,209,Omen|Cypher|Brimstone
+4723,YuChEn,China,,FunPlus Phoenix,2023-02-14T17:10:00Z,2023-02-14T17:10:00Z,3,Viper
+4727,PangH,China,,Nova Esports,2023-06-02T09:00:00Z,2024-04-28T09:00:00Z,19,Killjoy|Skye|Omen
+4742,Smoggy,China,,EDward Gaming,2022-08-31T14:00:00Z,2026-10-02T09:00:00Z,305,Omen|Brimstone|Raze
+4764,Lyy,China,,Invincible Gaming,2023-06-02T09:00:00Z,2023-06-07T06:00:00Z,9,Raze
+4770,FengF,China,,Totoro Gaming|Trace Esports,2023-06-01T09:00:00Z,2026-08-16T10:35:00Z,170,Raze|Sova|Killjoy
+4771,ICEKING,China,,Totoro Gaming|Trace Esports|TYLOO,2023-06-01T09:00:00Z,2024-05-04T09:00:00Z,34,Breach|Astra|Kayo
+4773,AAK,China,,TYLOO,2024-02-22T09:00:00Z,2024-06-16T09:00:00Z,19,Raze|Jett|Cypher
+4774,Knight,China,,KONE eSports Club|Bilibili Gaming|Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2022-08-09T10:30:00Z,2026-08-22T08:00:00Z,211,Sova|Fade|Cypher
+4778,kawaii,China,,Invincible Gaming|Titan Esports Club,2023-06-02T09:00:00Z,2024-06-22T09:00:00Z,39,Viper|Cypher|Killjoy
+4827,GodDead,South Korea,,Incheon On Sla2ers|Gen.G,2022-08-08T07:00:00Z,2023-07-22T08:00:00Z,56,Kayo|Breach|Chamber
+4828,NiSMO,Lebanon,,M80,2026-08-13T23:55:00Z,2026-08-19T23:20:00Z,4,Deadlock|Raze|Phoenix
+4866,Kushy,Indonesia,,Alter Ego|Rex Regum Qeon,2022-08-01T06:55:00Z,2026-07-26T09:50:00Z,133,Sova|Fade|Kayo
+4871,xffero,Indonesia,,BOOM Esports|Rex Regum Qeon|Team Bunny|Rex Regum Qeon,2022-08-01T08:50:00Z,2026-08-19T10:25:00Z,222,Cypher|Viper|Killjoy
+4872,frostmind,Indonesia,,BOOM Esports,2021-10-11T07:00:00Z,2021-10-14T09:30:00Z,6,Skye|Viper
+4874,BerserX,Indonesia,,BOOM Esports|Team Secret,2022-08-01T08:50:00Z,2026-05-01T08:00:00Z,70,Killjoy|Viper|Cypher
+4880,nizhaoTZH,China,,FunPlus Phoenix|Dragon Ranger Gaming|All Gamers,2023-02-14T17:10:00Z,2025-01-12T12:25:00Z,72,Viper|Omen|Brimstone
+4881,Spitfires,China,,Rare Atom|All Gamers|Wuxi Titan Esports Club (Titan Esports Club),2023-06-02T13:00:00Z,2026-07-18T09:00:00Z,90,Raze|Waylay|Jett
+4885,whzy,China,,Bilibili Gaming|Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2023-07-05T12:00:00Z,2026-08-22T08:00:00Z,211,Raze|Neon|Jett
+4927,NaturE,United States,,Gen.G|Evil Geniuses,2021-10-12T19:30:00Z,2025-08-24T00:25:00Z,76,Breach|Kayo|Fade
+4931,Add3r,United States,,FURIA,2025-01-17T22:00:00Z,2025-01-17T22:00:00Z,2,Cypher|Vyse
+5004,nataNk,France,,Gentle Mates|LEVIATÁN|Movistar KOI (KOI),2024-02-21T18:45:00Z,2025-08-13T15:00:00Z,49,Raze|Phoenix|Sage
+5011,Abo,China,,TYLOO|Titan Esports Club|Wuxi Titan Esports Club (Titan Esports Club)|Trace Esports,2023-06-02T09:00:00Z,2026-05-03T12:30:00Z,126,Viper|Killjoy|Jett
+5013,cxyy,China,,Night Wings Gaming,2023-06-01T12:00:00Z,2023-06-08T06:00:00Z,12,Astra|Omen|Viper
+5022,Derke,Finland,,FNATIC|Team Vitality,2021-05-24T15:00:00Z,2026-10-18T06:00:00Z,332,Raze|Jett|Yoru
+5129,ban,South Korea,,T1|TALON|Global Esports,2023-02-24T19:50:00Z,2025-08-09T08:00:00Z,115,Viper|Omen|Jett
+5132,mada,Canada,,Shopify Rebellion Black|NRG,2022-08-05T23:45:00Z,2026-10-11T09:00:00Z,169,Neon|Waylay|Raze
+5188,Apoth,Canada,,Evil Geniuses,2022-08-05T00:05:00Z,2024-07-13T21:00:00Z,35,Cypher|Brimstone|Viper
+5203,Bati,Portugal,,LOUD,2026-04-12T00:35:00Z,2026-04-24T22:40:00Z,7,Omen|Kayo
+5241,Maple,Australia,,ORDER|Weibo Gaming,2022-08-01T05:00:00Z,2023-07-07T12:00:00Z,25,Jett|Raze|Fade
+5244,sutecas,Brazil,,Team Vikings,2021-05-25T15:00:00Z,2021-12-07T18:15:00Z,13,Astra|Omen|Viper
+5255,Neal X,South Korea,,Number One Player,2023-06-01T09:00:00Z,2023-06-07T11:15:00Z,9,Neon|Jett
+5283,Bunny,South Korea,,F4Q|Team Bunny|Team World,2021-09-10T16:10:00Z,2025-08-30T05:00:00Z,23,Raze|Jett|Waylay
+5292,al0rante,Germany,,PCIFIC Esports,2026-01-21T16:00:00Z,2026-08-13T15:00:00Z,38,Viper|Cypher|Brimstone
+5351,RgLMeister,Brazil,,Keyd Stars|MIBR,2022-08-07T16:00:00Z,2024-05-05T21:00:00Z,58,Omen|Brimstone|Viper
+5375,lukzera,Brazil,,TBK Esports,2022-08-07T18:45:00Z,2022-08-14T16:00:00Z,14,Astra|Omen|Viper
+5395,cortezia,Brazil,,MIBR|Sentinels,2025-01-17T00:45:00Z,2026-08-22T23:10:00Z,110,Cypher|Viper|Killjoy
+5550,grubinho,Poland,,Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|GIANTX,2024-02-21T16:00:00Z,2026-05-01T15:00:00Z,120,Omen|Astra|Viper
+5554,PROFEK,Poland,,BBL Esports|Team Vitality,2025-01-15T17:00:00Z,2026-10-18T06:00:00Z,149,Omen|Astra|Harbor
+5564,DeadInk,Türkiye,,Fire Flux Esports,2026-08-07T15:00:00Z,2026-08-28T16:30:00Z,16,Waylay|Chamber|Raze
+5565,Rosé,Türkiye,,BBL Esports,2026-01-21T16:00:00Z,2026-08-23T16:15:00Z,53,Sova|Fade|Skye
+5568,sociablEE,Türkiye,,BBL Esports|Natus Vincere|FUT Esports,2025-01-15T17:00:00Z,2026-10-04T11:25:00Z,140,Omen|Tejo|Chamber
+5638,Tuna,Egypt,,Anubis Gaming,2021-10-10T15:00:00Z,2021-10-10T15:00:00Z,1,Astra
+5639,Shalaby,Egypt,,Anubis Gaming,2021-10-10T15:00:00Z,2021-10-12T15:00:00Z,4,Jett|Raze|Kayo
+5641,fr0st,Egypt,,Anubis Gaming,2021-10-10T15:00:00Z,2021-10-12T15:00:00Z,4,Sova|Viper
+5642,chrollo,Egypt,,Anubis Gaming,2021-10-10T15:00:00Z,2021-10-12T15:00:00Z,4,Viper|Astra
+5654,Avez,Egypt,,Anubis Gaming|Karmine Corp,2021-10-10T15:00:00Z,2026-10-03T11:30:00Z,99,Fade|Sova|Tejo
+5676,zizox,Egypt,,Anubis Gaming,2021-10-10T15:00:00Z,2021-10-12T15:00:00Z,3,Killjoy|Cypher
+5687,AloNeFillz,Thailand,,Made in Thailand,2022-08-02T05:00:00Z,2022-08-05T07:50:00Z,11,Sova|Raze|Sage
+5796,Kr1stal,Russia,,Global Esports,2025-01-19T08:00:00Z,2026-10-04T09:00:00Z,112,Sova|Fade|Tejo
+5893,RobbieBk,Netherlands,,Gentle Mates|LOUD,2025-01-16T20:10:00Z,2025-08-17T23:30:00Z,23,Sova|Fade|Skye
+5957,artzin,Brazil,,MIBR|FURIA,2024-02-17T01:00:00Z,2026-08-29T21:00:00Z,166,Kayo|Omen|Breach
+6022,yosemite,China,,KONE eSports Club|Bilibili Gaming|FunPlus Phoenix|Wolves Esports,2022-08-09T10:30:00Z,2026-08-09T08:00:00Z,166,Viper|Killjoy|Cypher
+6126,sibeastw0w,Russia,,KeepBest Gaming,2026-08-05T10:00:00Z,2026-08-08T11:35:00Z,5,Sova|Kayo
+6193,cauanzin,Brazil,,Ninjas In Pyjamas|LOUD,2022-04-01T20:00:00Z,2026-05-16T23:15:00Z,207,Sova|Skye|Breach
+6195,lz,Brazil,,2Game Esports,2025-01-17T22:00:00Z,2025-08-16T23:20:00Z,28,Omen|Astra|Viper
+6238,Urango,Brazil,,FURIA,2025-07-18T21:00:00Z,2025-08-16T21:00:00Z,11,Sage|Killjoy|Sova
+6456,Torrify,United States,,FUSION,2022-08-06T19:20:00Z,2022-08-06T19:20:00Z,2,Chamber|Breach
+6510,AtaKaptan,Türkiye,,FUT Esports,2023-02-23T20:10:00Z,2025-05-11T15:00:00Z,143,Omen|Viper|Astra
+6582,neT,United States,,The Guard|G2 Esports|Cloud9|GIANTX,2022-04-15T21:00:00Z,2026-08-13T18:00:00Z,90,Cypher|Viper|Sova
+6584,curry,United States,,Cloud9,2022-08-05T23:45:00Z,2022-08-12T22:30:00Z,8,Fade|Viper|Sova
+6654,WRONSKI,Australia,,ORDER|Global Esports,2022-08-01T05:00:00Z,2023-04-22T08:00:00Z,18,Kayo|Chamber|Jett
+6668,SugarZ3ro,Japan,,NORTHEPTION|ZETA DIVISION,2021-10-12T09:00:00Z,2026-08-22T10:10:00Z,193,Omen|Astra|Brimstone
+6672,Meiy,Japan,,NORTHEPTION|Crazy Raccoon|DetonatioN FocusMe,2021-10-12T09:00:00Z,2026-08-23T11:00:00Z,139,Jett|Raze|Neon
+6674,makiba,Japan,,ZETA DIVISION,2021-09-12T13:00:00Z,2021-09-14T15:50:00Z,3,Astra|Viper
+6700,Anthem,Japan,,REJECT|DetonatioN FocusMe,2022-08-08T09:15:00Z,2024-07-06T08:00:00Z,60,Sova|Skye|Killjoy
+6723,foxz,Thailand,,X10 Esports|XERXIA Esports|TALON,2021-05-25T15:00:00Z,2023-07-19T11:15:00Z,67,Skye|Sova|Fade
+6959,Flickless,Belgium,,GIANTX,2025-04-17T17:10:00Z,2026-08-13T18:00:00Z,90,Viper|Breach|Kayo
+7042,Eeyore,Indonesia,,BOOM Esports,2021-10-11T07:00:00Z,2021-10-14T09:30:00Z,6,Killjoy|Reyna
+7043,NcSlasher,Indonesia,,ONIC G|BOOM Esports,2022-08-02T07:45:00Z,2025-08-09T10:25:00Z,49,Fade|Breach|Tejo
+7045,fl1pzjder,Indonesia,,BOOM Esports|Rex Regum Qeon,2021-10-11T07:00:00Z,2024-04-29T10:05:00Z,73,Breach|Viper|Kayo
+7049,natz,Indonesia,,Alter Ego|Team Secret,2022-08-01T06:55:00Z,2026-08-19T08:00:00Z,22,Cypher|Chamber|Skye
+7105,qpert,Serbia,,PCIFIC Esports,2026-01-21T16:00:00Z,2026-08-13T15:00:00Z,38,Omen|Astra|Harbor
+7106,diseased,Belarus,,Gank Gaming,2023-06-01T12:00:00Z,2023-06-08T09:00:00Z,13,Killjoy|Skye
+7135,zjc,China,,Attacking Soul Esports|TYLOO|EDward Gaming,2023-06-11T05:45:00Z,2025-07-19T11:10:00Z,66,Sova|Cypher|Raze
+7353,glovee,Türkiye,,Oxygen Esports,2021-10-10T17:15:00Z,2021-10-15T15:00:00Z,6,Skye
+7378,Jinggg,Singapore,,Paper Rex,2021-10-12T13:30:00Z,2026-10-09T09:00:00Z,356,Raze|Omen|Sage
+7403,EJAY,Philippines,,Rex Regum Qeon,2023-02-23T20:10:00Z,2023-07-21T10:25:00Z,30,Jett|Raze|Neon
+7405,Jremy,Philippines,,Team Secret,2022-08-04T05:00:00Z,2025-04-21T10:00:00Z,111,Raze|Jett|Killjoy
+7416,skye,Singapore,,Team Secret,2026-07-31T08:00:00Z,2026-07-31T08:00:00Z,2,Cypher
+7426,Juicy,Singapore,,Wolves Esports,2025-01-11T11:35:00Z,2025-08-02T09:00:00Z,54,Yoru|Raze|Jett
+7437,kellyS,Philippines,,Global Esports|Team Secret,2025-01-19T08:00:00Z,2026-08-19T08:00:00Z,67,Viper|Deadlock|Kayo
+7458,moose,Canada,,Luminosity|Shopify Rebellion Black|Cloud9,2021-10-12T23:05:00Z,2024-07-17T21:00:00Z,40,Killjoy|Cypher|Sova
+7483,NakJi,South Korea,,Maru Gaming,2022-08-08T09:15:00Z,2022-08-10T07:00:00Z,4,Omen|Sage|Chamber
+7603,Mazino,Chile,,KRÜ Esports|LEVIATÁN|KRÜ Esports|VISA KRÜ (KRÜ Esports)|MIBR,2021-05-24T15:00:00Z,2026-08-31T00:10:00Z,289,Omen|Harbor|Breach
+7616,Feniz,Costa Rica,,E-Xolos LAZER,2022-08-07T16:00:00Z,2022-08-09T18:25:00Z,5,Raze
+7652,Tuli,Chile,,9z Globant,2022-08-06T16:00:00Z,2022-08-10T16:15:00Z,7,Raze|Jett
+7660,Fizzy,Portugal,,Eintracht Frankfurt,2026-08-06T15:00:00Z,2026-08-22T14:00:00Z,12,Astra|Omen|Cypher
+7716,penny,Canada,,Version1|FURIA|Team Liquid|Apeks|Cloud9,2021-05-24T17:25:00Z,2026-04-26T23:25:00Z,60,Jett|Raze|Neon
+7718,xnfri,Japan,,NORTHEPTION|DetonatioN FocusMe|Team Bunny|DetonatioN FocusMe|Glory Once Again,2022-07-10T13:00:00Z,2025-08-30T05:00:00Z,40,Raze|Skye|Kayo
+7754,xavi8k,Philippines,,Global Esports,2026-01-23T08:00:00Z,2026-10-04T09:00:00Z,82,Astra|Omen|Sage
+7764,Lmemore,Indonesia,,ONIC G|Rex Regum Qeon,2022-08-02T07:45:00Z,2024-07-12T08:00:00Z,79,Killjoy|Sova|Chamber
+7804,severiNe,Indonesia,,ONIC G,2022-08-02T07:45:00Z,2022-08-07T07:00:00Z,16,Viper|Kayo|Chamber
+7841,TvirusLuke,Taiwan,,Dragon Ranger Gaming|Titan Esports Club,2023-06-02T13:00:00Z,2025-08-01T11:40:00Z,105,Jett|Raze|Neon
+7848,Fung3,Hong Kong,,Griffin E-Sports,2022-08-01T08:50:00Z,2022-08-03T05:00:00Z,6,Chamber|Breach
+7849,SiuFatBB,Hong Kong,,Griffin E-Sports|Wolves Esports|Pure Aim|Wolves Esports|TYLOO,2022-08-01T08:50:00Z,2026-10-01T09:00:00Z,131,Fade|Sova|Tejo
+7851,YRSelect,Hong Kong,,Griffin E-Sports,2022-08-01T08:50:00Z,2022-08-03T05:00:00Z,6,Omen|Viper|Brimstone
+7857,BerLIN,Taiwan,,FunPlus Phoenix|JD Gaming,2023-02-14T17:10:00Z,2026-10-02T11:00:00Z,182,Omen|Astra|Sova
+7861,W1nner,Taiwan,,Griffin E-Sports,2022-08-01T08:50:00Z,2022-08-03T05:00:00Z,6,Breach|Astra|Kayo
+7866,Click,Germany,,Gentle Mates,2025-01-16T20:10:00Z,2025-04-24T15:00:00Z,23,Jett|Neon|Yoru
+7870,vanity,United States,,Version1|Cloud9,2021-05-24T17:25:00Z,2024-07-17T21:00:00Z,87,Omen|Astra|Viper
+7871,Xeppaa,United States,,Cloud9,2021-10-27T22:55:00Z,2026-05-09T21:00:00Z,190,Skye|Kayo|Raze
+7873,leaf,United States,,Cloud9|G2 Esports,2021-10-27T22:55:00Z,2026-10-16T10:10:00Z,356,Viper|Killjoy|Jett
+7888,BlackWiz,Japan,,NORTHEPTION,2022-07-10T13:00:00Z,2022-08-13T10:50:00Z,17,Viper|Astra|Omen
+7987,KovaQ,Switzerland,,Team Vitality|FunPlus Phoenix,2025-07-16T17:50:00Z,2026-08-09T11:25:00Z,46,Omen|Fade|Vyse
+8004,Zennakukin,Japan,,Glory Once Again,2025-08-30T05:00:00Z,2025-08-30T05:00:00Z,1,Vyse
+8039,Unity,Türkiye,,Oxygen Esports,2021-10-10T17:15:00Z,2021-10-15T15:00:00Z,6,Killjoy|Viper
+8041,Brave,Türkiye,,Papara SuperMassive|BBL Esports,2021-09-10T13:00:00Z,2024-07-05T16:00:00Z,73,Omen|Astra|Viper
+8044,MrFaliN,Türkiye,,FUT Esports,2023-02-23T20:10:00Z,2026-02-03T16:00:00Z,165,Omen|Sova|Breach
+8056,Mited,Colombia,,Six Karma|FUSION,2021-10-12T16:00:00Z,2022-08-09T16:00:00Z,13,Reyna|Raze|Kayo
+8082,zander,Canada,,100 Thieves,2025-01-17T00:45:00Z,2025-08-24T22:50:00Z,45,Omen|Viper|Astra
+8137,lenne,Singapore,,BLEED|Team Secret|TALON,2022-08-02T09:30:00Z,2024-05-03T10:10:00Z,21,Sova|Fade|Gekko
+8225,f1cio,Vietnam,,Fancy United Esports,2022-08-01T05:00:00Z,2022-08-03T07:45:00Z,5,Omen|Neon
+8226,waddle,United Kingdom,,PCIFIC Esports,2026-07-16T17:35:00Z,2026-08-13T15:00:00Z,18,Fade|Sova|Phoenix
+8240,Layla,Vietnam,,CERBERUS Esports|A Team,2022-08-01T06:55:00Z,2026-08-08T08:00:00Z,12,Breach|Skye|Sage
+8286,GLYPH,Philippines,,Gentle Mates|ENVY,2026-01-20T18:35:00Z,2026-08-23T21:00:00Z,63,Astra|Sova|Omen
+8369,yetujey,Türkiye,,FUT Esports,2024-02-20T16:00:00Z,2026-10-04T11:25:00Z,181,Cypher|Viper|Killjoy
+8373,Okeanos,Vietnam,,LEVIATÁN|Evil Geniuses,2025-07-18T23:10:00Z,2026-05-01T21:00:00Z,42,Omen|Neon|Kayo
+8376,seven,Mexico,,PCIFIC Esports,2026-01-21T16:00:00Z,2026-08-13T15:00:00Z,38,Raze|Neon|Kayo
+8402,icy,United States,,G2 Esports|Evil Geniuses,2024-04-07T21:00:00Z,2025-08-24T00:25:00Z,110,Raze|Gekko|Jett
+8419,Reduxx,United States,,Sentinels,2026-01-18T22:00:00Z,2026-08-22T23:10:00Z,40,Omen|Phoenix|Yoru
+8422,Spaz,United States,,M80,2026-08-13T23:55:00Z,2026-08-19T23:20:00Z,4,Omen|Viper|Harbor
+8447,Less,Brazil,,LOUD|Team Vitality|KRÜ Esports,2022-04-14T19:40:00Z,2026-08-24T00:20:00Z,251,Viper|Killjoy|Cypher
+8480,aspas,Brazil,,LOUD|LEVIATÁN|MIBR,2022-04-14T19:40:00Z,2026-08-31T00:10:00Z,318,Jett|Raze|Neon
+8497,Monyet,Indonesia,,ONIC G|Global Esports|Paper Rex|Rex Regum Qeon,2022-08-02T07:45:00Z,2026-08-19T10:25:00Z,222,Omen|Neon|Raze
+8502,OLIZERA,Portugal,,Apeks,2025-07-16T15:00:00Z,2025-08-13T18:20:00Z,14,Cypher|Viper|Vyse
+8504,invy,Philippines,,Team Secret|Paper Rex,2023-02-22T17:00:00Z,2026-10-09T09:00:00Z,230,Fade|Sova|Breach
+8549,kiNgg,Chile,,Australs|LEVIATÁN,2021-10-11T19:10:00Z,2026-08-30T21:00:00Z,279,Viper|Omen|Astra
+8551,Muj,Türkiye,,FUT Esports,2023-03-30T16:00:00Z,2023-03-30T16:00:00Z,2,Skye
+8582,Laz,Thailand,,Sharper Esports,2026-08-13T10:25:00Z,2026-08-23T08:00:00Z,12,Cypher|Killjoy|Viper
+8667,balua,China,,Monarch Effect,2023-06-02T09:00:00Z,2023-06-07T10:50:00Z,12,Kayo|Viper|Sage
+8673,heat,Brazil,,Keyd Stars|MIBR|KRÜ Esports|FURIA|KRÜ Esports,2021-09-11T18:15:00Z,2026-08-24T00:20:00Z,142,Jett|Chamber|Kayo
+8706,havoc,Brazil,,FURIA,2024-02-16T22:00:00Z,2025-04-19T00:00:00Z,43,Killjoy|Raze|Jett
+8716,koosta,United States,,Gen.G,2021-10-12T19:30:00Z,2021-10-29T19:10:00Z,8,Viper|Sage|Sova
+8742,jakee,United States,,Cloud9|FURIA,2023-04-02T22:45:00Z,2025-01-17T22:00:00Z,49,Omen|Astra|Brimstone
+8808,pyrolll,Estonia,,Karmine Corp,2025-08-15T17:30:00Z,2025-08-23T15:00:00Z,6,Fade|Vyse|Sova
+8872,mazin,Brazil,,FURIA|MIBR|Fluxo W7M,2021-10-11T19:10:00Z,2026-08-20T23:30:00Z,109,Viper|Kayo|Skye
+8873,dgzin,Brazil,,FURIA|LOUD|Evil Geniuses,2022-08-06T19:20:00Z,2026-08-30T00:00:00Z,120,Jett|Neon|Raze
+8889,ryotzz,Brazil,,TBK Esports,2022-08-07T18:45:00Z,2022-08-14T16:00:00Z,14,Fade|Kayo|Breach
+9063,infiltrator,Vietnam,,KRÜ Esports,2026-01-16T22:00:00Z,2026-02-01T00:45:00Z,8,Neon|Yoru|Jett
+9094,Kess,South Korea,,100 Thieves,2025-07-20T21:00:00Z,2025-08-24T22:50:00Z,18,Cypher|Brimstone|Fade
+9152,Deryeon,Singapore,,BLEED|Global Esports|Wolves Esports,2022-08-02T09:30:00Z,2026-08-09T08:00:00Z,77,Omen|Raze|Jett
+9192,Cloudy,South Korea,,ONSIDE GAMING,2026-08-13T08:00:00Z,2026-08-28T08:00:00Z,11,Sova|Fade|Skye
+9196,t3xture,South Korea,,DAMWON Gaming|Global Esports|Team SuperBusS|Global Esports|Gen.G,2021-10-11T09:15:00Z,2026-08-29T11:00:00Z,264,Jett|Raze|Neon
+9278,x v y,Indonesia,,Alter Ego,2022-08-01T06:55:00Z,2022-08-04T08:30:00Z,7,Brimstone
+9554,kaajak,Poland,,FNATIC,2025-01-17T17:00:00Z,2026-08-14T17:30:00Z,148,Yoru|Neon|Raze
+9558,Wolfen,Bulgaria,,KOI,2023-02-13T17:10:00Z,2023-07-22T15:00:00Z,34,Jett|Killjoy|Cypher
+9735,2GE,Philippines,,Rex Regum Qeon|Team Secret,2023-02-23T20:10:00Z,2025-04-21T10:00:00Z,56,Omen|Astra|Viper
+9740,Wild0reoo,Philippines,,Team Secret,2024-06-15T10:40:00Z,2025-08-10T08:00:00Z,45,Cypher|Skye|Killjoy
+9747,Emman,Philippines,,Rex Regum Qeon,2023-02-23T20:10:00Z,2023-07-20T08:00:00Z,10,Skye|Kayo|Raze
+9780,Jamppi,Finland,,Team Liquid|BBL Esports|Team Vitality,2021-05-25T18:05:00Z,2026-10-18T06:00:00Z,298,Sova|Breach|Fade
+9783,Doenmo,South Korea,,Team International,2025-03-02T10:00:00Z,2025-03-02T10:00:00Z,1,
+9800,mindfreak,Indonesia,,Paper Rex,2021-09-11T13:00:00Z,2025-03-30T08:00:00Z,205,Omen|Astra|Viper
+9801,f0rsakeN,Indonesia,,Paper Rex,2021-09-11T13:00:00Z,2026-10-09T09:00:00Z,388,Omen|Harbor|Neon
+9802,Benkai,Singapore,,Paper Rex|Global Esports,2021-09-11T13:00:00Z,2024-07-05T11:00:00Z,82,Killjoy|Cypher|Breach
+9803,d4v41,Malaysia,,Paper Rex,2021-09-11T13:00:00Z,2026-10-09T09:00:00Z,387,Viper|Skye|Vyse
+9810,Alfajer,Türkiye,,FNATIC,2022-07-14T17:35:00Z,2026-08-14T17:30:00Z,306,Killjoy|Cypher|Raze
+10053,FireBallOps,United States,,Cloud9,2026-07-17T00:20:00Z,2026-08-19T21:00:00Z,20,Cypher|Vyse|Viper
+10089,ANDY,Australia,,Kingzone,2023-06-02T12:00:00Z,2023-06-06T09:00:00Z,6,Raze|Killjoy|Jett
+10114,baha,Türkiye,,FUT Esports,2026-01-20T18:35:00Z,2026-02-03T16:00:00Z,8,Astra|Viper|Killjoy
+10125,qw1,Türkiye,,FUT Esports,2021-10-10T17:15:00Z,2023-08-18T19:00:00Z,65,Jett|Neon|Raze
+10146,reazy,Türkiye,,BBL Esports|Fire Flux Esports,2024-02-21T13:00:00Z,2026-08-28T16:30:00Z,44,Sova|Skye|Viper
+10160,Izzy,Türkiye,,Papara SuperMassive|Eternal Fire,2021-09-10T13:00:00Z,2026-07-17T15:00:00Z,44,Neon|Jett|Raze
+10161,QutionerX,Türkiye,,BBL Esports,2022-08-08T14:00:00Z,2024-07-05T16:00:00Z,60,Jett|Raze|Neon
+10163,CyderX,Türkiye,,BBL Esports,2022-08-08T14:00:00Z,2022-08-09T17:10:00Z,4,Breach|Omen|Viper
+10307,marteen,Czech Republic,,Karmine Corp|Gentle Mates,2024-02-20T18:35:00Z,2026-08-12T15:00:00Z,158,Yoru|Raze|Phoenix
+10338,Lime,United Kingdom,,Enterprise Esports,2026-08-07T17:00:00Z,2026-08-23T14:00:00Z,15,Phoenix|Neon|Yoru
+10486,YHchen,Taiwan,,Attacking Soul Esports|JD Gaming,2023-06-11T05:45:00Z,2024-07-16T10:25:00Z,31,Fade|Kayo|Gekko
+10496,PAULTATO,Taiwan,,Dragon Ranger Gaming,2023-06-02T13:00:00Z,2023-07-04T11:15:00Z,15,Killjoy|Skye|Raze
+10543,Safiro,Argentina,,Team Alpha,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Jett
+10557,Darker,Colombia,,FUSION|LOUD,2022-08-06T19:20:00Z,2026-10-18T06:00:00Z,75,Omen|Viper|Vyse
+10584,Seoldam,South Korea,,NORTHEPTION|DetonatioN FocusMe,2021-10-12T09:00:00Z,2023-07-18T08:00:00Z,27,Jett|Skye|Raze
+10585,Astell,South Korea,,NORTHEPTION|Crazy Raccoon,2021-10-12T09:00:00Z,2022-08-12T05:00:00Z,20,Breach|Skye|Sage
+10588,hiroronn,Japan,,ZETA DIVISION,2024-02-18T06:00:00Z,2024-07-07T11:00:00Z,39,Sova|Kayo|Gekko
+10627,Art,Japan,,DetonatioN FocusMe,2025-01-19T11:00:00Z,2025-04-21T08:00:00Z,20,Sova|Tejo|Omen
+10628,Misaya,Japan,,QT DIG∞,2026-08-14T08:00:00Z,2026-08-20T08:00:00Z,6,Skye|Fade|Sova
+10653,suzu,Japan,,Team World,2025-08-30T05:00:00Z,2025-08-30T05:00:00Z,1,Omen
+10698,nephh,Singapore,,Bilibili Gaming|Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2024-06-16T11:05:00Z,2026-08-22T08:00:00Z,159,Omen|Kayo|Breach
+10703,shiba,Singapore,,Paper Rex,2021-09-11T13:00:00Z,2021-09-15T13:00:00Z,5,Sova|Sage
+10739,Shiro,Indonesia,,ONIC G|BOOM Esports,2022-08-02T07:45:00Z,2025-08-09T10:25:00Z,49,Sova|Kayo|Tejo
+10782,Witz,Philippines,,Team Secret,2021-12-02T14:00:00Z,2022-08-06T05:00:00Z,18,Skye|Breach|Reyna
+10816,xccurate,Indonesia,,T1|Team World,2024-02-17T06:00:00Z,2025-08-30T05:00:00Z,50,Chamber|Omen|Harbor
+10821,deLb,Indonesia,,Alter Ego|All Gamers|Trace Esports,2022-08-01T06:55:00Z,2026-08-16T10:35:00Z,139,Cypher|Viper|Omen
+10885,DaviH,Portugal,,LOUD,2026-07-17T23:15:00Z,2026-10-18T06:00:00Z,49,Sova|Fade
+10971,RieNs,Türkiye,,Team Heretics,2024-02-20T16:00:00Z,2026-08-14T15:00:00Z,244,Sova|Fade|Gekko
+11046,deigara,Argentina,,9z Globant,2022-08-06T16:00:00Z,2022-08-10T16:15:00Z,7,Breach|Kayo|Viper
+11105,rich,Brazil,,MIBR,2024-06-30T21:00:00Z,2024-07-13T21:00:00Z,9,Sova|Fade|Gekko
+11118,skuba,United States,,NRG,2025-07-20T21:00:00Z,2026-10-11T09:00:00Z,143,Viper|Cypher|Astra
+11134,Kicks,Estonia,,Team Vitality|Team Liquid,2024-02-21T18:45:00Z,2026-10-03T09:00:00Z,148,Omen|Breach|Gekko
+11218,Yuicaw,Taiwan,,FunPlus Phoenix|Wolves Esports|JD Mall JDG Esports (JD Gaming)|JD Gaming,2023-02-14T17:10:00Z,2026-10-02T11:00:00Z,185,Cypher|Viper|Jett
+11225,Ethan,United States,,100 Thieves|NRG|Evil Geniuses|NRG,2021-09-10T19:50:00Z,2026-10-11T09:00:00Z,302,Kayo|Skye|Breach
+11332,ara,Romania,,GIANTX,2025-04-17T17:10:00Z,2026-08-13T18:00:00Z,90,Neon|Jett|Raze
+11494,keiko,United Kingdom,,Team Liquid|NRG,2024-02-21T16:00:00Z,2026-10-11T09:00:00Z,224,Omen|Raze|Jett
+11524,Nicc,Taiwan,,Dragon Ranger Gaming,2023-06-02T13:00:00Z,2026-08-11T10:05:00Z,199,Skye|Breach|Sova
+11527,NoMan,Hong Kong,,Xi Lai Gaming,2025-07-05T09:00:00Z,2026-10-01T12:05:00Z,118,Waylay|Killjoy|Deadlock
+11600,Foxy9,South Korea,,KIWOOM DRX|Gen.G|VARREL,2023-03-25T09:00:00Z,2026-09-04T11:00:00Z,172,Killjoy|Cypher|Jett
+11704,STYRON,Singapore,,Team Secret,2026-07-16T11:05:00Z,2026-08-19T08:00:00Z,17,Sova|Fade|Skye
+11705,Zeno,Singapore,,Dragon Ranger Gaming,2023-06-02T13:00:00Z,2023-07-04T11:15:00Z,15,Omen|Astra|Harbor
+11737,Xan,Malaysia,,Rex Regum Qeon,2026-07-24T08:00:00Z,2026-08-19T10:25:00Z,17,Neon|Raze
+11843,Yoyo,Taiwan,,TYLOO,2025-07-04T11:00:00Z,2025-08-21T09:00:00Z,18,Fade|Sova|Raze
+11917,ExiT,Saudi Arabia,,Natus Vincere,2026-07-15T15:00:00Z,2026-08-12T17:25:00Z,18,Neon|Waylay|Yoru
+11921,silentzz,Brazil,,2Game Esports|KRÜ Esports,2025-01-17T22:00:00Z,2026-05-17T21:00:00Z,44,Vyse|Iso|Cypher
+12075,BELKY,Brazil,,Gamelanders Blue,2021-10-12T16:00:00Z,2021-10-16T20:00:00Z,8,Astra|Cypher
+12088,f0rsaken,Brazil,,Team Omega,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Phoenix
+12098,Kadoom,Thailand,,Made in Thailand|Sharper Esports,2022-08-02T05:00:00Z,2026-08-23T08:00:00Z,23,Neon|Chamber|Jett
+12226,sturNN,Türkiye,,ULF Esports,2026-01-21T19:20:00Z,2026-02-05T19:00:00Z,9,Viper|Astra|Killjoy
+12322,NDG,Philippines,,Team Secret,2024-02-18T08:30:00Z,2024-05-03T08:00:00Z,29,Killjoy|Cypher
+12365,coconut,Hong Kong,,Xi Lai Gaming|JD Mall JDG Esports (JD Gaming)|FunPlus Phoenix,2025-01-11T11:35:00Z,2026-08-09T11:25:00Z,128,Sova|Omen|Fade
+12670,nekky,Türkiye,,ULF Esports|Eternal Fire,2026-01-21T19:20:00Z,2026-08-16T13:00:00Z,49,Fade|Sova|Skye
+12793,xeus,Türkiye,,FUT Esports,2025-01-22T17:00:00Z,2026-10-04T11:25:00Z,119,Raze|Waylay|Jett
+12795,Crewen,Türkiye,,BBL Esports,2026-01-21T16:00:00Z,2026-08-23T16:15:00Z,53,Cypher|Viper|Vyse
+12872,david,Chile,,BESTIA,2026-08-13T21:00:00Z,2026-08-22T21:00:00Z,7,Cypher|Viper
+12928,Veqaj,France,,Gentle Mates|FNATIC,2025-07-17T15:00:00Z,2026-04-17T17:40:00Z,41,Viper|Sova|Kayo
+12990,SyouTa,Japan,,ZETA DIVISION,2025-01-18T11:15:00Z,2026-08-22T10:10:00Z,59,Viper|Cypher|Vyse
+13000,RedLight,South Korea,,Douyu Gaming,2023-06-01T09:00:00Z,2023-06-08T13:00:00Z,10,Omen|Viper
+13002,Akame,South Korea,,DetonatioN FocusMe,2025-01-19T11:00:00Z,2026-08-23T11:00:00Z,89,Fade|Sova|Kayo
+13039,Meteor,South Korea,,NORTHEPTION|Gen.G|T1,2022-07-10T13:00:00Z,2026-10-11T11:15:00Z,343,Killjoy|Jett|Cypher
+13093,jzz,Brazil,,MIBR|Fluxo W7M,2023-02-15T19:35:00Z,2026-08-20T23:30:00Z,53,Skye|Raze|Sova
+13219,Papi,Philippines,,Global Esports,2025-01-19T08:00:00Z,2025-08-09T08:00:00Z,30,Astra|Omen|Viper
+13229,Aowha,Thailand,,Number One Player,2023-06-01T09:00:00Z,2023-06-07T11:15:00Z,9,Killjoy|Astra|Brimstone
+13258,CyvOph,France,,Team Vitality|FNATIC|Natus Vincere,2025-03-26T16:00:00Z,2026-08-06T18:20:00Z,35,Omen|Phoenix|Sage
+13744,PatMen,Philippines,,Paper Rex|Global Esports,2025-04-06T08:00:00Z,2026-10-04T09:00:00Z,153,Fade|Viper|Omen
+13768,S1Mon,Taiwan,,EDward Gaming,2024-06-27T11:00:00Z,2025-03-20T11:00:00Z,71,Breach|Kayo|Fade
+13781,XII,Taiwan,,FunPlus Phoenix,2025-04-03T11:00:00Z,2025-04-03T11:00:00Z,2,Kayo|Tejo
+13784,Killua,Thailand,,TALON|FULL SENSE,2025-03-23T11:05:00Z,2026-08-22T08:00:00Z,105,Fade|Sova|Skye
+13788,JitBoyS,Thailand,,TALON|FULL SENSE,2023-02-15T19:35:00Z,2026-08-22T08:00:00Z,189,Cypher|Omen|Neon
+13823,PxS,United States,,2Game Esports|LEVIATÁN,2025-03-30T21:00:00Z,2026-01-25T01:05:00Z,14,Kayo|Fade|Viper
+14048,zerona,United States,,Evil Geniuses,2026-05-08T21:00:00Z,2026-08-30T00:00:00Z,25,Viper|Phoenix|Yoru
+14125,Spring,Taiwan,,Shenzhen NTER|Wolves Esports|Pure Aim|Wolves Esports,2023-06-02T12:00:00Z,2026-08-09T08:00:00Z,148,Viper|Raze|Jett
+14207,viness,Vietnam,,CERBERUS Esports,2022-08-01T06:55:00Z,2022-08-04T06:45:00Z,7,Astra|Viper|Brimstone
+14208,Kishi,Vietnam,,CERBERUS Esports,2022-08-01T06:55:00Z,2022-08-04T06:45:00Z,7,Chamber
+14209,Suka,Vietnam,,Fancy United Esports,2022-08-01T05:00:00Z,2022-08-03T07:45:00Z,5,Fade|Kayo
+14213,ting2k5,Vietnam,,CERBERUS Esports,2022-08-01T06:55:00Z,2022-08-04T06:45:00Z,7,Raze|Jett
+14225,n1zzy,Vietnam,,Fancy United Esports|Team Secret,2022-08-01T05:00:00Z,2025-08-10T08:00:00Z,18,Chamber|Brimstone|Yoru
+14431,monk,China,,Attacking Soul Esports|All Gamers|Nova Esports|A Team,2023-06-11T05:45:00Z,2026-08-08T08:00:00Z,60,Breach|Killjoy|Harbor
+14435,XXXTACO,China,,Number One Player,2023-06-01T09:00:00Z,2023-06-07T11:15:00Z,9,Skye|Breach
+14439,FFs,Macao,,Monarch Effect,2023-06-02T09:00:00Z,2023-07-07T09:00:00Z,19,Skye|Gekko|Breach
+14440,Chaos,China,,Monarch Effect,2023-06-02T09:00:00Z,2023-07-07T09:00:00Z,19,Raze|Jett|Neon
+14441,aluba,China,,Monarch Effect|Wolves Esports,2023-07-03T11:30:00Z,2026-08-09T08:00:00Z,61,Omen|Sova|Skye
+14442,LilCrazy,China,,Douyu Gaming,2023-06-01T09:00:00Z,2023-06-08T13:00:00Z,10,Jett|Raze
+14444,Eren,China,,Shenzhen NTER|TYLOO|A Team,2023-06-02T12:00:00Z,2026-08-08T08:00:00Z,46,Viper|Sova|Killjoy
+14445,AC,China,,Shenzhen NTER|Titan Esports Club,2023-06-07T11:15:00Z,2024-07-06T09:00:00Z,32,Omen|Viper|Astra
+14458,barricade,China,,Night Wings Gaming,2023-06-01T12:00:00Z,2023-06-08T06:00:00Z,12,Killjoy|Cypher|Viper
+14669,Nivera,Belgium,,Team Liquid|Karmine Corp,2021-10-11T18:45:00Z,2023-07-21T17:35:00Z,89,Viper|Killjoy|Omen
+14681,kamo,Poland,,Movistar KOI (KOI)|KOI|Movistar KOI (KOI)|KOI|Team Liquid,2024-02-21T16:00:00Z,2026-10-03T09:00:00Z,208,Raze|Yoru|Jett
+14950,gobera,Brazil,,2Game Esports,2025-01-17T22:00:00Z,2026-08-20T21:00:00Z,33,Tejo|Cypher|Breach
+15302,Babyblue,China,,Gank Gaming|JD Mall JDG Esports (JD Gaming),2023-06-01T12:00:00Z,2025-08-03T09:00:00Z,48,Sova|Tejo|Fade
+15500,trent,United States,,The Guard|G2 Esports,2022-04-15T21:00:00Z,2026-10-16T10:10:00Z,309,Sova|Fade|Tejo
+15549,Pink,China,,Monarch Effect,2023-07-05T12:00:00Z,2023-07-05T12:00:00Z,2,Killjoy|Cypher
+15559,CHICHOO,China,,EDward Gaming,2022-08-08T07:00:00Z,2026-10-02T09:00:00Z,316,Viper|Cypher|Killjoy
+15639,chloric,United States,,Natus Vincere,2026-04-03T15:00:00Z,2026-08-12T17:25:00Z,31,Sova|Fade|Skye
+15681,Palla,Brazil,,MIBR|FURIA|Fluxo W7M,2024-06-30T21:00:00Z,2026-08-20T23:30:00Z,25,Neon|Jett|Raze
+15735,KROSTALY,Türkiye,,FUT Esports,2026-01-20T18:35:00Z,2026-10-04T11:25:00Z,79,Sova|Fade|Skye
+15897,Apinya,Thailand,,Sharper Esports,2026-08-13T10:25:00Z,2026-08-23T08:00:00Z,12,Sage|Phoenix|Sova
+15931,Peloncito,Mexico,,E-Xolos LAZER,2022-08-07T16:00:00Z,2022-08-09T18:25:00Z,5,Fade
+16003,runi,United States,,Cloud9,2023-04-02T22:45:00Z,2024-07-17T21:00:00Z,71,Viper|Sova|Breach
+16078,Loupiote,France,,Team France,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Fade
+16209,Famsii,Finland,,GIANTX,2024-07-03T16:00:00Z,2024-07-09T18:00:00Z,5,Omen|Raze
+16215,dos9,Kazakhstan,,BOOM Esports|Karmine Corp,2025-01-18T08:00:00Z,2026-10-03T11:30:00Z,86,Omen|Astra|Brimstone
+16447,d3mur,Türkiye,,ULF Esports,2026-01-21T19:20:00Z,2026-02-05T19:00:00Z,9,Neon|Waylay|Yoru
+16459,Elite,Türkiye,,BBL Esports|Karmine Corp,2024-02-21T13:00:00Z,2025-08-07T18:00:00Z,64,Cypher|Vyse|Killjoy
+16924,stew,South Korea,,JD Gaming|JD Mall JDG Esports (JD Gaming)|Precise Defeat|JD Mall JDG Esports (JD Gaming)|EDward Gaming,2024-02-23T07:00:00Z,2026-10-02T09:00:00Z,112,Raze|Neon|Jett
+17049,Hermes,South Korea,,KIWOOM DRX|ONSIDE GAMING,2026-01-24T10:55:00Z,2026-08-28T08:00:00Z,29,Yoru|Cypher|Kayo
+17053,hyeoni,South Korea,,NUTURN,2021-10-12T11:15:00Z,2021-10-16T09:00:00Z,10,Skye|Jett
+17086,something,Russia,,Paper Rex,2023-04-08T11:10:00Z,2026-10-09T09:00:00Z,323,Jett|Yoru|Gekko
+17089,Xiaonuo,China,,Royal Never Give Up,2023-06-01T12:00:00Z,2023-07-03T11:30:00Z,13,Killjoy|Viper|Astra
+17323,mimi,Denmark,,Team tarik|Team International|Team EMEA,2023-03-04T17:00:00Z,2025-08-31T15:00:00Z,3,Killjoy|Yoru
+17433,v1c,United States,,Cloud9,2025-01-18T00:05:00Z,2026-08-19T21:00:00Z,91,Omen|Astra|Viper
+17770,alvinboy,China,,M80,2026-08-13T23:55:00Z,2026-08-19T23:20:00Z,4,Cypher|Omen
+17976,florescent,Vietnam,,Apeks,2025-01-16T20:10:00Z,2025-04-23T19:00:00Z,17,Yoru|Jett|Phoenix
+18035,garnetS,Thailand,,TALON,2023-02-15T19:35:00Z,2023-07-19T11:15:00Z,29,Jett|Raze|Neon
+18054,Zcc,China,,Royal Never Give Up,2023-06-01T12:00:00Z,2023-07-03T11:30:00Z,13,Omen|Brimstone|Jett
+18133,MintAuka,Thailand,,Team Thailand,2025-03-02T10:00:00Z,2025-03-02T10:00:00Z,1,
+18162,Serial,Latvia,,Team Liquid,2025-03-28T18:30:00Z,2025-06-11T18:30:00Z,31,Astra|Deadlock|Killjoy
+18350,MiniBoo,Lithuania,,Team Heretics|Team Liquid,2024-02-20T16:00:00Z,2026-05-09T17:30:00Z,195,Neon|Yoru|Raze
+18400,bipo,Italy,,Gentle Mates,2026-01-20T18:35:00Z,2026-07-31T15:00:00Z,55,Neon|Waylay|Cypher
+18615,batujnax,Türkiye,,Apeks|Fire Flux Esports,2025-01-24T17:00:00Z,2026-08-28T16:30:00Z,45,Sova|Yoru|Fade
+18677,Ruxic,Türkiye,,Natus Vincere,2025-01-15T20:30:00Z,2026-08-12T17:25:00Z,92,Omen|Viper|Astra
+18796,OXY,United States,,Cloud9,2024-02-17T01:00:00Z,2026-08-19T21:00:00Z,126,Neon|Raze|Jett
+19292,jowa,China,,Wolves Esports,2026-01-22T09:00:00Z,2026-04-16T09:00:00Z,26,Omen|Brimstone|Astra
+19522,Wailers,France,,Gentle Mates,2024-02-21T18:45:00Z,2024-07-11T16:00:00Z,28,Cypher|Omen|Viper
+19530,AAAAY,China,,FunPlus Phoenix|Pure Aim|FunPlus Phoenix,2023-02-14T17:10:00Z,2026-08-09T11:25:00Z,176,Gekko|Sova|Fade
+19531,QiuYe,China,,Titan Esports Club,2024-02-23T07:00:00Z,2024-02-27T10:35:00Z,13,Skye|Killjoy|Harbor
+19677,lucas,China,,Titan Esports Club|Wuxi Titan Esports Club (Titan Esports Club),2025-07-03T11:00:00Z,2026-08-16T08:00:00Z,73,Sova|Fade|Skye
+19691,tomaszy,Portugal,,Karmine Corp|GIANTX,2024-02-20T18:35:00Z,2025-04-09T17:15:00Z,73,Viper|Cypher|Omen
+20140,vora,Canada,,100 Thieves,2026-01-17T01:05:00Z,2026-10-17T07:00:00Z,80,Fade|Sova|Skye
+20144,LewN,Türkiye,,BBL Esports|Karmine Corp,2025-01-15T17:00:00Z,2026-10-03T11:30:00Z,110,Neon|Jett|Yoru
+20238,Askia,Brazil,,2Game Esports,2025-03-23T21:00:00Z,2025-04-19T21:00:00Z,11,Yoru|Jett|Raze
+20240,xenom,Brazil,,MIBR|2Game Esports,2025-01-17T00:45:00Z,2026-08-20T21:00:00Z,75,Omen|Astra|Viper
+20278,cigdemT,Türkiye,,Team EMEA,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Fade
+20871,Kada,France,,Gentle Mates,2024-06-20T16:00:00Z,2025-04-24T15:00:00Z,36,Omen|Viper|Astra
+21216,f4ngeer,Russia,,All Gamers,2026-01-23T09:00:00Z,2026-08-20T08:00:00Z,76,Waylay|Neon|Yoru
+21251,blowz,Brazil,,LEVIATÁN,2026-01-17T01:05:00Z,2026-08-30T21:00:00Z,79,Sova|Fade|Skye
+21328,Wo0t,Türkiye,,Team Heretics,2024-04-24T15:00:00Z,2026-08-14T15:00:00Z,221,Raze|Jett|Kayo
+21438,SSeeS,Japan,,DetonatioN FocusMe,2024-02-18T10:30:00Z,2026-08-23T11:00:00Z,99,Omen|Viper|Astra
+21610,runneR,Macedonia,,Team Vitality|GIANTX|Joblife,2024-02-21T18:45:00Z,2026-08-16T15:10:00Z,92,Raze|Cypher|Killjoy
+21659,Sato,Brazil,,LEVIATÁN,2025-07-18T23:10:00Z,2026-08-30T21:00:00Z,101,Phoenix|Yoru|Raze
+21661,spike,Brazil,,2Game Esports|LEVIATÁN,2025-07-19T21:00:00Z,2026-08-30T21:00:00Z,92,Neon|Omen|Viper
+21668,Verno,United States,,NRG|MIBR,2025-01-18T00:05:00Z,2026-08-31T00:10:00Z,117,Sova|Fade|Tejo
+21670,Revival,China,,Number One Player,2023-06-01T09:00:00Z,2023-06-07T11:15:00Z,9,Raze|Harbor|Breach
+21778,P0PPIN,United States,,ENVY,2026-01-15T22:00:00Z,2026-05-09T23:10:00Z,25,Sova|Skye|Fade
+22047,Rarga,Russia,,Xi Lai Gaming,2025-01-11T11:35:00Z,2026-10-01T12:05:00Z,161,Neon|Yoru|Waylay
+23062,Surf,Thailand,,XERXIA Esports|TALON|Xipto Esports,2022-04-10T20:45:00Z,2026-08-20T11:00:00Z,48,Jett|Killjoy|Chamber
+23169,Minny,Czech Republic,,Gentle Mates,2025-01-16T20:10:00Z,2026-08-12T15:00:00Z,96,Cypher|Viper|Killjoy
+23365,koshmaras,Lithuania,,Team Heretics,2026-04-09T17:30:00Z,2026-08-14T15:00:00Z,52,Neon|Phoenix|Omen
+23407,Pa1nt,United States,,MIBR,2024-06-22T21:00:00Z,2024-06-22T21:00:00Z,2,Iso|Jett
+24007,Shyy,Chile,,LEVIATÁN|KRÜ Esports|VISA KRÜ (KRÜ Esports)|FURIA,2022-07-15T15:00:00Z,2026-08-29T21:00:00Z,191,Killjoy|Cypher|Viper
+24236,Zoomer,China,,Weibo Gaming,2023-06-01T09:00:00Z,2023-07-07T12:00:00Z,16,Breach|Skye|Jett
+24308,WsLeo,Taiwan,,Xi Lai Gaming,2026-01-24T09:00:00Z,2026-10-01T12:05:00Z,93,Sova|Fade|Skye
+24344,Loita,Türkiye,,BBL Esports,2026-01-21T16:00:00Z,2026-08-23T16:15:00Z,53,Omen|Astra|Viper
+24424,Pa1ze,Denmark,,Joblife,2026-08-06T18:20:00Z,2026-08-16T15:10:00Z,13,Neon|Jett
+24553,Boni,Philippines,,M80,2026-08-13T23:55:00Z,2026-08-19T23:20:00Z,4,Neon|Waylay
+24628,wayne,Singapore,,Team Liquid,2026-01-27T16:00:00Z,2026-05-09T17:30:00Z,42,Omen|Brimstone|Astra
+24679,cgrs,Thailand,,Paper Rex|Team Bunny|Paper Rex|Team Thailand|Team World,2023-04-22T08:00:00Z,2025-08-30T05:00:00Z,19,Gekko|Skye|Breach
+24803,Harmii,Germany,,Team Liquid|Team EMEA,2023-05-05T16:00:00Z,2025-08-31T15:00:00Z,3,Raze|Chamber
+24895,Jemkin,Russia,,Rex Regum Qeon,2024-02-17T13:45:00Z,2026-08-19T10:25:00Z,169,Yoru|Jett|Waylay
+25017,Ash,South Korea,,Gen.G,2025-03-24T08:00:00Z,2026-08-29T11:00:00Z,91,Neon|Sova|Tejo
+25025,Estrella,South Korea,,Incheon On Sla2ers|Rex Regum Qeon|KIWOOM DRX,2022-08-08T07:00:00Z,2025-08-16T10:05:00Z,90,Breach|Viper|Omen
+25053,Wolverine,South Korea,,ONSIDE GAMING,2026-08-13T08:00:00Z,2026-08-28T08:00:00Z,11,Phoenix|Cypher|Viper
+25081,yoman,South Korea,,Gen.G|Global Esports,2025-01-25T11:00:00Z,2025-08-09T08:00:00Z,26,Sova|Fade|Sage
+25221,Xdll,Japan,,ZETA DIVISION,2025-01-18T11:15:00Z,2026-08-22T10:10:00Z,71,Sova|Fade|Sage
+25255,primmie,Thailand,,TALON|Team Thailand|TALON|FULL SENSE,2024-07-12T10:15:00Z,2026-08-22T08:00:00Z,127,Yoru|Jett|Deadlock
+25258,Lumo,Russia,,Four Angry Men,2023-06-01T12:00:00Z,2023-07-03T09:00:00Z,16,Skye|Breach|Kayo
+25329,B3ar,China,,Shenzhen NTER|Bilibili Gaming,2023-06-02T12:00:00Z,2024-04-20T09:00:00Z,30,Omen|Breach|Harbor
+25339,LockM,China,,Titan Esports Club,2024-02-23T07:00:00Z,2024-07-06T09:00:00Z,38,Sova|Viper|Fade
+25494,Shr1mp,China,,FunPlus Phoenix|All Gamers,2025-03-16T11:25:00Z,2026-08-20T08:00:00Z,106,Fade|Sova|Skye
+25743,raafa,Brazil,,FURIA,2025-01-19T22:00:00Z,2025-04-19T00:00:00Z,16,Breach|Kayo|Sage
+25906,alexiiik,Czech Republic,,Natus Vincere,2025-07-16T15:00:00Z,2025-08-29T18:40:00Z,23,Jett|Raze|Neon
+25949,bunt,China,,Attacking Soul Esports|All Gamers,2023-06-11T05:45:00Z,2025-01-18T11:20:00Z,47,Omen|Viper|Brimstone
+26171,Demon1,United States,,Evil Geniuses|NRG|LEVIATÁN|Dragon Ranger Gaming|Cloud9|ENVY,2023-04-10T19:00:00Z,2026-08-23T21:00:00Z,153,Jett|Chamber|Brimstone
+27149,Brinks,Brazil,,2Game Esports,2026-08-14T21:00:00Z,2026-08-20T21:00:00Z,5,Omen|Cypher
+27244,seph1roth,Thailand,,FULL SENSE,2026-07-17T08:00:00Z,2026-08-22T08:00:00Z,24,Cypher|Omen|Killjoy
+27254,Leviathan,Thailand,,FULL SENSE,2026-01-22T10:10:00Z,2026-06-09T17:20:00Z,38,Omen|Cypher|Astra
+27492,Lucifer,Taiwan,,Kingzone,2023-06-02T12:00:00Z,2023-06-06T09:00:00Z,6,Killjoy|Raze|Skye
+28400,HYUNMIN,South Korea,,KIWOOM DRX,2025-01-20T08:00:00Z,2026-08-28T10:05:00Z,141,Raze|Waylay|Jett
+28401,Pkm,South Korea,,QT DIG∞,2026-08-14T08:00:00Z,2026-08-20T08:00:00Z,6,Neon|Jett
+28446,Coreano,Brazil,,Team Alpha,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Viper
+28716,lukxo,Brazil,,LOUD,2025-04-04T23:10:00Z,2026-10-18T06:00:00Z,93,Chamber|Viper|Cypher
+28948,NINJA,Poland,,PCIFIC Esports,2026-01-21T16:00:00Z,2026-08-13T15:00:00Z,38,Fade|Chamber|Sova
+29242,erde,Chile,,LOUD,2026-05-03T21:00:00Z,2026-10-18T06:00:00Z,57,Omen|Sage|Astra
+29243,Neon,Argentina,,LEVIATÁN,2026-02-01T00:45:00Z,2026-08-30T21:00:00Z,74,Chamber|Omen|Jett
+29260,KOHAL,Japan,,Team International,2025-03-02T10:00:00Z,2025-03-02T10:00:00Z,1,
+29289,YuRiHaNa,South Korea,,Team SuperBusS,2023-05-27T05:30:00Z,2023-05-27T05:30:00Z,1,Skye
+29833,iZu,South Korea,,T1,2024-02-17T06:00:00Z,2026-10-11T11:15:00Z,220,Yoru|Sova|Omen
+29835,sphiry,Russia,,Four Angry Men,2023-06-01T12:00:00Z,2023-07-03T09:00:00Z,16,Viper|Fade|Sova
+29839,TenTen,South Korea,,ZETA DIVISION|Team Secret,2025-04-14T08:00:00Z,2026-02-05T08:00:00Z,24,Neon|Raze|Yoru
+29840,yuran,Japan,,ZETA DIVISION|QT DIG∞,2024-02-18T06:00:00Z,2026-08-20T08:00:00Z,45,Viper|Breach|Sova
+29841,Caedye,Japan,,DetonatioN FocusMe,2026-01-23T10:10:00Z,2026-08-23T11:00:00Z,55,Cypher|Viper|Killjoy
+29843,yatsuka,Japan,,DetonatioN FocusMe,2026-01-23T10:10:00Z,2026-08-23T11:00:00Z,55,Yoru|Neon|Fade
+29867,hiro,Türkiye,,FNATIC|Natus Vincere,2024-06-19T16:00:00Z,2026-08-12T17:25:00Z,127,Cypher|Viper|Killjoy
+29873,benjyfishy,United Kingdom,,Team Heretics,2023-07-19T15:00:00Z,2026-08-14T15:00:00Z,247,Cypher|Killjoy|Viper
+29893,Timotino,Canada,,100 Thieves,2026-01-17T01:05:00Z,2026-10-17T07:00:00Z,80,Neon|Waylay|Jett
+30346,Lizhi,China,,Team China,2024-06-09T07:00:00Z,2024-06-09T07:00:00Z,1,Sova
+30470,Kyu,Canada,,Sentinels|M80,2026-01-18T22:00:00Z,2026-08-19T23:20:00Z,12,Sova|Fade|Skye
+30520,9st,China,,Night Wings Gaming,2023-06-01T12:00:00Z,2023-06-08T06:00:00Z,12,Breach|Skye|Kayo
+30523,Muhemai,China,,Invincible Gaming,2023-06-02T09:00:00Z,2023-06-07T06:00:00Z,9,Astra|Omen|Harbor
+30524,Artill,China,,Invincible Gaming,2023-06-02T09:00:00Z,2023-06-07T06:00:00Z,9,Skye|Fade|Kayo
+30526,B1ack,China,,Titan Esports Club,2024-06-29T09:00:00Z,2025-01-18T09:00:00Z,15,Breach|Kayo|Skye
+30593,Masayoshi,United States,,Team International,2024-06-09T07:00:00Z,2024-06-09T07:00:00Z,1,Raze
+30594,Grim,United States,,Team Omega,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Sage
+31207,carpe,South Korea,,T1,2023-02-24T19:50:00Z,2025-02-21T10:00:00Z,110,Skye|Gekko|Brimstone
+31305,Lar0k,Türkiye,,BBL Esports,2026-01-21T16:00:00Z,2026-08-23T16:15:00Z,53,Neon|Waylay|Raze
+31376,tarik,United States,,Team tarik,2023-03-04T17:00:00Z,2025-06-22T16:00:00Z,2,Reyna
+31753,SpiritZ1,Taiwan,,Dragon Ranger Gaming,2025-01-12T09:00:00Z,2026-08-11T10:05:00Z,137,Yoru|Waylay|Jett
+31827,Dambi,South Korea,,Nongshim RedForce,2025-01-18T11:15:00Z,2026-10-09T12:10:00Z,133,Neon|Waylay|Phoenix
+31828,Francis,South Korea,,Nongshim RedForce,2025-01-18T11:15:00Z,2026-10-09T12:10:00Z,133,Yoru|Fade|Sova
+31829,Ivy,South Korea,,Nongshim RedForce,2025-01-18T11:15:00Z,2026-10-09T12:10:00Z,133,Viper|Cypher|Killjoy
+33570,chubizin,Chile,,BESTIA,2026-08-13T21:00:00Z,2026-08-22T21:00:00Z,7,Harbor|Fade|Sova
+33576,margaret,South Korea,,Nongshim RedForce|QT DIG∞,2025-01-18T11:15:00Z,2026-08-20T08:00:00Z,36,Cypher|Killjoy|Viper
+33897,Jasper7se,Japan,,Glory Once Again,2025-08-30T05:00:00Z,2025-08-30T05:00:00Z,1,Yoru
+33902,Sayonara,"Moldova, Republic of",,Team Vitality,2026-04-02T15:00:00Z,2026-10-18T06:00:00Z,78,Sova|Viper|Fade
+34057,Jerrwin,India,,Sentinels,2026-04-19T23:20:00Z,2026-08-22T23:10:00Z,30,Neon|Waylay|Raze
+34181,GREEN,Taiwan,,Nova Esports,2026-01-23T09:00:00Z,2026-04-16T09:00:00Z,17,Viper|Raze|Killjoy
+34400,bao,Vietnam,,Evil Geniuses,2026-01-15T22:00:00Z,2026-08-30T00:00:00Z,45,Cypher|Killjoy|Omen
+34684,westside,Poland,,GIANTX,2025-01-15T17:00:00Z,2026-08-13T18:00:00Z,106,Cypher|Viper|Phoenix
+34776,Absol,Japan,,ZETA DIVISION,2026-01-22T10:10:00Z,2026-08-22T10:10:00Z,43,Neon|Yoru|Raze
+34926,oonzmlp,South Korea,,VARREL,2026-01-23T08:00:00Z,2026-09-04T11:00:00Z,40,Sage|Phoenix|Viper
+34974,Karon,South Korea,,Gen.G,2024-02-17T13:45:00Z,2026-08-29T11:00:00Z,219,Omen|Viper|Astra
+35013,Flashback,South Korea,,KIWOOM DRX,2024-02-18T10:30:00Z,2025-10-04T11:00:00Z,111,Cypher|Yoru|Killjoy
+35089,Yvonnie,Canada,,Team tarik,2025-06-22T16:00:00Z,2025-06-22T16:00:00Z,1,Sage
+35302,Eggsterr,United States,,ENVY,2026-01-15T22:00:00Z,2026-05-09T23:10:00Z,25,Yoru|Omen|Phoenix
+36169,mta,Chile,,KRÜ Esports,2024-02-18T22:00:00Z,2026-02-01T00:45:00Z,42,Sova|Kayo|Viper
+36245,N4RRATE,United States,,Karmine Corp|Sentinels|Karmine Corp,2024-02-20T18:35:00Z,2026-10-03T11:30:00Z,191,Fade|Gekko|Chamber
+36415,Viva,China,,Rare Atom|JD Gaming|Xi Lai Gaming|Trace Esports,2023-06-02T13:00:00Z,2026-05-03T12:30:00Z,141,Sova|Tejo|Fade
+36420,Strawberrycc,China,,Four Angry Men,2023-06-01T12:00:00Z,2023-07-03T09:00:00Z,16,Jett|Raze
+36421,Sorrys,China,,Royal Never Give Up,2023-06-01T12:00:00Z,2023-07-03T11:30:00Z,13,Raze|Viper|Sova
+36465,Libra,China,,Kingzone,2023-06-02T12:00:00Z,2023-06-06T09:00:00Z,6,Omen|Brimstone|Harbor
+36512,nos,China,,Weibo Gaming,2023-06-01T09:00:00Z,2023-07-07T12:00:00Z,16,Omen|Brimstone|Astra
+36513,Guran,China,,Douyu Gaming,2023-06-01T09:00:00Z,2023-06-08T13:00:00Z,10,Skye|Breach|Kayo
+36514,yyy,China,,Douyu Gaming,2023-06-01T09:00:00Z,2023-06-08T13:00:00Z,10,Killjoy|Cypher|Gekko
+36515,gagaaaa,China,,Douyu Gaming,2023-06-01T09:00:00Z,2023-06-08T13:00:00Z,10,Viper|Sova|Harbor
+36596,XJian,China,,Gank Gaming,2023-06-01T12:00:00Z,2023-06-08T09:00:00Z,13,Omen|Astra
+36666,vela,Chile,,Team FRTTT|Team Omega,2023-03-04T17:00:00Z,2025-08-30T21:00:00Z,2,Sova|Fade
+36668,MarT1n,China,,Rare Atom|JD Gaming|Trace Esports,2023-06-02T13:00:00Z,2025-08-10T12:15:00Z,44,Killjoy|Deadlock|Viper
+36670,OBONE,China,,Nova Esports,2023-06-02T09:00:00Z,2026-01-31T09:00:00Z,52,Omen|Astra|Brimstone
+36685,splash,Indonesia,,TYLOO,2026-01-22T12:25:00Z,2026-10-01T09:00:00Z,76,Neon|Raze|Jett
+37017,Midi,China,,Trace Esports|Xi Lai Gaming,2025-04-12T12:05:00Z,2025-06-15T16:00:00Z,11,Tejo|Breach|Gekko
+37020,XiYiJi,China,,All Gamers,2025-07-05T09:00:00Z,2025-07-05T09:00:00Z,3,Sova|Fade
+37025,abc321,China,,Kingzone,2023-06-02T12:00:00Z,2023-06-02T12:00:00Z,2,Fade|Breach
+37026,Hao,China,,Kingzone,2023-06-02T12:00:00Z,2023-06-06T09:00:00Z,6,Jett|Cypher
+37105,Loss,Brazil,,BESTIA,2026-08-13T21:00:00Z,2026-08-22T21:00:00Z,7,Jett|Chamber|Sage
+37354,basic,Brazil,,FURIA,2026-07-16T21:00:00Z,2026-08-29T21:00:00Z,26,Phoenix|Harbor|Kayo
+37489,Lysoar,China,,FunPlus Phoenix|Wolves Esports|Precise Defeat|Xi Lai Gaming,2023-07-06T09:00:00Z,2026-10-01T12:05:00Z,245,Omen|Killjoy|Cypher
+37494,Kai,China,,Trace Esports|Pure Aim|Trace Esports,2024-02-22T09:00:00Z,2026-08-16T10:35:00Z,180,Jett|Neon|Cypher
+37532,Zexy,South Korea,,VARREL,2026-01-23T08:00:00Z,2026-09-04T11:00:00Z,40,Raze|Neon|Jett
+37656,Kyedae,Canada,,Team International|Team tarik,2024-03-24T15:00:00Z,2025-06-22T16:00:00Z,2,Vyse
+37674,MrCANI,Taiwan,,JD Mall JDG Esports (JD Gaming),2025-01-12T09:00:00Z,2025-04-10T11:00:00Z,20,Breach|Kayo|Fade
+37925,Kolosha,Ukraine,,Natus Vincere,2026-04-03T15:00:00Z,2026-08-12T17:25:00Z,9,Neon|Waylay
+37927,happywei,Taiwan,,Night Wings Gaming|Xi Lai Gaming,2023-06-01T12:00:00Z,2026-10-01T12:05:00Z,173,Viper|Cypher|Omen
+37928,XuAN,China,,Four Angry Men,2023-06-01T12:00:00Z,2023-07-03T09:00:00Z,16,Killjoy|Viper
+38857,benG,Chile,,KRÜ Esports,2026-01-16T22:00:00Z,2026-02-01T00:45:00Z,8,Astra|Viper|Omen
+39021,Notexxd,Bermuda,,Cloud9,2026-05-09T21:00:00Z,2026-05-09T21:00:00Z,2,Omen
+39092,YAX1N,China,,Kingzone,2023-06-04T09:00:00Z,2023-06-06T09:00:00Z,4,Breach|Skye
+39163,RazzieBinx,Philippines,,Team SuperBusS,2023-05-27T05:30:00Z,2023-05-27T05:30:00Z,1,Chamber
+39357,s0pp,Türkiye,,FUT Esports,2026-04-02T17:05:00Z,2026-10-04T11:25:00Z,71,Neon|Jett|Chamber
+39485,Scales,China,,Shenzhen NTER|TYLOO,2023-06-02T12:00:00Z,2026-10-01T09:00:00Z,116,Viper|Cypher|Kayo
+39494,Yueluo,China,,Rare Atom,2023-06-02T13:00:00Z,2023-06-06T11:15:00Z,8,Skye|Kayo|Breach
+39522,DanGe,China,,Nova Esports,2023-06-03T12:00:00Z,2023-06-03T12:00:00Z,2,Sage|Viper
+39697,cb,China,,Nova Esports|Precise Defeat|EDward Gaming|Nova Esports,2024-02-22T11:05:00Z,2026-08-21T10:00:00Z,119,Phoenix|Yoru|Sova
+40511,NIZ,Thailand,,Sharper Esports,2026-08-13T10:25:00Z,2026-08-23T08:00:00Z,12,Sova|Omen
+40591,ComeBack,Türkiye,,Gentle Mates|Team Heretics|Natus Vincere,2025-07-17T15:00:00Z,2026-04-30T15:00:00Z,38,Neon|Jett|Chamber
+40843,audaz,Türkiye,,ULF Esports|Eternal Fire,2026-01-21T19:20:00Z,2026-08-16T13:00:00Z,49,Omen|Astra|Brimstone
+40845,Levius,China,,Bilibili Gaming|Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2024-04-26T09:00:00Z,2025-09-20T13:00:00Z,85,Killjoy|Cypher|Vyse
+40935,lovers rock,Türkiye,,BBL Esports,2026-01-21T16:00:00Z,2026-08-23T16:15:00Z,53,Yoru|Jett|Neon
+41029,Z1yan,China,,JD Gaming|JD Mall JDG Esports (JD Gaming),2024-06-15T11:00:00Z,2025-08-03T09:00:00Z,48,Vyse|Omen|Cypher
+41054,GuanG,China,,Nova Esports|Pure Aim|Nova Esports,2024-02-22T11:05:00Z,2026-08-21T10:00:00Z,112,Killjoy|Cypher|Vyse
+41135,Dantedeu5,Argentina,,VISA KRÜ (KRÜ Esports)|KRÜ Esports,2025-07-20T00:25:00Z,2026-08-24T00:20:00Z,57,Neon|Yoru|Jett
+41224,tkzin,Brazil,,LOUD,2026-07-17T23:15:00Z,2026-10-18T06:00:00Z,49,Neon|Waylay|Raze
+41694,endoist,Thailand,,Xipto Esports,2026-08-14T10:45:00Z,2026-08-20T11:00:00Z,5,Phoenix|Raze|Neon
+41702,canady,Thailand,,Xipto Esports,2026-08-14T10:45:00Z,2026-08-20T11:00:00Z,5,Fade|Sova|Skye
+41718,Spear,Türkiye,,Eternal Fire,2026-07-23T15:00:00Z,2026-08-16T13:00:00Z,13,Neon|Phoenix|Jett
+41720,Favian,Türkiye,,ULF Esports|Eternal Fire,2026-01-21T19:20:00Z,2026-08-16T13:00:00Z,49,Raze|Phoenix|Waylay
+41739,slowly,China,,TYLOO,2025-01-11T09:00:00Z,2026-10-01T09:00:00Z,112,Yoru|Omen|Astra
+41774,Shion7,China,,Dragon Ranger Gaming,2024-04-06T09:00:00Z,2024-07-05T11:00:00Z,40,Sova|Harbor|Viper
+41798,nightz,United States,,ENVY,2026-07-17T21:00:00Z,2026-08-23T21:00:00Z,21,Phoenix|Omen|Yoru
+42235,Dynamite,China,,Titan Esports Club|Wuxi Titan Esports Club (Titan Esports Club),2025-01-11T09:00:00Z,2026-08-16T08:00:00Z,69,Neon|Phoenix|Waylay
+42513,Dingwei,China,,Dragon Ranger Gaming|A Team,2024-02-23T09:55:00Z,2026-08-08T08:00:00Z,12,Sova|Fade|Skye
+42535,TheMisterCH,France,,Team France,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Gekko
+42537,HanChe,Taiwan,,All Gamers,2025-03-14T11:00:00Z,2025-08-21T11:10:00Z,30,Viper|Killjoy|Waylay
+42733,XuNa,South Korea,,VARREL,2026-01-23T08:00:00Z,2026-09-04T11:00:00Z,40,Fade|Sova|Skye
+42772,Xross,South Korea,,Nongshim RedForce,2026-01-22T08:00:00Z,2026-10-09T12:10:00Z,84,Sova|Fade|Phoenix
+42901,thyy,Thailand,,TALON|FULL SENSE,2025-03-23T11:05:00Z,2026-02-08T08:00:00Z,55,Raze|Omen|Jett
+43007,qiutiaN,Taiwan,,Wolves Esports|Nova Esports,2026-01-22T09:00:00Z,2026-08-21T10:00:00Z,47,Sova|Fade|Chamber
+43057,DH,South Korea,,T1,2025-07-16T08:00:00Z,2026-08-01T08:00:00Z,36,Omen|Cypher|Brimstone
+44259,yokam,Philippines,,Global Esports,2025-03-22T08:00:00Z,2025-04-07T08:00:00Z,6,Yoru|Jett|Raze
+44842,Jackk,United States,,Cloud9,2026-05-03T21:00:00Z,2026-08-19T21:00:00Z,25,Fade|Sova|Skye
+45492,swagzor,Russia,,Nova Esports,2026-03-31T12:30:00Z,2026-08-21T10:00:00Z,33,Neon|Raze|Waylay
+45494,Proxh,Türkiye,,Gentle Mates,2025-07-17T15:00:00Z,2026-08-12T15:00:00Z,31,Omen|Astra
+46040,Youze,Taiwan,,All Gamers,2026-04-09T09:00:00Z,2026-05-04T11:00:00Z,15,Neon|Viper
+46135,Zeus,Philippines,,Team Secret,2026-04-26T10:05:00Z,2026-08-19T08:00:00Z,23,Neon|Jett|Raze
+46460,Ezeir,China,,Nova Esports,2024-06-21T09:00:00Z,2026-08-21T10:00:00Z,88,Omen|Astra|Brimstone
+46527,Cangshu,Taiwan,,Dragon Ranger Gaming,2025-03-15T09:00:00Z,2025-04-20T11:10:00Z,19,Tejo|Fade|Viper
+46748,K1ra,China,,All Gamers,2025-01-12T12:25:00Z,2026-08-20T08:00:00Z,114,Raze|Omen|Viper
+46749,player,China,,All Gamers,2025-03-14T11:00:00Z,2025-03-30T11:30:00Z,7,Breach|Yoru
+47101,5CM,China,,TYLOO,2025-01-11T09:00:00Z,2025-04-06T09:00:00Z,15,Vyse|Killjoy|Omen
+47102,waituu,China,,TYLOO,2025-03-15T11:05:00Z,2025-04-11T11:00:00Z,14,Omen|Viper|Brimstone
+47629,Coco,China,,Titan Esports Club|Wuxi Titan Esports Club (Titan Esports Club),2025-03-16T11:25:00Z,2026-08-16T08:00:00Z,91,Viper|Omen|Breach
+48025,alym,Kyrgyzstan,,FURIA,2026-01-16T22:00:00Z,2026-05-16T21:00:00Z,37,Neon|Waylay|Yoru
+48431,Kippei,Japan,,QT DIG∞,2026-08-14T08:00:00Z,2026-08-20T08:00:00Z,6,Omen|Astra|Harbor
+48439,Rimuru,Philippines,,Team Secret,2026-04-05T08:00:00Z,2026-04-17T10:20:00Z,6,Neon|Jett
+48516,doffy,Thailand,,Xipto Esports,2026-08-14T10:45:00Z,2026-08-20T11:00:00Z,5,Neon|Yoru|Jett
+48577,gyen,Japan,,DetonatioN FocusMe,2025-01-19T11:00:00Z,2025-08-15T08:00:00Z,34,Omen|Viper|Astra
+48629,Sidsity,South Korea,,Team Toast|Team Omega,2025-06-22T16:00:00Z,2025-08-30T21:00:00Z,2,Fade|Omen
+48878,rushia,China,,Bilibili Gaming|Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2025-01-16T12:20:00Z,2026-08-22T08:00:00Z,138,Omen|Viper|Cypher
+48925,Raxcal,South Korea,,Gen.G,2026-07-16T08:00:00Z,2026-08-29T11:00:00Z,19,Sage|Vyse|Phoenix
+49346,echo,Türkiye,,Eternal Fire,2026-04-01T15:00:00Z,2026-08-16T13:00:00Z,40,Viper|Cypher|Vyse
+49476,zhe,China,,JD Mall JDG Esports (JD Gaming)|JD Gaming,2026-01-23T11:55:00Z,2026-10-02T11:00:00Z,78,Neon|Yoru|Chamber
+49973,glacier,Taiwan,,Wolves Esports,2026-04-02T09:00:00Z,2026-08-09T08:00:00Z,36,Neon|Waylay|Raze
+50025,Setrod,Taiwan,,FunPlus Phoenix,2026-01-22T12:25:00Z,2026-08-09T11:25:00Z,41,Neon|Chamber|Vyse
+50080,Lsn,China,,All Gamers,2025-01-12T12:25:00Z,2025-04-12T09:00:00Z,17,Tejo|Sova|Kayo
+50813,GSR,Serbia,,Team Liquid,2026-09-24T09:00:00Z,2026-10-03T09:00:00Z,8,Yoru|Jett
+51099,ZynX,South Korea,,Gen.G,2026-01-23T10:10:00Z,2026-04-19T10:25:00Z,18,Yoru|Waylay|Neon
+51100,Flicker,South Korea,,KIWOOM DRX,2026-07-17T11:00:00Z,2026-08-02T08:00:00Z,10,Waylay|Neon
+51238,yong,South Korea,,KIWOOM DRX,2026-04-05T08:00:00Z,2026-08-28T10:05:00Z,33,Cypher|Chamber|Vyse
+51244,Jieni7,China,,EDward Gaming,2025-03-29T12:15:00Z,2026-08-11T08:00:00Z,102,Kayo|Omen|Neon
+51249,FKEY,China,,Trace Esports,2026-07-10T08:00:00Z,2026-08-16T10:35:00Z,31,Kayo|Fade|Sage
+51250,Ying,China,,KeepBest Gaming,2026-08-05T10:00:00Z,2026-08-08T11:35:00Z,5,Viper|Breach|Phoenix
+52101,Bai,China,,All Gamers,2025-04-05T09:00:00Z,2026-08-20T08:00:00Z,41,Neon|Viper|Cypher
+52904,Akeman,China,,Dragon Ranger Gaming|KeepBest Gaming,2025-07-06T09:00:00Z,2026-08-08T11:35:00Z,50,Neon|Clove|Waylay
+54487,Xlele,China,,Trace Esports|FunPlus Phoenix,2026-04-02T09:00:00Z,2026-08-09T11:25:00Z,40,Waylay|Neon|Jett
+55038,Au1,China,,All Gamers,2026-01-23T09:00:00Z,2026-03-10T20:10:00Z,20,Viper|Killjoy|Veto
+55085,Erv,China,,TYLOO,2026-01-22T12:25:00Z,2026-10-01T09:00:00Z,76,Omen|Waylay|Phoenix
+55681,kozzy,Romania,,Enterprise Esports,2026-08-07T17:00:00Z,2026-08-23T14:00:00Z,15,Raze|Neon|Jett
+55694,hezacoil,Türkiye,,Fire Flux Esports,2026-08-07T15:00:00Z,2026-08-28T16:30:00Z,16,Astra|Omen|Vyse
+55809,Vinnie,United States,,Team tarik,2025-06-22T16:00:00Z,2025-06-22T16:00:00Z,1,Sova
+55810,joshseki,United States,,Team tarik,2025-06-22T16:00:00Z,2025-06-22T16:00:00Z,1,Astra
+55811,Jacob,Canada,,Team Toast,2025-06-22T16:00:00Z,2025-06-22T16:00:00Z,1,Gekko
+55812,Disguised Toast,Canada,,Team Toast,2025-06-22T16:00:00Z,2025-06-22T16:00:00Z,1,Cypher
+55817,Verse,China,,Dragon Ranger Gaming,2026-07-09T10:20:00Z,2026-08-11T10:05:00Z,25,Omen|Harbor
+55823,Ben1Ley,China,,FunPlus Phoenix,2026-04-01T09:00:00Z,2026-04-15T09:00:00Z,13,Waylay
+55828,kklin,China,,JD Mall JDG Esports (JD Gaming),2025-07-06T12:05:00Z,2025-08-03T09:00:00Z,15,Viper|Killjoy|Vyse
+56260,bud,China,,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2026-01-25T09:00:00Z,2026-02-09T09:00:00Z,20,Breach|Killjoy|Gekko
+56305,Folykiki,China,,A Team,2026-08-05T08:00:00Z,2026-08-08T08:00:00Z,5,Neon|Waylay
+57336,Jamelinho213,France,,Eintracht Frankfurt,2026-08-06T15:00:00Z,2026-08-22T14:00:00Z,12,Neon|Raze|Jett
+58008,Tonk,Hong Kong,,KeepBest Gaming,2026-08-05T10:00:00Z,2026-08-08T11:35:00Z,5,Cypher|Viper
+58009,Krst1Ng,China,,KeepBest Gaming,2026-08-05T10:00:00Z,2026-08-08T11:35:00Z,5,Omen|Harbor
+58086,TinaKitten,United States,,Team Alpha,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Sage
+58087,Suga,Argentina,,Team Omega,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Clove
+58089,Foolish,United States,,Team Alpha,2025-08-30T21:00:00Z,2025-08-30T21:00:00Z,1,Omen
+58090,RaGe,Belgium,,Team France,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Iso
+58091,Helydia,France,,Team France,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Jett
+58092,Pereira,Spain,,Team EMEA,2025-08-31T15:00:00Z,2025-08-31T15:00:00Z,1,Neon
+58496,Kachoww,Türkiye,,Fire Flux Esports,2026-08-07T15:00:00Z,2026-08-28T16:30:00Z,16,Neon|Omen|Yoru
+58959,iamgrq,China,,All Gamers,2026-01-23T09:00:00Z,2026-08-20T08:00:00Z,76,Omen|Brimstone|Waylay
+60576,Ray,South Korea,,ONSIDE GAMING,2026-08-13T08:00:00Z,2026-08-28T08:00:00Z,11,Omen|Neon|Waylay
+62291,Xiesta,South Korea,,ONSIDE GAMING,2026-08-13T08:00:00Z,2026-08-28T08:00:00Z,11,Neon|Phoenix|Jett
+62402,KiTae,South Korea,,Gen.G,2026-04-25T08:00:00Z,2026-05-01T08:00:00Z,6,Omen|Astra
+62947,yilai,China,,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2026-04-02T11:30:00Z,2026-04-15T11:05:00Z,13,Neon|Killjoy|Waylay
+63107,ra1ny,China,,Wuxi Titan Esports Club (Titan Esports Club),2026-07-20T09:00:00Z,2026-08-16T08:00:00Z,20,Neon|Raze
+64029,FT,China,,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),2026-07-09T10:20:00Z,2026-08-22T08:00:00Z,27,Waylay|Omen|Phoenix
+64849,Sharks,China,,Xi Lai Gaming,2026-07-25T12:35:00Z,2026-07-25T12:35:00Z,2,Jett|Raze
+64969,crownfisher,China,,JD Gaming,2026-07-10T10:10:00Z,2026-10-02T11:00:00Z,39,Omen|Harbor|Jett

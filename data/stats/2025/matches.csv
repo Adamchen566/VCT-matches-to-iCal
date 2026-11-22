@@ -1,0 +1,505 @@
+match_id,event_id,series,start_utc,patch,best_of,team1_id,team1,team1_tag,team2_id,team2,team2_tag,score1,score2,winner,url
+430838,2275,Main Event: Upper Round 1,2025-01-11T09:00:00Z,,3,731,TYLOO,TYL,14137,Titan Esports Club,TEC,0,2,2,https://www.vlr.gg/430838/tyloo-vs-titan-esports-club-champions-tour-2025-china-kickoff-ur1
+430837,2275,Main Event: Upper Round 1,2025-01-11T11:35:00Z,,3,13581,Xi Lai Gaming,XLG,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/430837/xi-lai-gaming-vs-wolves-esports-champions-tour-2025-china-kickoff-ur1
+430839,2275,Main Event: Upper Round 1,2025-01-12T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/430839/jdg-esports-vs-dragon-ranger-gaming-champions-tour-2025-china-kickoff-ur1
+430840,2275,Main Event: Upper Round 1,2025-01-12T12:25:00Z,,3,1119,All Gamers,AG,12064,Nova Esports,NOVA,0,2,2,https://www.vlr.gg/430840/all-gamers-vs-nova-esports-champions-tour-2025-china-kickoff-ur1
+429381,2276,Main Event: Upper Round 1,2025-01-15T17:00:00Z,10.0,3,397,BBL Esports,BBL,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/429381/bbl-esports-vs-giantx-champions-tour-2025-emea-kickoff-ur1
+429380,2276,Main Event: Upper Round 1,2025-01-15T20:30:00Z,10.0,3,8877,Karmine Corp,KC,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/429380/karmine-corp-vs-natus-vincere-champions-tour-2025-emea-kickoff-ur1
+430842,2275,Main Event: Upper Quarterfinals,2025-01-16T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,14137,Titan Esports Club,TEC,2,1,1,https://www.vlr.gg/430842/funplus-phoenix-vs-titan-esports-club-champions-tour-2025-china-kickoff-ubqf
+430841,2275,Main Event: Upper Quarterfinals,2025-01-16T12:20:00Z,,3,12010,Bilibili Gaming,BLG,13581,Xi Lai Gaming,XLG,2,1,1,https://www.vlr.gg/430841/bilibili-gaming-vs-xi-lai-gaming-champions-tour-2025-china-kickoff-ubqf
+429379,2276,Main Event: Upper Round 1,2025-01-16T17:00:00Z,10.0,3,474,Team Liquid,TL,7035,Movistar KOI (KOI),MKOI,2,1,1,https://www.vlr.gg/429379/team-liquid-vs-koi-champions-tour-2025-emea-kickoff-ur1
+429382,2276,Main Event: Upper Round 1,2025-01-16T20:10:00Z,10.0,3,11479,Apeks,APK,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/429382/apeks-vs-gentle-mates-champions-tour-2025-emea-kickoff-ur1
+427991,2274,Main Event: Upper Round 1,2025-01-16T22:00:00Z,10.0,3,5248,Evil Geniuses,EG,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/427991/evil-geniuses-vs-loud-champions-tour-2025-americas-kickoff-ur1
+427992,2274,Main Event: Upper Round 1,2025-01-17T00:45:00Z,10.0,3,7386,MIBR,MIBR,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/427992/mibr-vs-100-thieves-champions-tour-2025-americas-kickoff-ur1
+430843,2275,Main Event: Upper Quarterfinals,2025-01-17T09:00:00Z,,3,12685,Trace Esports,TE,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/430843/trace-esports-vs-dragon-ranger-gaming-champions-tour-2025-china-kickoff-ubqf
+430844,2275,Main Event: Upper Quarterfinals,2025-01-17T11:10:00Z,,3,1120,EDward Gaming,EDG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/430844/edward-gaming-vs-nova-esports-champions-tour-2025-china-kickoff-ubqf
+429385,2276,Main Event: Upper Quarterfinals,2025-01-17T17:00:00Z,10.0,3,2593,FNATIC,FNC,397,BBL Esports,BBL,1,2,2,https://www.vlr.gg/429385/fnatic-vs-bbl-esports-champions-tour-2025-emea-kickoff-ubqf
+429384,2276,Main Event: Upper Quarterfinals,2025-01-17T21:00:00Z,10.0,3,2059,Team Vitality,VIT,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/429384/team-vitality-vs-karmine-corp-champions-tour-2025-emea-kickoff-ubqf
+427994,2274,Main Event: Upper Round 1,2025-01-17T22:00:00Z,10.0,3,15072,2Game Esports,2G,2406,FURIA,FUR,0,2,2,https://www.vlr.gg/427994/2game-esports-vs-furia-champions-tour-2025-americas-kickoff-ur1
+427993,2274,Main Event: Upper Round 1,2025-01-18T00:05:00Z,10.0,3,1034,NRG,NRG,188,Cloud9,C9,0,2,2,https://www.vlr.gg/427993/nrg-esports-vs-cloud9-champions-tour-2025-americas-kickoff-ur1
+430514,2277,Main Event: Upper Round 1,2025-01-18T08:00:00Z,10.0,3,466,BOOM Esports,BME,14,T1,T1,1,2,2,https://www.vlr.gg/430514/boom-esports-vs-t1-champions-tour-2025-pacific-kickoff-ur1
+430851,2275,Main Event: Lower Round 1,2025-01-18T09:00:00Z,,3,14137,Titan Esports Club,TEC,13576,JD Mall JDG Esports (JD Gaming),JDG,0,2,2,https://www.vlr.gg/430851/titan-esports-club-vs-jdg-esports-champions-tour-2025-china-kickoff-lr1
+430515,2277,Main Event: Upper Round 1,2025-01-18T11:15:00Z,10.0,3,5448,ZETA DIVISION,ZETA,11060,Nongshim RedForce,NS,0,2,2,https://www.vlr.gg/430515/zeta-division-vs-nongshim-redforce-champions-tour-2025-pacific-kickoff-ur1
+430853,2275,Main Event: Lower Round 1,2025-01-18T11:20:00Z,,3,13581,Xi Lai Gaming,XLG,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/430853/xi-lai-gaming-vs-all-gamers-champions-tour-2025-china-kickoff-lr1
+427995,2274,Main Event: Upper Quarterfinals,2025-01-18T22:00:00Z,10.0,3,2355,KRÜ Esports,KRÜ,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/427995/kr-esports-vs-loud-champions-tour-2025-americas-kickoff-ubqf
+427996,2274,Main Event: Upper Quarterfinals,2025-01-19T00:25:00Z,10.0,3,2,Sentinels,SEN,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/427996/sentinels-vs-100-thieves-champions-tour-2025-americas-kickoff-ubqf
+430516,2277,Main Event: Upper Round 1,2025-01-19T08:00:00Z,10.0,3,918,Global Esports,GE,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/430516/global-esports-vs-team-secret-champions-tour-2025-pacific-kickoff-ur1
+430850,2275,Main Event: Lower Round 1,2025-01-19T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,731,TYLOO,TYL,2,0,1,https://www.vlr.gg/430850/dragon-ranger-gaming-vs-tyloo-champions-tour-2025-china-kickoff-lr1
+430517,2277,Main Event: Upper Round 1,2025-01-19T11:00:00Z,10.0,3,278,DetonatioN FocusMe,DFM,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/430517/detonation-focusme-vs-rex-regum-qeon-champions-tour-2025-pacific-kickoff-ur1
+430849,2275,Main Event: Lower Round 1,2025-01-19T11:15:00Z,,3,12064,Nova Esports,NOVA,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/430849/nova-esports-vs-wolves-esports-champions-tour-2025-china-kickoff-lr1
+427998,2274,Main Event: Upper Quarterfinals,2025-01-19T22:00:00Z,10.0,3,2359,LEVIATÁN,LEV,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/427998/leviat-n-vs-furia-champions-tour-2025-americas-kickoff-ubqf
+427997,2274,Main Event: Upper Quarterfinals,2025-01-20T00:20:00Z,10.0,3,11058,G2 Esports,G2,188,Cloud9,C9,2,0,1,https://www.vlr.gg/427997/g2-esports-vs-cloud9-champions-tour-2025-americas-kickoff-ubqf
+430521,2277,Main Event: Upper Quarterfinals,2025-01-20T08:00:00Z,10.0,3,8185,KIWOOM DRX,KRX,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/430521/drx-vs-nongshim-redforce-champions-tour-2025-pacific-kickoff-ubqf
+430845,2275,Main Event: Upper Semifinals,2025-01-20T09:00:00Z,,3,12010,Bilibili Gaming,BLG,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/430845/bilibili-gaming-vs-funplus-phoenix-champions-tour-2025-china-kickoff-ubsf
+430518,2277,Main Event: Upper Quarterfinals,2025-01-20T11:15:00Z,10.0,3,624,Paper Rex,PRX,14,T1,T1,1,2,2,https://www.vlr.gg/430518/paper-rex-vs-t1-champions-tour-2025-pacific-kickoff-ubqf
+430846,2275,Main Event: Upper Semifinals,2025-01-20T11:25:00Z,,3,12685,Trace Esports,TE,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/430846/trace-esports-vs-edward-gaming-champions-tour-2025-china-kickoff-ubsf
+430854,2275,Main Event: Lower Round 2,2025-01-21T09:00:00Z,,3,12064,Nova Esports,NOVA,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/430854/nova-esports-vs-dragon-ranger-gaming-champions-tour-2025-china-kickoff-lr2
+430855,2275,Main Event: Lower Round 2,2025-01-21T11:15:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/430855/jdg-esports-vs-xi-lai-gaming-champions-tour-2025-china-kickoff-lr2
+430856,2275,Main Event: Lower Round 3,2025-01-22T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/430856/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2025-china-kickoff-lr3
+430857,2275,Main Event: Lower Round 3,2025-01-22T12:05:00Z,,3,1120,EDward Gaming,EDG,13581,Xi Lai Gaming,XLG,2,1,1,https://www.vlr.gg/430857/edward-gaming-vs-xi-lai-gaming-champions-tour-2025-china-kickoff-lr3
+429383,2276,Main Event: Upper Quarterfinals,2025-01-22T17:00:00Z,10.0,3,1184,FUT Esports,FUT,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/429383/fut-esports-vs-team-liquid-champions-tour-2025-emea-kickoff-ubqf
+429386,2276,Main Event: Upper Quarterfinals,2025-01-22T19:10:00Z,10.0,3,1001,Team Heretics,TH,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/429386/team-heretics-vs-gentle-mates-champions-tour-2025-emea-kickoff-ubqf
+430847,2275,Main Event: Upper Final,2025-01-23T09:00:00Z,,3,12010,Bilibili Gaming,BLG,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/430847/bilibili-gaming-vs-trace-esports-champions-tour-2025-china-kickoff-ubf
+430858,2275,Main Event: Lower Round 4,2025-01-23T12:15:00Z,,3,11981,Dragon Ranger Gaming,DRG,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/430858/dragon-ranger-gaming-vs-edward-gaming-champions-tour-2025-china-kickoff-lr4
+429393,2276,Main Event: Lower Round 1,2025-01-23T17:00:00Z,10.0,3,8877,Karmine Corp,KC,14419,GIANTX,GX,1,2,2,https://www.vlr.gg/429393/karmine-corp-vs-giantx-champions-tour-2025-emea-kickoff-lr1
+429392,2276,Main Event: Lower Round 1,2025-01-23T20:30:00Z,10.0,3,2593,FNATIC,FNC,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/429392/fnatic-vs-natus-vincere-champions-tour-2025-emea-kickoff-lr1
+428003,2274,Main Event: Lower Round 1,2025-01-23T22:00:00Z,10.0,3,2406,FURIA,FUR,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/428003/furia-vs-evil-geniuses-champions-tour-2025-americas-kickoff-lr1
+428004,2274,Main Event: Lower Round 1,2025-01-24T00:20:00Z,10.0,3,188,Cloud9,C9,7386,MIBR,MIBR,1,2,2,https://www.vlr.gg/428004/cloud9-vs-mibr-champions-tour-2025-americas-kickoff-lr1
+430860,2275,Main Event: Lower Final,2025-01-24T09:00:00Z,,5,12010,Bilibili Gaming,BLG,1120,EDward Gaming,EDG,0,3,2,https://www.vlr.gg/430860/bilibili-gaming-vs-edward-gaming-champions-tour-2025-china-kickoff-lbf
+429394,2276,Main Event: Lower Round 1,2025-01-24T17:00:00Z,10.0,3,474,Team Liquid,TL,11479,Apeks,APK,2,1,1,https://www.vlr.gg/429394/team-liquid-vs-apeks-champions-tour-2025-emea-kickoff-lr1
+429391,2276,Main Event: Lower Round 1,2025-01-24T20:10:00Z,10.0,3,12694,Gentle Mates,M8,7035,Movistar KOI (KOI),MKOI,2,1,1,https://www.vlr.gg/429391/gentle-mates-vs-koi-champions-tour-2025-emea-kickoff-lr1
+428006,2274,Main Event: Lower Round 1,2025-01-24T22:00:00Z,10.0,3,2355,KRÜ Esports,KRÜ,15072,2Game Esports,2G,2,0,1,https://www.vlr.gg/428006/kr-esports-vs-2game-esports-champions-tour-2025-americas-kickoff-lr1
+428005,2274,Main Event: Lower Round 1,2025-01-25T00:00:00Z,10.0,3,120,100 Thieves,100T,1034,NRG,NRG,1,2,2,https://www.vlr.gg/428005/100-thieves-vs-nrg-esports-champions-tour-2025-americas-kickoff-lr1
+430519,2277,Main Event: Upper Quarterfinals,2025-01-25T08:00:00Z,10.0,3,8304,TALON,TLN,918,Global Esports,GE,2,1,1,https://www.vlr.gg/430519/talon-vs-global-esports-champions-tour-2025-pacific-kickoff-ubqf
+430848,2275,Main Event: Grand Final,2025-01-25T09:00:00Z,,5,12685,Trace Esports,TE,1120,EDward Gaming,EDG,1,3,2,https://www.vlr.gg/430848/trace-esports-vs-edward-gaming-champions-tour-2025-china-kickoff-gf
+430520,2277,Main Event: Upper Quarterfinals,2025-01-25T11:00:00Z,10.0,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/430520/gen-g-vs-rex-regum-qeon-champions-tour-2025-pacific-kickoff-ubqf
+430526,2277,Main Event: Lower Round 1,2025-01-26T08:00:00Z,10.01,3,11060,Nongshim RedForce,NS,466,BOOM Esports,BME,2,1,1,https://www.vlr.gg/430526/nongshim-redforce-vs-boom-esports-champions-tour-2025-pacific-kickoff-lr1
+430529,2277,Main Event: Lower Round 1,2025-01-26T11:00:00Z,10.01,3,624,Paper Rex,PRX,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/430529/paper-rex-vs-zeta-division-champions-tour-2025-pacific-kickoff-lr1
+430527,2277,Main Event: Lower Round 1,2025-01-27T08:00:00Z,10.01,3,878,Rex Regum Qeon,RRQ,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/430527/rex-regum-qeon-vs-team-secret-champions-tour-2025-pacific-kickoff-lr1
+430528,2277,Main Event: Lower Round 1,2025-01-27T11:00:00Z,10.01,3,918,Global Esports,GE,278,DetonatioN FocusMe,DFM,0,2,2,https://www.vlr.gg/430528/global-esports-vs-detonation-focusme-champions-tour-2025-pacific-kickoff-lr1
+429388,2276,Main Event: Upper Semifinals,2025-01-29T17:00:00Z,10.01,3,397,BBL Esports,BBL,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/429388/bbl-esports-vs-team-heretics-champions-tour-2025-emea-kickoff-ubsf
+429387,2276,Main Event: Upper Semifinals,2025-01-29T19:25:00Z,10.01,3,1184,FUT Esports,FUT,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/429387/fut-esports-vs-team-vitality-champions-tour-2025-emea-kickoff-ubsf
+429395,2276,Main Event: Lower Round 2,2025-01-30T17:00:00Z,10.01,3,12694,Gentle Mates,M8,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/429395/gentle-mates-vs-fnatic-champions-tour-2025-emea-kickoff-lr2
+429396,2276,Main Event: Lower Round 2,2025-01-30T19:15:00Z,10.01,3,14419,GIANTX,GX,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/429396/giantx-vs-team-liquid-champions-tour-2025-emea-kickoff-lr2
+430522,2277,Main Event: Upper Semifinals,2025-01-31T08:00:00Z,10.01,3,14,T1,T1,8304,TALON,TLN,2,1,1,https://www.vlr.gg/430522/t1-vs-talon-champions-tour-2025-pacific-kickoff-ubsf
+430523,2277,Main Event: Upper Semifinals,2025-01-31T10:45:00Z,10.01,3,17,Gen.G,GEN,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/430523/gen-g-vs-drx-champions-tour-2025-pacific-kickoff-ubsf
+429397,2276,Main Event: Lower Round 3,2025-01-31T17:00:00Z,10.01,3,1184,FUT Esports,FUT,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/429397/fut-esports-vs-fnatic-champions-tour-2025-emea-kickoff-lr3
+429398,2276,Main Event: Lower Round 3,2025-01-31T19:15:00Z,10.01,3,397,BBL Esports,BBL,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/429398/bbl-esports-vs-team-liquid-champions-tour-2025-emea-kickoff-lr3
+427999,2274,Main Event: Upper Semifinals,2025-01-31T22:00:00Z,10.01,3,6961,LOUD,LOUD,2,Sentinels,SEN,1,2,2,https://www.vlr.gg/427999/loud-vs-sentinels-champions-tour-2025-americas-kickoff-ubsf
+428000,2274,Main Event: Upper Semifinals,2025-02-01T02:00:00Z,10.01,3,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,2,0,1,https://www.vlr.gg/428000/g2-esports-vs-leviat-n-champions-tour-2025-americas-kickoff-ubsf
+430530,2277,Main Event: Lower Round 2,2025-02-01T08:00:00Z,10.01,3,11060,Nongshim RedForce,NS,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/430530/nongshim-redforce-vs-rex-regum-qeon-champions-tour-2025-pacific-kickoff-lr2
+430531,2277,Main Event: Lower Round 2,2025-02-01T12:10:00Z,10.01,3,278,DetonatioN FocusMe,DFM,624,Paper Rex,PRX,2,0,1,https://www.vlr.gg/430531/detonation-focusme-vs-paper-rex-champions-tour-2025-pacific-kickoff-lr2
+428007,2274,Main Event: Lower Round 2,2025-02-01T22:00:00Z,10.01,3,5248,Evil Geniuses,EG,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/428007/evil-geniuses-vs-mibr-champions-tour-2025-americas-kickoff-lr2
+428008,2274,Main Event: Lower Round 2,2025-02-02T00:30:00Z,10.01,3,1034,NRG,NRG,2355,KRÜ Esports,KRÜ,1,2,2,https://www.vlr.gg/428008/nrg-esports-vs-kr-esports-champions-tour-2025-americas-kickoff-lr2
+430532,2277,Main Event: Lower Round 3,2025-02-02T08:00:00Z,10.01,3,8304,TALON,TLN,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/430532/talon-vs-nongshim-redforce-champions-tour-2025-pacific-kickoff-lr3
+430533,2277,Main Event: Lower Round 3,2025-02-02T11:00:00Z,10.01,3,17,Gen.G,GEN,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/430533/gen-g-vs-detonation-focusme-champions-tour-2025-pacific-kickoff-lr3
+428009,2274,Main Event: Lower Round 3,2025-02-02T22:00:00Z,10.01,3,2359,LEVIATÁN,LEV,7386,MIBR,MIBR,1,2,2,https://www.vlr.gg/428009/leviat-n-vs-mibr-champions-tour-2025-americas-kickoff-lr3
+428010,2274,Main Event: Lower Round 3,2025-02-03T01:30:00Z,10.01,3,6961,LOUD,LOUD,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/428010/loud-vs-kr-esports-champions-tour-2025-americas-kickoff-lr3
+428001,2274,Main Event: Upper Final,2025-02-06T22:00:00Z,10.01,3,2,Sentinels,SEN,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/428001/sentinels-vs-g2-esports-champions-tour-2025-americas-kickoff-ubf
+428011,2274,Main Event: Lower Round 4,2025-02-07T00:20:00Z,10.01,3,7386,MIBR,MIBR,2355,KRÜ Esports,KRÜ,2,1,1,https://www.vlr.gg/428011/mibr-vs-kr-esports-champions-tour-2025-americas-kickoff-lr4
+430524,2277,Main Event: Upper Final,2025-02-07T08:00:00Z,10.01,3,14,T1,T1,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/430524/t1-vs-drx-champions-tour-2025-pacific-kickoff-ubf
+430534,2277,Main Event: Lower Round 4,2025-02-07T11:30:00Z,10.01,3,8304,TALON,TLN,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/430534/talon-vs-gen-g-champions-tour-2025-pacific-kickoff-lr4
+429389,2276,Main Event: Upper Final,2025-02-07T17:00:00Z,10.01,3,2059,Team Vitality,VIT,1001,Team Heretics,TH,2,0,1,https://www.vlr.gg/429389/team-vitality-vs-team-heretics-champions-tour-2025-emea-kickoff-ubf
+429400,2276,Main Event: Lower Round 4,2025-02-07T19:10:00Z,10.01,3,1184,FUT Esports,FUT,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/429400/fut-esports-vs-team-liquid-champions-tour-2025-emea-kickoff-lr4
+428012,2274,Main Event: Lower Final,2025-02-07T22:00:00Z,10.01,5,2,Sentinels,SEN,7386,MIBR,MIBR,3,1,1,https://www.vlr.gg/428012/sentinels-vs-mibr-champions-tour-2025-americas-kickoff-lbf
+430535,2277,Main Event: Lower Final,2025-02-08T08:00:00Z,10.01,5,14,T1,T1,17,Gen.G,GEN,3,2,1,https://www.vlr.gg/430535/t1-vs-gen-g-champions-tour-2025-pacific-kickoff-lbf
+429401,2276,Main Event: Lower Final,2025-02-08T17:00:00Z,10.01,5,1001,Team Heretics,TH,474,Team Liquid,TL,0,3,2,https://www.vlr.gg/429401/team-heretics-vs-team-liquid-champions-tour-2025-emea-kickoff-lbf
+428002,2274,Main Event: Grand Final,2025-02-08T22:00:00Z,10.01,5,11058,G2 Esports,G2,2,Sentinels,SEN,3,2,1,https://www.vlr.gg/428002/g2-esports-vs-sentinels-champions-tour-2025-americas-kickoff-gf
+430525,2277,Main Event: Grand Final,2025-02-09T08:00:00Z,10.01,5,8185,KIWOOM DRX,KRX,14,T1,T1,3,2,1,https://www.vlr.gg/430525/drx-vs-t1-champions-tour-2025-pacific-kickoff-gf
+429390,2276,Main Event: Grand Final,2025-02-09T17:00:00Z,10.01,5,2059,Team Vitality,VIT,474,Team Liquid,TL,3,2,1,https://www.vlr.gg/429390/team-vitality-vs-team-liquid-champions-tour-2025-emea-kickoff-gf
+448598,2281,Swiss Stage: Round 1,2025-02-20T10:00:00Z,10.02,3,1120,EDward Gaming,EDG,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/448598/edward-gaming-vs-team-liquid-champions-tour-2025-masters-bangkok-r1
+448600,2281,Swiss Stage: Round 1,2025-02-20T13:00:00Z,10.02,3,8185,KIWOOM DRX,KRX,2,Sentinels,SEN,2,0,1,https://www.vlr.gg/448600/drx-vs-sentinels-champions-tour-2025-masters-bangkok-r1
+448599,2281,Swiss Stage: Round 1,2025-02-21T10:00:00Z,10.02,3,2059,Team Vitality,VIT,14,T1,T1,2,0,1,https://www.vlr.gg/448599/team-vitality-vs-t1-champions-tour-2025-masters-bangkok-r1
+448597,2281,Swiss Stage: Round 1,2025-02-21T12:25:00Z,10.02,3,11058,G2 Esports,G2,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/448597/g2-esports-vs-trace-esports-champions-tour-2025-masters-bangkok-r1
+449000,2281,Swiss Stage: Round 2 (1-0),2025-02-22T10:00:00Z,10.02,3,8185,KIWOOM DRX,KRX,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/449000/drx-vs-team-vitality-champions-tour-2025-masters-bangkok-r2-1-0
+449001,2281,Swiss Stage: Round 2 (1-0),2025-02-22T13:25:00Z,10.02,3,1120,EDward Gaming,EDG,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/449001/edward-gaming-vs-g2-esports-champions-tour-2025-masters-bangkok-r2-1-0
+449002,2281,Swiss Stage: Round 2 (0-1),2025-02-23T10:00:00Z,10.02,3,14,T1,T1,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/449002/t1-vs-trace-esports-champions-tour-2025-masters-bangkok-r2-0-1
+449003,2281,Swiss Stage: Round 2 (0-1),2025-02-23T11:55:00Z,10.02,3,474,Team Liquid,TL,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/449003/team-liquid-vs-sentinels-champions-tour-2025-masters-bangkok-r2-0-1
+449004,2281,Swiss Stage: Round 3,2025-02-24T10:00:00Z,10.02,3,14,T1,T1,8185,KIWOOM DRX,KRX,2,0,1,https://www.vlr.gg/449004/t1-vs-drx-champions-tour-2025-masters-bangkok-r3
+449005,2281,Swiss Stage: Round 3,2025-02-24T12:10:00Z,10.02,3,11058,G2 Esports,G2,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/449005/g2-esports-vs-team-liquid-champions-tour-2025-masters-bangkok-r3
+449008,2281,Playoffs: Upper Semifinals,2025-02-27T10:00:00Z,10.02,3,1120,EDward Gaming,EDG,14,T1,T1,2,1,1,https://www.vlr.gg/449008/edward-gaming-vs-t1-champions-tour-2025-masters-bangkok-ubsf
+449009,2281,Playoffs: Upper Semifinals,2025-02-27T13:15:00Z,10.02,3,2059,Team Vitality,VIT,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/449009/team-vitality-vs-g2-esports-champions-tour-2025-masters-bangkok-ubsf
+449010,2281,Playoffs: Upper Final,2025-02-28T10:00:00Z,10.02,3,1120,EDward Gaming,EDG,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/449010/edward-gaming-vs-g2-esports-champions-tour-2025-masters-bangkok-ubf
+449012,2281,Playoffs: Lower Round 1,2025-02-28T12:05:00Z,10.02,3,14,T1,T1,2059,Team Vitality,VIT,2,1,1,https://www.vlr.gg/449012/t1-vs-team-vitality-champions-tour-2025-masters-bangkok-lr1
+449013,2281,Playoffs: Lower Final,2025-03-01T10:00:00Z,10.02,5,1120,EDward Gaming,EDG,14,T1,T1,1,3,2,https://www.vlr.gg/449013/edward-gaming-vs-t1-champions-tour-2025-masters-bangkok-lbf
+450589,2281,Showmatch: Main Event,2025-03-02T10:00:00Z,,1,15315,Team International,INTL,17715,Team Thailand,THAi,0,1,2,https://www.vlr.gg/450589/team-international-vs-team-thailand-champions-tour-2025-masters-bangkok-main-event
+449011,2281,Playoffs: Grand Final,2025-03-02T11:15:00Z,10.02,5,11058,G2 Esports,G2,14,T1,T1,2,3,2,https://www.vlr.gg/449011/g2-esports-vs-t1-champions-tour-2025-masters-bangkok-gf
+450047,2359,Group Stage: Week 1,2025-03-13T11:00:00Z,,3,13581,Xi Lai Gaming,XLG,12010,Bilibili Gaming,BLG,1,2,2,https://www.vlr.gg/450047/xi-lai-gaming-vs-bilibili-gaming-champions-tour-2025-china-stage-1-w1
+450048,2359,Group Stage: Week 1,2025-03-14T11:00:00Z,,3,12685,Trace Esports,TE,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/450048/trace-esports-vs-all-gamers-champions-tour-2025-china-stage-1-w1
+450049,2359,Group Stage: Week 1,2025-03-15T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/450049/dragon-ranger-gaming-vs-nova-esports-champions-tour-2025-china-stage-1-w1
+450050,2359,Group Stage: Week 1,2025-03-15T11:05:00Z,,3,731,TYLOO,TYL,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/450050/tyloo-vs-edward-gaming-champions-tour-2025-china-stage-1-w1
+450051,2359,Group Stage: Week 1,2025-03-16T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/450051/jdg-esports-vs-wolves-esports-champions-tour-2025-china-stage-1-w1
+450052,2359,Group Stage: Week 1,2025-03-16T11:25:00Z,,3,11328,FunPlus Phoenix,FPX,14137,Titan Esports Club,TEC,2,0,1,https://www.vlr.gg/450052/funplus-phoenix-vs-titan-esports-club-champions-tour-2025-china-stage-1-w1
+450053,2359,Group Stage: Week 2,2025-03-20T11:00:00Z,,3,12064,Nova Esports,NOVA,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/450053/nova-esports-vs-edward-gaming-champions-tour-2025-china-stage-1-w2
+450054,2359,Group Stage: Week 2,2025-03-21T11:00:00Z,,3,731,TYLOO,TYL,11328,FunPlus Phoenix,FPX,1,2,2,https://www.vlr.gg/450054/tyloo-vs-funplus-phoenix-champions-tour-2025-china-stage-1-w2
+459517,2347,Group Stage: Week 1,2025-03-21T21:00:00Z,10.05,3,188,Cloud9,C9,1034,NRG,NRG,2,1,1,https://www.vlr.gg/459517/cloud9-vs-nrg-esports-champions-tour-2025-americas-stage-1-w1
+459518,2347,Group Stage: Week 1,2025-03-22T00:25:00Z,10.05,3,2355,VISA KRÜ (KRÜ Esports),KRÜ,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/459518/kr-esports-vs-loud-champions-tour-2025-americas-stage-1-w1
+458805,2379,Group Stage: Week 1,2025-03-22T08:00:00Z,10.05,3,278,DetonatioN FocusMe,DFM,918,Global Esports,GE,0,2,2,https://www.vlr.gg/458805/detonation-focusme-vs-global-esports-champions-tour-2025-pacific-stage-1-w1
+450055,2359,Group Stage: Week 2,2025-03-22T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/450055/xi-lai-gaming-vs-all-gamers-champions-tour-2025-china-stage-1-w2
+458806,2379,Group Stage: Week 1,2025-03-22T10:40:00Z,10.05,3,14,T1,T1,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/458806/t1-vs-zeta-division-champions-tour-2025-pacific-stage-1-w1
+450056,2359,Group Stage: Week 2,2025-03-22T11:20:00Z,,3,13790,Wolves Esports,WOL,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/450056/wolves-esports-vs-trace-esports-champions-tour-2025-china-stage-1-w2
+459519,2347,Group Stage: Week 1,2025-03-22T21:00:00Z,10.05,3,11058,G2 Esports,G2,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/459519/g2-esports-vs-furia-champions-tour-2025-americas-stage-1-w1
+459520,2347,Group Stage: Week 1,2025-03-22T23:25:00Z,10.05,3,7386,MIBR,MIBR,2359,LEVIATÁN,LEV,2,0,1,https://www.vlr.gg/459520/mibr-vs-leviat-n-champions-tour-2025-americas-stage-1-w1
+458807,2379,Group Stage: Week 1,2025-03-23T08:00:00Z,10.05,3,8185,KIWOOM DRX,KRX,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/458807/drx-vs-paper-rex-champions-tour-2025-pacific-stage-1-w1
+450057,2359,Group Stage: Week 2,2025-03-23T09:00:00Z,,3,14137,Titan Esports Club,TEC,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/450057/titan-esports-club-vs-dragon-ranger-gaming-champions-tour-2025-china-stage-1-w2
+458808,2379,Group Stage: Week 1,2025-03-23T11:05:00Z,10.05,3,8304,TALON,TLN,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/458808/talon-vs-team-secret-champions-tour-2025-pacific-stage-1-w1
+450058,2359,Group Stage: Week 2,2025-03-23T12:15:00Z,,3,12010,Bilibili Gaming,BLG,13576,JD Mall JDG Esports (JD Gaming),JDG,2,1,1,https://www.vlr.gg/450058/bilibili-gaming-vs-jdg-esports-champions-tour-2025-china-stage-1-w2
+459521,2347,Group Stage: Week 1,2025-03-23T21:00:00Z,10.05,3,15072,2Game Esports,2G,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/459521/2game-esports-vs-evil-geniuses-champions-tour-2025-americas-stage-1-w1
+459522,2347,Group Stage: Week 1,2025-03-23T23:30:00Z,10.05,3,2,Sentinels,SEN,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/459522/sentinels-vs-100-thieves-champions-tour-2025-americas-stage-1-w1
+458809,2379,Group Stage: Week 1,2025-03-24T08:00:00Z,10.05,3,17,Gen.G,GEN,466,BOOM Esports,BME,0,2,2,https://www.vlr.gg/458809/gen-g-vs-boom-esports-champions-tour-2025-pacific-stage-1-w1
+458810,2379,Group Stage: Week 1,2025-03-24T10:50:00Z,10.05,3,11060,Nongshim RedForce,NS,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/458810/nongshim-redforce-vs-rex-regum-qeon-champions-tour-2025-pacific-stage-1-w1
+459826,2380,Group Stage: Week 1,2025-03-26T16:00:00Z,10.05,3,2059,Team Vitality,VIT,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/459826/team-vitality-vs-giantx-champions-tour-2025-emea-stage-1-w1
+459827,2380,Group Stage: Week 1,2025-03-26T18:15:00Z,10.05,3,397,BBL Esports,BBL,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/459827/bbl-esports-vs-karmine-corp-champions-tour-2025-emea-stage-1-w1
+450059,2359,Group Stage: Week 3,2025-03-27T11:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/450059/jdg-esports-vs-trace-esports-champions-tour-2025-china-stage-1-w3
+459828,2380,Group Stage: Week 1,2025-03-27T16:00:00Z,10.05,3,1001,Team Heretics,TH,11479,Apeks,APK,2,1,1,https://www.vlr.gg/459828/team-heretics-vs-apeks-champions-tour-2025-emea-stage-1-w1
+459829,2380,Group Stage: Week 1,2025-03-27T19:15:00Z,10.05,3,1184,FUT Esports,FUT,7035,Movistar KOI (KOI),MKOI,2,0,1,https://www.vlr.gg/459829/fut-esports-vs-koi-champions-tour-2025-emea-stage-1-w1
+450060,2359,Group Stage: Week 3,2025-03-28T11:00:00Z,,3,13790,Wolves Esports,WOL,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/450060/wolves-esports-vs-xi-lai-gaming-champions-tour-2025-china-stage-1-w3
+459830,2380,Group Stage: Week 1,2025-03-28T16:00:00Z,10.05,3,2593,FNATIC,FNC,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/459830/fnatic-vs-natus-vincere-champions-tour-2025-emea-stage-1-w1
+459831,2380,Group Stage: Week 1,2025-03-28T18:30:00Z,10.05,3,474,Team Liquid,TL,12694,Gentle Mates,M8,1,2,2,https://www.vlr.gg/459831/team-liquid-vs-gentle-mates-champions-tour-2025-emea-stage-1-w1
+459523,2347,Group Stage: Week 2,2025-03-28T21:00:00Z,10.05,3,1034,NRG,NRG,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/459523/nrg-esports-vs-furia-champions-tour-2025-americas-stage-1-w2
+459524,2347,Group Stage: Week 2,2025-03-29T00:00:00Z,10.05,3,2,Sentinels,SEN,2355,VISA KRÜ (KRÜ Esports),KRÜ,0,2,2,https://www.vlr.gg/459524/sentinels-vs-kr-esports-champions-tour-2025-americas-stage-1-w2
+458811,2379,Group Stage: Week 2,2025-03-29T08:00:00Z,10.05,3,6199,Team Secret,TS,5448,ZETA DIVISION,ZETA,0,2,2,https://www.vlr.gg/458811/team-secret-vs-zeta-division-champions-tour-2025-pacific-stage-1-w2
+450061,2359,Group Stage: Week 3,2025-03-29T09:00:00Z,,3,731,TYLOO,TYL,14137,Titan Esports Club,TEC,1,2,2,https://www.vlr.gg/450061/tyloo-vs-titan-esports-club-champions-tour-2025-china-stage-1-w3
+458812,2379,Group Stage: Week 2,2025-03-29T10:35:00Z,10.05,3,14,T1,T1,11060,Nongshim RedForce,NS,2,0,1,https://www.vlr.gg/458812/t1-vs-nongshim-redforce-champions-tour-2025-pacific-stage-1-w2
+450062,2359,Group Stage: Week 3,2025-03-29T12:15:00Z,,3,11981,Dragon Ranger Gaming,DRG,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/450062/dragon-ranger-gaming-vs-edward-gaming-champions-tour-2025-china-stage-1-w3
+459525,2347,Group Stage: Week 2,2025-03-29T21:00:00Z,10.05,3,120,100 Thieves,100T,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/459525/100-thieves-vs-evil-geniuses-champions-tour-2025-americas-stage-1-w2
+459526,2347,Group Stage: Week 2,2025-03-29T23:15:00Z,10.05,3,11058,G2 Esports,G2,7386,MIBR,MIBR,2,1,1,https://www.vlr.gg/459526/g2-esports-vs-mibr-champions-tour-2025-americas-stage-1-w2
+458813,2379,Group Stage: Week 2,2025-03-30T08:00:00Z,10.05,3,17,Gen.G,GEN,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/458813/gen-g-vs-paper-rex-champions-tour-2025-pacific-stage-1-w2
+450063,2359,Group Stage: Week 3,2025-03-30T09:00:00Z,,3,12064,Nova Esports,NOVA,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/450063/nova-esports-vs-funplus-phoenix-champions-tour-2025-china-stage-1-w3
+458814,2379,Group Stage: Week 2,2025-03-30T10:55:00Z,10.05,3,8185,KIWOOM DRX,KRX,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/458814/drx-vs-detonation-focusme-champions-tour-2025-pacific-stage-1-w2
+450064,2359,Group Stage: Week 3,2025-03-30T11:30:00Z,,3,1119,All Gamers,AG,12010,Bilibili Gaming,BLG,0,2,2,https://www.vlr.gg/450064/all-gamers-vs-bilibili-gaming-champions-tour-2025-china-stage-1-w3
+459527,2347,Group Stage: Week 2,2025-03-30T21:00:00Z,10.05,3,6961,LOUD,LOUD,15072,2Game Esports,2G,0,2,2,https://www.vlr.gg/459527/loud-vs-2game-esports-champions-tour-2025-americas-stage-1-w2
+459528,2347,Group Stage: Week 2,2025-03-30T23:50:00Z,10.05,3,2359,LEVIATÁN,LEV,188,Cloud9,C9,0,2,2,https://www.vlr.gg/459528/leviat-n-vs-cloud9-champions-tour-2025-americas-stage-1-w2
+458815,2379,Group Stage: Week 2,2025-03-31T08:00:00Z,10.05,3,8304,TALON,TLN,878,Rex Regum Qeon,RRQ,0,2,2,https://www.vlr.gg/458815/talon-vs-rex-regum-qeon-champions-tour-2025-pacific-stage-1-w2
+458816,2379,Group Stage: Week 2,2025-03-31T10:10:00Z,10.05,3,466,BOOM Esports,BME,918,Global Esports,GE,2,0,1,https://www.vlr.gg/458816/boom-esports-vs-global-esports-champions-tour-2025-pacific-stage-1-w2
+459832,2380,Group Stage: Week 2,2025-04-02T15:00:00Z,10.05,3,474,Team Liquid,TL,397,BBL Esports,BBL,2,1,1,https://www.vlr.gg/459832/team-liquid-vs-bbl-esports-champions-tour-2025-emea-stage-1-w2
+459833,2380,Group Stage: Week 2,2025-04-02T17:50:00Z,10.05,3,11479,Apeks,APK,4915,Natus Vincere,NAVI,1,2,2,https://www.vlr.gg/459833/apeks-vs-natus-vincere-champions-tour-2025-emea-stage-1-w2
+450065,2359,Group Stage: Week 4,2025-04-03T11:00:00Z,,3,11328,FunPlus Phoenix,FPX,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/450065/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2025-china-stage-1-w4
+459834,2380,Group Stage: Week 2,2025-04-03T15:00:00Z,10.05,3,1184,FUT Esports,FUT,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/459834/fut-esports-vs-gentle-mates-champions-tour-2025-emea-stage-1-w2
+459835,2380,Group Stage: Week 2,2025-04-03T18:25:00Z,10.05,3,1001,Team Heretics,TH,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/459835/team-heretics-vs-giantx-champions-tour-2025-emea-stage-1-w2
+450066,2359,Group Stage: Week 4,2025-04-04T11:00:00Z,,3,12010,Bilibili Gaming,BLG,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/450066/bilibili-gaming-vs-wolves-esports-champions-tour-2025-china-stage-1-w4
+459836,2380,Group Stage: Week 2,2025-04-04T15:00:00Z,10.05,3,2059,Team Vitality,VIT,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/459836/team-vitality-vs-fnatic-champions-tour-2025-emea-stage-1-w2
+459837,2380,Group Stage: Week 2,2025-04-04T19:10:00Z,10.05,3,7035,Movistar KOI (KOI),MKOI,8877,Karmine Corp,KC,0,2,2,https://www.vlr.gg/459837/koi-vs-karmine-corp-champions-tour-2025-emea-stage-1-w2
+459529,2347,Group Stage: Week 3,2025-04-04T21:00:00Z,10.06,3,5248,Evil Geniuses,EG,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/459529/evil-geniuses-vs-sentinels-champions-tour-2025-americas-stage-1-w3
+459530,2347,Group Stage: Week 3,2025-04-04T23:10:00Z,10.06,3,120,100 Thieves,100T,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/459530/100-thieves-vs-loud-champions-tour-2025-americas-stage-1-w3
+458817,2379,Group Stage: Week 3,2025-04-05T08:00:00Z,10.06,3,17,Gen.G,GEN,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/458817/gen-g-vs-detonation-focusme-champions-tour-2025-pacific-stage-1-w3
+450067,2359,Group Stage: Week 4,2025-04-05T09:00:00Z,,3,1119,All Gamers,AG,13576,JD Mall JDG Esports (JD Gaming),JDG,0,2,2,https://www.vlr.gg/450067/all-gamers-vs-jdg-esports-champions-tour-2025-china-stage-1-w4
+458818,2379,Group Stage: Week 3,2025-04-05T10:00:00Z,10.06,3,878,Rex Regum Qeon,RRQ,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/458818/rex-regum-qeon-vs-zeta-division-champions-tour-2025-pacific-stage-1-w3
+450068,2359,Group Stage: Week 4,2025-04-05T11:30:00Z,,3,1120,EDward Gaming,EDG,14137,Titan Esports Club,TEC,2,1,1,https://www.vlr.gg/450068/edward-gaming-vs-titan-esports-club-champions-tour-2025-china-stage-1-w4
+459531,2347,Group Stage: Week 3,2025-04-05T21:00:00Z,10.06,3,15072,2Game Esports,2G,2355,VISA KRÜ (KRÜ Esports),KRÜ,1,2,2,https://www.vlr.gg/459531/2game-esports-vs-kr-esports-champions-tour-2025-americas-stage-1-w3
+459532,2347,Group Stage: Week 3,2025-04-06T00:10:00Z,10.06,3,11058,G2 Esports,G2,1034,NRG,NRG,2,0,1,https://www.vlr.gg/459532/g2-esports-vs-nrg-esports-champions-tour-2025-americas-stage-1-w3
+458819,2379,Group Stage: Week 3,2025-04-06T08:00:00Z,10.06,3,624,Paper Rex,PRX,466,BOOM Esports,BME,1,2,2,https://www.vlr.gg/458819/paper-rex-vs-boom-esports-champions-tour-2025-pacific-stage-1-w3
+450069,2359,Group Stage: Week 4,2025-04-06T09:00:00Z,,3,12064,Nova Esports,NOVA,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/450069/nova-esports-vs-tyloo-champions-tour-2025-china-stage-1-w4
+458820,2379,Group Stage: Week 3,2025-04-06T11:45:00Z,10.06,3,8304,TALON,TLN,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/458820/talon-vs-nongshim-redforce-champions-tour-2025-pacific-stage-1-w3
+450070,2359,Group Stage: Week 4,2025-04-06T12:00:00Z,,3,12685,Trace Esports,TE,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/450070/trace-esports-vs-xi-lai-gaming-champions-tour-2025-china-stage-1-w4
+459533,2347,Group Stage: Week 3,2025-04-06T21:00:00Z,10.06,3,2406,FURIA,FUR,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/459533/furia-vs-leviat-n-champions-tour-2025-americas-stage-1-w3
+459534,2347,Group Stage: Week 3,2025-04-06T23:15:00Z,10.06,3,188,Cloud9,C9,7386,MIBR,MIBR,1,2,2,https://www.vlr.gg/459534/cloud9-vs-mibr-champions-tour-2025-americas-stage-1-w3
+458821,2379,Group Stage: Week 3,2025-04-07T08:00:00Z,10.06,3,8185,KIWOOM DRX,KRX,918,Global Esports,GE,2,0,1,https://www.vlr.gg/458821/drx-vs-global-esports-champions-tour-2025-pacific-stage-1-w3
+458822,2379,Group Stage: Week 3,2025-04-07T10:00:00Z,10.06,3,14,T1,T1,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/458822/t1-vs-team-secret-champions-tour-2025-pacific-stage-1-w3
+459839,2380,Group Stage: Week 3,2025-04-09T15:00:00Z,10.06,3,7035,Movistar KOI (KOI),MKOI,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/459839/koi-vs-bbl-esports-champions-tour-2025-emea-stage-1-w3
+459840,2380,Group Stage: Week 3,2025-04-09T17:15:00Z,10.06,3,4915,Natus Vincere,NAVI,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/459840/natus-vincere-vs-giantx-champions-tour-2025-emea-stage-1-w3
+450071,2359,Group Stage: Week 5,2025-04-10T11:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/450071/jdg-esports-vs-xi-lai-gaming-champions-tour-2025-china-stage-1-w5
+459841,2380,Group Stage: Week 3,2025-04-10T15:00:00Z,10.06,3,474,Team Liquid,TL,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/459841/team-liquid-vs-fut-esports-champions-tour-2025-emea-stage-1-w3
+459842,2380,Group Stage: Week 3,2025-04-10T16:50:00Z,10.06,3,2059,Team Vitality,VIT,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/459842/team-vitality-vs-team-heretics-champions-tour-2025-emea-stage-1-w3
+450072,2359,Group Stage: Week 5,2025-04-11T11:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,731,TYLOO,TYL,1,2,2,https://www.vlr.gg/450072/dragon-ranger-gaming-vs-tyloo-champions-tour-2025-china-stage-1-w5
+459843,2380,Group Stage: Week 3,2025-04-11T15:00:00Z,10.06,3,11479,Apeks,APK,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/459843/apeks-vs-fnatic-champions-tour-2025-emea-stage-1-w3
+459844,2380,Group Stage: Week 3,2025-04-11T18:00:00Z,10.06,3,8877,Karmine Corp,KC,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/459844/karmine-corp-vs-gentle-mates-champions-tour-2025-emea-stage-1-w3
+459535,2347,Group Stage: Week 4,2025-04-11T21:00:00Z,10.06,3,120,100 Thieves,100T,15072,2Game Esports,2G,2,0,1,https://www.vlr.gg/459535/100-thieves-vs-2game-esports-champions-tour-2025-americas-stage-1-w4
+459536,2347,Group Stage: Week 4,2025-04-11T23:30:00Z,10.06,3,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/459536/g2-esports-vs-leviat-n-champions-tour-2025-americas-stage-1-w4
+458823,2379,Group Stage: Week 4,2025-04-12T08:00:00Z,10.06,3,11060,Nongshim RedForce,NS,6199,Team Secret,TS,2,0,1,https://www.vlr.gg/458823/nongshim-redforce-vs-team-secret-champions-tour-2025-pacific-stage-1-w4
+450073,2359,Group Stage: Week 5,2025-04-12T09:00:00Z,,3,13790,Wolves Esports,WOL,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/450073/wolves-esports-vs-all-gamers-champions-tour-2025-china-stage-1-w5
+458824,2379,Group Stage: Week 4,2025-04-12T10:15:00Z,10.06,3,8185,KIWOOM DRX,KRX,466,BOOM Esports,BME,1,2,2,https://www.vlr.gg/458824/drx-vs-boom-esports-champions-tour-2025-pacific-stage-1-w4
+450074,2359,Group Stage: Week 5,2025-04-12T12:05:00Z,,3,12010,Bilibili Gaming,BLG,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/450074/bilibili-gaming-vs-trace-esports-champions-tour-2025-china-stage-1-w5
+459537,2347,Group Stage: Week 4,2025-04-12T21:00:00Z,10.06,3,2406,FURIA,FUR,188,Cloud9,C9,0,2,2,https://www.vlr.gg/459537/furia-vs-cloud9-champions-tour-2025-americas-stage-1-w4
+459538,2347,Group Stage: Week 4,2025-04-12T23:25:00Z,10.06,3,2,Sentinels,SEN,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/459538/sentinels-vs-loud-champions-tour-2025-americas-stage-1-w4
+458825,2379,Group Stage: Week 4,2025-04-13T08:00:00Z,10.06,3,14,T1,T1,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/458825/t1-vs-rex-regum-qeon-champions-tour-2025-pacific-stage-1-w4
+450075,2359,Group Stage: Week 5,2025-04-13T09:00:00Z,,3,14137,Titan Esports Club,TEC,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/450075/titan-esports-club-vs-nova-esports-champions-tour-2025-china-stage-1-w5
+450076,2359,Group Stage: Week 5,2025-04-13T11:10:00Z,,3,1120,EDward Gaming,EDG,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/450076/edward-gaming-vs-funplus-phoenix-champions-tour-2025-china-stage-1-w5
+458826,2379,Group Stage: Week 4,2025-04-13T11:10:00Z,10.06,3,17,Gen.G,GEN,918,Global Esports,GE,2,0,1,https://www.vlr.gg/458826/gen-g-vs-global-esports-champions-tour-2025-pacific-stage-1-w4
+459539,2347,Group Stage: Week 4,2025-04-13T21:00:00Z,10.06,3,2355,VISA KRÜ (KRÜ Esports),KRÜ,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/459539/kr-esports-vs-evil-geniuses-champions-tour-2025-americas-stage-1-w4
+459540,2347,Group Stage: Week 4,2025-04-13T23:10:00Z,10.06,3,1034,NRG,NRG,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/459540/nrg-esports-vs-mibr-champions-tour-2025-americas-stage-1-w4
+458827,2379,Group Stage: Week 4,2025-04-14T08:00:00Z,10.06,3,8304,TALON,TLN,5448,ZETA DIVISION,ZETA,0,2,2,https://www.vlr.gg/458827/talon-vs-zeta-division-champions-tour-2025-pacific-stage-1-w4
+458828,2379,Group Stage: Week 4,2025-04-14T10:10:00Z,10.06,3,278,DetonatioN FocusMe,DFM,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/458828/detonation-focusme-vs-paper-rex-champions-tour-2025-pacific-stage-1-w4
+459845,2380,Group Stage: Week 4,2025-04-16T15:00:00Z,10.06,3,2059,Team Vitality,VIT,11479,Apeks,APK,2,0,1,https://www.vlr.gg/459845/team-vitality-vs-apeks-champions-tour-2025-emea-stage-1-w4
+459846,2380,Group Stage: Week 4,2025-04-16T17:20:00Z,10.06,3,474,Team Liquid,TL,7035,Movistar KOI (KOI),MKOI,2,0,1,https://www.vlr.gg/459846/team-liquid-vs-koi-champions-tour-2025-emea-stage-1-w4
+473233,2359,Playoffs: Upper Round 1,2025-04-17T09:00:00Z,,3,14137,Titan Esports Club,TEC,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/473233/titan-esports-club-vs-wolves-esports-champions-tour-2025-china-stage-1-ur1
+473234,2359,Playoffs: Upper Round 1,2025-04-17T11:30:00Z,,3,13581,Xi Lai Gaming,XLG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/473234/xi-lai-gaming-vs-nova-esports-champions-tour-2025-china-stage-1-ur1
+459847,2380,Group Stage: Week 4,2025-04-17T15:00:00Z,10.06,3,12694,Gentle Mates,M8,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/459847/gentle-mates-vs-bbl-esports-champions-tour-2025-emea-stage-1-w4
+459848,2380,Group Stage: Week 4,2025-04-17T17:10:00Z,10.06,3,14419,GIANTX,GX,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/459848/giantx-vs-fnatic-champions-tour-2025-emea-stage-1-w4
+473235,2359,Playoffs: Lower Round 1,2025-04-18T09:00:00Z,,3,14137,Titan Esports Club,TEC,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/473235/titan-esports-club-vs-dragon-ranger-gaming-champions-tour-2025-china-stage-1-lr1
+473236,2359,Playoffs: Lower Round 1,2025-04-18T12:50:00Z,,3,12064,Nova Esports,NOVA,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/473236/nova-esports-vs-trace-esports-champions-tour-2025-china-stage-1-lr1
+459849,2380,Group Stage: Week 4,2025-04-18T15:00:00Z,10.06,3,8877,Karmine Corp,KC,1184,FUT Esports,FUT,1,2,2,https://www.vlr.gg/459849/karmine-corp-vs-fut-esports-champions-tour-2025-emea-stage-1-w4
+459850,2380,Group Stage: Week 4,2025-04-18T19:20:00Z,10.06,3,4915,Natus Vincere,NAVI,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/459850/natus-vincere-vs-team-heretics-champions-tour-2025-emea-stage-1-w4
+459541,2347,Group Stage: Week 5,2025-04-18T21:00:00Z,10.07,3,11058,G2 Esports,G2,188,Cloud9,C9,2,1,1,https://www.vlr.gg/459541/g2-esports-vs-cloud9-champions-tour-2025-americas-stage-1-w5
+459542,2347,Group Stage: Week 5,2025-04-19T00:00:00Z,10.07,3,7386,MIBR,MIBR,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/459542/mibr-vs-furia-champions-tour-2025-americas-stage-1-w5
+458830,2379,Group Stage: Week 5,2025-04-19T08:00:00Z,10.07,3,624,Paper Rex,PRX,918,Global Esports,GE,2,0,1,https://www.vlr.gg/458830/paper-rex-vs-global-esports-champions-tour-2025-pacific-stage-1-w5
+473237,2359,Playoffs: Upper Semifinals,2025-04-19T09:00:00Z,,3,12010,Bilibili Gaming,BLG,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/473237/bilibili-gaming-vs-wolves-esports-champions-tour-2025-china-stage-1-ubsf
+458831,2379,Group Stage: Week 5,2025-04-19T10:00:00Z,10.07,3,14,T1,T1,8304,TALON,TLN,0,2,2,https://www.vlr.gg/458831/t1-vs-talon-champions-tour-2025-pacific-stage-1-w5
+473238,2359,Playoffs: Upper Semifinals,2025-04-19T11:15:00Z,,3,1120,EDward Gaming,EDG,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/473238/edward-gaming-vs-xi-lai-gaming-champions-tour-2025-china-stage-1-ubsf
+459543,2347,Group Stage: Week 5,2025-04-19T21:00:00Z,10.07,3,2,Sentinels,SEN,15072,2Game Esports,2G,2,0,1,https://www.vlr.gg/459543/sentinels-vs-2game-esports-champions-tour-2025-americas-stage-1-w5
+459544,2347,Group Stage: Week 5,2025-04-19T23:10:00Z,10.07,3,2355,VISA KRÜ (KRÜ Esports),KRÜ,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/459544/kr-esports-vs-100-thieves-champions-tour-2025-americas-stage-1-w5
+458832,2379,Group Stage: Week 5,2025-04-20T08:00:00Z,10.07,3,8185,KIWOOM DRX,KRX,17,Gen.G,GEN,2,1,1,https://www.vlr.gg/458832/drx-vs-gen-g-champions-tour-2025-pacific-stage-1-w5
+473240,2359,Playoffs: Lower Round 2,2025-04-20T09:00:00Z,,3,12010,Bilibili Gaming,BLG,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/473240/bilibili-gaming-vs-trace-esports-champions-tour-2025-china-stage-1-lr2
+473239,2359,Playoffs: Lower Round 2,2025-04-20T11:10:00Z,,3,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/473239/edward-gaming-vs-dragon-ranger-gaming-champions-tour-2025-china-stage-1-lr2
+458833,2379,Group Stage: Week 5,2025-04-20T11:30:00Z,10.07,3,11060,Nongshim RedForce,NS,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/458833/nongshim-redforce-vs-zeta-division-champions-tour-2025-pacific-stage-1-w5
+459545,2347,Group Stage: Week 5,2025-04-20T21:00:00Z,10.07,3,5248,Evil Geniuses,EG,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/459545/evil-geniuses-vs-loud-champions-tour-2025-americas-stage-1-w5
+459546,2347,Group Stage: Week 5,2025-04-21T01:00:00Z,10.07,3,2359,LEVIATÁN,LEV,1034,NRG,NRG,0,2,2,https://www.vlr.gg/459546/leviat-n-vs-nrg-esports-champions-tour-2025-americas-stage-1-w5
+458834,2379,Group Stage: Week 5,2025-04-21T08:00:00Z,10.07,3,278,DetonatioN FocusMe,DFM,466,BOOM Esports,BME,0,2,2,https://www.vlr.gg/458834/detonation-focusme-vs-boom-esports-champions-tour-2025-pacific-stage-1-w5
+458835,2379,Group Stage: Week 5,2025-04-21T10:00:00Z,10.07,3,878,Rex Regum Qeon,RRQ,6199,Team Secret,TS,1,2,2,https://www.vlr.gg/458835/rex-regum-qeon-vs-team-secret-champions-tour-2025-pacific-stage-1-w5
+459852,2380,Group Stage: Week 5,2025-04-23T15:00:00Z,10.07,3,397,BBL Esports,BBL,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/459852/bbl-esports-vs-fut-esports-champions-tour-2025-emea-stage-1-w5
+459853,2380,Group Stage: Week 5,2025-04-23T19:00:00Z,10.07,3,14419,GIANTX,GX,11479,Apeks,APK,2,0,1,https://www.vlr.gg/459853/giantx-vs-apeks-champions-tour-2025-emea-stage-1-w5
+459854,2380,Group Stage: Week 5,2025-04-24T15:00:00Z,10.07,3,12694,Gentle Mates,M8,7035,Movistar KOI (KOI),MKOI,1,2,2,https://www.vlr.gg/459854/gentle-mates-vs-koi-champions-tour-2025-emea-stage-1-w5
+459855,2380,Group Stage: Week 5,2025-04-24T18:05:00Z,10.07,3,2059,Team Vitality,VIT,4915,Natus Vincere,NAVI,0,2,2,https://www.vlr.gg/459855/team-vitality-vs-natus-vincere-champions-tour-2025-emea-stage-1-w5
+475897,2347,Playoffs: Upper Round 1,2025-04-24T21:00:00Z,10.07,3,7386,MIBR,MIBR,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/475897/mibr-vs-100-thieves-champions-tour-2025-americas-stage-1-ubr1
+475898,2347,Playoffs: Upper Round 1,2025-04-24T23:15:00Z,10.07,3,2,Sentinels,SEN,188,Cloud9,C9,2,0,1,https://www.vlr.gg/475898/sentinels-vs-cloud9-champions-tour-2025-americas-stage-1-ubr1
+475903,2347,Playoffs: Lower Round 1,2025-04-25T21:00:00Z,10.07,3,120,100 Thieves,100T,1034,NRG,NRG,2,0,1,https://www.vlr.gg/475903/100-thieves-vs-nrg-esports-champions-tour-2025-americas-stage-1-lr1
+475904,2347,Playoffs: Lower Round 1,2025-04-25T23:15:00Z,10.07,3,188,Cloud9,C9,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/475904/cloud9-vs-evil-geniuses-champions-tour-2025-americas-stage-1-lr1
+473833,2379,Playoffs: Upper Round 1,2025-04-26T08:00:00Z,10.07,3,8304,TALON,TLN,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/473833/talon-vs-gen-g-champions-tour-2025-pacific-stage-1-ur1
+473834,2379,Playoffs: Upper Round 1,2025-04-26T11:00:00Z,10.07,3,8185,KIWOOM DRX,KRX,14,T1,T1,2,0,1,https://www.vlr.gg/473834/drx-vs-t1-champions-tour-2025-pacific-stage-1-ur1
+475899,2347,Playoffs: Upper Semifinals,2025-04-26T21:00:00Z,10.07,3,2355,VISA KRÜ (KRÜ Esports),KRÜ,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/475899/kr-esports-vs-mibr-champions-tour-2025-americas-stage-1-ubsf
+475900,2347,Playoffs: Upper Semifinals,2025-04-26T23:05:00Z,10.07,3,11058,G2 Esports,G2,2,Sentinels,SEN,1,2,2,https://www.vlr.gg/475900/g2-esports-vs-sentinels-champions-tour-2025-americas-stage-1-ubsf
+473837,2379,Playoffs: Upper Semifinals,2025-04-27T08:00:00Z,10.07,3,466,BOOM Esports,BME,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/473837/boom-esports-vs-gen-g-champions-tour-2025-pacific-stage-1-ubsf
+473838,2379,Playoffs: Upper Semifinals,2025-04-27T10:10:00Z,10.07,3,878,Rex Regum Qeon,RRQ,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/473838/rex-regum-qeon-vs-drx-champions-tour-2025-pacific-stage-1-ubsf
+475906,2347,Playoffs: Lower Round 2,2025-04-27T21:00:00Z,10.07,3,2355,VISA KRÜ (KRÜ Esports),KRÜ,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/475906/kr-esports-vs-evil-geniuses-champions-tour-2025-americas-stage-1-lr2
+475905,2347,Playoffs: Lower Round 2,2025-04-27T23:40:00Z,10.07,3,11058,G2 Esports,G2,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/475905/g2-esports-vs-100-thieves-champions-tour-2025-americas-stage-1-lr2
+473241,2359,Playoffs: Upper Final,2025-05-02T09:00:00Z,,3,13790,Wolves Esports,WOL,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/473241/wolves-esports-vs-xi-lai-gaming-champions-tour-2025-china-stage-1-ubf
+473242,2359,Playoffs: Lower Round 3,2025-05-02T11:35:00Z,,3,1120,EDward Gaming,EDG,12010,Bilibili Gaming,BLG,1,2,2,https://www.vlr.gg/473242/edward-gaming-vs-bilibili-gaming-champions-tour-2025-china-stage-1-lr3
+459856,2380,Group Stage: Week 5,2025-05-02T15:00:00Z,10.07,3,474,Team Liquid,TL,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/459856/team-liquid-vs-karmine-corp-champions-tour-2025-emea-stage-1-w5
+459857,2380,Group Stage: Week 5,2025-05-02T17:30:00Z,10.07,3,2593,FNATIC,FNC,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/459857/fnatic-vs-team-heretics-champions-tour-2025-emea-stage-1-w5
+475901,2347,Playoffs: Upper Final,2025-05-02T21:00:00Z,10.07,3,7386,MIBR,MIBR,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/475901/mibr-vs-sentinels-champions-tour-2025-americas-stage-1-ubf
+475907,2347,Playoffs: Lower Round 3,2025-05-02T23:50:00Z,10.07,3,11058,G2 Esports,G2,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/475907/g2-esports-vs-evil-geniuses-champions-tour-2025-americas-stage-1-lr3
+473835,2379,Playoffs: Lower Round 1,2025-05-03T08:00:00Z,10.07,3,8304,TALON,TLN,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/473835/talon-vs-nongshim-redforce-champions-tour-2025-pacific-stage-1-lr1
+473243,2359,Playoffs: Lower Final,2025-05-03T09:00:00Z,,5,13790,Wolves Esports,WOL,12010,Bilibili Gaming,BLG,0,3,2,https://www.vlr.gg/473243/wolves-esports-vs-bilibili-gaming-champions-tour-2025-china-stage-1-lbf
+473836,2379,Playoffs: Lower Round 1,2025-05-03T11:25:00Z,10.07,3,14,T1,T1,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/473836/t1-vs-paper-rex-champions-tour-2025-pacific-stage-1-lr1
+475908,2347,Playoffs: Lower Final,2025-05-03T21:00:00Z,10.07,5,7386,MIBR,MIBR,11058,G2 Esports,G2,1,3,2,https://www.vlr.gg/475908/mibr-vs-g2-esports-champions-tour-2025-americas-stage-1-lbf
+473839,2379,Playoffs: Lower Round 2,2025-05-04T08:00:00Z,10.07,3,8185,KIWOOM DRX,KRX,8304,TALON,TLN,2,0,1,https://www.vlr.gg/473839/drx-vs-talon-champions-tour-2025-pacific-stage-1-lr2
+473244,2359,Playoffs: Grand Final,2025-05-04T09:00:00Z,,5,13581,Xi Lai Gaming,XLG,12010,Bilibili Gaming,BLG,3,1,1,https://www.vlr.gg/473244/xi-lai-gaming-vs-bilibili-gaming-champions-tour-2025-china-stage-1-gf
+473840,2379,Playoffs: Lower Round 2,2025-05-04T10:00:00Z,10.07,3,466,BOOM Esports,BME,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/473840/boom-esports-vs-paper-rex-champions-tour-2025-pacific-stage-1-lr2
+475902,2347,Playoffs: Grand Final,2025-05-04T21:00:00Z,10.07,5,2,Sentinels,SEN,11058,G2 Esports,G2,1,3,2,https://www.vlr.gg/475902/sentinels-vs-g2-esports-champions-tour-2025-americas-stage-1-gf
+482503,2380,Playoffs: Upper Round 1,2025-05-08T15:00:00Z,10.08,3,397,BBL Esports,BBL,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/482503/bbl-esports-vs-natus-vincere-champions-tour-2025-emea-stage-1-playoffs-ubr1
+482504,2380,Playoffs: Upper Round 1,2025-05-08T18:00:00Z,10.08,3,2593,FNATIC,FNC,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/482504/fnatic-vs-fut-esports-champions-tour-2025-emea-stage-1-playoffs-ubr1
+473841,2379,Playoffs: Upper Final,2025-05-09T08:00:00Z,10.07,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,2,0,1,https://www.vlr.gg/473841/gen-g-vs-rex-regum-qeon-champions-tour-2025-pacific-stage-1-ubf
+473842,2379,Playoffs: Lower Round 3,2025-05-09T10:00:00Z,10.07,3,8185,KIWOOM DRX,KRX,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/473842/drx-vs-paper-rex-champions-tour-2025-pacific-stage-1-lr3
+482505,2380,Playoffs: Lower Round 1,2025-05-09T15:00:00Z,10.08,3,4915,Natus Vincere,NAVI,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/482505/natus-vincere-vs-karmine-corp-champions-tour-2025-emea-stage-1-playoffs-lr1
+482506,2380,Playoffs: Lower Round 1,2025-05-09T19:05:00Z,10.08,3,1184,FUT Esports,FUT,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/482506/fut-esports-vs-team-vitality-champions-tour-2025-emea-stage-1-playoffs-lr1
+473843,2379,Playoffs: Lower Final,2025-05-10T08:00:00Z,10.07,5,878,Rex Regum Qeon,RRQ,624,Paper Rex,PRX,3,2,1,https://www.vlr.gg/473843/rex-regum-qeon-vs-paper-rex-champions-tour-2025-pacific-stage-1-lbf
+482507,2380,Playoffs: Upper Semifinals,2025-05-10T15:00:00Z,10.08,3,1001,Team Heretics,TH,397,BBL Esports,BBL,2,0,1,https://www.vlr.gg/482507/team-heretics-vs-bbl-esports-champions-tour-2025-emea-stage-1-playoffs-ubsf
+482508,2380,Playoffs: Upper Semifinals,2025-05-10T17:25:00Z,10.08,3,474,Team Liquid,TL,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/482508/team-liquid-vs-fnatic-champions-tour-2025-emea-stage-1-playoffs-ubsf
+473844,2379,Playoffs: Grand Final,2025-05-11T08:00:00Z,10.07,5,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,1,3,2,https://www.vlr.gg/473844/gen-g-vs-rex-regum-qeon-champions-tour-2025-pacific-stage-1-gf
+482510,2380,Playoffs: Lower Round 2,2025-05-11T15:00:00Z,10.08,3,397,BBL Esports,BBL,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/482510/bbl-esports-vs-fut-esports-champions-tour-2025-emea-stage-1-playoffs-lr2
+482509,2380,Playoffs: Lower Round 2,2025-05-11T18:45:00Z,10.08,3,474,Team Liquid,TL,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/482509/team-liquid-vs-natus-vincere-champions-tour-2025-emea-stage-1-playoffs-lr2
+482515,2380,Playoffs: Upper Final,2025-05-16T15:00:00Z,10.08,3,1001,Team Heretics,TH,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/482515/team-heretics-vs-fnatic-champions-tour-2025-emea-stage-1-playoffs-ubf
+482511,2380,Playoffs: Lower Round 3,2025-05-16T17:20:00Z,10.08,3,474,Team Liquid,TL,397,BBL Esports,BBL,2,1,1,https://www.vlr.gg/482511/team-liquid-vs-bbl-esports-champions-tour-2025-emea-stage-1-playoffs-lr3
+482512,2380,Playoffs: Lower Final,2025-05-17T16:00:00Z,10.08,5,1001,Team Heretics,TH,474,Team Liquid,TL,3,0,1,https://www.vlr.gg/482512/team-heretics-vs-team-liquid-champions-tour-2025-emea-stage-1-playoffs-lbf
+482513,2380,Playoffs: Grand Final,2025-05-18T16:00:00Z,10.08,5,2593,FNATIC,FNC,1001,Team Heretics,TH,3,0,1,https://www.vlr.gg/482513/fnatic-vs-team-heretics-champions-tour-2025-emea-stage-1-playoffs-gf
+490309,2282,Swiss Stage: Round 1,2025-06-07T16:00:00Z,10.10,3,1001,Team Heretics,TH,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/490309/team-heretics-vs-paper-rex-champions-tour-2025-masters-toronto-r1
+490307,2282,Swiss Stage: Round 1,2025-06-07T18:10:00Z,10.10,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,474,Team Liquid,TL,2,1,1,https://www.vlr.gg/490307/bilibili-gaming-vs-team-liquid-champions-tour-2025-masters-toronto-r1
+490308,2282,Swiss Stage: Round 1,2025-06-08T16:00:00Z,10.10,3,2,Sentinels,SEN,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/490308/sentinels-vs-wolves-esports-champions-tour-2025-masters-toronto-r1
+490306,2282,Swiss Stage: Round 1,2025-06-08T18:45:00Z,10.10,3,17,Gen.G,GEN,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/490306/gen-g-vs-mibr-champions-tour-2025-masters-toronto-r1
+490311,2282,Swiss Stage: Round 2 (1-0),2025-06-09T16:00:00Z,10.10,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,Sentinels,SEN,1,2,2,https://www.vlr.gg/490311/bilibili-gaming-vs-sentinels-champions-tour-2025-masters-toronto-r2-1-0
+490310,2282,Swiss Stage: Round 2 (1-0),2025-06-09T19:30:00Z,10.10,3,624,Paper Rex,PRX,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/490310/paper-rex-vs-gen-g-champions-tour-2025-masters-toronto-r2-1-0
+490312,2282,Swiss Stage: Round 2 (0-1),2025-06-10T16:00:00Z,10.10,3,1001,Team Heretics,TH,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/490312/team-heretics-vs-wolves-esports-valorant-masters-2025-toronto-r2-0-1
+490313,2282,Swiss Stage: Round 2 (0-1),2025-06-10T18:30:00Z,10.10,3,474,Team Liquid,TL,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/490313/team-liquid-vs-mibr-valorant-masters-2025-toronto-r2-0-1
+490315,2282,Swiss Stage: Round 3 (1-1),2025-06-11T16:00:00Z,10.10,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/490315/bilibili-gaming-vs-wolves-esports-valorant-masters-2025-toronto-r3-1-1
+490314,2282,Swiss Stage: Round 3 (1-1),2025-06-11T18:30:00Z,10.10,3,624,Paper Rex,PRX,474,Team Liquid,TL,2,1,1,https://www.vlr.gg/490314/paper-rex-vs-team-liquid-valorant-masters-toronto-2025-r3-1-1
+498622,2282,Playoffs: Upper Quarterfinals,2025-06-13T16:00:00Z,10.10,3,11058,G2 Esports,G2,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/498622/g2-esports-vs-paper-rex-valorant-masters-toronto-2025-ubqf
+498621,2282,Playoffs: Upper Quarterfinals,2025-06-13T18:25:00Z,10.10,3,13581,Xi Lai Gaming,XLG,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/498621/xi-lai-gaming-vs-sentinels-valorant-masters-toronto-2025-ubqf
+498623,2282,Playoffs: Upper Quarterfinals,2025-06-14T16:00:00Z,10.10,3,878,Rex Regum Qeon,RRQ,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/498623/rex-regum-qeon-vs-wolves-esports-valorant-masters-toronto-2025-ubqf
+498624,2282,Playoffs: Upper Quarterfinals,2025-06-14T18:30:00Z,10.10,3,2593,FNATIC,FNC,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/498624/fnatic-vs-gen-g-valorant-masters-toronto-2025-ubqf
+498629,2282,Playoffs: Lower Round 1,2025-06-15T16:00:00Z,10.10,3,13581,Xi Lai Gaming,XLG,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/498629/xi-lai-gaming-vs-g2-esports-valorant-masters-toronto-2025-lr1
+498630,2282,Playoffs: Lower Round 1,2025-06-15T18:10:00Z,10.10,3,878,Rex Regum Qeon,RRQ,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/498630/rex-regum-qeon-vs-fnatic-valorant-masters-toronto-2025-lr1
+498626,2282,Playoffs: Upper Semifinals,2025-06-16T16:00:00Z,10.10,3,13790,Wolves Esports,WOL,17,Gen.G,GEN,2,0,1,https://www.vlr.gg/498626/wolves-esports-vs-gen-g-valorant-masters-toronto-2025-ubsf
+498625,2282,Playoffs: Upper Semifinals,2025-06-16T18:30:00Z,10.10,3,2,Sentinels,SEN,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/498625/sentinels-vs-paper-rex-valorant-masters-toronto-2025-ubsf
+498631,2282,Playoffs: Lower Round 2,2025-06-17T16:00:00Z,10.10,3,17,Gen.G,GEN,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/498631/gen-g-vs-g2-esports-valorant-masters-toronto-2025-lr2
+498632,2282,Playoffs: Lower Round 2,2025-06-17T19:35:00Z,10.10,3,2,Sentinels,SEN,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/498632/sentinels-vs-fnatic-valorant-masters-toronto-2025-lr2
+498627,2282,Playoffs: Upper Final,2025-06-20T16:00:00Z,10.10,3,624,Paper Rex,PRX,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/498627/paper-rex-vs-wolves-esports-valorant-masters-toronto-2025-ubf
+498633,2282,Playoffs: Lower Round 3,2025-06-20T18:40:00Z,10.10,3,11058,G2 Esports,G2,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/498633/g2-esports-vs-fnatic-valorant-masters-toronto-2025-lr3
+498634,2282,Playoffs: Lower Final,2025-06-21T16:00:00Z,10.10,5,13790,Wolves Esports,WOL,2593,FNATIC,FNC,1,3,2,https://www.vlr.gg/498634/wolves-esports-vs-fnatic-valorant-masters-toronto-2025-lbf
+507067,2282,Showmatch: Showmatch,2025-06-22T16:00:00Z,,1,12065,Team tarik,tarik,19008,Team Toast,Toas,0,1,2,https://www.vlr.gg/507067/team-tarik-vs-team-toast-valorant-masters-toronto-2025-showmatch
+498628,2282,Playoffs: Grand Final,2025-06-22T17:15:00Z,10.10,5,624,Paper Rex,PRX,2593,FNATIC,FNC,3,1,1,https://www.vlr.gg/498628/paper-rex-vs-fnatic-valorant-masters-toronto-2025-gf
+506930,2499,Group Stage: Week 1,2025-07-03T11:00:00Z,,3,1120,EDward Gaming,EDG,14137,Titan Esports Club,TEC,2,0,1,https://www.vlr.gg/506930/edward-gaming-vs-titan-esports-club-vct-2025-china-stage-2-w1
+506931,2499,Group Stage: Week 1,2025-07-04T11:00:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,731,TYLOO,TYL,2,0,1,https://www.vlr.gg/506931/bilibili-gaming-vs-tyloo-vct-2025-china-stage-2-w1
+506932,2499,Group Stage: Week 1,2025-07-05T09:00:00Z,,3,1119,All Gamers,AG,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/506932/all-gamers-vs-xi-lai-gaming-vct-2025-china-stage-2-w1
+506933,2499,Group Stage: Week 1,2025-07-05T11:45:00Z,,3,13790,Wolves Esports,WOL,11328,FunPlus Phoenix,FPX,0,2,2,https://www.vlr.gg/506933/wolves-esports-vs-funplus-phoenix-vct-2025-china-stage-2-w1
+506934,2499,Group Stage: Week 1,2025-07-06T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,12064,Nova Esports,NOVA,2,1,1,https://www.vlr.gg/506934/dragon-ranger-gaming-vs-nova-esports-vct-2025-china-stage-2-w1
+506935,2499,Group Stage: Week 1,2025-07-06T12:05:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/506935/jdg-esports-vs-trace-esports-vct-2025-china-stage-2-w1
+508815,2500,Group Stage: Week 1,2025-07-15T08:00:00Z,11.0,3,466,BOOM Esports,BME,8304,TALON,TLN,0,2,2,https://www.vlr.gg/508815/boom-esports-vs-talon-vct-2025-pacific-stage-2-w1
+508816,2500,Group Stage: Week 1,2025-07-15T10:15:00Z,11.0,3,11060,Nongshim RedForce,NS,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/508816/nongshim-redforce-vs-team-secret-vct-2025-pacific-stage-2-w1
+508817,2500,Group Stage: Week 1,2025-07-16T08:00:00Z,11.0,3,14,T1,T1,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/508817/t1-vs-paper-rex-vct-2025-pacific-stage-2-w1
+508818,2500,Group Stage: Week 1,2025-07-16T10:35:00Z,11.0,3,8185,KIWOOM DRX,KRX,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/508818/drx-vs-gen-g-vct-2025-pacific-stage-2-w1
+506936,2499,Group Stage: Week 2,2025-07-16T11:00:00Z,,3,12685,Trace Esports,TE,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/506936/trace-esports-vs-tyloo-vct-2025-china-stage-2-w2
+511543,2498,Group Stage: Week 1,2025-07-16T15:00:00Z,11.0,3,4915,Natus Vincere,NAVI,11479,Apeks,APK,2,1,1,https://www.vlr.gg/511543/natus-vincere-vs-apeks-vct-2025-emea-stage-2-w1
+511544,2498,Group Stage: Week 1,2025-07-16T17:50:00Z,11.0,3,2059,Team Vitality,VIT,14419,GIANTX,GX,0,2,2,https://www.vlr.gg/511544/team-vitality-vs-giantx-vct-2025-emea-stage-2-w1
+508819,2500,Group Stage: Week 1,2025-07-17T08:00:00Z,11.0,3,878,Rex Regum Qeon,RRQ,918,Global Esports,GE,0,2,2,https://www.vlr.gg/508819/rex-regum-qeon-vs-global-esports-vct-2025-pacific-stage-2-w1
+508820,2500,Group Stage: Week 1,2025-07-17T10:15:00Z,11.0,3,5448,ZETA DIVISION,ZETA,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/508820/zeta-division-vs-detonation-focusme-vct-2025-pacific-stage-2-w1
+506937,2499,Group Stage: Week 2,2025-07-17T11:00:00Z,,3,11328,FunPlus Phoenix,FPX,12064,Nova Esports,NOVA,2,1,1,https://www.vlr.gg/506937/funplus-phoenix-vs-nova-esports-vct-2025-china-stage-2-w2
+511545,2498,Group Stage: Week 1,2025-07-17T15:00:00Z,11.0,3,1184,FUT Esports,FUT,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/511545/fut-esports-vs-gentle-mates-vct-2025-emea-stage-2-w1
+511546,2498,Group Stage: Week 1,2025-07-17T18:30:00Z,11.0,3,474,Team Liquid,TL,7035,Movistar KOI (KOI),MKOI,2,1,1,https://www.vlr.gg/511546/team-liquid-vs-koi-vct-2025-emea-stage-2-w1
+508821,2500,Group Stage: Week 1,2025-07-18T08:00:00Z,11.0,3,8185,KIWOOM DRX,KRX,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/508821/drx-vs-nongshim-redforce-vct-2025-pacific-stage-2-w1
+506938,2499,Group Stage: Week 2,2025-07-18T09:00:00Z,,3,1119,All Gamers,AG,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/506938/all-gamers-vs-wolves-esports-vct-2025-china-stage-2-w2
+506939,2499,Group Stage: Week 2,2025-07-18T11:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,2,2,https://www.vlr.gg/506939/jdg-esports-vs-bilibili-gaming-vct-2025-china-stage-2-w2
+508822,2500,Group Stage: Week 1,2025-07-18T11:10:00Z,11.0,3,466,BOOM Esports,BME,14,T1,T1,0,2,2,https://www.vlr.gg/508822/boom-esports-vs-t1-vct-2025-pacific-stage-2-w1
+511547,2498,Group Stage: Week 1,2025-07-18T15:00:00Z,11.0,3,1001,Team Heretics,TH,397,BBL Esports,BBL,2,1,1,https://www.vlr.gg/511547/team-heretics-vs-bbl-esports-vct-2025-emea-stage-2-w1
+511548,2498,Group Stage: Week 1,2025-07-18T18:15:00Z,11.0,3,2593,FNATIC,FNC,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/511548/fnatic-vs-karmine-corp-vct-2025-emea-stage-2-w1
+509801,2501,Group Stage: Week 1,2025-07-18T21:00:00Z,11.0,3,188,Cloud9,C9,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/509801/cloud9-vs-furia-vct-2025-americas-stage-2-w1
+509802,2501,Group Stage: Week 1,2025-07-18T23:10:00Z,11.0,3,2359,LEVIATÁN,LEV,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/509802/leviat-n-vs-loud-vct-2025-americas-stage-2-w1
+508823,2500,Group Stage: Week 1,2025-07-19T08:00:00Z,11.0,3,918,Global Esports,GE,6199,Team Secret,TS,1,2,2,https://www.vlr.gg/508823/global-esports-vs-team-secret-vct-2025-pacific-stage-2-w1
+506940,2499,Group Stage: Week 2,2025-07-19T09:00:00Z,,3,731,TYLOO,TYL,14137,Titan Esports Club,TEC,2,0,1,https://www.vlr.gg/506940/tyloo-vs-titan-esports-club-vct-2025-china-stage-2-w2
+506941,2499,Group Stage: Week 2,2025-07-19T11:10:00Z,,3,12685,Trace Esports,TE,1120,EDward Gaming,EDG,2,1,1,https://www.vlr.gg/506941/trace-esports-vs-edward-gaming-vct-2025-china-stage-2-w2
+508824,2500,Group Stage: Week 1,2025-07-19T11:20:00Z,11.0,3,624,Paper Rex,PRX,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/508824/paper-rex-vs-detonation-focusme-vct-2025-pacific-stage-2-w1
+509803,2501,Group Stage: Week 1,2025-07-19T21:00:00Z,11.0,3,5248,Evil Geniuses,EG,15072,2Game Esports,2G,2,1,1,https://www.vlr.gg/509803/evil-geniuses-vs-2game-esports-vct-2025-americas-stage-2-w1
+509804,2501,Group Stage: Week 1,2025-07-20T00:25:00Z,11.0,3,7386,MIBR,MIBR,2355,VISA KRÜ (KRÜ Esports),KRÜ,1,2,2,https://www.vlr.gg/509804/mibr-vs-kr-esports-vct-2025-americas-stage-2-w1
+508825,2500,Group Stage: Week 1,2025-07-20T08:00:00Z,11.0,3,8304,TALON,TLN,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/508825/talon-vs-zeta-division-vct-2025-pacific-stage-2-w1
+506942,2499,Group Stage: Week 2,2025-07-20T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/506942/dragon-ranger-gaming-vs-all-gamers-vct-2025-china-stage-2-w2
+508826,2500,Group Stage: Week 1,2025-07-20T10:00:00Z,11.0,3,878,Rex Regum Qeon,RRQ,17,Gen.G,GEN,2,1,1,https://www.vlr.gg/508826/rex-regum-qeon-vs-gen-g-vct-2025-pacific-stage-2-w1
+506943,2499,Group Stage: Week 2,2025-07-20T12:10:00Z,,3,13581,Xi Lai Gaming,XLG,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/506943/xi-lai-gaming-vs-wolves-esports-vct-2025-china-stage-2-w2
+509805,2501,Group Stage: Week 1,2025-07-20T21:00:00Z,11.0,3,120,100 Thieves,100T,1034,NRG,NRG,2,0,1,https://www.vlr.gg/509805/100-thieves-vs-nrg-vct-2025-americas-stage-2-w1
+509806,2501,Group Stage: Week 1,2025-07-20T23:00:00Z,11.0,3,2,Sentinels,SEN,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/509806/sentinels-vs-g2-esports-vct-2025-americas-stage-2-w1
+506945,2499,Group Stage: Week 3,2025-07-23T11:00:00Z,,3,14137,Titan Esports Club,TEC,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,0,2,2,https://www.vlr.gg/506945/titan-esports-club-vs-bilibili-gaming-vct-2025-china-stage-2-w3
+511549,2498,Group Stage: Week 2,2025-07-23T15:00:00Z,11.0,3,11479,Apeks,APK,8877,Karmine Corp,KC,1,2,2,https://www.vlr.gg/511549/apeks-vs-karmine-corp-vct-2025-emea-stage-2-w2
+511550,2498,Group Stage: Week 2,2025-07-23T18:30:00Z,11.0,3,14419,GIANTX,GX,397,BBL Esports,BBL,2,1,1,https://www.vlr.gg/511550/giantx-vs-bbl-esports-vct-2025-emea-stage-2-w2
+506946,2499,Group Stage: Week 3,2025-07-24T11:00:00Z,,3,11328,FunPlus Phoenix,FPX,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/506946/funplus-phoenix-vs-dragon-ranger-gaming-vct-2025-china-stage-2-w3
+511551,2498,Group Stage: Week 2,2025-07-24T15:00:00Z,11.0,3,474,Team Liquid,TL,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/511551/team-liquid-vs-natus-vincere-vct-2025-emea-stage-2-w2
+511552,2498,Group Stage: Week 2,2025-07-24T17:05:00Z,11.0,3,12694,Gentle Mates,M8,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/511552/gentle-mates-vs-team-heretics-vct-2025-emea-stage-2-w2
+508828,2500,Group Stage: Week 2,2025-07-25T08:00:00Z,11.0,3,17,Gen.G,GEN,918,Global Esports,GE,2,1,1,https://www.vlr.gg/508828/gen-g-vs-global-esports-vct-2025-pacific-stage-2-w2
+506947,2499,Group Stage: Week 3,2025-07-25T09:00:00Z,,3,12064,Nova Esports,NOVA,1119,All Gamers,AG,1,2,2,https://www.vlr.gg/506947/nova-esports-vs-all-gamers-vct-2025-china-stage-2-w3
+508829,2500,Group Stage: Week 2,2025-07-25T10:50:00Z,11.0,3,8304,TALON,TLN,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/508829/talon-vs-detonation-focusme-vct-2025-pacific-stage-2-w2
+506948,2499,Group Stage: Week 3,2025-07-25T12:30:00Z,,3,731,TYLOO,TYL,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/506948/tyloo-vs-edward-gaming-vct-2025-china-stage-2-w3
+511553,2498,Group Stage: Week 2,2025-07-25T15:00:00Z,11.0,3,1184,FUT Esports,FUT,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/511553/fut-esports-vs-team-vitality-vct-2025-emea-stage-2-w2
+511554,2498,Group Stage: Week 2,2025-07-25T16:55:00Z,11.0,3,7035,Movistar KOI (KOI),MKOI,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/511554/koi-vs-fnatic-vct-2025-emea-stage-2-w2
+509807,2501,Group Stage: Week 2,2025-07-25T21:00:00Z,11.0,3,15072,2Game Esports,2G,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/509807/2game-esports-vs-g2-esports-vct-2025-americas-stage-2-w2
+509808,2501,Group Stage: Week 2,2025-07-25T23:10:00Z,11.0,3,2406,FURIA,FUR,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/509808/furia-vs-sentinels-vct-2025-americas-stage-2-w2
+508830,2500,Group Stage: Week 2,2025-07-26T08:00:00Z,11.0,3,14,T1,T1,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/508830/t1-vs-zeta-division-vct-2025-pacific-stage-2-w2
+506949,2499,Group Stage: Week 3,2025-07-26T09:00:00Z,,3,14137,Titan Esports Club,TEC,13576,JD Mall JDG Esports (JD Gaming),JDG,1,2,2,https://www.vlr.gg/506949/titan-esports-club-vs-jdg-esports-vct-2025-china-stage-2-w3
+508831,2500,Group Stage: Week 2,2025-07-26T10:05:00Z,11.0,3,878,Rex Regum Qeon,RRQ,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/508831/rex-regum-qeon-vs-nongshim-redforce-vct-2025-pacific-stage-2-w2
+506950,2499,Group Stage: Week 3,2025-07-26T12:25:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/506950/bilibili-gaming-vs-trace-esports-vct-2025-china-stage-2-w3
+509809,2501,Group Stage: Week 2,2025-07-26T21:00:00Z,11.0,3,120,100 Thieves,100T,2355,VISA KRÜ (KRÜ Esports),KRÜ,2,0,1,https://www.vlr.gg/509809/100-thieves-vs-kr-esports-vct-2025-americas-stage-2-w2
+509810,2501,Group Stage: Week 2,2025-07-26T23:00:00Z,11.0,3,1034,NRG,NRG,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/509810/nrg-vs-loud-vct-2025-americas-stage-2-w2
+508832,2500,Group Stage: Week 2,2025-07-27T08:00:00Z,11.0,3,8185,KIWOOM DRX,KRX,6199,Team Secret,TS,2,0,1,https://www.vlr.gg/508832/drx-vs-team-secret-vct-2025-pacific-stage-2-w2
+506951,2499,Group Stage: Week 3,2025-07-27T09:00:00Z,,3,13790,Wolves Esports,WOL,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/506951/wolves-esports-vs-dragon-ranger-gaming-vct-2025-china-stage-2-w3
+508833,2500,Group Stage: Week 2,2025-07-27T10:00:00Z,11.0,3,466,BOOM Esports,BME,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/508833/boom-esports-vs-paper-rex-vct-2025-pacific-stage-2-w2
+506952,2499,Group Stage: Week 3,2025-07-27T12:35:00Z,,3,13581,Xi Lai Gaming,XLG,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/506952/xi-lai-gaming-vs-funplus-phoenix-vct-2025-china-stage-2-w3
+509811,2501,Group Stage: Week 2,2025-07-27T21:00:00Z,11.0,3,188,Cloud9,C9,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/509811/cloud9-vs-evil-geniuses-vct-2025-americas-stage-2-w2
+509812,2501,Group Stage: Week 2,2025-07-27T23:25:00Z,11.0,3,7386,MIBR,MIBR,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/509812/mibr-vs-leviat-n-vct-2025-americas-stage-2-w2
+511562,2498,Group Stage: Week 3,2025-07-30T15:00:00Z,11.0,3,1184,FUT Esports,FUT,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/511562/fut-esports-vs-giantx-vct-2025-emea-stage-2-w3
+511563,2498,Group Stage: Week 3,2025-07-30T18:10:00Z,11.0,3,12694,Gentle Mates,M8,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/511563/gentle-mates-vs-bbl-esports-vct-2025-emea-stage-2-w3
+506953,2499,Group Stage: Week 4,2025-07-31T09:00:00Z,,3,12064,Nova Esports,NOVA,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/506953/nova-esports-vs-xi-lai-gaming-vct-2025-china-stage-2-w4
+506954,2499,Group Stage: Week 4,2025-07-31T11:00:00Z,,3,1120,EDward Gaming,EDG,13576,JD Mall JDG Esports (JD Gaming),JDG,2,1,1,https://www.vlr.gg/506954/edward-gaming-vs-jdg-esports-vct-2025-china-stage-2-w4
+511564,2498,Group Stage: Week 3,2025-07-31T15:00:00Z,11.0,3,474,Team Liquid,TL,11479,Apeks,APK,2,1,1,https://www.vlr.gg/511564/team-liquid-vs-apeks-vct-2025-emea-stage-2-w3
+511565,2498,Group Stage: Week 3,2025-07-31T18:40:00Z,11.0,3,7035,Movistar KOI (KOI),MKOI,8877,Karmine Corp,KC,1,2,2,https://www.vlr.gg/511565/koi-vs-karmine-corp-vct-2025-emea-stage-2-w3
+508834,2500,Group Stage: Week 3,2025-08-01T08:00:00Z,11.0,3,17,Gen.G,GEN,6199,Team Secret,TS,2,0,1,https://www.vlr.gg/508834/gen-g-vs-team-secret-vct-2025-pacific-stage-2-w3
+506955,2499,Group Stage: Week 4,2025-08-01T09:00:00Z,,3,1119,All Gamers,AG,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/506955/all-gamers-vs-funplus-phoenix-vct-2025-china-stage-2-w4
+508835,2500,Group Stage: Week 3,2025-08-01T10:00:00Z,11.0,3,8304,TALON,TLN,14,T1,T1,2,0,1,https://www.vlr.gg/508835/talon-vs-t1-vct-2025-pacific-stage-2-w3
+506956,2499,Group Stage: Week 4,2025-08-01T11:40:00Z,,3,12685,Trace Esports,TE,14137,Titan Esports Club,TEC,0,2,2,https://www.vlr.gg/506956/trace-esports-vs-titan-esports-club-vct-2025-china-stage-2-w4
+511566,2498,Group Stage: Week 3,2025-08-01T15:00:00Z,11.0,3,4915,Natus Vincere,NAVI,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/511566/natus-vincere-vs-fnatic-vct-2025-emea-stage-2-w3
+511567,2498,Group Stage: Week 3,2025-08-01T18:40:00Z,11.0,3,2059,Team Vitality,VIT,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/511567/team-vitality-vs-team-heretics-vct-2025-emea-stage-2-w3
+509813,2501,Group Stage: Week 3,2025-08-01T21:00:00Z,11.0,3,15072,2Game Esports,2G,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/509813/2game-esports-vs-furia-vct-2025-americas-stage-2-w3
+509814,2501,Group Stage: Week 3,2025-08-02T00:05:00Z,11.0,3,2359,LEVIATÁN,LEV,1034,NRG,NRG,1,2,2,https://www.vlr.gg/509814/leviat-n-vs-nrg-vct-2025-americas-stage-2-w3
+508836,2500,Group Stage: Week 3,2025-08-02T08:00:00Z,11.0,3,466,BOOM Esports,BME,278,DetonatioN FocusMe,DFM,0,2,2,https://www.vlr.gg/508836/boom-esports-vs-detonation-focusme-vct-2025-pacific-stage-2-w3
+506957,2499,Group Stage: Week 4,2025-08-02T09:00:00Z,,3,12064,Nova Esports,NOVA,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/506957/nova-esports-vs-wolves-esports-vct-2025-china-stage-2-w4
+508837,2500,Group Stage: Week 3,2025-08-02T10:05:00Z,11.0,3,878,Rex Regum Qeon,RRQ,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/508837/rex-regum-qeon-vs-drx-vct-2025-pacific-stage-2-w3
+506958,2499,Group Stage: Week 4,2025-08-02T12:20:00Z,,3,11981,Dragon Ranger Gaming,DRG,13581,Xi Lai Gaming,XLG,2,1,1,https://www.vlr.gg/506958/dragon-ranger-gaming-vs-xi-lai-gaming-vct-2025-china-stage-2-w4
+509815,2501,Group Stage: Week 3,2025-08-02T21:00:00Z,11.0,3,2,Sentinels,SEN,188,Cloud9,C9,2,0,1,https://www.vlr.gg/509815/sentinels-vs-cloud9-vct-2025-americas-stage-2-w3
+509816,2501,Group Stage: Week 3,2025-08-02T23:15:00Z,11.0,3,7386,MIBR,MIBR,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/509816/mibr-vs-100-thieves-vct-2025-americas-stage-2-w3
+508838,2500,Group Stage: Week 3,2025-08-03T08:00:00Z,11.0,3,11060,Nongshim RedForce,NS,918,Global Esports,GE,2,0,1,https://www.vlr.gg/508838/nongshim-redforce-vs-global-esports-vct-2025-pacific-stage-2-w3
+506959,2499,Group Stage: Week 4,2025-08-03T09:00:00Z,,3,731,TYLOO,TYL,13576,JD Mall JDG Esports (JD Gaming),JDG,2,1,1,https://www.vlr.gg/506959/tyloo-vs-jdg-esports-vct-2025-china-stage-2-w4
+508839,2500,Group Stage: Week 3,2025-08-03T10:10:00Z,11.0,3,624,Paper Rex,PRX,5448,ZETA DIVISION,ZETA,0,2,2,https://www.vlr.gg/508839/paper-rex-vs-zeta-division-vct-2025-pacific-stage-2-w3
+506960,2499,Group Stage: Week 4,2025-08-03T12:00:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/506960/bilibili-gaming-vs-edward-gaming-vct-2025-china-stage-2-w4
+509817,2501,Group Stage: Week 3,2025-08-03T21:00:00Z,11.0,3,11058,G2 Esports,G2,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/509817/g2-esports-vs-evil-geniuses-vct-2025-americas-stage-2-w3
+509818,2501,Group Stage: Week 3,2025-08-04T00:15:00Z,11.0,3,6961,LOUD,LOUD,2355,VISA KRÜ (KRÜ Esports),KRÜ,1,2,2,https://www.vlr.gg/509818/loud-vs-kr-esports-vct-2025-americas-stage-2-w3
+511568,2498,Group Stage: Week 4,2025-08-06T15:00:00Z,11.0,3,1184,FUT Esports,FUT,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/511568/fut-esports-vs-team-heretics-vct-2025-emea-stage-2-w4
+511569,2498,Group Stage: Week 4,2025-08-06T17:35:00Z,11.0,3,7035,Movistar KOI (KOI),MKOI,11479,Apeks,APK,2,1,1,https://www.vlr.gg/511569/koi-vs-apeks-vct-2025-emea-stage-2-w4
+511570,2498,Group Stage: Week 4,2025-08-07T15:00:00Z,11.0,3,12694,Gentle Mates,M8,14419,GIANTX,GX,1,2,2,https://www.vlr.gg/511570/gentle-mates-vs-giantx-vct-2025-emea-stage-2-w4
+511571,2498,Group Stage: Week 4,2025-08-07T18:00:00Z,11.0,3,4915,Natus Vincere,NAVI,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/511571/natus-vincere-vs-karmine-corp-vct-2025-emea-stage-2-w4
+508840,2500,Group Stage: Week 4,2025-08-08T08:00:00Z,11.0,3,17,Gen.G,GEN,11060,Nongshim RedForce,NS,0,2,2,https://www.vlr.gg/508840/gen-g-vs-nongshim-redforce-vct-2025-pacific-stage-2-w4
+508841,2500,Group Stage: Week 4,2025-08-08T10:30:00Z,11.0,3,8304,TALON,TLN,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/508841/talon-vs-paper-rex-vct-2025-pacific-stage-2-w4
+511572,2498,Group Stage: Week 4,2025-08-08T15:00:00Z,11.0,3,2059,Team Vitality,VIT,397,BBL Esports,BBL,1,2,2,https://www.vlr.gg/511572/team-vitality-vs-bbl-esports-vct-2025-emea-stage-2-w4
+511573,2498,Group Stage: Week 4,2025-08-08T18:40:00Z,11.0,3,474,Team Liquid,TL,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/511573/team-liquid-vs-fnatic-vct-2025-emea-stage-2-w4
+509819,2501,Group Stage: Week 4,2025-08-08T21:00:00Z,11.0,3,188,Cloud9,C9,15072,2Game Esports,2G,2,0,1,https://www.vlr.gg/509819/cloud9-vs-2game-esports-vct-2025-americas-stage-2-w4
+509820,2501,Group Stage: Week 4,2025-08-08T23:00:00Z,11.0,3,7386,MIBR,MIBR,1034,NRG,NRG,0,2,2,https://www.vlr.gg/509820/mibr-vs-nrg-vct-2025-americas-stage-2-w4
+508842,2500,Group Stage: Week 4,2025-08-09T08:00:00Z,11.0,3,8185,KIWOOM DRX,KRX,918,Global Esports,GE,2,0,1,https://www.vlr.gg/508842/drx-vs-global-esports-vct-2025-pacific-stage-2-w4
+527577,2499,Playoffs: Upper Quarterfinals,2025-08-09T09:00:00Z,,3,1119,All Gamers,AG,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/527577/all-gamers-vs-tyloo-vct-2025-china-stage-2-ubqf
+508843,2500,Group Stage: Week 4,2025-08-09T10:25:00Z,11.0,3,466,BOOM Esports,BME,5448,ZETA DIVISION,ZETA,1,2,2,https://www.vlr.gg/508843/boom-esports-vs-zeta-division-vct-2025-pacific-stage-2-w4
+527576,2499,Playoffs: Upper Quarterfinals,2025-08-09T11:20:00Z,,3,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/527576/edward-gaming-vs-dragon-ranger-gaming-vct-2025-china-stage-2-ubqf
+509821,2501,Group Stage: Week 4,2025-08-09T21:00:00Z,11.0,3,2,Sentinels,SEN,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/509821/sentinels-vs-evil-geniuses-vct-2025-americas-stage-2-w4
+509822,2501,Group Stage: Week 4,2025-08-09T23:15:00Z,11.0,3,2359,LEVIATÁN,LEV,2355,VISA KRÜ (KRÜ Esports),KRÜ,2,1,1,https://www.vlr.gg/509822/leviat-n-vs-kr-esports-vct-2025-americas-stage-2-w4
+508844,2500,Group Stage: Week 4,2025-08-10T08:00:00Z,11.0,3,878,Rex Regum Qeon,RRQ,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/508844/rex-regum-qeon-vs-team-secret-vct-2025-pacific-stage-2-w4
+527584,2499,Playoffs: Lower Round 1,2025-08-10T09:00:00Z,,3,1119,All Gamers,AG,11328,FunPlus Phoenix,FPX,2,1,1,https://www.vlr.gg/527584/all-gamers-vs-funplus-phoenix-vct-2025-china-stage-2-lr1
+508845,2500,Group Stage: Week 4,2025-08-10T11:05:00Z,11.0,3,14,T1,T1,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/508845/t1-vs-detonation-focusme-vct-2025-pacific-stage-2-w4
+527583,2499,Playoffs: Lower Round 1,2025-08-10T12:15:00Z,,3,1120,EDward Gaming,EDG,12685,Trace Esports,TE,2,1,1,https://www.vlr.gg/527583/edward-gaming-vs-trace-esports-vct-2025-china-stage-2-lr1
+509823,2501,Group Stage: Week 4,2025-08-10T21:00:00Z,11.0,3,2406,FURIA,FUR,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/509823/furia-vs-g2-esports-vct-2025-americas-stage-2-w4
+509824,2501,Group Stage: Week 4,2025-08-10T23:00:00Z,11.0,3,6961,LOUD,LOUD,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/509824/loud-vs-100-thieves-vct-2025-americas-stage-2-w4
+530354,2500,Playoffs: Upper Round 1,2025-08-13T08:00:00Z,11.0,3,8304,TALON,TLN,11060,Nongshim RedForce,NS,2,0,1,https://www.vlr.gg/530354/talon-vs-nongshim-redforce-vct-2025-pacific-stage-2-ur1
+530355,2500,Playoffs: Upper Round 1,2025-08-13T10:35:00Z,11.0,3,878,Rex Regum Qeon,RRQ,14,T1,T1,1,2,2,https://www.vlr.gg/530355/rex-regum-qeon-vs-t1-vct-2025-pacific-stage-2-ur1
+511575,2498,Group Stage: Week 5,2025-08-13T15:00:00Z,11.0,3,7035,Movistar KOI (KOI),MKOI,4915,Natus Vincere,NAVI,1,2,2,https://www.vlr.gg/511575/koi-vs-natus-vincere-vct-2025-emea-stage-2-w5
+511576,2498,Group Stage: Week 5,2025-08-13T18:20:00Z,11.0,3,11479,Apeks,APK,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/511576/apeks-vs-fnatic-vct-2025-emea-stage-2-w5
+530356,2500,Playoffs: Upper Semifinals,2025-08-14T08:00:00Z,11.0,3,8185,KIWOOM DRX,KRX,8304,TALON,TLN,1,2,2,https://www.vlr.gg/530356/drx-vs-talon-vct-2025-pacific-stage-2-ubsf
+530357,2500,Playoffs: Upper Semifinals,2025-08-14T11:10:00Z,11.0,3,624,Paper Rex,PRX,14,T1,T1,2,0,1,https://www.vlr.gg/530357/paper-rex-vs-t1-vct-2025-pacific-stage-2-ubsf
+511577,2498,Group Stage: Week 5,2025-08-14T15:00:00Z,11.0,3,14419,GIANTX,GX,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/511577/giantx-vs-team-heretics-vct-2025-emea-stage-2-w5
+511579,2498,Group Stage: Week 5,2025-08-14T17:05:00Z,11.0,3,12694,Gentle Mates,M8,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/511579/gentle-mates-vs-team-vitality-vct-2025-emea-stage-2-w5
+530358,2500,Playoffs: Lower Round 1,2025-08-15T08:00:00Z,11.0,3,11060,Nongshim RedForce,NS,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/530358/nongshim-redforce-vs-detonation-focusme-vct-2025-pacific-stage-2-lr1
+530359,2500,Playoffs: Lower Round 1,2025-08-15T10:05:00Z,11.0,3,878,Rex Regum Qeon,RRQ,17,Gen.G,GEN,2,1,1,https://www.vlr.gg/530359/rex-regum-qeon-vs-gen-g-vct-2025-pacific-stage-2-lr1
+511580,2498,Group Stage: Week 5,2025-08-15T15:00:00Z,11.0,3,1184,FUT Esports,FUT,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/511580/fut-esports-vs-bbl-esports-vct-2025-emea-stage-2-w5
+511581,2498,Group Stage: Week 5,2025-08-15T17:30:00Z,11.0,3,474,Team Liquid,TL,8877,Karmine Corp,KC,1,2,2,https://www.vlr.gg/511581/team-liquid-vs-karmine-corp-vct-2025-emea-stage-2-w5
+509825,2501,Group Stage: Week 5,2025-08-15T21:00:00Z,11.0,3,2355,VISA KRÜ (KRÜ Esports),KRÜ,1034,NRG,NRG,1,2,2,https://www.vlr.gg/509825/kr-esports-vs-nrg-vct-2025-americas-stage-2-w5
+509826,2501,Group Stage: Week 5,2025-08-16T00:05:00Z,11.0,3,120,100 Thieves,100T,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/509826/100-thieves-vs-leviat-n-vct-2025-americas-stage-2-w5
+530360,2500,Playoffs: Lower Round 2,2025-08-16T08:00:00Z,11.0,3,14,T1,T1,11060,Nongshim RedForce,NS,2,0,1,https://www.vlr.gg/530360/t1-vs-nongshim-redforce-vct-2025-pacific-stage-2-lr2
+530361,2500,Playoffs: Lower Round 2,2025-08-16T10:05:00Z,11.0,3,8185,KIWOOM DRX,KRX,878,Rex Regum Qeon,RRQ,0,2,2,https://www.vlr.gg/530361/drx-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lr2
+509827,2501,Group Stage: Week 5,2025-08-16T21:00:00Z,11.0,3,2406,FURIA,FUR,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/509827/furia-vs-evil-geniuses-vct-2025-americas-stage-2-w5
+509829,2501,Group Stage: Week 5,2025-08-16T23:20:00Z,11.0,3,15072,2Game Esports,2G,2,Sentinels,SEN,1,2,2,https://www.vlr.gg/509829/2game-esports-vs-sentinels-vct-2025-americas-stage-2-w5
+530362,2500,Playoffs: Upper Final,2025-08-17T08:00:00Z,11.0,3,8304,TALON,TLN,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/530362/talon-vs-paper-rex-vct-2025-pacific-stage-2-ubf
+530363,2500,Playoffs: Lower Round 3,2025-08-17T10:00:00Z,11.0,3,14,T1,T1,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/530363/t1-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lr3
+509830,2501,Group Stage: Week 5,2025-08-17T21:00:00Z,11.0,3,11058,G2 Esports,G2,188,Cloud9,C9,2,0,1,https://www.vlr.gg/509830/g2-esports-vs-cloud9-vct-2025-americas-stage-2-w5
+509831,2501,Group Stage: Week 5,2025-08-17T23:30:00Z,11.0,3,7386,MIBR,MIBR,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/509831/mibr-vs-loud-vct-2025-americas-stage-2-w5
+527580,2499,Playoffs: Upper Semifinals,2025-08-20T09:00:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/527580/bilibili-gaming-vs-tyloo-vct-2025-china-stage-2-ubsf
+527579,2499,Playoffs: Upper Semifinals,2025-08-20T12:20:00Z,,3,13581,Xi Lai Gaming,XLG,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/527579/xi-lai-gaming-vs-dragon-ranger-gaming-vct-2025-china-stage-2-ubsf
+527585,2499,Playoffs: Lower Round 2,2025-08-21T09:00:00Z,,3,731,TYLOO,TYL,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/527585/tyloo-vs-edward-gaming-vct-2025-china-stage-2-lr2
+527586,2499,Playoffs: Lower Round 2,2025-08-21T11:10:00Z,,3,13581,Xi Lai Gaming,XLG,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/527586/xi-lai-gaming-vs-all-gamers-vct-2025-china-stage-2-lr2
+530924,2498,Playoffs: Upper Round 1,2025-08-21T15:00:00Z,11.0,3,2593,FNATIC,FNC,397,BBL Esports,BBL,1,2,2,https://www.vlr.gg/530924/fnatic-vs-bbl-esports-vct-2025-emea-stage-2-ur1
+530925,2498,Playoffs: Upper Round 1,2025-08-21T18:15:00Z,11.0,3,14419,GIANTX,GX,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/530925/giantx-vs-natus-vincere-vct-2025-emea-stage-2-ur1
+530902,2501,Playoffs: Upper Round 1,2025-08-21T21:00:00Z,11.0,3,2359,LEVIATÁN,LEV,188,Cloud9,C9,1,2,2,https://www.vlr.gg/530902/leviat-n-vs-cloud9-vct-2025-americas-stage-2-ur1
+530903,2501,Playoffs: Upper Round 1,2025-08-22T00:45:00Z,11.0,3,11058,G2 Esports,G2,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/530903/g2-esports-vs-100-thieves-vct-2025-americas-stage-2-ur1
+536176,2499,Showmatch: All-Star Match,2025-08-22T08:00:00Z,,1,19687,Pure Aim,HS,19688,Precise Defeat,CJMZ,0,1,2,https://www.vlr.gg/536176/pure-aim-vs-precise-defeat-vct-2025-china-stage-2-all-star-match
+527581,2499,Playoffs: Upper Final,2025-08-22T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,1,1,https://www.vlr.gg/527581/dragon-ranger-gaming-vs-bilibili-gaming-vct-2025-china-stage-2-ubf
+527587,2499,Playoffs: Lower Round 3,2025-08-22T12:40:00Z,,3,1120,EDward Gaming,EDG,13581,Xi Lai Gaming,XLG,2,0,1,https://www.vlr.gg/527587/edward-gaming-vs-xi-lai-gaming-vct-2025-china-stage-2-lr3
+530928,2498,Playoffs: Upper Semifinals,2025-08-22T15:00:00Z,11.0,3,1001,Team Heretics,TH,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/530928/team-heretics-vs-bbl-esports-vct-2025-emea-stage-2-ubsf
+530929,2498,Playoffs: Upper Semifinals,2025-08-22T17:20:00Z,11.0,3,474,Team Liquid,TL,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/530929/team-liquid-vs-giantx-vct-2025-emea-stage-2-ubsf
+530906,2501,Playoffs: Upper Semifinals,2025-08-22T21:00:00Z,11.0,3,2,Sentinels,SEN,188,Cloud9,C9,2,1,1,https://www.vlr.gg/530906/sentinels-vs-cloud9-vct-2025-americas-stage-2-ubsf
+530907,2501,Playoffs: Upper Semifinals,2025-08-23T00:35:00Z,11.0,3,1034,NRG,NRG,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/530907/nrg-vs-g2-esports-vct-2025-americas-stage-2-ubsf
+527588,2499,Playoffs: Lower Final,2025-08-23T09:00:00Z,,5,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1120,EDward Gaming,EDG,3,1,1,https://www.vlr.gg/527588/bilibili-gaming-vs-edward-gaming-vct-2025-china-stage-2-lbf
+530926,2498,Playoffs: Lower Round 1,2025-08-23T15:00:00Z,11.0,3,2593,FNATIC,FNC,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/530926/fnatic-vs-karmine-corp-vct-2025-emea-stage-2-lr1
+530927,2498,Playoffs: Lower Round 1,2025-08-23T18:55:00Z,11.0,3,4915,Natus Vincere,NAVI,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/530927/natus-vincere-vs-team-vitality-vct-2025-emea-stage-2-lr1
+530904,2501,Playoffs: Lower Round 1,2025-08-23T21:00:00Z,11.0,3,2359,LEVIATÁN,LEV,2355,VISA KRÜ (KRÜ Esports),KRÜ,2,1,1,https://www.vlr.gg/530904/leviat-n-vs-kr-esports-vct-2025-americas-stage-2-lr1
+530905,2501,Playoffs: Lower Round 1,2025-08-24T00:25:00Z,11.0,3,120,100 Thieves,100T,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/530905/100-thieves-vs-evil-geniuses-vct-2025-americas-stage-2-lr1
+527582,2499,Playoffs: Grand Final,2025-08-24T09:00:00Z,,5,11981,Dragon Ranger Gaming,DRG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,3,2,https://www.vlr.gg/527582/dragon-ranger-gaming-vs-bilibili-gaming-vct-2025-china-stage-2-gf
+530930,2498,Playoffs: Lower Round 2,2025-08-24T15:00:00Z,11.0,3,14419,GIANTX,GX,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/530930/giantx-vs-fnatic-vct-2025-emea-stage-2-lr2
+530931,2498,Playoffs: Lower Round 2,2025-08-24T17:25:00Z,11.0,3,1001,Team Heretics,TH,4915,Natus Vincere,NAVI,0,2,2,https://www.vlr.gg/530931/team-heretics-vs-natus-vincere-vct-2025-emea-stage-2-lr2
+530908,2501,Playoffs: Lower Round 2,2025-08-24T21:00:00Z,11.0,3,1034,NRG,NRG,2359,LEVIATÁN,LEV,2,0,1,https://www.vlr.gg/530908/nrg-vs-leviat-n-vct-2025-americas-stage-2-lr2
+530909,2501,Playoffs: Lower Round 2,2025-08-24T22:50:00Z,11.0,3,188,Cloud9,C9,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/530909/cloud9-vs-100-thieves-vct-2025-americas-stage-2-lr2
+530932,2498,Playoffs: Upper Final,2025-08-29T15:00:00Z,11.0,3,397,BBL Esports,BBL,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/530932/bbl-esports-vs-team-liquid-vct-2025-emea-stage-2-ubf
+530933,2498,Playoffs: Lower Round 3,2025-08-29T18:40:00Z,11.0,3,14419,GIANTX,GX,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/530933/giantx-vs-natus-vincere-vct-2025-emea-stage-2-lr3
+530910,2501,Playoffs: Upper Final,2025-08-29T21:00:00Z,11.0,3,2,Sentinels,SEN,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/530910/sentinels-vs-g2-esports-vct-2025-americas-stage-2-ubf
+530911,2501,Playoffs: Lower Round 3,2025-08-29T23:30:00Z,11.0,3,1034,NRG,NRG,188,Cloud9,C9,2,1,1,https://www.vlr.gg/530911/nrg-vs-cloud9-vct-2025-americas-stage-2-lr3
+530514,2500,Showmatch: Main Event,2025-08-30T05:00:00Z,11.0,1,19550,Team World,WOR,19507,Glory Once Again,GOA,1,0,1,https://www.vlr.gg/530514/team-world-vs-glory-once-again-vct-2025-pacific-stage-2-main-event
+530364,2500,Playoffs: Lower Final,2025-08-30T06:00:00Z,11.0,5,8304,TALON,TLN,878,Rex Regum Qeon,RRQ,2,3,2,https://www.vlr.gg/530364/talon-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lf
+530934,2498,Playoffs: Lower Final,2025-08-30T16:00:00Z,11.0,5,397,BBL Esports,BBL,14419,GIANTX,GX,0,3,2,https://www.vlr.gg/530934/bbl-esports-vs-giantx-vct-2025-emea-stage-2-lbf
+536985,2501,Showmatch: Override,2025-08-30T21:00:00Z,11.0,1,19707,Team Alpha,ALP,19708,Team Omega,OME,1,0,1,https://www.vlr.gg/536985/team-alpha-vs-team-omega-vct-2025-americas-stage-2-override
+530912,2501,Playoffs: Lower Final,2025-08-30T22:00:00Z,11.0,5,2,Sentinels,SEN,1034,NRG,NRG,1,3,2,https://www.vlr.gg/530912/sentinels-vs-nrg-vct-2025-americas-stage-2-lbf
+530365,2500,Playoffs: Grand Final,2025-08-31T05:50:00Z,11.0,5,624,Paper Rex,PRX,878,Rex Regum Qeon,RRQ,3,1,1,https://www.vlr.gg/530365/paper-rex-vs-rex-regum-qeon-vct-2025-pacific-stage-2-gf
+538583,2498,Showmatch: Main Event,2025-08-31T15:00:00Z,11.0,1,19721,Team France,FRA,19722,Team EMEA,EMEA,0,1,2,https://www.vlr.gg/538583/team-france-vs-team-emea-vct-2025-emea-stage-2-main-event
+530935,2498,Playoffs: Grand Final,2025-08-31T16:00:00Z,11.0,5,474,Team Liquid,TL,14419,GIANTX,GX,3,0,1,https://www.vlr.gg/530935/team-liquid-vs-giantx-vct-2025-emea-stage-2-gf
+530913,2501,Playoffs: Grand Final,2025-08-31T21:00:00Z,11.0,5,11058,G2 Esports,G2,1034,NRG,NRG,3,0,1,https://www.vlr.gg/530913/g2-esports-vs-nrg-vct-2025-americas-stage-2-gf
+542195,2283,Group Stage: Opening (A),2025-09-12T13:00:00Z,11.05,3,624,Paper Rex,PRX,13581,Xi Lai Gaming,XLG,2,0,1,https://www.vlr.gg/542195/paper-rex-vs-xi-lai-gaming-valorant-champions-2025-opening-a
+542196,2283,Group Stage: Opening (A),2025-09-12T15:25:00Z,11.05,3,14419,GIANTX,GX,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/542196/giantx-vs-sentinels-valorant-champions-2025-opening-a
+542207,2283,Group Stage: Opening (C),2025-09-13T13:00:00Z,11.05,3,1034,NRG,NRG,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c
+542205,2283,Group Stage: Opening (C),2025-09-13T15:55:00Z,11.05,3,474,Team Liquid,TL,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/542205/team-liquid-vs-drx-valorant-champions-2025-opening-c
+542212,2283,Group Stage: Opening (D),2025-09-14T13:00:00Z,11.05,3,11981,Dragon Ranger Gaming,DRG,14,T1,T1,0,2,2,https://www.vlr.gg/542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d
+542211,2283,Group Stage: Opening (D),2025-09-14T16:20:00Z,11.05,3,11058,G2 Esports,G2,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d
+542200,2283,Group Stage: Opening (B),2025-09-15T13:00:00Z,11.05,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/542200/bilibili-gaming-vs-mibr-valorant-champions-2025-opening-b
+542201,2283,Group Stage: Opening (B),2025-09-15T15:10:00Z,11.05,3,878,Rex Regum Qeon,RRQ,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/542201/rex-regum-qeon-vs-fnatic-valorant-champions-2025-opening-b
+542197,2283,Group Stage: Winner's (A),2025-09-17T13:00:00Z,11.05,3,624,Paper Rex,PRX,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/542197/paper-rex-vs-giantx-valorant-champions-2025-winners-a
+542208,2283,Group Stage: Winner's (C),2025-09-17T16:10:00Z,11.05,3,8185,KIWOOM DRX,KRX,1034,NRG,NRG,1,2,2,https://www.vlr.gg/542208/drx-vs-nrg-valorant-champions-2025-winners-c
+542213,2283,Group Stage: Winner's (D),2025-09-18T13:00:00Z,11.05,3,1001,Team Heretics,TH,14,T1,T1,2,0,1,https://www.vlr.gg/542213/team-heretics-vs-t1-valorant-champions-2025-winners-d
+542202,2283,Group Stage: Winner's (B),2025-09-18T15:25:00Z,11.05,3,7386,MIBR,MIBR,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/542202/mibr-vs-fnatic-valorant-champions-2025-winners-b
+542209,2283,Group Stage: Elimination (C),2025-09-19T13:00:00Z,11.05,3,474,Team Liquid,TL,1120,EDward Gaming,EDG,2,1,1,https://www.vlr.gg/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c
+542198,2283,Group Stage: Elimination (A),2025-09-19T16:30:00Z,11.05,3,13581,Xi Lai Gaming,XLG,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a
+542203,2283,Group Stage: Elimination (B),2025-09-20T13:00:00Z,11.05,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim-b
+542214,2283,Group Stage: Elimination (D),2025-09-20T16:00:00Z,11.05,3,11058,G2 Esports,G2,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/542214/g2-esports-vs-dragon-ranger-gaming-valorant-champions-2025-elim-d
+542210,2283,Group Stage: Decider (C),2025-09-21T13:00:00Z,11.05,3,8185,KIWOOM DRX,KRX,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/542210/drx-vs-team-liquid-valorant-champions-2025-decider-c
+542199,2283,Group Stage: Decider (A),2025-09-21T15:20:00Z,11.05,3,14419,GIANTX,GX,13581,Xi Lai Gaming,XLG,2,0,1,https://www.vlr.gg/542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a
+542215,2283,Group Stage: Decider (D),2025-09-22T13:00:00Z,11.05,3,14,T1,T1,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/542215/t1-vs-g2-esports-valorant-champions-2025-decider-d
+542204,2283,Group Stage: Decider (B),2025-09-22T15:15:00Z,11.05,3,7386,MIBR,MIBR,878,Rex Regum Qeon,RRQ,2,0,1,https://www.vlr.gg/542204/mibr-vs-rex-regum-qeon-valorant-champions-2025-decider-b
+542265,2283,Playoffs: Upper Quarterfinals,2025-09-25T13:00:00Z,11.05,3,624,Paper Rex,PRX,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf
+542264,2283,Playoffs: Upper Quarterfinals,2025-09-25T16:50:00Z,11.05,3,2593,FNATIC,FNC,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/542264/fnatic-vs-drx-valorant-champions-2025-ubqf
+542266,2283,Playoffs: Upper Quarterfinals,2025-09-26T13:00:00Z,11.05,3,1001,Team Heretics,TH,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/542266/team-heretics-vs-mibr-valorant-champions-2025-ubqf
+542267,2283,Playoffs: Upper Quarterfinals,2025-09-26T15:35:00Z,11.05,3,1034,NRG,NRG,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/542267/nrg-vs-giantx-valorant-champions-2025-ubqf
+542273,2283,Playoffs: Lower Round 1,2025-09-27T13:00:00Z,11.05,3,8185,KIWOOM DRX,KRX,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/542273/drx-vs-g2-esports-valorant-champions-2025-lr1
+542274,2283,Playoffs: Lower Round 1,2025-09-27T16:20:00Z,11.05,3,1001,Team Heretics,TH,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/542274/team-heretics-vs-giantx-valorant-champions-2025-lr1
+542268,2283,Playoffs: Upper Semifinals,2025-09-28T13:00:00Z,11.05,3,2593,FNATIC,FNC,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/542268/fnatic-vs-paper-rex-valorant-champions-2025-ubsf
+542269,2283,Playoffs: Upper Semifinals,2025-09-28T16:20:00Z,11.05,3,7386,MIBR,MIBR,1034,NRG,NRG,1,2,2,https://www.vlr.gg/542269/mibr-vs-nrg-valorant-champions-2025-ubsf
+542277,2283,Playoffs: Lower Round 2,2025-09-29T13:00:00Z,11.05,3,624,Paper Rex,PRX,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/542277/paper-rex-vs-team-heretics-valorant-champions-2025-lr2
+542276,2283,Playoffs: Lower Round 2,2025-09-29T16:20:00Z,11.05,3,7386,MIBR,MIBR,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/542276/mibr-vs-drx-valorant-champions-2025-lr2
+542270,2283,Playoffs: Upper Final,2025-10-03T11:00:00Z,11.05,3,2593,FNATIC,FNC,1034,NRG,NRG,0,2,2,https://www.vlr.gg/542270/fnatic-vs-nrg-valorant-champions-2025-ubf
+542278,2283,Playoffs: Lower Round 3,2025-10-03T13:35:00Z,11.05,3,8185,KIWOOM DRX,KRX,624,Paper Rex,PRX,2,0,1,https://www.vlr.gg/542278/drx-vs-paper-rex-valorant-champions-2025-lr3
+542279,2283,Playoffs: Lower Final,2025-10-04T11:00:00Z,11.05,5,2593,FNATIC,FNC,8185,KIWOOM DRX,KRX,3,1,1,https://www.vlr.gg/542279/fnatic-vs-drx-valorant-champions-2025-lbf
+542272,2283,Playoffs: Grand Final,2025-10-05T11:00:00Z,11.05,5,1034,NRG,NRG,2593,FNATIC,FNC,3,2,1,https://www.vlr.gg/542272/nrg-vs-fnatic-valorant-champions-2025-gf
