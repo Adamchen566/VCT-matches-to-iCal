@@ -103,6 +103,10 @@ python GUI.py
 | 经济 | `rounds.csv`：每回合双方的经济类型、装备价值和存款 |
 | 现成的汇总 | `summary/` 里按年份算好的地图、特工、阵容、选手、战队表 |
 
+**[打开数据分析页面](https://adamchen566.github.io/VCT-matches-to-iCal/stats.html)**：按赛季看地图出场和攻防平衡、特工出场率的逐年变化、各图常用阵容、选手排行和攻防评分、战队各地图胜率、经济局胜率。
+
+[![数据分析页面](images/stats-page.png)](https://adamchen566.github.io/VCT-matches-to-iCal/stats.html)
+
 每一列的含义见 [`data/stats/README.md`](data/stats/README.md)。数据由 `vlr_stats.py` 抓取和解析，`analyze_stats.py` 生成汇总表。
 
 ## 自己运行
