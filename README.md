@@ -19,8 +19,8 @@ The subscription calendar **auto-discovers** ongoing and upcoming tier-1 VCT eve
 - **🖥️ GUI with Multi-view Support**:
   - **Table View**: Full structured list.
   - **Card View**: Compact team-by-team format.
-  - **Heatmap View**: Team score matrix via seaborn.
-- **📂 Scrollable Event List**: Easily browse all events from 2021–2026.
+  - **Heatmap View**: Matrix of maps won between teams.
+- **📂 Browse Events by Year**: Reads the calendar files in this repository, covering the live calendar and every archive since 2021. Works offline.
 - **📱 Calendar Sync**: Subscribe to `vct_OnGoing.ics` in your calendar.
 - **🔄 Stable Incremental Updates**: Every match has a stable UID to prevent duplicate calendar events.
 
@@ -35,8 +35,11 @@ The subscription calendar **auto-discovers** ongoing and upcoming tier-1 VCT eve
 To use GUI:
 
 ```bash
+python -m pip install -r requirements-gui.txt
 python GUI.py
 ```
+
+The GUI only reads `vct_OnGoing.ics` and `Calendar_Files/` from this repository and makes no network requests. The copy button at the bottom copies the subscription link of the calendar on screen.
 
 ---
 
@@ -60,7 +63,7 @@ Subscribe to the automatically updated calendar:
 
 ### 📋 Requirements
 
-- Python 3.x
+- Python 3.11 or newer
 - Works on: Windows / macOS / Linux
 
 ### 📦 Dependencies

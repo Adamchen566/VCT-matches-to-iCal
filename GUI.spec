@@ -5,7 +5,7 @@ a = Analysis(
     ['GUI.py'],
     pathex=[],
     binaries=[],
-    datas=[('Calendar_Files', 'Calendar_Files')],
+    datas=[('Calendar_Files', 'Calendar_Files'), ('vct_OnGoing.ics', '.')],
     hiddenimports=['customtkinter'],
     hookspath=[],
     hooksconfig={},

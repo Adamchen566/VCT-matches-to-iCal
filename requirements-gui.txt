@@ -1,0 +1,5 @@
+# Extra packages for the desktop viewer (python GUI.py).
+# The calendar updater itself only needs requirements.txt.
+-r requirements.txt
+customtkinter==5.2.2
+matplotlib==3.10.1
