@@ -7,17 +7,17 @@ X-WR-CALNAME:VCT 2026: Pacific Stage 1
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-SUMMARY:[PAC] Gen.G vs Global Esports
+SUMMARY:[PAC] Gen.G 0:2 Global Esports
 DTSTART:20260403T080000Z
 DTEND:20260403T110000Z
-DTSTAMP:20260403T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644652@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/644652/gen-g-v
- s-global-esports-vct-2026-pacific-stage-1-w1
-LAST-MODIFIED:20260403T110000Z
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 644652/gen-g-vs-global-esports-vct-2026-pacific-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -25,34 +25,34 @@ URL:https://www.vlr.gg/644652/gen-g-vs-global-esports-vct-2026-pacific-sta
  ge-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] T1 vs VARREL
+SUMMARY:[PAC] T1 2:0 VARREL
 DTSTART:20260403T101500Z
 DTEND:20260403T131500Z
-DTSTAMP:20260403T131500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644653@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644653/t1-vs-v
- arrel-vct-2026-pacific-stage-1-w1
-LAST-MODIFIED:20260403T131500Z
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644653/t1-vs-varrel-vct-2026-pacific-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/644653/t1-vs-varrel-vct-2026-pacific-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Nongshim RedForce vs Paper Rex
+SUMMARY:[PAC] Nongshim RedForce 1:2 Paper Rex
 DTSTART:20260404T080000Z
 DTEND:20260404T110000Z
-DTSTAMP:20260404T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644654@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644654/nongshi
- m-redforce-vs-paper-rex-vct-2026-pacific-stage-1-w1
-LAST-MODIFIED:20260404T110000Z
+ ek 1 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644654/nongshim-redforce-vs-paper-rex-vct-2026-pacific-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60,17 +60,17 @@ URL:https://www.vlr.gg/644654/nongshim-redforce-vs-paper-rex-vct-2026-paci
  fic-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] FULL SENSE vs DetonatioN FocusMe
+SUMMARY:[PAC] FULL SENSE 2:0 DetonatioN FocusMe
 DTSTART:20260404T111000Z
 DTEND:20260404T141000Z
-DTSTAMP:20260404T141000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644655@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644655/full-se
- nse-vs-detonation-focusme-vct-2026-pacific-stage-1-w1
-LAST-MODIFIED:20260404T141000Z
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644655/full-sense-vs-detonation-focusme-vct-2026-pacific-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -78,17 +78,17 @@ URL:https://www.vlr.gg/644655/full-sense-vs-detonation-focusme-vct-2026-pa
  cific-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Team Secret vs KIWOOM DRX
+SUMMARY:[PAC] Team Secret 0:2 KIWOOM DRX
 DTSTART:20260405T080000Z
 DTEND:20260405T110000Z
-DTSTAMP:20260405T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644656@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/644656/team-se
- cret-vs-drx-vct-2026-pacific-stage-1-w1
-LAST-MODIFIED:20260405T110000Z
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 644656/team-secret-vs-drx-vct-2026-pacific-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -96,17 +96,17 @@ URL:https://www.vlr.gg/644656/team-secret-vs-drx-vct-2026-pacific-stage-1-
  w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs ZETA DIVISION
+SUMMARY:[PAC] Rex Regum Qeon 2:1 ZETA DIVISION
 DTSTART:20260405T103000Z
 DTEND:20260405T133000Z
-DTSTAMP:20260405T133000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644657@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644657/rex-reg
- um-qeon-vs-zeta-division-vct-2026-pacific-stage-1-w1
-LAST-MODIFIED:20260405T133000Z
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644657/rex-regum-qeon-vs-zeta-division-vct-2026-pacific-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -114,17 +114,17 @@ URL:https://www.vlr.gg/644657/rex-regum-qeon-vs-zeta-division-vct-2026-pac
  ific-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] DetonatioN FocusMe vs T1
+SUMMARY:[PAC] DetonatioN FocusMe 0:2 T1
 DTSTART:20260410T080000Z
 DTEND:20260410T110000Z
-DTSTAMP:20260410T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644658@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/644658/detonat
- ion-focusme-vs-t1-vct-2026-pacific-stage-1-w2
-LAST-MODIFIED:20260410T110000Z
+ ek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 644658/detonation-focusme-vs-t1-vct-2026-pacific-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -132,17 +132,17 @@ URL:https://www.vlr.gg/644658/detonation-focusme-vs-t1-vct-2026-pacific-st
  age-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Nongshim RedForce vs KIWOOM DRX
+SUMMARY:[PAC] Nongshim RedForce 1:2 KIWOOM DRX
 DTSTART:20260410T103500Z
 DTEND:20260410T133500Z
-DTSTAMP:20260410T133500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644659@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644659/nongshi
- m-redforce-vs-drx-vct-2026-pacific-stage-1-w2
-LAST-MODIFIED:20260410T133500Z
+ ek 2 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644659/nongshim-redforce-vs-drx-vct-2026-pacific-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -150,17 +150,17 @@ URL:https://www.vlr.gg/644659/nongshim-redforce-vs-drx-vct-2026-pacific-st
  age-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Team Secret vs Global Esports
+SUMMARY:[PAC] Team Secret 0:2 Global Esports
 DTSTART:20260411T080000Z
 DTEND:20260411T110000Z
-DTSTAMP:20260411T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644660@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/644660/team-se
- cret-vs-global-esports-vct-2026-pacific-stage-1-w2
-LAST-MODIFIED:20260411T110000Z
+ ek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 644660/team-secret-vs-global-esports-vct-2026-pacific-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -168,17 +168,17 @@ URL:https://www.vlr.gg/644660/team-secret-vs-global-esports-vct-2026-pacif
  ic-stage-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs VARREL
+SUMMARY:[PAC] Rex Regum Qeon 2:0 VARREL
 DTSTART:20260411T102500Z
 DTEND:20260411T132500Z
-DTSTAMP:20260411T132500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644661@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644661/rex-reg
- um-qeon-vs-varrel-vct-2026-pacific-stage-1-w2
-LAST-MODIFIED:20260411T132500Z
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644661/rex-regum-qeon-vs-varrel-vct-2026-pacific-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -186,17 +186,17 @@ URL:https://www.vlr.gg/644661/rex-regum-qeon-vs-varrel-vct-2026-pacific-st
  age-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] FULL SENSE vs ZETA DIVISION
+SUMMARY:[PAC] FULL SENSE 2:0 ZETA DIVISION
 DTSTART:20260412T080000Z
 DTEND:20260412T110000Z
-DTSTAMP:20260412T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644662@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644662/full-se
- nse-vs-zeta-division-vct-2026-pacific-stage-1-w2
-LAST-MODIFIED:20260412T110000Z
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644662/full-sense-vs-zeta-division-vct-2026-pacific-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -204,17 +204,17 @@ URL:https://www.vlr.gg/644662/full-sense-vs-zeta-division-vct-2026-pacific
  -stage-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Gen.G vs Paper Rex
+SUMMARY:[PAC] Gen.G 2:1 Paper Rex
 DTSTART:20260412T095000Z
 DTEND:20260412T125000Z
-DTSTAMP:20260412T125000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644663@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644663/gen-g-v
- s-paper-rex-vct-2026-pacific-stage-1-w2
-LAST-MODIFIED:20260412T125000Z
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644663/gen-g-vs-paper-rex-vct-2026-pacific-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -222,17 +222,17 @@ URL:https://www.vlr.gg/644663/gen-g-vs-paper-rex-vct-2026-pacific-stage-1-
  w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] FULL SENSE vs VARREL
+SUMMARY:[PAC] FULL SENSE 2:0 VARREL
 DTSTART:20260417T080000Z
 DTEND:20260417T110000Z
-DTSTAMP:20260417T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644665@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644665/full-se
- nse-vs-varrel-vct-2026-pacific-stage-1-w3
-LAST-MODIFIED:20260417T110000Z
+ ek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644665/full-sense-vs-varrel-vct-2026-pacific-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -240,17 +240,17 @@ URL:https://www.vlr.gg/644665/full-sense-vs-varrel-vct-2026-pacific-stage-
  1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Team Secret vs Paper Rex
+SUMMARY:[PAC] Team Secret 0:2 Paper Rex
 DTSTART:20260417T102000Z
 DTEND:20260417T132000Z
-DTSTAMP:20260417T132000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644666@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/644666/team-se
- cret-vs-paper-rex-vct-2026-pacific-stage-1-w3
-LAST-MODIFIED:20260417T132000Z
+ ek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 644666/team-secret-vs-paper-rex-vct-2026-pacific-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -258,17 +258,17 @@ URL:https://www.vlr.gg/644666/team-secret-vs-paper-rex-vct-2026-pacific-st
  age-1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] KIWOOM DRX vs Global Esports
+SUMMARY:[PAC] KIWOOM DRX 2:0 Global Esports
 DTSTART:20260418T080000Z
 DTEND:20260418T110000Z
-DTSTAMP:20260418T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644667@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644667/kiwoom-
- drx-vs-global-esports-vct-2026-pacific-stage-1-w3
-LAST-MODIFIED:20260418T110000Z
+ ek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644667/kiwoom-drx-vs-global-esports-vct-2026-pacific-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -276,17 +276,17 @@ URL:https://www.vlr.gg/644667/kiwoom-drx-vs-global-esports-vct-2026-pacifi
  c-stage-1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] ZETA DIVISION vs DetonatioN FocusMe
+SUMMARY:[PAC] ZETA DIVISION 1:2 DetonatioN FocusMe
 DTSTART:20260418T102000Z
 DTEND:20260418T132000Z
-DTSTAMP:20260418T132000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644668@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644668/zeta-di
- vision-vs-detonation-focusme-vct-2026-pacific-stage-1-w3
-LAST-MODIFIED:20260418T132000Z
+ ek 3 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644668/zeta-division-vs-detonation-focusme-vct-2026-pacific-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -294,17 +294,17 @@ URL:https://www.vlr.gg/644668/zeta-division-vs-detonation-focusme-vct-2026
  -pacific-stage-1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs T1
+SUMMARY:[PAC] Rex Regum Qeon 0:2 T1
 DTSTART:20260419T080000Z
 DTEND:20260419T110000Z
-DTSTAMP:20260419T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644669@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/644669/rex-reg
- um-qeon-vs-t1-vct-2026-pacific-stage-1-w3
-LAST-MODIFIED:20260419T110000Z
+ ek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 644669/rex-regum-qeon-vs-t1-vct-2026-pacific-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -312,17 +312,17 @@ URL:https://www.vlr.gg/644669/rex-regum-qeon-vs-t1-vct-2026-pacific-stage-
  1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Nongshim RedForce vs Gen.G
+SUMMARY:[PAC] Nongshim RedForce 2:0 Gen.G
 DTSTART:20260419T102500Z
 DTEND:20260419T132500Z
-DTSTAMP:20260419T132500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644670@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644670/nongshi
- m-redforce-vs-gen-g-vct-2026-pacific-stage-1-w3
-LAST-MODIFIED:20260419T132500Z
+ ek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644670/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -330,17 +330,17 @@ URL:https://www.vlr.gg/644670/nongshim-redforce-vs-gen-g-vct-2026-pacific-
  stage-1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs FULL SENSE
+SUMMARY:[PAC] Rex Regum Qeon 2:1 FULL SENSE
 DTSTART:20260424T080000Z
 DTEND:20260424T110000Z
-DTSTAMP:20260424T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644671@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 4 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644671/rex-reg
- um-qeon-vs-full-sense-vct-2026-pacific-stage-1-w4
-LAST-MODIFIED:20260424T110000Z
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644671/rex-regum-qeon-vs-full-sense-vct-2026-pacific-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -348,17 +348,17 @@ URL:https://www.vlr.gg/644671/rex-regum-qeon-vs-full-sense-vct-2026-pacifi
  c-stage-1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Paper Rex vs Global Esports
+SUMMARY:[PAC] Paper Rex 2:0 Global Esports
 DTSTART:20260424T110000Z
 DTEND:20260424T140000Z
-DTSTAMP:20260424T140000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644672@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 4 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644672/paper-r
- ex-vs-global-esports-vct-2026-pacific-stage-1-w4
-LAST-MODIFIED:20260424T140000Z
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644672/paper-rex-vs-global-esports-vct-2026-pacific-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -366,17 +366,17 @@ URL:https://www.vlr.gg/644672/paper-rex-vs-global-esports-vct-2026-pacific
  -stage-1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Gen.G vs KIWOOM DRX
+SUMMARY:[PAC] Gen.G 1:2 KIWOOM DRX
 DTSTART:20260425T080000Z
 DTEND:20260425T110000Z
-DTSTAMP:20260425T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644673@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 4 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644673/gen-g-v
- s-kiwoom-drx-vct-2026-pacific-stage-1-w4
-LAST-MODIFIED:20260425T110000Z
+ ek 4 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644673/gen-g-vs-kiwoom-drx-vct-2026-pacific-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -384,17 +384,17 @@ URL:https://www.vlr.gg/644673/gen-g-vs-kiwoom-drx-vct-2026-pacific-stage-1
  -w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] DetonatioN FocusMe vs VARREL
+SUMMARY:[PAC] DetonatioN FocusMe 2:1 VARREL
 DTSTART:20260425T113500Z
 DTEND:20260425T143500Z
-DTSTAMP:20260425T143500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644674@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 4 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644674/detonat
- ion-focusme-vs-varrel-vct-2026-pacific-stage-1-w4
-LAST-MODIFIED:20260425T143500Z
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644674/detonation-focusme-vs-varrel-vct-2026-pacific-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -402,17 +402,17 @@ URL:https://www.vlr.gg/644674/detonation-focusme-vs-varrel-vct-2026-pacifi
  c-stage-1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] T1 vs ZETA DIVISION
+SUMMARY:[PAC] T1 2:0 ZETA DIVISION
 DTSTART:20260426T080000Z
 DTEND:20260426T110000Z
-DTSTAMP:20260426T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644675@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 4 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644675/t1-vs-z
- eta-division-vct-2026-pacific-stage-1-w4
-LAST-MODIFIED:20260426T110000Z
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644675/t1-vs-zeta-division-vct-2026-pacific-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -420,17 +420,17 @@ URL:https://www.vlr.gg/644675/t1-vs-zeta-division-vct-2026-pacific-stage-1
  -w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Nongshim RedForce vs Team Secret
+SUMMARY:[PAC] Nongshim RedForce 2:1 Team Secret
 DTSTART:20260426T100500Z
 DTEND:20260426T130500Z
-DTSTAMP:20260426T130500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644676@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 4 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644676/nongshi
- m-redforce-vs-team-secret-vct-2026-pacific-stage-1-w4
-LAST-MODIFIED:20260426T130500Z
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644676/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -438,17 +438,17 @@ URL:https://www.vlr.gg/644676/nongshim-redforce-vs-team-secret-vct-2026-pa
  cific-stage-1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Gen.G vs Team Secret
+SUMMARY:[PAC] Gen.G 1:2 Team Secret
 DTSTART:20260501T080000Z
 DTEND:20260501T110000Z
-DTSTAMP:20260501T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644677@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 5 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644677/gen-g-v
- s-team-secret-vct-2026-pacific-stage-1-w5
-LAST-MODIFIED:20260501T110000Z
+ ek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644677/gen-g-vs-team-secret-vct-2026-pacific-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -456,17 +456,17 @@ URL:https://www.vlr.gg/644677/gen-g-vs-team-secret-vct-2026-pacific-stage-
  1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] VARREL vs ZETA DIVISION
+SUMMARY:[PAC] VARREL 1:2 ZETA DIVISION
 DTSTART:20260501T112000Z
 DTEND:20260501T142000Z
-DTSTAMP:20260501T142000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644678@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 5 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644678/varrel-
- vs-zeta-division-vct-2026-pacific-stage-1-w5
-LAST-MODIFIED:20260501T142000Z
+ ek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644678/varrel-vs-zeta-division-vct-2026-pacific-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -474,34 +474,34 @@ URL:https://www.vlr.gg/644678/varrel-vs-zeta-division-vct-2026-pacific-sta
  ge-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] T1 vs FULL SENSE
+SUMMARY:[PAC] T1 2:1 FULL SENSE
 DTSTART:20260502T080000Z
 DTEND:20260502T110000Z
-DTSTAMP:20260502T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644679@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 5 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644679/t1-vs-f
- ull-sense-vct-2026-pacific-stage-1-w5
-LAST-MODIFIED:20260502T110000Z
+ ek 5 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644679/t1-vs-full-sense-vct-2026-pacific-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/644679/t1-vs-full-sense-vct-2026-pacific-stage-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Nongshim RedForce vs Global Esports
+SUMMARY:[PAC] Nongshim RedForce 1:2 Global Esports
 DTSTART:20260502T111000Z
 DTEND:20260502T141000Z
-DTSTAMP:20260502T141000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644680@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 5 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/644680/nongshi
- m-redforce-vs-global-esports-vct-2026-pacific-stage-1-w5
-LAST-MODIFIED:20260502T141000Z
+ ek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 644680/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -509,17 +509,17 @@ URL:https://www.vlr.gg/644680/nongshim-redforce-vs-global-esports-vct-2026
  -pacific-stage-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Paper Rex vs KIWOOM DRX
+SUMMARY:[PAC] Paper Rex 2:0 KIWOOM DRX
 DTSTART:20260503T080000Z
 DTEND:20260503T110000Z
-DTSTAMP:20260503T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644681@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 5 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/644681/paper-r
- ex-vs-kiwoom-drx-vct-2026-pacific-stage-1-w5
-LAST-MODIFIED:20260503T110000Z
+ ek 5 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 644681/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -527,17 +527,17 @@ URL:https://www.vlr.gg/644681/paper-rex-vs-kiwoom-drx-vct-2026-pacific-sta
  ge-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs DetonatioN FocusMe
+SUMMARY:[PAC] Rex Regum Qeon 2:1 DetonatioN FocusMe
 DTSTART:20260503T100000Z
 DTEND:20260503T130000Z
-DTSTAMP:20260503T130000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-644682@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：We
- ek 5 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/644682/rex-reg
- um-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-w5
-LAST-MODIFIED:20260503T130000Z
+ ek 5 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 644682/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -545,17 +545,17 @@ URL:https://www.vlr.gg/644682/rex-regum-qeon-vs-detonation-focusme-vct-202
  6-pacific-stage-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs Global Esports
+SUMMARY:[PAC] Rex Regum Qeon 0:2 Global Esports
 DTSTART:20260507T080000Z
 DTEND:20260507T110000Z
-DTSTAMP:20260507T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666488@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Up
- per Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/666488/rex
- -regum-qeon-vs-global-esports-vct-2026-pacific-stage-1-ur1
-LAST-MODIFIED:20260507T110000Z
+ per Round 1 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/666488/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-1-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -563,17 +563,17 @@ URL:https://www.vlr.gg/666488/rex-regum-qeon-vs-global-esports-vct-2026-pa
  cific-stage-1-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] KIWOOM DRX vs FULL SENSE
+SUMMARY:[PAC] KIWOOM DRX 0:2 FULL SENSE
 DTSTART:20260507T103500Z
 DTEND:20260507T133500Z
-DTSTAMP:20260507T133500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666489@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Up
- per Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/666489/kiw
- oom-drx-vs-full-sense-vct-2026-pacific-stage-1-ur1
-LAST-MODIFIED:20260507T133500Z
+ per Round 1 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/666489/kiwoom-drx-vs-full-sense-vct-2026-pacific-stage-1-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -581,17 +581,17 @@ URL:https://www.vlr.gg/666489/kiwoom-drx-vs-full-sense-vct-2026-pacific-st
  age-1-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Paper Rex vs Global Esports
+SUMMARY:[PAC] Paper Rex 1:2 Global Esports
 DTSTART:20260508T080000Z
 DTEND:20260508T110000Z
-DTSTAMP:20260508T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666490@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Up
- per Semifinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/666490/p
- aper-rex-vs-global-esports-vct-2026-pacific-stage-1-ubsf
-LAST-MODIFIED:20260508T110000Z
+ per Semifinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.v
+ lr.gg/666490/paper-rex-vs-global-esports-vct-2026-pacific-stage-1-ubsf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -599,17 +599,17 @@ URL:https://www.vlr.gg/666490/paper-rex-vs-global-esports-vct-2026-pacific
  -stage-1-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] T1 vs FULL SENSE
+SUMMARY:[PAC] T1 0:2 FULL SENSE
 DTSTART:20260508T111500Z
 DTEND:20260508T141500Z
-DTSTAMP:20260508T141500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666491@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Up
- per Semifinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/666491/t
- 1-vs-full-sense-vct-2026-pacific-stage-1-ubsf
-LAST-MODIFIED:20260508T141500Z
+ per Semifinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.v
+ lr.gg/666491/t1-vs-full-sense-vct-2026-pacific-stage-1-ubsf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -617,17 +617,18 @@ URL:https://www.vlr.gg/666491/t1-vs-full-sense-vct-2026-pacific-stage-1-ub
  sf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Rex Regum Qeon vs DetonatioN FocusMe
+SUMMARY:[PAC] Rex Regum Qeon 2:1 DetonatioN FocusMe
 DTSTART:20260509T080000Z
 DTEND:20260509T110000Z
-DTSTAMP:20260509T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666494@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Lo
- wer Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/666494/rex
- -regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-lr1
-LAST-MODIFIED:20260509T110000Z
+ wer Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/666494/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-l
+ r1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -635,17 +636,17 @@ URL:https://www.vlr.gg/666494/rex-regum-qeon-vs-detonation-focusme-vct-202
  6-pacific-stage-1-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] KIWOOM DRX vs Nongshim RedForce
+SUMMARY:[PAC] KIWOOM DRX 2:1 Nongshim RedForce
 DTSTART:20260509T113000Z
 DTEND:20260509T143000Z
-DTSTAMP:20260509T143000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666495@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Lo
- wer Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/666495/kiw
- oom-drx-vs-nongshim-redforce-vct-2026-pacific-stage-1-lr1
-LAST-MODIFIED:20260509T143000Z
+ wer Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/666495/kiwoom-drx-vs-nongshim-redforce-vct-2026-pacific-stage-1-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -653,17 +654,17 @@ URL:https://www.vlr.gg/666495/kiwoom-drx-vs-nongshim-redforce-vct-2026-pac
  ific-stage-1-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] T1 vs Rex Regum Qeon
+SUMMARY:[PAC] T1 2:1 Rex Regum Qeon
 DTSTART:20260510T080000Z
 DTEND:20260510T110000Z
-DTSTAMP:20260510T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666496@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Lo
- wer Round 2 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/666496/t1-
- vs-rex-regum-qeon-vct-2026-pacific-stage-1-lr2
-LAST-MODIFIED:20260510T110000Z
+ wer Round 2 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/666496/t1-vs-rex-regum-qeon-vct-2026-pacific-stage-1-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -671,17 +672,17 @@ URL:https://www.vlr.gg/666496/t1-vs-rex-regum-qeon-vct-2026-pacific-stage-
  1-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Paper Rex vs KIWOOM DRX
+SUMMARY:[PAC] Paper Rex 2:1 KIWOOM DRX
 DTSTART:20260510T113000Z
 DTEND:20260510T143000Z
-DTSTAMP:20260510T143000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666497@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Lo
- wer Round 2 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/666497/pap
- er-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-lr2
-LAST-MODIFIED:20260510T143000Z
+ wer Round 2 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/666497/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -689,17 +690,17 @@ URL:https://www.vlr.gg/666497/paper-rex-vs-kiwoom-drx-vct-2026-pacific-sta
  ge-1-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Global Esports vs FULL SENSE
+SUMMARY:[PAC] Global Esports 0:2 FULL SENSE
 DTSTART:20260515T100000Z
 DTEND:20260515T130000Z
-DTSTAMP:20260515T130000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666492@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Up
- per Final Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/666492/global
- -esports-vs-full-sense-vct-2026-pacific-stage-1-ubf
-LAST-MODIFIED:20260515T130000Z
+ per Final Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /666492/global-esports-vs-full-sense-vct-2026-pacific-stage-1-ubf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -707,34 +708,34 @@ URL:https://www.vlr.gg/666492/global-esports-vs-full-sense-vct-2026-pacifi
  c-stage-1-ubf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] T1 vs Paper Rex
+SUMMARY:[PAC] T1 1:2 Paper Rex
 DTSTART:20260515T122000Z
 DTEND:20260515T152000Z
-DTSTAMP:20260515T152000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666498@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Lo
- wer Round 3 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/666498/t1-
- vs-paper-rex-vct-2026-pacific-stage-1-lr3
-LAST-MODIFIED:20260515T152000Z
+ wer Round 3 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/666498/t1-vs-paper-rex-vct-2026-pacific-stage-1-lr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/666498/t1-vs-paper-rex-vct-2026-pacific-stage-1-lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] Global Esports vs Paper Rex
+SUMMARY:[PAC] Global Esports 0:3 Paper Rex
 DTSTART:20260516T100000Z
-DTEND:20260516T130000Z
-DTSTAMP:20260516T130000Z
+DTEND:20260516T150000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666499@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Lo
- wer Final Playoffs\n比分：0:3\nVLR：https://www.vlr.gg/666499/global
- -esports-vs-paper-rex-vct-2026-pacific-stage-1-lbf
-LAST-MODIFIED:20260516T130000Z
+ wer Final Playoffs\n赛制：Bo5\n比分：0:3\nVLR：https://www.vlr.gg
+ /666499/global-esports-vs-paper-rex-vct-2026-pacific-stage-1-lbf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -742,17 +743,17 @@ URL:https://www.vlr.gg/666499/global-esports-vs-paper-rex-vct-2026-pacific
  -stage-1-lbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PAC] FULL SENSE vs Paper Rex
+SUMMARY:[PAC] FULL SENSE 0:3 Paper Rex
 DTSTART:20260517T100000Z
-DTEND:20260517T130000Z
-DTSTAMP:20260517T130000Z
+DTEND:20260517T150000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-666493@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Pacific Stage 1,PAC
 DESCRIPTION:VCT 2026: Pacific Stage 1\n状态：Completed\n阶段：Gr
- and Final Playoffs\n比分：0:3\nVLR：https://www.vlr.gg/666493/full-s
- ense-vs-paper-rex-vct-2026-pacific-stage-1-gf
-LAST-MODIFIED:20260517T130000Z
+ and Final Playoffs\n赛制：Bo5\n比分：0:3\nVLR：https://www.vlr.gg
+ /666493/full-sense-vs-paper-rex-vct-2026-pacific-stage-1-gf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT PAC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

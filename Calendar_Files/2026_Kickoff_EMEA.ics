@@ -7,17 +7,17 @@ X-WR-CALNAME:VCT 2026: EMEA Kickoff
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-SUMMARY:[EMEA] Natus Vincere vs Karmine Corp
+SUMMARY:[EMEA] Natus Vincere 2:0 Karmine Corp
 DTSTART:20260120T160000Z
 DTEND:20260120T190000Z
-DTSTAMP:20260120T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594740@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 1 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/594740/nat
- us-vincere-vs-karmine-corp-vct-2026-emea-kickoff-ur1
-LAST-MODIFIED:20260120T190000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/594740/natus-vincere-vs-karmine-corp-vct-2026-emea-kickoff-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -25,17 +25,17 @@ URL:https://www.vlr.gg/594740/natus-vincere-vs-karmine-corp-vct-2026-emea-
  kickoff-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] FUT Esports vs Gentle Mates
+SUMMARY:[EMEA] FUT Esports 0:2 Gentle Mates
 DTSTART:20260120T183500Z
 DTEND:20260120T213500Z
-DTSTAMP:20260120T213500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594741@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594741/fut
- -esports-vs-gentle-mates-vct-2026-emea-kickoff-ur1
-LAST-MODIFIED:20260120T213500Z
+  Round 1 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594741/fut-esports-vs-gentle-mates-vct-2026-emea-kickoff-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -43,17 +43,17 @@ URL:https://www.vlr.gg/594741/fut-esports-vs-gentle-mates-vct-2026-emea-ki
  ckoff-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] PCIFIC Esports vs BBL Esports
+SUMMARY:[EMEA] PCIFIC Esports 1:2 BBL Esports
 DTSTART:20260121T160000Z
 DTEND:20260121T190000Z
-DTSTAMP:20260121T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594742@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 1 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594742/pci
- fic-esports-vs-bbl-esports-vct-2026-emea-kickoff-ur1
-LAST-MODIFIED:20260121T190000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594742/pcific-esports-vs-bbl-esports-vct-2026-emea-kickoff-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61,17 +61,17 @@ URL:https://www.vlr.gg/594742/pcific-esports-vs-bbl-esports-vct-2026-emea-
  kickoff-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] ULF Esports vs Team Vitality
+SUMMARY:[EMEA] ULF Esports 0:2 Team Vitality
 DTSTART:20260121T192000Z
 DTEND:20260121T222000Z
-DTSTAMP:20260121T222000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594743@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594743/ulf
- -esports-vs-team-vitality-vct-2026-emea-kickoff-ur1
-LAST-MODIFIED:20260121T222000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594743/ulf-esports-vs-team-vitality-vct-2026-emea-kickoff-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -79,17 +79,17 @@ URL:https://www.vlr.gg/594743/ulf-esports-vs-team-vitality-vct-2026-emea-k
  ickoff-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Heretics vs Natus Vincere
+SUMMARY:[EMEA] Team Heretics 1:2 Natus Vincere
 DTSTART:20260122T160000Z
 DTEND:20260122T190000Z
-DTSTAMP:20260122T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594744@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 2 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594744/tea
- m-heretics-vs-natus-vincere-vct-2026-emea-kickoff-ur2
-LAST-MODIFIED:20260122T190000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594744/team-heretics-vs-natus-vincere-vct-2026-emea-kickoff-ur2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -97,17 +97,17 @@ URL:https://www.vlr.gg/594744/team-heretics-vs-natus-vincere-vct-2026-emea
  -kickoff-ur2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] GIANTX vs Gentle Mates
+SUMMARY:[EMEA] GIANTX 0:2 Gentle Mates
 DTSTART:20260122T193000Z
 DTEND:20260122T223000Z
-DTSTAMP:20260122T223000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594745@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 2 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594745/gia
- ntx-vs-gentle-mates-vct-2026-emea-kickoff-ur2
-LAST-MODIFIED:20260122T223000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594745/giantx-vs-gentle-mates-vct-2026-emea-kickoff-ur2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -115,17 +115,17 @@ URL:https://www.vlr.gg/594745/giantx-vs-gentle-mates-vct-2026-emea-kickoff
  -ur2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] FNATIC vs BBL Esports
+SUMMARY:[EMEA] FNATIC 0:2 BBL Esports
 DTSTART:20260123T160000Z
 DTEND:20260123T190000Z
-DTSTAMP:20260123T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594746@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 2 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594746/fna
- tic-vs-bbl-esports-vct-2026-emea-kickoff-ur2
-LAST-MODIFIED:20260123T190000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594746/fnatic-vs-bbl-esports-vct-2026-emea-kickoff-ur2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -133,17 +133,17 @@ URL:https://www.vlr.gg/594746/fnatic-vs-bbl-esports-vct-2026-emea-kickoff-
  ur2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Liquid vs Team Vitality
+SUMMARY:[EMEA] Team Liquid 1:2 Team Vitality
 DTSTART:20260123T182500Z
 DTEND:20260123T212500Z
-DTSTAMP:20260123T212500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594747@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 2 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594747/tea
- m-liquid-vs-team-vitality-vct-2026-emea-kickoff-ur2
-LAST-MODIFIED:20260123T212500Z
+  Round 2 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594747/team-liquid-vs-team-vitality-vct-2026-emea-kickoff-ur2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -151,17 +151,17 @@ URL:https://www.vlr.gg/594747/team-liquid-vs-team-vitality-vct-2026-emea-k
  ickoff-ur2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Karmine Corp vs Team Liquid
+SUMMARY:[EMEA] Karmine Corp 1:2 Team Liquid
 DTSTART:20260127T160000Z
 DTEND:20260127T190000Z
-DTSTAMP:20260127T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594751@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 1 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594751/kar
- mine-corp-vs-team-liquid-vct-2026-emea-kickoff-mr1
-LAST-MODIFIED:20260127T190000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594751/karmine-corp-vs-team-liquid-vct-2026-emea-kickoff-mr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -169,17 +169,17 @@ URL:https://www.vlr.gg/594751/karmine-corp-vs-team-liquid-vct-2026-emea-ki
  ckoff-mr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] FUT Esports vs FNATIC
+SUMMARY:[EMEA] FUT Esports 1:2 FNATIC
 DTSTART:20260127T192000Z
 DTEND:20260127T222000Z
-DTSTAMP:20260127T222000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594752@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 1 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594752/fut
- -esports-vs-fnatic-vct-2026-emea-kickoff-mr1
-LAST-MODIFIED:20260127T222000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594752/fut-esports-vs-fnatic-vct-2026-emea-kickoff-mr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -187,17 +187,17 @@ URL:https://www.vlr.gg/594752/fut-esports-vs-fnatic-vct-2026-emea-kickoff-
  mr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] PCIFIC Esports vs GIANTX
+SUMMARY:[EMEA] PCIFIC Esports 1:2 GIANTX
 DTSTART:20260128T160000Z
 DTEND:20260128T190000Z
-DTSTAMP:20260128T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594753@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 1 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594753/pci
- fic-esports-vs-giantx-vct-2026-emea-kickoff-mr1
-LAST-MODIFIED:20260128T190000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594753/pcific-esports-vs-giantx-vct-2026-emea-kickoff-mr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -205,17 +205,17 @@ URL:https://www.vlr.gg/594753/pcific-esports-vs-giantx-vct-2026-emea-kicko
  ff-mr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] ULF Esports vs Team Heretics
+SUMMARY:[EMEA] ULF Esports 0:2 Team Heretics
 DTSTART:20260128T193500Z
 DTEND:20260128T223500Z
-DTSTAMP:20260128T223500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594754@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594754/ulf
- -esports-vs-team-heretics-vct-2026-emea-kickoff-mr1
-LAST-MODIFIED:20260128T223500Z
+  Round 1 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594754/ulf-esports-vs-team-heretics-vct-2026-emea-kickoff-mr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -223,17 +223,17 @@ URL:https://www.vlr.gg/594754/ulf-esports-vs-team-heretics-vct-2026-emea-k
  ickoff-mr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Natus Vincere vs Gentle Mates
+SUMMARY:[EMEA] Natus Vincere 0:2 Gentle Mates
 DTSTART:20260129T160000Z
 DTEND:20260129T190000Z
-DTSTAMP:20260129T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594748@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 3 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594748/nat
- us-vincere-vs-gentle-mates-vct-2026-emea-kickoff-ur3
-LAST-MODIFIED:20260129T190000Z
+  Round 3 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594748/natus-vincere-vs-gentle-mates-vct-2026-emea-kickoff-ur3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -241,17 +241,17 @@ URL:https://www.vlr.gg/594748/natus-vincere-vs-gentle-mates-vct-2026-emea-
  kickoff-ur3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] BBL Esports vs Team Vitality
+SUMMARY:[EMEA] BBL Esports 2:0 Team Vitality
 DTSTART:20260129T182000Z
 DTEND:20260129T212000Z
-DTSTAMP:20260129T212000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594749@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Round 3 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/594749/bbl
- -esports-vs-team-vitality-vct-2026-emea-kickoff-ur3
-LAST-MODIFIED:20260129T212000Z
+  Round 3 Main Event\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/594749/bbl-esports-vs-team-vitality-vct-2026-emea-kickoff-ur3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -259,17 +259,17 @@ URL:https://www.vlr.gg/594749/bbl-esports-vs-team-vitality-vct-2026-emea-k
  ickoff-ur3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Liquid vs FNATIC
+SUMMARY:[EMEA] Team Liquid 0:2 FNATIC
 DTSTART:20260130T160000Z
 DTEND:20260130T190000Z
-DTSTAMP:20260130T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594755@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 2 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594755/tea
- m-liquid-vs-fnatic-vct-2026-emea-kickoff-mr2
-LAST-MODIFIED:20260130T190000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594755/team-liquid-vs-fnatic-vct-2026-emea-kickoff-mr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,17 +277,17 @@ URL:https://www.vlr.gg/594755/team-liquid-vs-fnatic-vct-2026-emea-kickoff-
  mr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] GIANTX vs Team Heretics
+SUMMARY:[EMEA] GIANTX 2:0 Team Heretics
 DTSTART:20260130T182000Z
 DTEND:20260130T212000Z
-DTSTAMP:20260130T212000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594756@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 2 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/594756/gia
- ntx-vs-team-heretics-vct-2026-emea-kickoff-mr2
-LAST-MODIFIED:20260130T212000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/594756/giantx-vs-team-heretics-vct-2026-emea-kickoff-mr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -295,17 +295,17 @@ URL:https://www.vlr.gg/594756/giantx-vs-team-heretics-vct-2026-emea-kickof
  f-mr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Karmine Corp vs FUT Esports
+SUMMARY:[EMEA] Karmine Corp 2:1 FUT Esports
 DTSTART:20260203T160000Z
 DTEND:20260203T190000Z
-DTSTAMP:20260203T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594761@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 1 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/594761/kar
- mine-corp-vs-fut-esports-vct-2026-emea-kickoff-lr1
-LAST-MODIFIED:20260203T190000Z
+  Round 1 Main Event\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/594761/karmine-corp-vs-fut-esports-vct-2026-emea-kickoff-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -313,17 +313,17 @@ URL:https://www.vlr.gg/594761/karmine-corp-vs-fut-esports-vct-2026-emea-ki
  ckoff-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] PCIFIC Esports vs ULF Esports
+SUMMARY:[EMEA] PCIFIC Esports 0:2 ULF Esports
 DTSTART:20260203T193500Z
 DTEND:20260203T223500Z
-DTSTAMP:20260203T223500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594762@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594762/pci
- fic-esports-vs-ulf-esports-vct-2026-emea-kickoff-lr1
-LAST-MODIFIED:20260203T223500Z
+  Round 1 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594762/pcific-esports-vs-ulf-esports-vct-2026-emea-kickoff-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -331,17 +331,17 @@ URL:https://www.vlr.gg/594762/pcific-esports-vs-ulf-esports-vct-2026-emea-
  kickoff-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Natus Vincere vs FNATIC
+SUMMARY:[EMEA] Natus Vincere 1:2 FNATIC
 DTSTART:20260204T160000Z
 DTEND:20260204T190000Z
-DTSTAMP:20260204T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594757@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 3 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594757/nat
- us-vincere-vs-fnatic-vct-2026-emea-kickoff-mr3
-LAST-MODIFIED:20260204T190000Z
+  Round 3 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594757/natus-vincere-vs-fnatic-vct-2026-emea-kickoff-mr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -349,17 +349,17 @@ URL:https://www.vlr.gg/594757/natus-vincere-vs-fnatic-vct-2026-emea-kickof
  f-mr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Vitality vs GIANTX
+SUMMARY:[EMEA] Team Vitality 2:0 GIANTX
 DTSTART:20260204T200000Z
 DTEND:20260204T230000Z
-DTSTAMP:20260204T230000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594758@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 3 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/594758/tea
- m-vitality-vs-giantx-vct-2026-emea-kickoff-mr3
-LAST-MODIFIED:20260204T230000Z
+  Round 3 Main Event\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/594758/team-vitality-vs-giantx-vct-2026-emea-kickoff-mr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -367,17 +367,17 @@ URL:https://www.vlr.gg/594758/team-vitality-vs-giantx-vct-2026-emea-kickof
  f-mr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Heretics vs Karmine Corp
+SUMMARY:[EMEA] Team Heretics 2:1 Karmine Corp
 DTSTART:20260205T160000Z
 DTEND:20260205T190000Z
-DTSTAMP:20260205T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594763@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 2 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/594763/tea
- m-heretics-vs-karmine-corp-vct-2026-emea-kickoff-lr2
-LAST-MODIFIED:20260205T190000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/594763/team-heretics-vs-karmine-corp-vct-2026-emea-kickoff-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -385,17 +385,17 @@ URL:https://www.vlr.gg/594763/team-heretics-vs-karmine-corp-vct-2026-emea-
  kickoff-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Liquid vs ULF Esports
+SUMMARY:[EMEA] Team Liquid 2:1 ULF Esports
 DTSTART:20260205T190000Z
 DTEND:20260205T220000Z
-DTSTAMP:20260205T220000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594764@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 2 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/594764/tea
- m-liquid-vs-ulf-esports-vct-2026-emea-kickoff-lr2
-LAST-MODIFIED:20260205T220000Z
+  Round 2 Main Event\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/594764/team-liquid-vs-ulf-esports-vct-2026-emea-kickoff-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -403,17 +403,17 @@ URL:https://www.vlr.gg/594764/team-liquid-vs-ulf-esports-vct-2026-emea-kic
  koff-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Natus Vincere vs Team Heretics
+SUMMARY:[EMEA] Natus Vincere 0:2 Team Heretics
 DTSTART:20260206T160000Z
 DTEND:20260206T190000Z
-DTSTAMP:20260206T190000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594765@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 3 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594765/nat
- us-vincere-vs-team-heretics-vct-2026-emea-kickoff-lr3
-LAST-MODIFIED:20260206T190000Z
+  Round 3 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594765/natus-vincere-vs-team-heretics-vct-2026-emea-kickoff-lr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -421,17 +421,17 @@ URL:https://www.vlr.gg/594765/natus-vincere-vs-team-heretics-vct-2026-emea
  -kickoff-lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] GIANTX vs Team Liquid
+SUMMARY:[EMEA] GIANTX 1:2 Team Liquid
 DTSTART:20260206T180000Z
 DTEND:20260206T210000Z
-DTSTAMP:20260206T210000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594766@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 3 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594766/gia
- ntx-vs-team-liquid-vct-2026-emea-kickoff-lr3
-LAST-MODIFIED:20260206T210000Z
+  Round 3 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594766/giantx-vs-team-liquid-vct-2026-emea-kickoff-lr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -439,17 +439,17 @@ URL:https://www.vlr.gg/594766/giantx-vs-team-liquid-vct-2026-emea-kickoff-
  lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Heretics vs Team Liquid
+SUMMARY:[EMEA] Team Heretics 0:2 Team Liquid
 DTSTART:20260212T170000Z
 DTEND:20260212T200000Z
-DTSTAMP:20260212T200000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594767@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 4 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/594767/tea
- m-heretics-vs-team-liquid-vct-2026-emea-kickoff-lr4
-LAST-MODIFIED:20260212T200000Z
+  Round 4 Main Event\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/594767/team-heretics-vs-team-liquid-vct-2026-emea-kickoff-lr4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -457,17 +457,17 @@ URL:https://www.vlr.gg/594767/team-heretics-vs-team-liquid-vct-2026-emea-k
  ickoff-lr4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] FNATIC vs Team Vitality
+SUMMARY:[EMEA] FNATIC 2:0 Team Vitality
 DTSTART:20260213T130000Z
 DTEND:20260213T160000Z
-DTSTAMP:20260213T160000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594759@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Round 4 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/594759/fna
- tic-vs-team-vitality-vct-2026-emea-kickoff-mr4
-LAST-MODIFIED:20260213T160000Z
+  Round 4 Main Event\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/594759/fnatic-vs-team-vitality-vct-2026-emea-kickoff-mr4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -475,17 +475,17 @@ URL:https://www.vlr.gg/594759/fnatic-vs-team-vitality-vct-2026-emea-kickof
  f-mr4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Gentle Mates vs BBL Esports
+SUMMARY:[EMEA] Gentle Mates 2:3 BBL Esports
 DTSTART:20260213T151500Z
-DTEND:20260213T181500Z
-DTSTAMP:20260213T181500Z
+DTEND:20260213T201500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594750@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Upper
-  Final Main Event\n比分：2:3\nVLR：https://www.vlr.gg/594750/gentle
- -mates-vs-bbl-esports-vct-2026-emea-kickoff-ubf
-LAST-MODIFIED:20260213T181500Z
+  Final Main Event\n赛制：Bo5\n比分：2:3\nVLR：https://www.vlr.gg
+ /594750/gentle-mates-vs-bbl-esports-vct-2026-emea-kickoff-ubf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -493,17 +493,17 @@ URL:https://www.vlr.gg/594750/gentle-mates-vs-bbl-esports-vct-2026-emea-ki
  ckoff-ubf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Team Vitality vs Team Liquid
+SUMMARY:[EMEA] Team Vitality 1:2 Team Liquid
 DTSTART:20260214T130000Z
 DTEND:20260214T160000Z
-DTSTAMP:20260214T160000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594768@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Round 5 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/594768/tea
- m-vitality-vs-team-liquid-vct-2026-emea-kickoff-lr5
-LAST-MODIFIED:20260214T160000Z
+  Round 5 Main Event\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/594768/team-vitality-vs-team-liquid-vct-2026-emea-kickoff-lr5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -511,17 +511,17 @@ URL:https://www.vlr.gg/594768/team-vitality-vs-team-liquid-vct-2026-emea-k
  ickoff-lr5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] Gentle Mates vs FNATIC
+SUMMARY:[EMEA] Gentle Mates 3:2 FNATIC
 DTSTART:20260214T161000Z
-DTEND:20260214T191000Z
-DTSTAMP:20260214T191000Z
+DTEND:20260214T211000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594760@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Middle
-  Final Main Event\n比分：3:2\nVLR：https://www.vlr.gg/594760/gentle
- -mates-vs-fnatic-vct-2026-emea-kickoff-mbf
-LAST-MODIFIED:20260214T191000Z
+  Final Main Event\n赛制：Bo5\n比分：3:2\nVLR：https://www.vlr.gg
+ /594760/gentle-mates-vs-fnatic-vct-2026-emea-kickoff-mbf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -529,17 +529,17 @@ URL:https://www.vlr.gg/594760/gentle-mates-vs-fnatic-vct-2026-emea-kickoff
  -mbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EMEA] FNATIC vs Team Liquid
+SUMMARY:[EMEA] FNATIC 0:3 Team Liquid
 DTSTART:20260215T170000Z
-DTEND:20260215T200000Z
-DTSTAMP:20260215T200000Z
+DTEND:20260215T220000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-594769@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: EMEA Kickoff,EMEA
 DESCRIPTION:VCT 2026: EMEA Kickoff\n状态：Completed\n阶段：Lower
-  Final Main Event\n比分：0:3\nVLR：https://www.vlr.gg/594769/fnatic
- -vs-team-liquid-vct-2026-emea-kickoff-lbf
-LAST-MODIFIED:20260215T200000Z
+  Final Main Event\n赛制：Bo5\n比分：0:3\nVLR：https://www.vlr.gg
+ /594769/fnatic-vs-team-liquid-vct-2026-emea-kickoff-lbf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT EMEA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

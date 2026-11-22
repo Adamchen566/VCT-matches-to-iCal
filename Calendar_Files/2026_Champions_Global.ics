@@ -7,17 +7,17 @@ X-WR-CALNAME:Valorant Champions 2026
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-SUMMARY:[INTL] Team Liquid vs Paper Rex
+SUMMARY:[INTL] Team Liquid 1:2 Paper Rex
 DTSTART:20260924T090000Z
 DTEND:20260924T120000Z
-DTSTAMP:20260924T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753455@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (C) Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/753455/team-l
- iquid-vs-paper-rex-valorant-champions-2026-opening-c
-LAST-MODIFIED:20260924T120000Z
+ g (C) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /753455/team-liquid-vs-paper-rex-valorant-champions-2026-opening-c
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -25,17 +25,17 @@ URL:https://www.vlr.gg/753455/team-liquid-vs-paper-rex-valorant-champions-
  2026-opening-c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] TYLOO vs G2 Esports
+SUMMARY:[INTL] TYLOO 0:2 G2 Esports
 DTSTART:20260924T122500Z
 DTEND:20260924T152500Z
-DTSTAMP:20260924T152500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753454@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (C) Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/753454/tyloo-
- vs-g2-esports-valorant-champions-2026-opening-c
-LAST-MODIFIED:20260924T152500Z
+ g (C) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -43,17 +43,17 @@ URL:https://www.vlr.gg/753454/tyloo-vs-g2-esports-valorant-champions-2026-
  opening-c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Nongshim RedForce vs NRG
+SUMMARY:[INTL] Nongshim RedForce 0:2 NRG
 DTSTART:20260925T090000Z
 DTEND:20260925T120000Z
-DTSTAMP:20260925T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753460@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (D) Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/753460/nongsh
- im-redforce-vs-nrg-valorant-champions-2026-opening-d
-LAST-MODIFIED:20260925T120000Z
+ g (D) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61,17 +61,17 @@ URL:https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-
  2026-opening-d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Karmine Corp vs Xi Lai Gaming
+SUMMARY:[INTL] Karmine Corp 2:0 Xi Lai Gaming
 DTSTART:20260925T112500Z
 DTEND:20260925T142500Z
-DTSTAMP:20260925T142500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753459@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (D) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753459/karmin
- e-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d
-LAST-MODIFIED:20260925T142500Z
+ g (D) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /753459/karmine-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -79,17 +79,17 @@ URL:https://www.vlr.gg/753459/karmine-corp-vs-xi-lai-gaming-valorant-champ
  ions-2026-opening-d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Global Esports vs Team Vitality
+SUMMARY:[INTL] Global Esports 1:2 Team Vitality
 DTSTART:20260926T090000Z
 DTEND:20260926T120000Z
-DTSTAMP:20260926T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753449@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (B) Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/753449/global
- -esports-vs-team-vitality-valorant-champions-2026-opening-b
-LAST-MODIFIED:20260926T120000Z
+ g (B) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /753449/global-esports-vs-team-vitality-valorant-champions-2026-opening-b
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -97,17 +97,17 @@ URL:https://www.vlr.gg/753449/global-esports-vs-team-vitality-valorant-cha
  mpions-2026-opening-b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] LOUD vs EDward Gaming
+SUMMARY:[INTL] LOUD 2:0 EDward Gaming
 DTSTART:20260926T123000Z
 DTEND:20260926T153000Z
-DTSTAMP:20260926T153000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753450@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (B) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753450/loud-v
- s-edward-gaming-valorant-champions-2026-opening-b
-LAST-MODIFIED:20260926T153000Z
+ g (B) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -115,17 +115,17 @@ URL:https://www.vlr.gg/753450/loud-vs-edward-gaming-valorant-champions-202
  6-opening-b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] 100 Thieves vs T1
+SUMMARY:[INTL] 100 Thieves 2:0 T1
 DTSTART:20260927T090000Z
 DTEND:20260927T120000Z
-DTSTAMP:20260927T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753444@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (A) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753444/100-th
- ieves-vs-t1-valorant-champions-2026-opening-a
-LAST-MODIFIED:20260927T120000Z
+ g (A) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /753444/100-thieves-vs-t1-valorant-champions-2026-opening-a
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -133,17 +133,17 @@ URL:https://www.vlr.gg/753444/100-thieves-vs-t1-valorant-champions-2026-op
  ening-a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] JD Gaming vs FUT Esports
+SUMMARY:[INTL] JD Gaming 0:2 FUT Esports
 DTSTART:20260927T113500Z
 DTEND:20260927T143500Z
-DTSTAMP:20260927T143500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753445@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Openin
- g (A) Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/753445/jd-gam
- ing-vs-fut-esports-valorant-champions-2026-opening-a
-LAST-MODIFIED:20260927T143500Z
+ g (A) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /753445/jd-gaming-vs-fut-esports-valorant-champions-2026-opening-a
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -151,17 +151,17 @@ URL:https://www.vlr.gg/753445/jd-gaming-vs-fut-esports-valorant-champions-
  2026-opening-a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] G2 Esports vs Paper Rex
+SUMMARY:[INTL] G2 Esports 1:2 Paper Rex
 DTSTART:20260929T090000Z
 DTEND:20260929T120000Z
-DTSTAMP:20260929T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753456@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Winner
- 's (C) Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/753456/g2-es
- ports-vs-paper-rex-valorant-champions-2026-winners-c
-LAST-MODIFIED:20260929T120000Z
+ 's (C) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.g
+ g/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -169,17 +169,17 @@ URL:https://www.vlr.gg/753456/g2-esports-vs-paper-rex-valorant-champions-2
  026-winners-c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Karmine Corp vs NRG
+SUMMARY:[INTL] Karmine Corp 1:2 NRG
 DTSTART:20260929T123000Z
 DTEND:20260929T153000Z
-DTSTAMP:20260929T153000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753461@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Winner
- 's (D) Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/753461/karmi
- ne-corp-vs-nrg-valorant-champions-2026-winners-d
-LAST-MODIFIED:20260929T153000Z
+ 's (D) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.g
+ g/753461/karmine-corp-vs-nrg-valorant-champions-2026-winners-d
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -187,17 +187,17 @@ URL:https://www.vlr.gg/753461/karmine-corp-vs-nrg-valorant-champions-2026-
  winners-d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Team Vitality vs LOUD
+SUMMARY:[INTL] Team Vitality 2:0 LOUD
 DTSTART:20260930T090000Z
 DTEND:20260930T120000Z
-DTSTAMP:20260930T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753451@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Winner
- 's (B) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753451/team-
- vitality-vs-loud-valorant-champions-2026-winners-b
-LAST-MODIFIED:20260930T120000Z
+ 's (B) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.g
+ g/753451/team-vitality-vs-loud-valorant-champions-2026-winners-b
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -205,17 +205,17 @@ URL:https://www.vlr.gg/753451/team-vitality-vs-loud-valorant-champions-202
  6-winners-b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] 100 Thieves vs FUT Esports
+SUMMARY:[INTL] 100 Thieves 2:0 FUT Esports
 DTSTART:20260930T115500Z
 DTEND:20260930T145500Z
-DTSTAMP:20260930T145500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753446@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Winner
- 's (A) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753446/100-t
- hieves-vs-fut-esports-valorant-champions-2026-winners-a
-LAST-MODIFIED:20260930T145500Z
+ 's (A) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.g
+ g/753446/100-thieves-vs-fut-esports-valorant-champions-2026-winners-a
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -223,17 +223,17 @@ URL:https://www.vlr.gg/753446/100-thieves-vs-fut-esports-valorant-champion
  s-2026-winners-a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] TYLOO vs Team Liquid
+SUMMARY:[INTL] TYLOO 1:2 Team Liquid
 DTSTART:20261001T090000Z
 DTEND:20261001T120000Z
-DTSTAMP:20261001T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753457@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Elimin
- ation (C) Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/753457/ty
- loo-vs-team-liquid-valorant-champions-2026-elim-c
-LAST-MODIFIED:20261001T120000Z
+ ation (C) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vl
+ r.gg/753457/tyloo-vs-team-liquid-valorant-champions-2026-elim-c
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -241,17 +241,18 @@ URL:https://www.vlr.gg/753457/tyloo-vs-team-liquid-valorant-champions-2026
  -elim-c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Xi Lai Gaming vs Nongshim RedForce
+SUMMARY:[INTL] Xi Lai Gaming 0:2 Nongshim RedForce
 DTSTART:20261001T120500Z
 DTEND:20261001T150500Z
-DTSTAMP:20261001T150500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753462@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Elimin
- ation (D) Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/753462/xi
- -lai-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d
-LAST-MODIFIED:20261001T150500Z
+ ation (D) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vl
+ r.gg/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-champions-2026-eli
+ m-d
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -259,17 +260,17 @@ URL:https://www.vlr.gg/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-
  champions-2026-elim-d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Global Esports vs EDward Gaming
+SUMMARY:[INTL] Global Esports 2:0 EDward Gaming
 DTSTART:20261002T090000Z
 DTEND:20261002T120000Z
-DTSTAMP:20261002T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753452@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Elimin
- ation (B) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753452/gl
- obal-esports-vs-edward-gaming-valorant-champions-2026-elim-b
-LAST-MODIFIED:20261002T120000Z
+ ation (B) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,17 +278,17 @@ URL:https://www.vlr.gg/753452/global-esports-vs-edward-gaming-valorant-cha
  mpions-2026-elim-b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] T1 vs JD Gaming
+SUMMARY:[INTL] T1 2:1 JD Gaming
 DTSTART:20261002T110000Z
 DTEND:20261002T140000Z
-DTSTAMP:20261002T140000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753447@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Elimin
- ation (A) Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/753447/t1
- -vs-jd-gaming-valorant-champions-2026-elim-a
-LAST-MODIFIED:20261002T140000Z
+ ation (A) Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vl
+ r.gg/753447/t1-vs-jd-gaming-valorant-champions-2026-elim-a
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -295,17 +296,17 @@ URL:https://www.vlr.gg/753447/t1-vs-jd-gaming-valorant-champions-2026-elim
  -a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] G2 Esports vs Team Liquid
+SUMMARY:[INTL] G2 Esports 2:0 Team Liquid
 DTSTART:20261003T090000Z
 DTEND:20261003T120000Z
-DTSTAMP:20261003T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753458@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Decide
- r (C) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753458/g2-esp
- orts-vs-team-liquid-valorant-champions-2026-decider-c
-LAST-MODIFIED:20261003T120000Z
+ r (C) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /753458/g2-esports-vs-team-liquid-valorant-champions-2026-decider-c
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -313,17 +314,18 @@ URL:https://www.vlr.gg/753458/g2-esports-vs-team-liquid-valorant-champions
  -2026-decider-c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Karmine Corp vs Nongshim RedForce
+SUMMARY:[INTL] Karmine Corp 1:2 Nongshim RedForce
 DTSTART:20261003T113000Z
 DTEND:20261003T143000Z
-DTSTAMP:20261003T143000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753463@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Decide
- r (D) Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/753463/karmin
- e-corp-vs-nongshim-redforce-valorant-champions-2026-decider-d
-LAST-MODIFIED:20261003T143000Z
+ r (D) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /753463/karmine-corp-vs-nongshim-redforce-valorant-champions-2026-decider-
+ d
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -331,17 +333,17 @@ URL:https://www.vlr.gg/753463/karmine-corp-vs-nongshim-redforce-valorant-c
  hampions-2026-decider-d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] LOUD vs Global Esports
+SUMMARY:[INTL] LOUD 2:0 Global Esports
 DTSTART:20261004T090000Z
 DTEND:20261004T120000Z
-DTSTAMP:20261004T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753453@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Decide
- r (B) Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/753453/loud-v
- s-global-esports-valorant-champions-2026-decider-b
-LAST-MODIFIED:20261004T120000Z
+ r (B) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /753453/loud-vs-global-esports-valorant-champions-2026-decider-b
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -349,17 +351,17 @@ URL:https://www.vlr.gg/753453/loud-vs-global-esports-valorant-champions-20
  26-decider-b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] FUT Esports vs T1
+SUMMARY:[INTL] FUT Esports 0:2 T1
 DTSTART:20261004T112500Z
 DTEND:20261004T142500Z
-DTSTAMP:20261004T142500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-753448@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Decide
- r (A) Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/753448/fut-es
- ports-vs-t1-valorant-champions-2026-decider-a
-LAST-MODIFIED:20261004T142500Z
+ r (A) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /753448/fut-esports-vs-t1-valorant-champions-2026-decider-a
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -367,34 +369,34 @@ URL:https://www.vlr.gg/753448/fut-esports-vs-t1-valorant-champions-2026-de
  cider-a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] NRG vs T1
+SUMMARY:[INTL] NRG 2:0 T1
 DTSTART:20261007T090000Z
 DTEND:20261007T120000Z
-DTSTAMP:20261007T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754732@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Quarterfinals Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/754732/n
- rg-vs-t1-valorant-champions-2026-ubqf
-LAST-MODIFIED:20261007T120000Z
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.v
+ lr.gg/754732/nrg-vs-t1-valorant-champions-2026-ubqf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/754732/nrg-vs-t1-valorant-champions-2026-ubqf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Paper Rex vs LOUD
+SUMMARY:[INTL] Paper Rex 0:2 LOUD
 DTSTART:20261007T113000Z
 DTEND:20261007T143000Z
-DTSTAMP:20261007T143000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754733@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Quarterfinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/754733/p
- aper-rex-vs-loud-valorant-champions-2026-ubqf
-LAST-MODIFIED:20261007T143000Z
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.v
+ lr.gg/754733/paper-rex-vs-loud-valorant-champions-2026-ubqf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -402,17 +404,17 @@ URL:https://www.vlr.gg/754733/paper-rex-vs-loud-valorant-champions-2026-ub
  qf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] 100 Thieves vs G2 Esports
+SUMMARY:[INTL] 100 Thieves 0:2 G2 Esports
 DTSTART:20261008T090000Z
 DTEND:20261008T120000Z
-DTSTAMP:20261008T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754730@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Quarterfinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/754730/1
- 00-thieves-vs-g2-esports-valorant-champions-2026-ubqf
-LAST-MODIFIED:20261008T120000Z
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.v
+ lr.gg/754730/100-thieves-vs-g2-esports-valorant-champions-2026-ubqf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -420,17 +422,18 @@ URL:https://www.vlr.gg/754730/100-thieves-vs-g2-esports-valorant-champions
  -2026-ubqf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Team Vitality vs Nongshim RedForce
+SUMMARY:[INTL] Team Vitality 2:1 Nongshim RedForce
 DTSTART:20261008T112000Z
 DTEND:20261008T142000Z
-DTSTAMP:20261008T142000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754731@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Quarterfinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/754731/t
- eam-vitality-vs-nongshim-redforce-valorant-champions-2026-ubqf
-LAST-MODIFIED:20261008T142000Z
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.v
+ lr.gg/754731/team-vitality-vs-nongshim-redforce-valorant-champions-2026-ub
+ qf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -438,34 +441,34 @@ URL:https://www.vlr.gg/754731/team-vitality-vs-nongshim-redforce-valorant-
  champions-2026-ubqf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] T1 vs Paper Rex
+SUMMARY:[INTL] T1 2:1 Paper Rex
 DTSTART:20261009T090000Z
 DTEND:20261009T120000Z
-DTSTAMP:20261009T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754739@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Lower
-  Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/754739/t1-vs-
- paper-rex-valorant-champions-2026-lr1
-LAST-MODIFIED:20261009T120000Z
+  Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /754739/t1-vs-paper-rex-valorant-champions-2026-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/754739/t1-vs-paper-rex-valorant-champions-2026-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] 100 Thieves vs Nongshim RedForce
+SUMMARY:[INTL] 100 Thieves 2:1 Nongshim RedForce
 DTSTART:20261009T121000Z
 DTEND:20261009T151000Z
-DTSTAMP:20261009T151000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754738@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Lower
-  Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/754738/100-th
- ieves-vs-nongshim-redforce-valorant-champions-2026-lr1
-LAST-MODIFIED:20261009T151000Z
+  Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /754738/100-thieves-vs-nongshim-redforce-valorant-champions-2026-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -473,34 +476,34 @@ URL:https://www.vlr.gg/754738/100-thieves-vs-nongshim-redforce-valorant-ch
  ampions-2026-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] NRG vs LOUD
+SUMMARY:[INTL] NRG 1:2 LOUD
 DTSTART:20261010T090000Z
 DTEND:20261010T120000Z
-DTSTAMP:20261010T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754735@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Semifinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/754735/nrg-
- vs-loud-valorant-champions-2026-ubsf
-LAST-MODIFIED:20261010T120000Z
+  Semifinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.
+ gg/754735/nrg-vs-loud-valorant-champions-2026-ubsf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/754735/nrg-vs-loud-valorant-champions-2026-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] G2 Esports vs Team Vitality
+SUMMARY:[INTL] G2 Esports 0:2 Team Vitality
 DTSTART:20261010T120000Z
 DTEND:20261010T150000Z
-DTSTAMP:20261010T150000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754734@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Semifinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/754734/g2-e
- sports-vs-team-vitality-valorant-champions-2026-ubsf
-LAST-MODIFIED:20261010T150000Z
+  Semifinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.
+ gg/754734/g2-esports-vs-team-vitality-valorant-champions-2026-ubsf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -508,17 +511,17 @@ URL:https://www.vlr.gg/754734/g2-esports-vs-team-vitality-valorant-champio
  ns-2026-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] NRG vs 100 Thieves
+SUMMARY:[INTL] NRG 0:2 100 Thieves
 DTSTART:20261011T090000Z
 DTEND:20261011T120000Z
-DTSTAMP:20261011T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754740@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Lower
-  Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/754740/nrg-vs
- -100-thieves-valorant-champions-2026-lr2
-LAST-MODIFIED:20261011T120000Z
+  Round 2 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /754740/nrg-vs-100-thieves-valorant-champions-2026-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -526,34 +529,34 @@ URL:https://www.vlr.gg/754740/nrg-vs-100-thieves-valorant-champions-2026-l
  r2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] G2 Esports vs T1
+SUMMARY:[INTL] G2 Esports 2:1 T1
 DTSTART:20261011T111500Z
 DTEND:20261011T141500Z
-DTSTAMP:20261011T141500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754741@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Lower
-  Round 2 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/754741/g2-esp
- orts-vs-t1-valorant-champions-2026-lr2
-LAST-MODIFIED:20261011T141500Z
+  Round 2 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /754741/g2-esports-vs-t1-valorant-champions-2026-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/754741/g2-esports-vs-t1-valorant-champions-2026-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Team Vitality vs LOUD
+SUMMARY:[INTL] Team Vitality 1:2 LOUD
 DTSTART:20261016T060000Z
 DTEND:20261016T090000Z
-DTSTAMP:20261016T090000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754736@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Upper
-  Final Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/754736/team-vita
- lity-vs-loud-valorant-champions-2026-ubf
-LAST-MODIFIED:20261016T090000Z
+  Final Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/75
+ 4736/team-vitality-vs-loud-valorant-champions-2026-ubf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -561,17 +564,17 @@ URL:https://www.vlr.gg/754736/team-vitality-vs-loud-valorant-champions-202
  6-ubf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] 100 Thieves vs G2 Esports
+SUMMARY:[INTL] 100 Thieves 2:1 G2 Esports
 DTSTART:20261016T101000Z
 DTEND:20261016T131000Z
-DTSTAMP:20261016T131000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754742@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Lower
-  Round 3 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/754742/100-th
- ieves-vs-g2-esports-valorant-champions-2026-lr3
-LAST-MODIFIED:20261016T131000Z
+  Round 3 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /754742/100-thieves-vs-g2-esports-valorant-champions-2026-lr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -579,17 +582,17 @@ URL:https://www.vlr.gg/754742/100-thieves-vs-g2-esports-valorant-champions
  -2026-lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] Team Vitality vs 100 Thieves
+SUMMARY:[INTL] Team Vitality 3:1 100 Thieves
 DTSTART:20261017T070000Z
-DTEND:20261017T100000Z
-DTSTAMP:20261017T100000Z
+DTEND:20261017T120000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754743@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Lower
-  Final Playoffs\n比分：3:1\nVLR：https://www.vlr.gg/754743/team-vita
- lity-vs-100-thieves-valorant-champions-2026-lbf
-LAST-MODIFIED:20261017T100000Z
+  Final Playoffs\n赛制：Bo5\n比分：3:1\nVLR：https://www.vlr.gg/75
+ 4743/team-vitality-vs-100-thieves-valorant-champions-2026-lbf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -597,17 +600,17 @@ URL:https://www.vlr.gg/754743/team-vitality-vs-100-thieves-valorant-champi
  ons-2026-lbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[INTL] LOUD vs Team Vitality
+SUMMARY:[INTL] LOUD 3:1 Team Vitality
 DTSTART:20261018T060000Z
-DTEND:20261018T090000Z
-DTSTAMP:20261018T090000Z
+DTEND:20261018T110000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-754737@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Valorant Champions 2026,INTL
 DESCRIPTION:Valorant Champions 2026\n状态：Completed\n阶段：Grand
-  Final Playoffs\n比分：3:1\nVLR：https://www.vlr.gg/754737/loud-vs-t
- eam-vitality-valorant-champions-2026-gf
-LAST-MODIFIED:20261018T090000Z
+  Final Playoffs\n赛制：Bo5\n比分：3:1\nVLR：https://www.vlr.gg/75
+ 4737/loud-vs-team-vitality-valorant-champions-2026-gf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT INTL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

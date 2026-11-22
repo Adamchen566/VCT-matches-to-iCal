@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# iCalendar files must keep their CRLF line endings exactly as generated.
+*.ics -text
+
+# Generated data and text are compared byte for byte, so keep LF everywhere.
+*.json text eol=lf
+*.txt text eol=lf
