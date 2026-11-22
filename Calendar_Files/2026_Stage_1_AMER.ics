@@ -7,17 +7,17 @@ X-WR-CALNAME:VCT 2026: Americas Stage 1
 X-PUBLISHED-TTL:PT24H
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-SUMMARY:[AMER] Sentinels vs KRÜ Esports
+SUMMARY:[AMER] Sentinels 0:2 KRÜ Esports
 DTSTART:20260410T210000Z
 DTEND:20260411T000000Z
-DTSTAMP:20260411T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645474@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645474/sentin
- els-vs-kr-esports-vct-2026-americas-stage-1-w1
-LAST-MODIFIED:20260411T000000Z
+ eek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645474/sentinels-vs-kr-esports-vct-2026-americas-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -25,17 +25,17 @@ URL:https://www.vlr.gg/645474/sentinels-vs-kr-esports-vct-2026-americas-st
  age-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs MIBR
+SUMMARY:[AMER] G2 Esports 0:2 MIBR
 DTSTART:20260410T234000Z
 DTEND:20260411T024000Z
-DTSTAMP:20260411T024000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645475@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645475/g2-esp
- orts-vs-mibr-vct-2026-americas-stage-1-w1
-LAST-MODIFIED:20260411T024000Z
+ eek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645475/g2-esports-vs-mibr-vct-2026-americas-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -43,17 +43,17 @@ URL:https://www.vlr.gg/645475/g2-esports-vs-mibr-vct-2026-americas-stage-1
  -w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] 100 Thieves vs Evil Geniuses
+SUMMARY:[AMER] 100 Thieves 2:0 Evil Geniuses
 DTSTART:20260411T210000Z
 DTEND:20260412T000000Z
-DTSTAMP:20260412T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645476@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645476/100-th
- ieves-vs-evil-geniuses-vct-2026-americas-stage-1-w1
-LAST-MODIFIED:20260412T000000Z
+ eek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645476/100-thieves-vs-evil-geniuses-vct-2026-americas-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61,34 +61,34 @@ URL:https://www.vlr.gg/645476/100-thieves-vs-evil-geniuses-vct-2026-americ
  as-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] ENVY vs LOUD
+SUMMARY:[AMER] ENVY 1:2 LOUD
 DTSTART:20260412T003500Z
 DTEND:20260412T033500Z
-DTSTAMP:20260412T033500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645477@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/645477/envy-v
- s-loud-vct-2026-americas-stage-1-w1
-LAST-MODIFIED:20260412T033500Z
+ eek 1 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /645477/envy-vs-loud-vct-2026-americas-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645477/envy-vs-loud-vct-2026-americas-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] Cloud9 vs LEVIATÁN
+SUMMARY:[AMER] Cloud9 0:2 LEVIATÁN
 DTSTART:20260412T210000Z
 DTEND:20260413T000000Z
-DTSTAMP:20260413T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645478@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645478/cloud9
- -vs-leviat-n-vct-2026-americas-stage-1-w1
-LAST-MODIFIED:20260413T000000Z
+ eek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645478/cloud9-vs-leviat-n-vct-2026-americas-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -96,51 +96,51 @@ URL:https://www.vlr.gg/645478/cloud9-vs-leviat-n-vct-2026-americas-stage-1
  -w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs NRG
+SUMMARY:[AMER] FURIA 2:0 NRG
 DTSTART:20260412T230500Z
 DTEND:20260413T020500Z
-DTSTAMP:20260413T020500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645479@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645479/furia-
- vs-nrg-vct-2026-americas-stage-1-w1
-LAST-MODIFIED:20260413T020500Z
+ eek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645479/furia-vs-nrg-vct-2026-americas-stage-1-w1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645479/furia-vs-nrg-vct-2026-americas-stage-1-w1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] Cloud9 vs ENVY
+SUMMARY:[AMER] Cloud9 1:2 ENVY
 DTSTART:20260417T210000Z
 DTEND:20260418T000000Z
-DTSTAMP:20260418T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645480@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/645480/cloud9
- -vs-envy-vct-2026-americas-stage-1-w2
-LAST-MODIFIED:20260418T000000Z
+ eek 2 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /645480/cloud9-vs-envy-vct-2026-americas-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645480/cloud9-vs-envy-vct-2026-americas-stage-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs Evil Geniuses
+SUMMARY:[AMER] FURIA 2:1 Evil Geniuses
 DTSTART:20260418T000500Z
 DTEND:20260418T030500Z
-DTSTAMP:20260418T030500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645481@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/645481/furia-
- vs-evil-geniuses-vct-2026-americas-stage-1-w2
-LAST-MODIFIED:20260418T030500Z
+ eek 2 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /645481/furia-vs-evil-geniuses-vct-2026-americas-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -148,17 +148,17 @@ URL:https://www.vlr.gg/645481/furia-vs-evil-geniuses-vct-2026-americas-sta
  ge-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs LEVIATÁN
+SUMMARY:[AMER] G2 Esports 1:2 LEVIATÁN
 DTSTART:20260418T210000Z
 DTEND:20260419T000000Z
-DTSTAMP:20260419T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645482@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/645482/g2-esp
- orts-vs-leviat-n-vct-2026-americas-stage-1-w2
-LAST-MODIFIED:20260419T000000Z
+ eek 2 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /645482/g2-esports-vs-leviat-n-vct-2026-americas-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -166,34 +166,34 @@ URL:https://www.vlr.gg/645482/g2-esports-vs-leviat-n-vct-2026-americas-sta
  ge-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] MIBR vs LOUD
+SUMMARY:[AMER] MIBR 2:0 LOUD
 DTSTART:20260419T003000Z
 DTEND:20260419T033000Z
-DTSTAMP:20260419T033000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645483@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645483/mibr-v
- s-loud-vct-2026-americas-stage-1-w2
-LAST-MODIFIED:20260419T033000Z
+ eek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645483/mibr-vs-loud-vct-2026-americas-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645483/mibr-vs-loud-vct-2026-americas-stage-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] NRG vs KRÜ Esports
+SUMMARY:[AMER] NRG 0:2 KRÜ Esports
 DTSTART:20260419T210000Z
 DTEND:20260420T000000Z
-DTSTAMP:20260420T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645484@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645484/nrg-vs
- -kr-esports-vct-2026-americas-stage-1-w2
-LAST-MODIFIED:20260420T000000Z
+ eek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645484/nrg-vs-kr-esports-vct-2026-americas-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -201,17 +201,17 @@ URL:https://www.vlr.gg/645484/nrg-vs-kr-esports-vct-2026-americas-stage-1-
  w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] 100 Thieves vs Sentinels
+SUMMARY:[AMER] 100 Thieves 0:2 Sentinels
 DTSTART:20260419T232000Z
 DTEND:20260420T022000Z
-DTSTAMP:20260420T022000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645485@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645485/100-th
- ieves-vs-sentinels-vct-2026-americas-stage-1-w2
-LAST-MODIFIED:20260420T022000Z
+ eek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645485/100-thieves-vs-sentinels-vct-2026-americas-stage-1-w2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -219,17 +219,17 @@ URL:https://www.vlr.gg/645485/100-thieves-vs-sentinels-vct-2026-americas-s
  tage-1-w2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LEVIATÁN vs ENVY
+SUMMARY:[AMER] LEVIATÁN 2:0 ENVY
 DTSTART:20260424T210000Z
 DTEND:20260425T000000Z
-DTSTAMP:20260425T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645486@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645486/leviat
- -n-vs-envy-vct-2026-americas-stage-1-w3
-LAST-MODIFIED:20260425T000000Z
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645486/leviat-n-vs-envy-vct-2026-americas-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -237,17 +237,17 @@ URL:https://www.vlr.gg/645486/leviat-n-vs-envy-vct-2026-americas-stage-1-w
  3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs LOUD
+SUMMARY:[AMER] G2 Esports 2:0 LOUD
 DTSTART:20260424T224000Z
 DTEND:20260425T014000Z
-DTSTAMP:20260425T014000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645487@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645487/g2-esp
- orts-vs-loud-vct-2026-americas-stage-1-w3
-LAST-MODIFIED:20260425T014000Z
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645487/g2-esports-vs-loud-vct-2026-americas-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -255,17 +255,17 @@ URL:https://www.vlr.gg/645487/g2-esports-vs-loud-vct-2026-americas-stage-1
  -w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs KRÜ Esports
+SUMMARY:[AMER] FURIA 0:2 KRÜ Esports
 DTSTART:20260425T210000Z
 DTEND:20260426T000000Z
-DTSTAMP:20260426T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645488@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645488/furia-
- vs-kr-esports-vct-2026-americas-stage-1-w3
-LAST-MODIFIED:20260426T000000Z
+ eek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645488/furia-vs-kr-esports-vct-2026-americas-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -273,17 +273,17 @@ URL:https://www.vlr.gg/645488/furia-vs-kr-esports-vct-2026-americas-stage-
  1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] NRG vs 100 Thieves
+SUMMARY:[AMER] NRG 2:1 100 Thieves
 DTSTART:20260425T230500Z
 DTEND:20260426T020500Z
-DTSTAMP:20260426T020500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645489@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/645489/nrg-vs
- -100-thieves-vct-2026-americas-stage-1-w3
-LAST-MODIFIED:20260426T020500Z
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /645489/nrg-vs-100-thieves-vct-2026-americas-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -291,17 +291,17 @@ URL:https://www.vlr.gg/645489/nrg-vs-100-thieves-vct-2026-americas-stage-1
  -w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] Evil Geniuses vs Sentinels
+SUMMARY:[AMER] Evil Geniuses 0:2 Sentinels
 DTSTART:20260426T210000Z
 DTEND:20260427T000000Z
-DTSTAMP:20260427T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645490@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645490/evil-g
- eniuses-vs-sentinels-vct-2026-americas-stage-1-w3
-LAST-MODIFIED:20260427T000000Z
+ eek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645490/evil-geniuses-vs-sentinels-vct-2026-americas-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -309,34 +309,34 @@ URL:https://www.vlr.gg/645490/evil-geniuses-vs-sentinels-vct-2026-americas
  -stage-1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] MIBR vs Cloud9
+SUMMARY:[AMER] MIBR 0:2 Cloud9
 DTSTART:20260426T232500Z
 DTEND:20260427T022500Z
-DTSTAMP:20260427T022500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645491@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645491/mibr-v
- s-cloud9-vct-2026-americas-stage-1-w3
-LAST-MODIFIED:20260427T022500Z
+ eek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645491/mibr-vs-cloud9-vct-2026-americas-stage-1-w3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645491/mibr-vs-cloud9-vct-2026-americas-stage-1-w3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] Evil Geniuses vs NRG
+SUMMARY:[AMER] Evil Geniuses 0:2 NRG
 DTSTART:20260501T210000Z
 DTEND:20260502T000000Z
-DTSTAMP:20260502T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645492@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 4 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645492/evil-g
- eniuses-vs-nrg-vct-2026-americas-stage-1-w4
-LAST-MODIFIED:20260502T000000Z
+ eek 4 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645492/evil-geniuses-vs-nrg-vct-2026-americas-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -344,17 +344,17 @@ URL:https://www.vlr.gg/645492/evil-geniuses-vs-nrg-vct-2026-americas-stage
  -1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LEVIATÁN vs MIBR
+SUMMARY:[AMER] LEVIATÁN 0:2 MIBR
 DTSTART:20260501T232000Z
 DTEND:20260502T022000Z
-DTSTAMP:20260502T022000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645493@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 4 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/645493/leviat
- -n-vs-mibr-vct-2026-americas-stage-1-w4
-LAST-MODIFIED:20260502T022000Z
+ eek 4 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /645493/leviat-n-vs-mibr-vct-2026-americas-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -362,17 +362,17 @@ URL:https://www.vlr.gg/645493/leviat-n-vs-mibr-vct-2026-americas-stage-1-w
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] KRÜ Esports vs 100 Thieves
+SUMMARY:[AMER] KRÜ Esports 1:2 100 Thieves
 DTSTART:20260502T210000Z
 DTEND:20260503T000000Z
-DTSTAMP:20260503T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645494@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 4 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/645494/kr-esp
- orts-vs-100-thieves-vct-2026-americas-stage-1-w4
-LAST-MODIFIED:20260503T000000Z
+ eek 4 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /645494/kr-esports-vs-100-thieves-vct-2026-americas-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -380,17 +380,17 @@ URL:https://www.vlr.gg/645494/kr-esports-vs-100-thieves-vct-2026-americas-
  stage-1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs Sentinels
+SUMMARY:[AMER] FURIA 2:1 Sentinels
 DTSTART:20260503T000000Z
 DTEND:20260503T030000Z
-DTSTAMP:20260503T030000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645495@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 4 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/645495/furia-
- vs-sentinels-vct-2026-americas-stage-1-w4
-LAST-MODIFIED:20260503T030000Z
+ eek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /645495/furia-vs-sentinels-vct-2026-americas-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -398,34 +398,34 @@ URL:https://www.vlr.gg/645495/furia-vs-sentinels-vct-2026-americas-stage-1
  -w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LOUD vs Cloud9
+SUMMARY:[AMER] LOUD 2:1 Cloud9
 DTSTART:20260503T210000Z
 DTEND:20260504T000000Z
-DTSTAMP:20260504T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645496@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 4 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/645496/loud-v
- s-cloud9-vct-2026-americas-stage-1-w4
-LAST-MODIFIED:20260504T000000Z
+ eek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /645496/loud-vs-cloud9-vct-2026-americas-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645496/loud-vs-cloud9-vct-2026-americas-stage-1-w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs ENVY
+SUMMARY:[AMER] G2 Esports 2:0 ENVY
 DTSTART:20260504T000000Z
 DTEND:20260504T030000Z
-DTSTAMP:20260504T030000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645497@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 4 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645497/g2-esp
- orts-vs-envy-vct-2026-americas-stage-1-w4
-LAST-MODIFIED:20260504T030000Z
+ eek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645497/g2-esports-vs-envy-vct-2026-americas-stage-1-w4
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -433,17 +433,17 @@ URL:https://www.vlr.gg/645497/g2-esports-vs-envy-vct-2026-americas-stage-1
  -w4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] KRÜ Esports vs Evil Geniuses
+SUMMARY:[AMER] KRÜ Esports 2:1 Evil Geniuses
 DTSTART:20260508T210000Z
 DTEND:20260509T000000Z
-DTSTAMP:20260509T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645498@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 5 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/645498/kr-esp
- orts-vs-evil-geniuses-vct-2026-americas-stage-1-w5
-LAST-MODIFIED:20260509T000000Z
+ eek 5 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /645498/kr-esports-vs-evil-geniuses-vct-2026-americas-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -451,17 +451,17 @@ URL:https://www.vlr.gg/645498/kr-esports-vs-evil-geniuses-vct-2026-america
  s-stage-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs 100 Thieves
+SUMMARY:[AMER] FURIA 1:2 100 Thieves
 DTSTART:20260509T002000Z
 DTEND:20260509T032000Z
-DTSTAMP:20260509T032000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645499@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 5 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/645499/furia-
- vs-100-thieves-vct-2026-americas-stage-1-w5
-LAST-MODIFIED:20260509T032000Z
+ eek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /645499/furia-vs-100-thieves-vct-2026-americas-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -469,17 +469,17 @@ URL:https://www.vlr.gg/645499/furia-vs-100-thieves-vct-2026-americas-stage
  -1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs Cloud9
+SUMMARY:[AMER] G2 Esports 2:0 Cloud9
 DTSTART:20260509T210000Z
 DTEND:20260510T000000Z
-DTSTAMP:20260510T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645500@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 5 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645500/g2-esp
- orts-vs-cloud9-vct-2026-americas-stage-1-w5
-LAST-MODIFIED:20260510T000000Z
+ eek 5 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645500/g2-esports-vs-cloud9-vct-2026-americas-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -487,34 +487,34 @@ URL:https://www.vlr.gg/645500/g2-esports-vs-cloud9-vct-2026-americas-stage
  -1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] ENVY vs MIBR
+SUMMARY:[AMER] ENVY 2:0 MIBR
 DTSTART:20260509T231000Z
 DTEND:20260510T021000Z
-DTSTAMP:20260510T021000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645501@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 5 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/645501/envy-v
- s-mibr-vct-2026-americas-stage-1-w5
-LAST-MODIFIED:20260510T021000Z
+ eek 5 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /645501/envy-vs-mibr-vct-2026-americas-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/645501/envy-vs-mibr-vct-2026-americas-stage-1-w5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LOUD vs LEVIATÁN
+SUMMARY:[AMER] LOUD 2:1 LEVIATÁN
 DTSTART:20260510T210000Z
 DTEND:20260511T000000Z
-DTSTAMP:20260511T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645502@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 5 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/645502/loud-v
- s-leviat-n-vct-2026-americas-stage-1-w5
-LAST-MODIFIED:20260511T000000Z
+ eek 5 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /645502/loud-vs-leviat-n-vct-2026-americas-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -522,17 +522,17 @@ URL:https://www.vlr.gg/645502/loud-vs-leviat-n-vct-2026-americas-stage-1-w
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] Sentinels vs NRG
+SUMMARY:[AMER] Sentinels 1:2 NRG
 DTSTART:20260511T001000Z
 DTEND:20260511T031000Z
-DTSTAMP:20260511T031000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-645503@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：W
- eek 5 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/645503/sentin
- els-vs-nrg-vct-2026-americas-stage-1-w5
-LAST-MODIFIED:20260511T031000Z
+ eek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /645503/sentinels-vs-nrg-vct-2026-americas-stage-1-w5
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -540,17 +540,17 @@ URL:https://www.vlr.gg/645503/sentinels-vs-nrg-vct-2026-americas-stage-1-w
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs LEVIATÁN
+SUMMARY:[AMER] FURIA 1:2 LEVIATÁN
 DTSTART:20260514T210000Z
 DTEND:20260515T000000Z
-DTSTAMP:20260515T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660369@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：U
- pper Round 1 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/660369/fu
- ria-vs-leviat-n-vct-2026-americas-stage-1-ur1
-LAST-MODIFIED:20260515T000000Z
+ pper Round 1 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vl
+ r.gg/660369/furia-vs-leviat-n-vct-2026-americas-stage-1-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -558,17 +558,17 @@ URL:https://www.vlr.gg/660369/furia-vs-leviat-n-vct-2026-americas-stage-1-
  ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs 100 Thieves
+SUMMARY:[AMER] G2 Esports 2:0 100 Thieves
 DTSTART:20260514T235500Z
 DTEND:20260515T025500Z
-DTSTAMP:20260515T025500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660370@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：U
- pper Round 1 Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/660370/g2
- -esports-vs-100-thieves-vct-2026-americas-stage-1-ur1
-LAST-MODIFIED:20260515T025500Z
+ pper Round 1 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/660370/g2-esports-vs-100-thieves-vct-2026-americas-stage-1-ur1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -576,17 +576,17 @@ URL:https://www.vlr.gg/660370/g2-esports-vs-100-thieves-vct-2026-americas-
  stage-1-ur1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] MIBR vs LEVIATÁN
+SUMMARY:[AMER] MIBR 1:2 LEVIATÁN
 DTSTART:20260515T210000Z
 DTEND:20260516T000000Z
-DTSTAMP:20260516T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660371@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：U
- pper Semifinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/660371/
- mibr-vs-leviat-n-vct-2026-americas-stage-1-ubsf
-LAST-MODIFIED:20260516T000000Z
+ pper Semifinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.
+ vlr.gg/660371/mibr-vs-leviat-n-vct-2026-americas-stage-1-ubsf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -594,17 +594,17 @@ URL:https://www.vlr.gg/660371/mibr-vs-leviat-n-vct-2026-americas-stage-1-u
  bsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] KRÜ Esports vs G2 Esports
+SUMMARY:[AMER] KRÜ Esports 0:2 G2 Esports
 DTSTART:20260516T000000Z
 DTEND:20260516T030000Z
-DTSTAMP:20260516T030000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660372@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：U
- pper Semifinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/660372/
- kr-esports-vs-g2-esports-vct-2026-americas-stage-1-ubsf
-LAST-MODIFIED:20260516T030000Z
+ pper Semifinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.
+ vlr.gg/660372/kr-esports-vs-g2-esports-vct-2026-americas-stage-1-ubsf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -612,34 +612,34 @@ URL:https://www.vlr.gg/660372/kr-esports-vs-g2-esports-vct-2026-americas-s
  tage-1-ubsf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] FURIA vs NRG
+SUMMARY:[AMER] FURIA 0:2 NRG
 DTSTART:20260516T210000Z
 DTEND:20260517T000000Z
-DTSTAMP:20260517T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660375@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：L
- ower Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/660375/fu
- ria-vs-nrg-vct-2026-americas-stage-1-lr1
-LAST-MODIFIED:20260517T000000Z
+ ower Round 1 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vl
+ r.gg/660375/furia-vs-nrg-vct-2026-americas-stage-1-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.vlr.gg/660375/furia-vs-nrg-vct-2026-americas-stage-1-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] 100 Thieves vs LOUD
+SUMMARY:[AMER] 100 Thieves 2:0 LOUD
 DTSTART:20260516T231500Z
 DTEND:20260517T021500Z
-DTSTAMP:20260517T021500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660376@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：L
- ower Round 1 Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/660376/10
- 0-thieves-vs-loud-vct-2026-americas-stage-1-lr1
-LAST-MODIFIED:20260517T021500Z
+ ower Round 1 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/660376/100-thieves-vs-loud-vct-2026-americas-stage-1-lr1
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -647,17 +647,17 @@ URL:https://www.vlr.gg/660376/100-thieves-vs-loud-vct-2026-americas-stage-
  1-lr1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] KRÜ Esports vs NRG
+SUMMARY:[AMER] KRÜ Esports 0:2 NRG
 DTSTART:20260517T210000Z
 DTEND:20260518T000000Z
-DTSTAMP:20260518T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660377@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：L
- ower Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/660377/kr
- -esports-vs-nrg-vct-2026-americas-stage-1-lr2
-LAST-MODIFIED:20260518T000000Z
+ ower Round 2 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vl
+ r.gg/660377/kr-esports-vs-nrg-vct-2026-americas-stage-1-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -665,17 +665,17 @@ URL:https://www.vlr.gg/660377/kr-esports-vs-nrg-vct-2026-americas-stage-1-
  lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] MIBR vs 100 Thieves
+SUMMARY:[AMER] MIBR 0:2 100 Thieves
 DTSTART:20260517T231000Z
 DTEND:20260518T021000Z
-DTSTAMP:20260518T021000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660378@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：L
- ower Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/660378/mi
- br-vs-100-thieves-vct-2026-americas-stage-1-lr2
-LAST-MODIFIED:20260518T021000Z
+ ower Round 2 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vl
+ r.gg/660378/mibr-vs-100-thieves-vct-2026-americas-stage-1-lr2
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -683,17 +683,17 @@ URL:https://www.vlr.gg/660378/mibr-vs-100-thieves-vct-2026-americas-stage-
  1-lr2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LEVIATÁN vs G2 Esports
+SUMMARY:[AMER] LEVIATÁN 2:1 G2 Esports
 DTSTART:20260522T210000Z
 DTEND:20260523T000000Z
-DTSTAMP:20260523T000000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660373@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：U
- pper Final Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/660373/levia
- t-n-vs-g2-esports-vct-2026-americas-stage-1-ubf
-LAST-MODIFIED:20260523T000000Z
+ pper Final Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.g
+ g/660373/leviat-n-vs-g2-esports-vct-2026-americas-stage-1-ubf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -701,17 +701,17 @@ URL:https://www.vlr.gg/660373/leviat-n-vs-g2-esports-vct-2026-americas-sta
  ge-1-ubf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] NRG vs 100 Thieves
+SUMMARY:[AMER] NRG 2:0 100 Thieves
 DTSTART:20260523T000500Z
 DTEND:20260523T030500Z
-DTSTAMP:20260523T030500Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660379@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：L
- ower Round 3 Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/660379/nr
- g-vs-100-thieves-vct-2026-americas-stage-1-lr3
-LAST-MODIFIED:20260523T030500Z
+ ower Round 3 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/660379/nrg-vs-100-thieves-vct-2026-americas-stage-1-lr3
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -719,17 +719,17 @@ URL:https://www.vlr.gg/660379/nrg-vs-100-thieves-vct-2026-americas-stage-1
  -lr3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] G2 Esports vs NRG
+SUMMARY:[AMER] G2 Esports 3:2 NRG
 DTSTART:20260523T210000Z
-DTEND:20260524T000000Z
-DTSTAMP:20260524T000000Z
+DTEND:20260524T020000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660380@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：L
- ower Final Playoffs\n比分：3:2\nVLR：https://www.vlr.gg/660380/g2-es
- ports-vs-nrg-vct-2026-americas-stage-1-lbf
-LAST-MODIFIED:20260524T000000Z
+ ower Final Playoffs\n赛制：Bo5\n比分：3:2\nVLR：https://www.vlr.g
+ g/660380/g2-esports-vs-nrg-vct-2026-americas-stage-1-lbf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -737,17 +737,17 @@ URL:https://www.vlr.gg/660380/g2-esports-vs-nrg-vct-2026-americas-stage-1-
  lbf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[AMER] LEVIATÁN vs G2 Esports
+SUMMARY:[AMER] LEVIATÁN 2:3 G2 Esports
 DTSTART:20260524T210000Z
-DTEND:20260525T000000Z
-DTSTAMP:20260525T000000Z
+DTEND:20260525T020000Z
+DTSTAMP:20261122T030000Z
 UID:vlr-660374@vct-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:VCT 2026: Americas Stage 1,AMER
 DESCRIPTION:VCT 2026: Americas Stage 1\n状态：Completed\n阶段：G
- rand Final Playoffs\n比分：2:3\nVLR：https://www.vlr.gg/660374/levia
- t-n-vs-g2-esports-vct-2026-americas-stage-1-gf
-LAST-MODIFIED:20260525T000000Z
+ rand Final Playoffs\n赛制：Bo5\n比分：2:3\nVLR：https://www.vlr.g
+ g/660374/leviat-n-vs-g2-esports-vct-2026-americas-stage-1-gf
+LAST-MODIFIED:20261122T030000Z
 LOCATION:VCT AMER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

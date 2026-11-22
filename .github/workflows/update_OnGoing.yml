@@ -17,7 +17,8 @@ on:
       - "events.toml"
       - "requirements.txt"
   schedule:
-    - cron: "0 14 * * *"
+    # Not on the hour: runs scheduled at :00 were starting 5 to 7 hours late.
+    - cron: "23 14 * * *"
       timezone: "Australia/Sydney"
 
 permissions:
