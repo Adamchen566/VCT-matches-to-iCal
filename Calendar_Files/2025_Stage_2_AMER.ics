@@ -1,0 +1,777 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VCT 2025: Americas Stage 2
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[AMER] Cloud9 2:0 FURIA
+DTSTART:20250718T210000Z
+DTEND:20250719T000000Z
+DTSTAMP:20250719T000000Z
+UID:vlr-509801@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509801/cloud9-vs-furia-vct-2025-americas-stage-2-w1
+LAST-MODIFIED:20250719T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509801/cloud9-vs-furia-vct-2025-americas-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN 1:2 LOUD
+DTSTART:20250718T231000Z
+DTEND:20250719T021000Z
+DTSTAMP:20250719T021000Z
+UID:vlr-509802@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509802/leviat-n-vs-loud-vct-2025-americas-stage-2-w1
+LAST-MODIFIED:20250719T021000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509802/leviat-n-vs-loud-vct-2025-americas-stage-2-w
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Evil Geniuses 2:1 2Game Esports
+DTSTART:20250719T210000Z
+DTEND:20250720T000000Z
+DTSTAMP:20250720T000000Z
+UID:vlr-509803@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /509803/evil-geniuses-vs-2game-esports-vct-2025-americas-stage-2-w1
+LAST-MODIFIED:20250720T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509803/evil-geniuses-vs-2game-esports-vct-2025-amer
+ icas-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] MIBR 1:2 KRÜ Esports
+DTSTART:20250720T002500Z
+DTEND:20250720T032500Z
+DTSTAMP:20250720T032500Z
+UID:vlr-509804@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509804/mibr-vs-kr-esports-vct-2025-americas-stage-2-w1
+LAST-MODIFIED:20250720T032500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509804/mibr-vs-kr-esports-vct-2025-americas-stage-2
+ -w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves 2:0 NRG
+DTSTART:20250720T210000Z
+DTEND:20250721T000000Z
+DTSTAMP:20250721T000000Z
+UID:vlr-509805@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509805/100-thieves-vs-nrg-vct-2025-americas-stage-2-w1
+LAST-MODIFIED:20250721T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509805/100-thieves-vs-nrg-vct-2025-americas-stage-2
+ -w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels 2:1 G2 Esports
+DTSTART:20250720T230000Z
+DTEND:20250721T020000Z
+DTSTAMP:20250721T020000Z
+UID:vlr-509806@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 1 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /509806/sentinels-vs-g2-esports-vct-2025-americas-stage-2-w1
+LAST-MODIFIED:20250721T020000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509806/sentinels-vs-g2-esports-vct-2025-americas-st
+ age-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 2Game Esports 0:2 G2 Esports
+DTSTART:20250725T210000Z
+DTEND:20250726T000000Z
+DTSTAMP:20250726T000000Z
+UID:vlr-509807@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /509807/2game-esports-vs-g2-esports-vct-2025-americas-stage-2-w2
+LAST-MODIFIED:20250726T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509807/2game-esports-vs-g2-esports-vct-2025-america
+ s-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] FURIA 0:2 Sentinels
+DTSTART:20250725T231000Z
+DTEND:20250726T021000Z
+DTSTAMP:20250726T021000Z
+UID:vlr-509808@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /509808/furia-vs-sentinels-vct-2025-americas-stage-2-w2
+LAST-MODIFIED:20250726T021000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509808/furia-vs-sentinels-vct-2025-americas-stage-2
+ -w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves 2:0 KRÜ Esports
+DTSTART:20250726T210000Z
+DTEND:20250727T000000Z
+DTSTAMP:20250727T000000Z
+UID:vlr-509809@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509809/100-thieves-vs-kr-esports-vct-2025-americas-stage-2-w2
+LAST-MODIFIED:20250727T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509809/100-thieves-vs-kr-esports-vct-2025-americas-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] NRG 2:0 LOUD
+DTSTART:20250726T230000Z
+DTEND:20250727T020000Z
+DTSTAMP:20250727T020000Z
+UID:vlr-509810@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509810/nrg-vs-loud-vct-2025-americas-stage-2-w2
+LAST-MODIFIED:20250727T020000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509810/nrg-vs-loud-vct-2025-americas-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Cloud9 2:0 Evil Geniuses
+DTSTART:20250727T210000Z
+DTEND:20250728T000000Z
+DTSTAMP:20250728T000000Z
+UID:vlr-509811@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509811/cloud9-vs-evil-geniuses-vct-2025-americas-stage-2-w2
+LAST-MODIFIED:20250728T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509811/cloud9-vs-evil-geniuses-vct-2025-americas-st
+ age-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] MIBR 0:2 LEVIATÁN
+DTSTART:20250727T232500Z
+DTEND:20250728T022500Z
+DTSTAMP:20250728T022500Z
+UID:vlr-509812@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /509812/mibr-vs-leviat-n-vct-2025-americas-stage-2-w2
+LAST-MODIFIED:20250728T022500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509812/mibr-vs-leviat-n-vct-2025-americas-stage-2-w
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 2Game Esports 2:1 FURIA
+DTSTART:20250801T210000Z
+DTEND:20250802T000000Z
+DTSTAMP:20250802T000000Z
+UID:vlr-509813@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /509813/2game-esports-vs-furia-vct-2025-americas-stage-2-w3
+LAST-MODIFIED:20250802T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509813/2game-esports-vs-furia-vct-2025-americas-sta
+ ge-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN 1:2 NRG
+DTSTART:20250802T000500Z
+DTEND:20250802T030500Z
+DTSTAMP:20250802T030500Z
+UID:vlr-509814@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509814/leviat-n-vs-nrg-vct-2025-americas-stage-2-w3
+LAST-MODIFIED:20250802T030500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509814/leviat-n-vs-nrg-vct-2025-americas-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels 2:0 Cloud9
+DTSTART:20250802T210000Z
+DTEND:20250803T000000Z
+DTSTAMP:20250803T000000Z
+UID:vlr-509815@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509815/sentinels-vs-cloud9-vct-2025-americas-stage-2-w3
+LAST-MODIFIED:20250803T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509815/sentinels-vs-cloud9-vct-2025-americas-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] MIBR 2:0 100 Thieves
+DTSTART:20250802T231500Z
+DTEND:20250803T021500Z
+DTSTAMP:20250803T021500Z
+UID:vlr-509816@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509816/mibr-vs-100-thieves-vct-2025-americas-stage-2-w3
+LAST-MODIFIED:20250803T021500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509816/mibr-vs-100-thieves-vct-2025-americas-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports 2:1 Evil Geniuses
+DTSTART:20250803T210000Z
+DTEND:20250804T000000Z
+DTSTAMP:20250804T000000Z
+UID:vlr-509817@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /509817/g2-esports-vs-evil-geniuses-vct-2025-americas-stage-2-w3
+LAST-MODIFIED:20250804T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509817/g2-esports-vs-evil-geniuses-vct-2025-america
+ s-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LOUD 1:2 KRÜ Esports
+DTSTART:20250804T001500Z
+DTEND:20250804T031500Z
+DTSTAMP:20250804T031500Z
+UID:vlr-509818@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 3 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509818/loud-vs-kr-esports-vct-2025-americas-stage-2-w3
+LAST-MODIFIED:20250804T031500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509818/loud-vs-kr-esports-vct-2025-americas-stage-2
+ -w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Cloud9 2:0 2Game Esports
+DTSTART:20250808T210000Z
+DTEND:20250809T000000Z
+DTSTAMP:20250809T000000Z
+UID:vlr-509819@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509819/cloud9-vs-2game-esports-vct-2025-americas-stage-2-w4
+LAST-MODIFIED:20250809T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509819/cloud9-vs-2game-esports-vct-2025-americas-st
+ age-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] MIBR 0:2 NRG
+DTSTART:20250808T230000Z
+DTEND:20250809T020000Z
+DTSTAMP:20250809T020000Z
+UID:vlr-509820@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 4 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /509820/mibr-vs-nrg-vct-2025-americas-stage-2-w4
+LAST-MODIFIED:20250809T020000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509820/mibr-vs-nrg-vct-2025-americas-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels 2:0 Evil Geniuses
+DTSTART:20250809T210000Z
+DTEND:20250810T000000Z
+DTSTAMP:20250810T000000Z
+UID:vlr-509821@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509821/sentinels-vs-evil-geniuses-vct-2025-americas-stage-2-w4
+LAST-MODIFIED:20250810T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509821/sentinels-vs-evil-geniuses-vct-2025-americas
+ -stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN 2:1 KRÜ Esports
+DTSTART:20250809T231500Z
+DTEND:20250810T021500Z
+DTSTAMP:20250810T021500Z
+UID:vlr-509822@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /509822/leviat-n-vs-kr-esports-vct-2025-americas-stage-2-w4
+LAST-MODIFIED:20250810T021500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509822/leviat-n-vs-kr-esports-vct-2025-americas-sta
+ ge-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] FURIA 0:2 G2 Esports
+DTSTART:20250810T210000Z
+DTEND:20250811T000000Z
+DTSTAMP:20250811T000000Z
+UID:vlr-509823@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 4 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /509823/furia-vs-g2-esports-vct-2025-americas-stage-2-w4
+LAST-MODIFIED:20250811T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509823/furia-vs-g2-esports-vct-2025-americas-stage-
+ 2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LOUD 1:2 100 Thieves
+DTSTART:20250810T230000Z
+DTEND:20250811T020000Z
+DTSTAMP:20250811T020000Z
+UID:vlr-509824@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 4 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509824/loud-vs-100-thieves-vct-2025-americas-stage-2-w4
+LAST-MODIFIED:20250811T020000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509824/loud-vs-100-thieves-vct-2025-americas-stage-
+ 2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] KRÜ Esports 1:2 NRG
+DTSTART:20250815T210000Z
+DTEND:20250816T000000Z
+DTSTAMP:20250816T000000Z
+UID:vlr-509825@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509825/kr-esports-vs-nrg-vct-2025-americas-stage-2-w5
+LAST-MODIFIED:20250816T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509825/kr-esports-vs-nrg-vct-2025-americas-stage-2-
+ w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves 1:2 LEVIATÁN
+DTSTART:20250816T000500Z
+DTEND:20250816T030500Z
+DTSTAMP:20250816T030500Z
+UID:vlr-509826@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509826/100-thieves-vs-leviat-n-vct-2025-americas-stage-2-w5
+LAST-MODIFIED:20250816T030500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509826/100-thieves-vs-leviat-n-vct-2025-americas-st
+ age-2-w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] FURIA 0:2 Evil Geniuses
+DTSTART:20250816T210000Z
+DTEND:20250817T000000Z
+DTSTAMP:20250817T000000Z
+UID:vlr-509827@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 5 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /509827/furia-vs-evil-geniuses-vct-2025-americas-stage-2-w5
+LAST-MODIFIED:20250817T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509827/furia-vs-evil-geniuses-vct-2025-americas-sta
+ ge-2-w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 2Game Esports 1:2 Sentinels
+DTSTART:20250816T232000Z
+DTEND:20250817T022000Z
+DTSTAMP:20250817T022000Z
+UID:vlr-509829@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 5 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /509829/2game-esports-vs-sentinels-vct-2025-americas-stage-2-w5
+LAST-MODIFIED:20250817T022000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509829/2game-esports-vs-sentinels-vct-2025-americas
+ -stage-2-w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports 2:0 Cloud9
+DTSTART:20250817T210000Z
+DTEND:20250818T000000Z
+DTSTAMP:20250818T000000Z
+UID:vlr-509830@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 5 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509830/g2-esports-vs-cloud9-vct-2025-americas-stage-2-w5
+LAST-MODIFIED:20250818T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509830/g2-esports-vs-cloud9-vct-2025-americas-stage
+ -2-w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] MIBR 2:0 LOUD
+DTSTART:20250817T233000Z
+DTEND:20250818T023000Z
+DTSTAMP:20250818T023000Z
+UID:vlr-509831@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：W
+ eek 5 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /509831/mibr-vs-loud-vct-2025-americas-stage-2-w5
+LAST-MODIFIED:20250818T023000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/509831/mibr-vs-loud-vct-2025-americas-stage-2-w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN 1:2 Cloud9
+DTSTART:20250821T210000Z
+DTEND:20250822T000000Z
+DTSTAMP:20250822T000000Z
+UID:vlr-530902@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：U
+ pper Round 1 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vl
+ r.gg/530902/leviat-n-vs-cloud9-vct-2025-americas-stage-2-ur1
+LAST-MODIFIED:20250822T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530902/leviat-n-vs-cloud9-vct-2025-americas-stage-2
+ -ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports 2:0 100 Thieves
+DTSTART:20250822T004500Z
+DTEND:20250822T034500Z
+DTSTAMP:20250822T034500Z
+UID:vlr-530903@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：U
+ pper Round 1 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/530903/g2-esports-vs-100-thieves-vct-2025-americas-stage-2-ur1
+LAST-MODIFIED:20250822T034500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530903/g2-esports-vs-100-thieves-vct-2025-americas-
+ stage-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels 2:1 Cloud9
+DTSTART:20250822T210000Z
+DTEND:20250823T000000Z
+DTSTAMP:20250823T000000Z
+UID:vlr-530906@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：U
+ pper Semifinals Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.
+ vlr.gg/530906/sentinels-vs-cloud9-vct-2025-americas-stage-2-ubsf
+LAST-MODIFIED:20250823T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530906/sentinels-vs-cloud9-vct-2025-americas-stage-
+ 2-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] NRG 1:2 G2 Esports
+DTSTART:20250823T003500Z
+DTEND:20250823T033500Z
+DTSTAMP:20250823T033500Z
+UID:vlr-530907@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：U
+ pper Semifinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.
+ vlr.gg/530907/nrg-vs-g2-esports-vct-2025-americas-stage-2-ubsf
+LAST-MODIFIED:20250823T033500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530907/nrg-vs-g2-esports-vct-2025-americas-stage-2-
+ ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] LEVIATÁN 2:1 KRÜ Esports
+DTSTART:20250823T210000Z
+DTEND:20250824T000000Z
+DTSTAMP:20250824T000000Z
+UID:vlr-530904@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vl
+ r.gg/530904/leviat-n-vs-kr-esports-vct-2025-americas-stage-2-lr1
+LAST-MODIFIED:20250824T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530904/leviat-n-vs-kr-esports-vct-2025-americas-sta
+ ge-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] 100 Thieves 2:0 Evil Geniuses
+DTSTART:20250824T002500Z
+DTEND:20250824T032500Z
+DTSTAMP:20250824T032500Z
+UID:vlr-530905@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 1 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/530905/100-thieves-vs-evil-geniuses-vct-2025-americas-stage-2-lr1
+LAST-MODIFIED:20250824T032500Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530905/100-thieves-vs-evil-geniuses-vct-2025-americ
+ as-stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] NRG 2:0 LEVIATÁN
+DTSTART:20250824T210000Z
+DTEND:20250825T000000Z
+DTSTAMP:20250825T000000Z
+UID:vlr-530908@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 2 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/530908/nrg-vs-leviat-n-vct-2025-americas-stage-2-lr2
+LAST-MODIFIED:20250825T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530908/nrg-vs-leviat-n-vct-2025-americas-stage-2-lr
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Cloud9 2:0 100 Thieves
+DTSTART:20250824T225000Z
+DTEND:20250825T015000Z
+DTSTAMP:20250825T015000Z
+UID:vlr-530909@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 2 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/530909/cloud9-vs-100-thieves-vct-2025-americas-stage-2-lr2
+LAST-MODIFIED:20250825T015000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530909/cloud9-vs-100-thieves-vct-2025-americas-stag
+ e-2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels 0:2 G2 Esports
+DTSTART:20250829T210000Z
+DTEND:20250830T000000Z
+DTSTAMP:20250830T000000Z
+UID:vlr-530910@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：U
+ pper Final Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.g
+ g/530910/sentinels-vs-g2-esports-vct-2025-americas-stage-2-ubf
+LAST-MODIFIED:20250830T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530910/sentinels-vs-g2-esports-vct-2025-americas-st
+ age-2-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] NRG 2:1 Cloud9
+DTSTART:20250829T233000Z
+DTEND:20250830T023000Z
+DTSTAMP:20250830T023000Z
+UID:vlr-530911@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Round 3 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vl
+ r.gg/530911/nrg-vs-cloud9-vct-2025-americas-stage-2-lr3
+LAST-MODIFIED:20250830T023000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530911/nrg-vs-cloud9-vct-2025-americas-stage-2-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Team Alpha 13:4 Team Omega
+DTSTART:20250830T210000Z
+DTEND:20250831T000000Z
+DTSTAMP:20250831T000000Z
+UID:vlr-536985@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：O
+ verride Showmatch\n赛制：Bo1\n比分：13:4\nVLR：https://www.vlr.gg/
+ 536985/team-alpha-vs-team-omega-vct-2025-americas-stage-2-override
+LAST-MODIFIED:20250831T000000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/536985/team-alpha-vs-team-omega-vct-2025-americas-s
+ tage-2-override
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] Sentinels 1:3 NRG
+DTSTART:20250830T220000Z
+DTEND:20250831T030000Z
+DTSTAMP:20250831T030000Z
+UID:vlr-530912@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：L
+ ower Final Playoffs\n赛制：Bo5\n比分：1:3\nVLR：https://www.vlr.g
+ g/530912/sentinels-vs-nrg-vct-2025-americas-stage-2-lbf
+LAST-MODIFIED:20250831T030000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530912/sentinels-vs-nrg-vct-2025-americas-stage-2-l
+ bf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AMER] G2 Esports 3:0 NRG
+DTSTART:20250831T210000Z
+DTEND:20250901T020000Z
+DTSTAMP:20250901T020000Z
+UID:vlr-530913@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Americas Stage 2,AMER
+DESCRIPTION:VCT 2025: Americas Stage 2\n状态：Completed\n阶段：G
+ rand Final Playoffs\n赛制：Bo5\n比分：3:0\nVLR：https://www.vlr.g
+ g/530913/g2-esports-vs-nrg-vct-2025-americas-stage-2-gf
+LAST-MODIFIED:20250901T020000Z
+LOCATION:VCT AMER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530913/g2-esports-vs-nrg-vct-2025-americas-stage-2-
+ gf
+END:VEVENT
+END:VCALENDAR

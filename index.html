@@ -6,6 +6,18 @@
 <title>VCT 赛程订阅</title>
 <meta name="description" content="把 VCT 四大赛区联赛、Masters 和 Champions 的比赛时间与比分订阅进手机和电脑的日历，自动更新。">
 <meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#14130f">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://adamchen566.github.io/VCT-matches-to-iCal/">
+<meta property="og:site_name" content="VCT 赛程订阅">
+<meta property="og:title" content="把 VCT 赛程订阅进日历">
+<meta property="og:description" content="四大赛区联赛、Masters 和 Champions 的比赛时间与比分，自动出现在手机和电脑的日历里。">
+<meta property="og:image" content="https://adamchen566.github.io/VCT-matches-to-iCal/images/social-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://adamchen566.github.io/VCT-matches-to-iCal/images/social-card.png">
+<link rel="icon" href="images/icon.svg" type="image/svg+xml">
 <style>
   /* 琥珀夜色 (Amber Night) tokens */
   :root {
@@ -115,6 +127,80 @@
   .tab[aria-pressed="true"] { background: var(--primary-subtle); border-color: var(--primary-border); color: var(--text-primary); }
   .none { padding: 16px; color: var(--text-muted); font-size: 13px; }
 
+  /* last event shown while nothing is scheduled */
+  .last { margin-top: 24px; }
+  h3 { margin: 0 0 4px; font-family: var(--font-display); font-size: 17px; font-weight: 700; line-height: 1.4; }
+
+  /* season review: timeline on top, the chosen event underneath */
+  .season { border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); overflow-x: auto; }
+  .season-inner { min-width: 680px; padding: 12px 16px 16px; }
+  .axis, .lane { display: grid; grid-template-columns: 56px 1fr; gap: 12px; align-items: center; }
+  .axis-months { position: relative; height: 20px; font: 12px var(--font-mono); color: var(--text-muted); }
+  .axis-months span { position: absolute; top: 0; }
+  .lane { padding: 4px 0; }
+  .lane + .lane { border-top: 1px solid var(--border-subtle); }
+  .track {
+    position: relative;
+    background-image: linear-gradient(to right, var(--border-subtle) 1px, transparent 1px);
+    background-size: calc(100% / 12) 100%;
+  }
+  .bar {
+    position: absolute; height: 26px; padding: 0 8px; border-radius: var(--radius-sm);
+    border: 1px solid var(--border-control); background: var(--bg-overlay); color: var(--text-primary);
+    font: 12px/24px var(--font-body); text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    cursor: pointer;
+  }
+  .bar:hover { border-color: var(--text-secondary); }
+  .bar[aria-pressed="true"] { background: var(--primary-subtle); border-color: var(--primary); }
+  /* a bar too short for its name carries the name beside it instead */
+  .bar.tight { padding: 0; color: transparent; }
+  .bar-label { position: absolute; font: 12px/26px var(--font-body); color: var(--text-secondary); white-space: nowrap; pointer-events: none; }
+
+  .event-head { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 24px 0 12px; }
+  .event-head h3 { margin: 0; flex: 1 1 auto; }
+  .event-head .count { font: 12px var(--font-mono); color: var(--text-muted); }
+  .views { display: flex; gap: 8px; margin-bottom: 16px; }
+
+  table.results { width: 100%; border-collapse: collapse; font-size: 14px; }
+  table.results th { padding: 8px 12px; text-align: left; font-size: 12px; font-weight: 500; color: var(--text-muted); }
+  table.results td { padding: 8px 12px; border-top: 1px solid var(--border-subtle); }
+  table.results .when { font-family: var(--font-mono); font-size: 13px; color: var(--text-secondary); white-space: nowrap; }
+  table.results .score { font-family: var(--font-mono); white-space: nowrap; text-align: center; }
+  table.results .right { text-align: right; }
+  .won { font-weight: 700; color: var(--text-primary); }
+  .lost { color: var(--text-secondary); }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+  .card { padding: 12px 16px; border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); }
+  .card time { display: block; margin-bottom: 4px; font: 12px var(--font-mono); color: var(--text-muted); }
+  .card .side { display: flex; justify-content: space-between; gap: 12px; }
+  .card .side span:first-child { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .card .side span:last-child { font-family: var(--font-mono); }
+  .card-day { grid-column: 1 / -1; margin: 8px 0 0; font: 13px var(--font-mono); color: var(--text-secondary); }
+  .card-day:first-child { margin-top: 0; }
+
+  .heat-wrap { overflow-x: auto; }
+  table.heat { border-collapse: separate; border-spacing: 2px; font-size: 13px; }
+  table.heat th { font-weight: 400; color: var(--text-secondary); white-space: nowrap; }
+  table.heat thead th { height: 112px; vertical-align: bottom; padding-bottom: 4px; }
+  table.heat thead th span { display: inline-block; max-height: 108px; overflow: hidden; text-overflow: ellipsis; writing-mode: vertical-rl; transform: rotate(180deg); }
+  table.heat tbody th { padding-right: 8px; text-align: right; max-width: 150px; overflow: hidden; text-overflow: ellipsis; }
+  table.heat td {
+    width: 32px; height: 32px; border-radius: var(--radius-sm); text-align: center;
+    font: 13px var(--font-mono); color: var(--text-primary); background: var(--bg-raised);
+  }
+  table.heat td.blank { background: transparent; }
+  table.heat td.self { background: transparent; color: var(--text-muted); }
+  table.heat td.bright { color: var(--on-primary); font-weight: 700; }
+  .ramp { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 12px; font-size: 12px; color: var(--text-muted); }
+  .ramp i { width: 20px; height: 12px; border-radius: 2px; }
+
+  #tip {
+    position: fixed; z-index: 10; max-width: 260px; padding: 6px 10px; border-radius: var(--radius-md);
+    border: 1px solid var(--border-control); background: var(--bg-overlay); color: var(--text-primary);
+    font-size: 12px; line-height: 1.5; pointer-events: none;
+  }
+
   .howto { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
   .howto div { padding: 16px; border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); }
   .howto h3 { margin: 0 0 8px; font-size: 15px; }
@@ -137,6 +223,8 @@
     .row .name { flex-basis: calc(100% - 64px); }
     .rows:not(.two) .row .count { flex: 1; }
     .match { padding: 8px 0; }
+    table.results th, table.results td { padding: 8px 6px; }
+    table.results .when small { display: block; }
   }
 </style>
 </head>
@@ -155,6 +243,7 @@
         <a class="btn primary" id="subscribe-all" href="vct_OnGoing.ics">订阅全部赛事</a>
         <button class="btn" type="button" data-copy="vct_OnGoing.ics">复制订阅链接</button>
       </div>
+      <p class="hint" id="checked" style="margin:16px 0 0" hidden></p>
     </div>
 
     <section aria-labelledby="h-upcoming">
@@ -179,11 +268,12 @@
       <div class="rows two" id="teams"></div>
     </section>
 
-    <section aria-labelledby="h-archive">
-      <h2 id="h-archive">往年赛程</h2>
-      <p class="hint">已结束的赛事不再更新，下载后导入日历即可。</p>
+    <section aria-labelledby="h-season" id="season">
+      <h2 id="h-season">赛季回顾</h2>
+      <p class="hint">每条横杠是一届赛事，点一下看它的全部赛果。已结束的赛事不再更新，日历文件下载后导入即可。</p>
       <div class="filters" id="year-tabs" role="group" aria-label="选择年份"></div>
-      <div class="rows two" id="archives"></div>
+      <div class="season"><div class="season-inner" id="timeline"></div></div>
+      <div id="event"></div>
     </section>
 
     <section aria-labelledby="h-howto">
@@ -211,6 +301,7 @@
     <p>MIT 协议开源，问题和建议可以在 <a href="https://github.com/Adamchen566/VCT-matches-to-iCal/issues">GitHub Issues</a> 里提。</p>
   </footer>
 </div>
+<div id="tip" role="tooltip" hidden></div>
 
 <script>
 (function () {
@@ -273,6 +364,7 @@
         el("p", { class: "hint", text: "已经在跟踪下面这些赛事，赛程一公布就会出现在这里和你订阅的日历里：" }),
         list
       ]));
+      renderLast(data, box);
       return;
     }
     var days = [];
@@ -362,32 +454,305 @@
     draw();
   }
 
-  // --- archives -------------------------------------------------------------------------
-  function renderArchives(data) {
-    var box = document.getElementById("archives");
-    var tabs = document.getElementById("year-tabs");
-    var years = [];
-    data.archives.forEach(function (archive) { if (years.indexOf(archive.year) === -1) years.push(archive.year); });
+  // --- shared pieces for results ---------------------------------------------------------
+  var monthDay = new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric" });
+  var fullDay = new Intl.DateTimeFormat("zh-CN", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
+  var loaded = {};
 
-    function draw(year) {
-      box.textContent = "";
-      data.archives.filter(function (archive) { return archive.year === year; }).forEach(function (archive) {
-        box.appendChild(el("div", { class: "row" }, [
-          el("span", { class: "name", title: archive.title, text: archive.title })
-        ].concat(feedButtons(archive.file, true))));
+  function loadMatches(file) {
+    if (!loaded[file]) {
+      loaded[file] = fetch(file).then(function (response) {
+        if (!response.ok) throw new Error(response.status);
+        return response.json();
+      });
+      loaded[file].catch(function () { delete loaded[file]; });
+    }
+    return loaded[file];
+  }
+
+  // Older calendars store 0:0 for a match that was never given a score.
+  function played(match) {
+    return match.score1 !== null && match.score2 !== null && (match.score1 + match.score2) > 0;
+  }
+  function sideClass(match, mine, theirs) {
+    if (!played(match) || mine === theirs) return "";
+    return mine > theirs ? "won" : "lost";
+  }
+  function scoreText(match) { return played(match) ? match.score1 + " : " + match.score2 : "未记录"; }
+  function whenText(match) { return match.start_utc ? clock.format(new Date(match.start_utc)) : "时间待定"; }
+
+  function card(match) {
+    return el("div", { class: "card" }, [
+      el("time", { text: whenText(match) }),
+      el("div", { class: "side " + sideClass(match, match.score1, match.score2) }, [
+        el("span", { text: match.team1 }), el("span", { text: played(match) ? String(match.score1) : "" })
+      ]),
+      el("div", { class: "side " + sideClass(match, match.score2, match.score1) }, [
+        el("span", { text: match.team2 }), el("span", { text: played(match) ? String(match.score2) : "" })
+      ])
+    ]);
+  }
+
+  function cardsWithDates(matches) {
+    return el("div", { class: "cards" }, matches.map(function (match) {
+      var node = card(match);
+      if (match.start_utc) node.firstChild.textContent = monthDay.format(new Date(match.start_utc)) + " " + whenText(match);
+      return node;
+    }));
+  }
+
+  function cardsByDay(matches) {
+    var box = el("div", { class: "cards" });
+    var last = "";
+    matches.forEach(function (match) {
+      var day = match.start_utc ? fullDay.format(new Date(match.start_utc)) : "时间待定";
+      if (day !== last) { box.appendChild(el("p", { class: "card-day", text: day })); last = day; }
+      box.appendChild(card(match));
+    });
+    return box;
+  }
+
+  // --- last finished event, shown while nothing is scheduled ----------------------------
+  function renderLast(data, box) {
+    var archive = data.archives.filter(function (item) { return item.data === data.latest; })[0];
+    if (!archive) return;
+    var holder = el("div", { class: "last" });
+    box.appendChild(holder);
+    loadMatches(archive.data).then(function (event) {
+      var recent = event.matches.slice(-6).reverse();
+      holder.appendChild(el("h3", { text: "上一届赛事：" + event.title }));
+      holder.appendChild(el("p", { class: "hint", text:
+        monthDay.format(new Date(archive.end)) + "结束，共 " + archive.matches + " 场。下面是最后 " + recent.length + " 场的比分，最新的在前。" }));
+      holder.appendChild(cardsWithDates(recent));
+      var more = el("a", { class: "btn", href: "#season", text: "看这届赛事的全部赛果" });
+      more.style.marginTop = "16px";
+      holder.appendChild(more);
+    }).catch(function () { holder.remove(); });
+  }
+
+  // --- tooltip shared by the timeline and the heatmap ----------------------------------
+  var tip = document.getElementById("tip");
+  function showTip(target) {
+    tip.textContent = target.getAttribute("data-tip");
+    tip.hidden = false;
+    var rect = target.getBoundingClientRect();
+    var left = Math.min(Math.max(8, rect.left + rect.width / 2 - tip.offsetWidth / 2), window.innerWidth - tip.offsetWidth - 8);
+    var top = rect.top - tip.offsetHeight - 8;
+    tip.style.left = left + "px";
+    tip.style.top = (top < 8 ? rect.bottom + 8 : top) + "px";
+  }
+  ["mouseover", "focusin"].forEach(function (type) {
+    document.addEventListener(type, function (event) {
+      var target = event.target.closest && event.target.closest("[data-tip]");
+      if (target) showTip(target);
+    });
+  });
+  ["mouseout", "focusout", "scroll"].forEach(function (type) {
+    document.addEventListener(type, function () { tip.hidden = true; }, true);
+  });
+
+  // --- season review: timeline + one event in three views ------------------------------
+  var LANES = ["INTL", "AMER", "EMEA", "PAC", "CN"];
+  var VIEWS = [["table", "表格"], ["cards", "卡片"], ["heat", "热力图"]];
+  var DAY = 86400000;
+
+  function resultsTable(matches) {
+    var body = el("tbody", {}, matches.map(function (match) {
+      var start = match.start_utc ? new Date(match.start_utc) : null;
+      var when = el("td", { class: "when" });
+      when.appendChild(document.createTextNode(start ? dayKey.format(start) + " " : "时间待定"));
+      if (start) when.appendChild(el("small", { text: clock.format(start) }));
+      return el("tr", {}, [
+        when,
+        el("td", { class: "right " + sideClass(match, match.score1, match.score2), text: match.team1 }),
+        el("td", { class: "score", text: scoreText(match) }),
+        el("td", { class: sideClass(match, match.score2, match.score1), text: match.team2 })
+      ]);
+    }));
+    var head = el("thead", {}, [el("tr", {}, [
+      el("th", { scope: "col", text: "开始时间" }),
+      el("th", { scope: "col", class: "right", text: "战队" }),
+      el("th", { scope: "col", class: "score", text: "比分" }),
+      el("th", { scope: "col", text: "战队" })
+    ])]);
+    return el("table", { class: "results" }, [head, body]);
+  }
+
+  // Maps the row team took from the column team, summed over the event.
+  function heatmap(matches) {
+    var won = {}, teams = [];
+    matches.filter(played).forEach(function (match) {
+      [[match.team1, match.team2, match.score1], [match.team2, match.team1, match.score2]].forEach(function (item) {
+        if (teams.indexOf(item[0]) === -1) teams.push(item[0]);
+        var key = item[0] + "\n" + item[1];
+        won[key] = (won[key] || 0) + item[2];
+      });
+    });
+    if (!teams.length) return el("p", { class: "none", text: "这届赛事没有记录比分，画不出热力图。" });
+    teams.sort(function (a, b) { return a.localeCompare(b, "en", { sensitivity: "base" }); });
+    var most = Math.max.apply(null, Object.keys(won).map(function (key) { return won[key]; })) || 1;
+    var shade = function (value) { return 0.12 + 0.78 * (value / most); };
+
+    var head = el("tr", {}, [el("th", {})].concat(teams.map(function (team) {
+      return el("th", { scope: "col", title: team }, [el("span", { text: team })]);
+    })));
+    var rows = teams.map(function (row) {
+      return el("tr", {}, [el("th", { scope: "row", title: row, text: row })].concat(teams.map(function (column) {
+        if (row === column) return el("td", { class: "self", text: "–" });
+        var value = won[row + "\n" + column];
+        if (value === undefined) return el("td", { class: "blank" });
+        var cell = el("td", { tabindex: "0", text: String(value),
+          "data-tip": row + " 从 " + column + " 手上赢了 " + value + " 张图，输了 " + won[column + "\n" + row] + " 张" });
+        if (value > 0) {
+          cell.style.background = "rgba(245, 197, 66, " + shade(value).toFixed(2) + ")";
+          if (shade(value) > 0.5) cell.className = "bright";
+        }
+        return cell;
+      })));
+    });
+    var ramp = el("div", { class: "ramp" }, [el("span", { text: "赢 1 张图" })]);
+    for (var step = 1; step <= 4; step += 1) {
+      var swatch = el("i", {});
+      swatch.style.background = "rgba(245, 197, 66, " + (0.12 + 0.78 * step / 4).toFixed(2) + ")";
+      ramp.appendChild(swatch);
+    }
+    ramp.appendChild(el("span", { text: "赢 " + most + " 张图。每格是行里的战队从列里的战队手上赢下的地图数，空白表示没有交手。" }));
+    return el("div", {}, [
+      el("div", { class: "heat-wrap" }, [el("table", { class: "heat" }, [el("thead", {}, [head]), el("tbody", {}, rows)])]),
+      ramp
+    ]);
+  }
+
+  function renderSeason(data) {
+    var tabs = document.getElementById("year-tabs");
+    var timeline = document.getElementById("timeline");
+    var panel = document.getElementById("event");
+    var archives = data.archives.filter(function (archive) { return archive.start; });
+    var years = [];
+    archives.forEach(function (archive) { if (years.indexOf(archive.year) === -1) years.push(archive.year); });
+    if (!years.length) return;
+
+    var view = "table";
+    var chosen = archives.filter(function (archive) { return archive.data === data.latest; })[0] || archives[0];
+    var year = chosen.year;
+
+    function drawEvent() {
+      panel.textContent = "";
+      var archive = chosen;
+      var range = monthDay.format(new Date(archive.start)) + " 至 " + monthDay.format(new Date(archive.end));
+      panel.appendChild(el("div", { class: "event-head" }, [
+        el("span", { class: "badge", text: archive.region || "VCT" }),
+        el("h3", { text: archive.year + " " + archive.label }),
+        el("span", { class: "count", text: range + "，" + archive.matches + " 场" })
+      ].concat(feedButtons(archive.file, true))));
+      var views = el("div", { class: "views", role: "group", "aria-label": "选择赛果的显示方式" }, VIEWS.map(function (item) {
+        var tab = el("button", { class: "tab", type: "button", "aria-pressed": String(item[0] === view), text: item[1] });
+        tab.addEventListener("click", function () { view = item[0]; drawEvent(); });
+        return tab;
+      }));
+      panel.appendChild(views);
+      var body = el("div", {}, [el("p", { class: "none", text: "正在读取赛果" })]);
+      panel.appendChild(body);
+      loadMatches(archive.data).then(function (event) {
+        if (archive !== chosen) return;
+        body.textContent = "";
+        body.appendChild(view === "cards" ? cardsByDay(event.matches)
+          : view === "heat" ? heatmap(event.matches) : resultsTable(event.matches));
+      }).catch(function () {
+        body.textContent = "";
+        body.appendChild(el("p", { class: "none", text: "读取这届赛事的赛果失败，刷新页面再试一次。日历文件仍然可以下载。" }));
+      });
+    }
+
+    function drawTimeline() {
+      timeline.textContent = "";
+      var from = Date.UTC(Number(year), 0, 1), span = Date.UTC(Number(year) + 1, 0, 1) - from;
+      var months = el("div", { class: "axis-months" });
+      for (var month = 0; month < 12; month += 1) {
+        var label = el("span", { text: (month + 1) + "月" });
+        label.style.left = ((Date.UTC(Number(year), month, 1) - from) / span * 100) + "%";
+        months.appendChild(label);
+      }
+      timeline.appendChild(el("div", { class: "axis" }, [el("span", {}), months]));
+
+      LANES.concat([""]).forEach(function (region) {
+        var events = archives.filter(function (archive) { return archive.year === year && archive.region === region; });
+        if (!events.length) return;
+        events.sort(function (a, b) { return a.start < b.start ? -1 : 1; });
+        var rowEnds = [];
+        var placed = [];
+        var track = el("div", { class: "track" });
+        events.forEach(function (archive) {
+          var start = Math.max(new Date(archive.start).getTime(), from);
+          var end = Math.min(new Date(archive.end).getTime() + DAY, from + span);
+          var row = 0;
+          while (rowEnds[row] !== undefined && rowEnds[row] > start) row += 1;
+          rowEnds[row] = end + 2 * DAY;
+          var bar = el("button", { class: "bar", type: "button", "aria-pressed": String(archive === chosen),
+            text: archive.label,
+            "data-tip": archive.year + " " + archive.label + "，" + monthDay.format(new Date(archive.start)) + " 至 " +
+              monthDay.format(new Date(archive.end)) + "，" + archive.matches + " 场" });
+          bar.style.left = ((start - from) / span * 100) + "%";
+          bar.style.width = Math.max((end - start) / span * 100, 1.5) + "%";
+          bar.style.top = (row * 30) + "px";
+          bar.addEventListener("click", function () { chosen = archive; drawTimeline(); drawEvent(); });
+          track.appendChild(bar);
+          placed.push({ bar: bar, row: row, name: archive.label });
+        });
+        track.style.height = (rowEnds.length * 30 - 4) + "px";
+        timeline.appendChild(el("div", { class: "lane" }, [el("span", { class: "badge", text: region || "其他" }), track]));
+        placed.forEach(function (item, index) {
+          var bar = item.bar;
+          if (bar.scrollWidth <= bar.clientWidth) return;
+          var next = placed.slice(index + 1).filter(function (other) { return other.row === item.row; })[0];
+          var edge = bar.offsetLeft + bar.offsetWidth;
+          var label = el("span", { class: "bar-label", "aria-hidden": "true", text: item.name });
+          track.appendChild(label);
+          if (label.offsetWidth + 14 > (next ? next.bar.offsetLeft : track.clientWidth) - edge) { label.remove(); return; }
+          label.style.left = (edge + 6) + "px";
+          label.style.top = bar.style.top;
+          bar.classList.add("tight");
+        });
       });
       Array.prototype.forEach.call(tabs.children, function (tab) {
         tab.setAttribute("aria-pressed", String(tab.textContent === year));
       });
     }
 
-    years.forEach(function (year) {
-      var tab = el("button", { class: "tab", type: "button", "aria-pressed": "false", text: year });
-      tab.addEventListener("click", function () { draw(year); });
+    years.forEach(function (item) {
+      var tab = el("button", { class: "tab", type: "button", "aria-pressed": "false", text: item });
+      tab.addEventListener("click", function () {
+        year = item;
+        if (chosen.year !== year) {
+          var inYear = archives.filter(function (archive) { return archive.year === year; });
+          chosen = inYear.reduce(function (a, b) { return a.end > b.end ? a : b; });
+        }
+        drawTimeline();
+        drawEvent();
+      });
       tabs.appendChild(tab);
     });
-    if (years.length) draw(years[0]);
+    drawTimeline();
+    drawEvent();
+    var resizing;
+    window.addEventListener("resize", function () {
+      clearTimeout(resizing);
+      resizing = setTimeout(drawTimeline, 150);
+    });
   }
+
+  // --- when the updater last ran (best effort; the page works without it) ---------------
+  fetch("https://api.github.com/repos/Adamchen566/VCT-matches-to-iCal/actions/workflows/update_OnGoing.yml/runs?status=success&per_page=1")
+    .then(function (response) { return response.ok ? response.json() : Promise.reject(); })
+    .then(function (result) {
+      var run = result.workflow_runs && result.workflow_runs[0];
+      if (!run) return;
+      var at = new Date(run.updated_at);
+      var note = document.getElementById("checked");
+      note.textContent = "上次自动检查赛程：" + monthDay.format(at) + " " + clock.format(at) + "。";
+      note.hidden = false;
+    })
+    .catch(function () {});
 
   fetch("feeds/index.json", { cache: "no-cache" })
     .then(function (response) {
@@ -398,7 +763,7 @@
       renderUpcoming(data);
       renderRegions(data);
       renderTeams(data);
-      renderArchives(data);
+      renderSeason(data);
     })
     .catch(function () {
       document.getElementById("upcoming").textContent = "";

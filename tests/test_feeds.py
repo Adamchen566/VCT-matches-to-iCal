@@ -17,6 +17,8 @@ from update_calendar import (
     EventConfig,
     build_calendar,
     build_feeds,
+    describe_archive,
+    list_archives,
     merge_teams,
     parse_config,
     summary_text,
@@ -164,6 +166,53 @@ class FeedTests(unittest.TestCase):
                 write_feeds(self.files)
                 self.assertEqual(validate_feeds(), 5 + 4)
                 (root / "feeds" / "team" / "t1.ics").write_bytes(build_calendar({}, CONFIG))
+                with self.assertRaises(CalendarUpdateError):
+                    validate_feeds()
+
+
+class ArchiveIndexTests(unittest.TestCase):
+    """What the web page's season review reads."""
+
+    def test_archive_names_give_year_label_and_region(self):
+        self.assertEqual(describe_archive("2026_Stage_2_CN"), ("2026", "Stage 2", "CN"))
+        self.assertEqual(describe_archive("2026_Masters_London_Global"), ("2026", "Masters London", "INTL"))
+        self.assertEqual(describe_archive("2025_China_Evolution_Act1"), ("2025", "China Evolution Act1", "CN"))
+        self.assertIsNone(describe_archive("vct_completed"))
+
+    def test_each_archive_gets_a_results_file_and_the_newest_is_marked(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            archive_dir = root / "Calendar_Files"
+            archive_dir.mkdir()
+            pac = {"1": EVENTS["1"]}
+            intl = {"3": {**EVENTS["3"], "score1": 3, "score2": 1, "status": "Completed"}}
+            (archive_dir / "2026_Stage_2_PAC.ics").write_bytes(build_calendar(pac, CONFIG))
+            (archive_dir / "2026_Champions_Global.ics").write_bytes(build_calendar(intl, CONFIG))
+            (archive_dir / "vct_completed.ics").write_bytes(build_calendar({}, CONFIG))
+            with mock.patch.multiple(
+                update_calendar, ROOT=root, FEEDS_DIR=root / "feeds", ARCHIVE_ICS_DIR=archive_dir
+            ):
+                archives, files = list_archives()
+                self.assertEqual(
+                    [(a["label"], a["region"], a["matches"]) for a in archives],
+                    [("Champions", "INTL", 1), ("Stage 2", "PAC", 1)],
+                )
+                results = json.loads(files["matches/2026_Stage_2_PAC.json"])
+                self.assertEqual(results["title"], "2026 Stage 2")
+                self.assertEqual(
+                    results["matches"],
+                    [{"start_utc": EVENTS["1"]["start_utc"], "team1": "Paper Rex", "team2": "T1", "score1": 2, "score2": 1}],
+                )
+                self.assertEqual(archives[1]["start"], EVENTS["1"]["start_utc"])
+
+                built = build_feeds(EVENTS, TRACKED, CONFIG, {})
+                index = json.loads(built["index.json"])
+                self.assertEqual(index["latest"], "feeds/matches/2026_Champions_Global.json")
+                write_feeds(built)
+                validate_feeds()
+                (root / "feeds" / "matches" / "2026_Stage_2_PAC.json").write_text(
+                    '{"matches": []}', encoding="utf-8"
+                )
                 with self.assertRaises(CalendarUpdateError):
                     validate_feeds()
 

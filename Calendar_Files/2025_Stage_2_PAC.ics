@@ -1,0 +1,781 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VCT 2025: Pacific Stage 2
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[PAC] BOOM Esports 0:2 TALON
+DTSTART:20250715T080000Z
+DTEND:20250715T110000Z
+DTSTAMP:20250715T110000Z
+UID:vlr-508815@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508815/boom-esports-vs-talon-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250715T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508815/boom-esports-vs-talon-vct-2025-pacific-stage
+ -2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Nongshim RedForce 2:1 Team Secret
+DTSTART:20250715T101500Z
+DTEND:20250715T131500Z
+DTSTAMP:20250715T131500Z
+UID:vlr-508816@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 508816/nongshim-redforce-vs-team-secret-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250715T131500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508816/nongshim-redforce-vs-team-secret-vct-2025-pa
+ cific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 0:2 Paper Rex
+DTSTART:20250716T080000Z
+DTEND:20250716T110000Z
+DTSTAMP:20250716T110000Z
+UID:vlr-508817@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508817/t1-vs-paper-rex-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250716T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508817/t1-vs-paper-rex-vct-2025-pacific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX 0:2 Gen.G
+DTSTART:20250716T103500Z
+DTEND:20250716T133500Z
+DTSTAMP:20250716T133500Z
+UID:vlr-508818@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508818/drx-vs-gen-g-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250716T133500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508818/drx-vs-gen-g-vct-2025-pacific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 0:2 Global Esports
+DTSTART:20250717T080000Z
+DTEND:20250717T110000Z
+DTSTAMP:20250717T110000Z
+UID:vlr-508819@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508819/rex-regum-qeon-vs-global-esports-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250717T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508819/rex-regum-qeon-vs-global-esports-vct-2025-pa
+ cific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] ZETA DIVISION 1:2 DetonatioN FocusMe
+DTSTART:20250717T101500Z
+DTEND:20250717T131500Z
+DTSTAMP:20250717T131500Z
+UID:vlr-508820@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 508820/zeta-division-vs-detonation-focusme-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250717T131500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508820/zeta-division-vs-detonation-focusme-vct-2025
+ -pacific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX 2:1 Nongshim RedForce
+DTSTART:20250718T080000Z
+DTEND:20250718T110000Z
+DTSTAMP:20250718T110000Z
+UID:vlr-508821@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 508821/drx-vs-nongshim-redforce-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250718T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508821/drx-vs-nongshim-redforce-vct-2025-pacific-st
+ age-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] BOOM Esports 0:2 T1
+DTSTART:20250718T111000Z
+DTEND:20250718T141000Z
+DTSTAMP:20250718T141000Z
+UID:vlr-508822@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508822/boom-esports-vs-t1-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250718T141000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508822/boom-esports-vs-t1-vct-2025-pacific-stage-2-
+ w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Global Esports 1:2 Team Secret
+DTSTART:20250719T080000Z
+DTEND:20250719T110000Z
+DTSTAMP:20250719T110000Z
+UID:vlr-508823@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 508823/global-esports-vs-team-secret-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250719T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508823/global-esports-vs-team-secret-vct-2025-pacif
+ ic-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Paper Rex 2:0 DetonatioN FocusMe
+DTSTART:20250719T112000Z
+DTEND:20250719T142000Z
+DTSTAMP:20250719T142000Z
+UID:vlr-508824@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508824/paper-rex-vs-detonation-focusme-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250719T142000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508824/paper-rex-vs-detonation-focusme-vct-2025-pac
+ ific-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 2:0 ZETA DIVISION
+DTSTART:20250720T080000Z
+DTEND:20250720T110000Z
+DTSTAMP:20250720T110000Z
+UID:vlr-508825@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508825/talon-vs-zeta-division-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250720T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508825/talon-vs-zeta-division-vct-2025-pacific-stag
+ e-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 2:1 Gen.G
+DTSTART:20250720T100000Z
+DTEND:20250720T130000Z
+DTSTAMP:20250720T130000Z
+UID:vlr-508826@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 1 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 508826/rex-regum-qeon-vs-gen-g-vct-2025-pacific-stage-2-w1
+LAST-MODIFIED:20250720T130000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508826/rex-regum-qeon-vs-gen-g-vct-2025-pacific-sta
+ ge-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Gen.G 2:1 Global Esports
+DTSTART:20250725T080000Z
+DTEND:20250725T110000Z
+DTSTAMP:20250725T110000Z
+UID:vlr-508828@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 508828/gen-g-vs-global-esports-vct-2025-pacific-stage-2-w2
+LAST-MODIFIED:20250725T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508828/gen-g-vs-global-esports-vct-2025-pacific-sta
+ ge-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 1:2 DetonatioN FocusMe
+DTSTART:20250725T105000Z
+DTEND:20250725T135000Z
+DTSTAMP:20250725T135000Z
+UID:vlr-508829@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 508829/talon-vs-detonation-focusme-vct-2025-pacific-stage-2-w2
+LAST-MODIFIED:20250725T135000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508829/talon-vs-detonation-focusme-vct-2025-pacific
+ -stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 2:0 ZETA DIVISION
+DTSTART:20250726T080000Z
+DTEND:20250726T110000Z
+DTSTAMP:20250726T110000Z
+UID:vlr-508830@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508830/t1-vs-zeta-division-vct-2025-pacific-stage-2-w2
+LAST-MODIFIED:20250726T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508830/t1-vs-zeta-division-vct-2025-pacific-stage-2
+ -w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 2:1 Nongshim RedForce
+DTSTART:20250726T100500Z
+DTEND:20250726T130500Z
+DTSTAMP:20250726T130500Z
+UID:vlr-508831@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 508831/rex-regum-qeon-vs-nongshim-redforce-vct-2025-pacific-stage-2-w2
+LAST-MODIFIED:20250726T130500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508831/rex-regum-qeon-vs-nongshim-redforce-vct-2025
+ -pacific-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX 2:0 Team Secret
+DTSTART:20250727T080000Z
+DTEND:20250727T110000Z
+DTSTAMP:20250727T110000Z
+UID:vlr-508832@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508832/drx-vs-team-secret-vct-2025-pacific-stage-2-w2
+LAST-MODIFIED:20250727T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508832/drx-vs-team-secret-vct-2025-pacific-stage-2-
+ w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] BOOM Esports 0:2 Paper Rex
+DTSTART:20250727T100000Z
+DTEND:20250727T130000Z
+DTSTAMP:20250727T130000Z
+UID:vlr-508833@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 2 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508833/boom-esports-vs-paper-rex-vct-2025-pacific-stage-2-w2
+LAST-MODIFIED:20250727T130000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508833/boom-esports-vs-paper-rex-vct-2025-pacific-s
+ tage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Gen.G 2:0 Team Secret
+DTSTART:20250801T080000Z
+DTEND:20250801T110000Z
+DTSTAMP:20250801T110000Z
+UID:vlr-508834@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508834/gen-g-vs-team-secret-vct-2025-pacific-stage-2-w3
+LAST-MODIFIED:20250801T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508834/gen-g-vs-team-secret-vct-2025-pacific-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 2:0 T1
+DTSTART:20250801T100000Z
+DTEND:20250801T130000Z
+DTSTAMP:20250801T130000Z
+UID:vlr-508835@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508835/talon-vs-t1-vct-2025-pacific-stage-2-w3
+LAST-MODIFIED:20250801T130000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508835/talon-vs-t1-vct-2025-pacific-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] BOOM Esports 0:2 DetonatioN FocusMe
+DTSTART:20250802T080000Z
+DTEND:20250802T110000Z
+DTSTAMP:20250802T110000Z
+UID:vlr-508836@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508836/boom-esports-vs-detonation-focusme-vct-2025-pacific-stage-2-w3
+LAST-MODIFIED:20250802T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508836/boom-esports-vs-detonation-focusme-vct-2025-
+ pacific-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 0:2 KIWOOM DRX
+DTSTART:20250802T100500Z
+DTEND:20250802T130500Z
+DTSTAMP:20250802T130500Z
+UID:vlr-508837@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508837/rex-regum-qeon-vs-drx-vct-2025-pacific-stage-2-w3
+LAST-MODIFIED:20250802T130500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508837/rex-regum-qeon-vs-drx-vct-2025-pacific-stage
+ -2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Nongshim RedForce 2:0 Global Esports
+DTSTART:20250803T080000Z
+DTEND:20250803T110000Z
+DTSTAMP:20250803T110000Z
+UID:vlr-508838@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508838/nongshim-redforce-vs-global-esports-vct-2025-pacific-stage-2-w3
+LAST-MODIFIED:20250803T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508838/nongshim-redforce-vs-global-esports-vct-2025
+ -pacific-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Paper Rex 0:2 ZETA DIVISION
+DTSTART:20250803T101000Z
+DTEND:20250803T131000Z
+DTSTAMP:20250803T131000Z
+UID:vlr-508839@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 3 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508839/paper-rex-vs-zeta-division-vct-2025-pacific-stage-2-w3
+LAST-MODIFIED:20250803T131000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508839/paper-rex-vs-zeta-division-vct-2025-pacific-
+ stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Gen.G 0:2 Nongshim RedForce
+DTSTART:20250808T080000Z
+DTEND:20250808T110000Z
+DTSTAMP:20250808T110000Z
+UID:vlr-508840@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 4 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508840/gen-g-vs-nongshim-redforce-vct-2025-pacific-stage-2-w4
+LAST-MODIFIED:20250808T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508840/gen-g-vs-nongshim-redforce-vct-2025-pacific-
+ stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 0:2 Paper Rex
+DTSTART:20250808T103000Z
+DTEND:20250808T133000Z
+DTSTAMP:20250808T133000Z
+UID:vlr-508841@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 4 Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/
+ 508841/talon-vs-paper-rex-vct-2025-pacific-stage-2-w4
+LAST-MODIFIED:20250808T133000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508841/talon-vs-paper-rex-vct-2025-pacific-stage-2-
+ w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX 2:0 Global Esports
+DTSTART:20250809T080000Z
+DTEND:20250809T110000Z
+DTSTAMP:20250809T110000Z
+UID:vlr-508842@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508842/drx-vs-global-esports-vct-2025-pacific-stage-2-w4
+LAST-MODIFIED:20250809T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508842/drx-vs-global-esports-vct-2025-pacific-stage
+ -2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] BOOM Esports 1:2 ZETA DIVISION
+DTSTART:20250809T102500Z
+DTEND:20250809T132500Z
+DTSTAMP:20250809T132500Z
+UID:vlr-508843@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 4 Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg/
+ 508843/boom-esports-vs-zeta-division-vct-2025-pacific-stage-2-w4
+LAST-MODIFIED:20250809T132500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508843/boom-esports-vs-zeta-division-vct-2025-pacif
+ ic-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 2:1 Team Secret
+DTSTART:20250810T080000Z
+DTEND:20250810T110000Z
+DTSTAMP:20250810T110000Z
+UID:vlr-508844@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg/
+ 508844/rex-regum-qeon-vs-team-secret-vct-2025-pacific-stage-2-w4
+LAST-MODIFIED:20250810T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508844/rex-regum-qeon-vs-team-secret-vct-2025-pacif
+ ic-stage-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 2:0 DetonatioN FocusMe
+DTSTART:20250810T110500Z
+DTEND:20250810T140500Z
+DTSTAMP:20250810T140500Z
+UID:vlr-508845@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：We
+ ek 4 Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg/
+ 508845/t1-vs-detonation-focusme-vct-2025-pacific-stage-2-w4
+LAST-MODIFIED:20250810T140500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/508845/t1-vs-detonation-focusme-vct-2025-pacific-st
+ age-2-w4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 2:0 Nongshim RedForce
+DTSTART:20250813T080000Z
+DTEND:20250813T110000Z
+DTSTAMP:20250813T110000Z
+UID:vlr-530354@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Round 1 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/530354/talon-vs-nongshim-redforce-vct-2025-pacific-stage-2-ur1
+LAST-MODIFIED:20250813T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530354/talon-vs-nongshim-redforce-vct-2025-pacific-
+ stage-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 1:2 T1
+DTSTART:20250813T103500Z
+DTEND:20250813T133500Z
+DTSTAMP:20250813T133500Z
+UID:vlr-530355@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Round 1 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/530355/rex-regum-qeon-vs-t1-vct-2025-pacific-stage-2-ur1
+LAST-MODIFIED:20250813T133500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530355/rex-regum-qeon-vs-t1-vct-2025-pacific-stage-
+ 2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX 1:2 TALON
+DTSTART:20250814T080000Z
+DTEND:20250814T110000Z
+DTSTAMP:20250814T110000Z
+UID:vlr-530356@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Semifinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.v
+ lr.gg/530356/drx-vs-talon-vct-2025-pacific-stage-2-ubsf
+LAST-MODIFIED:20250814T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530356/drx-vs-talon-vct-2025-pacific-stage-2-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Paper Rex 2:0 T1
+DTSTART:20250814T111000Z
+DTEND:20250814T141000Z
+DTSTAMP:20250814T141000Z
+UID:vlr-530357@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Semifinals Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.v
+ lr.gg/530357/paper-rex-vs-t1-vct-2025-pacific-stage-2-ubsf
+LAST-MODIFIED:20250814T141000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530357/paper-rex-vs-t1-vct-2025-pacific-stage-2-ubs
+ f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Nongshim RedForce 2:0 DetonatioN FocusMe
+DTSTART:20250815T080000Z
+DTEND:20250815T110000Z
+DTSTAMP:20250815T110000Z
+UID:vlr-530358@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 1 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/530358/nongshim-redforce-vs-detonation-focusme-vct-2025-pacific-stage-
+ 2-lr1
+LAST-MODIFIED:20250815T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530358/nongshim-redforce-vs-detonation-focusme-vct-
+ 2025-pacific-stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Rex Regum Qeon 2:1 Gen.G
+DTSTART:20250815T100500Z
+DTEND:20250815T130500Z
+DTSTAMP:20250815T130500Z
+UID:vlr-530359@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr
+ .gg/530359/rex-regum-qeon-vs-gen-g-vct-2025-pacific-stage-2-lr1
+LAST-MODIFIED:20250815T130500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530359/rex-regum-qeon-vs-gen-g-vct-2025-pacific-sta
+ ge-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 2:0 Nongshim RedForce
+DTSTART:20250816T080000Z
+DTEND:20250816T110000Z
+DTSTAMP:20250816T110000Z
+UID:vlr-530360@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 2 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr
+ .gg/530360/t1-vs-nongshim-redforce-vct-2025-pacific-stage-2-lr2
+LAST-MODIFIED:20250816T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530360/t1-vs-nongshim-redforce-vct-2025-pacific-sta
+ ge-2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] KIWOOM DRX 0:2 Rex Regum Qeon
+DTSTART:20250816T100500Z
+DTEND:20250816T130500Z
+DTSTAMP:20250816T130500Z
+UID:vlr-530361@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 2 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr
+ .gg/530361/drx-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lr2
+LAST-MODIFIED:20250816T130500Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530361/drx-vs-rex-regum-qeon-vct-2025-pacific-stage
+ -2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 0:2 Paper Rex
+DTSTART:20250817T080000Z
+DTEND:20250817T110000Z
+DTSTAMP:20250817T110000Z
+UID:vlr-530362@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Up
+ per Final Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /530362/talon-vs-paper-rex-vct-2025-pacific-stage-2-ubf
+LAST-MODIFIED:20250817T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530362/talon-vs-paper-rex-vct-2025-pacific-stage-2-
+ ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] T1 1:2 Rex Regum Qeon
+DTSTART:20250817T100000Z
+DTEND:20250817T130000Z
+DTSTAMP:20250817T130000Z
+UID:vlr-530363@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Round 3 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr
+ .gg/530363/t1-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lr3
+LAST-MODIFIED:20250817T130000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530363/t1-vs-rex-regum-qeon-vct-2025-pacific-stage-
+ 2-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Team World 13:8 Glory Once Again
+DTSTART:20250830T050000Z
+DTEND:20250830T080000Z
+DTSTAMP:20250830T080000Z
+UID:vlr-530514@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Ma
+ in Event Showmatch\n赛制：Bo1\n比分：13:8\nVLR：https://www.vlr.g
+ g/530514/team-world-vs-glory-once-again-vct-2025-pacific-stage-2-main-even
+ t
+LAST-MODIFIED:20250830T080000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530514/team-world-vs-glory-once-again-vct-2025-paci
+ fic-stage-2-main-event
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] TALON 2:3 Rex Regum Qeon
+DTSTART:20250830T060000Z
+DTEND:20250830T110000Z
+DTSTAMP:20250830T110000Z
+UID:vlr-530364@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Lo
+ wer Final Playoffs\n赛制：Bo5\n比分：2:3\nVLR：https://www.vlr.gg
+ /530364/talon-vs-rex-regum-qeon-vct-2025-pacific-stage-2-lf
+LAST-MODIFIED:20250830T110000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530364/talon-vs-rex-regum-qeon-vct-2025-pacific-sta
+ ge-2-lf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PAC] Paper Rex 3:1 Rex Regum Qeon
+DTSTART:20250831T055000Z
+DTEND:20250831T105000Z
+DTSTAMP:20250831T105000Z
+UID:vlr-530365@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2025: Pacific Stage 2,PAC
+DESCRIPTION:VCT 2025: Pacific Stage 2\n状态：Completed\n阶段：Gr
+ and Final Playoffs\n赛制：Bo5\n比分：3:1\nVLR：https://www.vlr.gg
+ /530365/paper-rex-vs-rex-regum-qeon-vct-2025-pacific-stage-2-gf
+LAST-MODIFIED:20250831T105000Z
+LOCATION:VCT PAC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/530365/paper-rex-vs-rex-regum-qeon-vct-2025-pacific
+ -stage-2-gf
+END:VEVENT
+END:VCALENDAR

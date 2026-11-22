@@ -1,125 +1,131 @@
-# VLR.gg Valorant Match Scraper
+# VCT Matches to iCal
 
 [English](README.md) | [简体中文](README.zh.md)
 
----
+[![Update calendar](https://github.com/Adamchen566/VCT-matches-to-iCal/actions/workflows/update_OnGoing.yml/badge.svg)](https://github.com/Adamchen566/VCT-matches-to-iCal/actions/workflows/update_OnGoing.yml)
+[![Tests](https://github.com/Adamchen566/VCT-matches-to-iCal/actions/workflows/tests.yml/badge.svg)](https://github.com/Adamchen566/VCT-matches-to-iCal/actions/workflows/tests.yml)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-f5c542)](requirements.txt)
+[![MIT](https://img.shields.io/badge/License-MIT-84a9d6)](LICENSE)
 
-## 📖 Project Overview
+Subscribe to VCT (Valorant Champions Tour) match times and scores in the calendar on your phone and computer. The data comes from [vlr.gg](https://www.vlr.gg) and GitHub Actions keeps it up to date, so there is nothing to run yourself.
 
-This project is a Python-based crawler and GUI viewer for **Valorant** match data from [VLR.gg](https://www.vlr.gg). It supports calendar export (`.ics`), interactive GUI views (table, card, heatmap), and match tracking across regions and years.
+**[Open the subscription page](https://adamchen566.github.io/VCT-matches-to-iCal/)** (in Chinese)
 
-The subscription calendar **auto-discovers** ongoing and upcoming tier-1 VCT events on vlr.gg, so nothing needs editing between seasons. It covers Kickoff / Stage 1 / Stage 2 in AMER, PAC, EMEA, and CN, plus Masters and Champions. GitHub Actions refreshes it once a day, and every hour while a match is about to start or in progress, so scores and reschedules reach the calendar within the hour.
+[![Subscription page](images/page-top.png)](https://adamchen566.github.io/VCT-matches-to-iCal/)
 
----
+## How to use it
 
-## 🎯 Features
+| You want | Do this |
+|---|---|
+| Every event | Press the amber subscribe button on the [subscription page](https://adamchen566.github.io/VCT-matches-to-iCal/) |
+| One region | The region list on the page: AMER, PAC, EMEA, CN, and INTL for international events |
+| One team | The team list on the page, which has a search box |
+| Past results | The season review on the page, or the calendar files in [`Calendar_Files/`](Calendar_Files) |
 
-- **🎮 Match Information Crawling**: Includes match name, time, teams, score.
-- **📅 Calendar File Export**: Converts crawled data to `.ics` files.
-- **🖥️ GUI with Multi-view Support**:
-  - **Table View**: Full structured list.
-  - **Card View**: Compact team-by-team format.
-  - **Heatmap View**: Matrix of maps won between teams.
-- **📂 Browse Events by Year**: Reads the calendar files in this repository, covering the live calendar and every archive since 2021. Works offline.
-- **📱 Calendar Sync**: Subscribe to `vct_OnGoing.ics` in your calendar.
-- **🔄 Stable Incremental Updates**: Every match has a stable UID to prevent duplicate calendar events.
+Choose "subscribe", not "import". An imported calendar never updates.
 
----
+| Device | How to subscribe |
+|---|---|
+| iPhone, iPad, Mac | Press a subscribe button on the page, or paste the link into Calendar's "Add Subscription Calendar" |
+| Google Calendar | On the desktop site, press the plus next to "Other calendars", choose "From URL" and paste the link |
+| Xiaomi and other Android phones | The system calendar usually cannot subscribe to a URL. Install a sync app such as [ICSx⁵](https://icsx5.bitfire.at/), add the link and turn on automatic sync |
 
-## 🖼 GUI Screenshots
+The links also work on their own:
+
+- Every event: `https://adamchen566.github.io/VCT-matches-to-iCal/vct_OnGoing.ics`
+- A region: `https://adamchen566.github.io/VCT-matches-to-iCal/feeds/region/AMER.ics` (swap `AMER` for `PAC`, `EMEA`, `CN` or `INTL`)
+- A team: `https://adamchen566.github.io/VCT-matches-to-iCal/feeds/team/paper-rex.ics` (team name in lower case with hyphens; the page lists them all)
+
+## What it looks like in a calendar
+
+<img src="images/calendar-preview.png" alt="Event titles in a calendar" width="420">
+
+The picture is an illustration drawn from the real event titles. The exact look depends on your calendar app.
+
+- Before a match the title reads `[CN] A vs B (Bo3)`. Once there is a score it becomes `[CN] A 2:1 B`.
+- Every match keeps a fixed UID, so reschedules and score updates never create duplicates.
+- To keep scores out of titles (no spoilers), set `score_in_title = false` in [`events.toml`](events.toml).
+
+## How it works
+
+```mermaid
+flowchart LR
+    VLR["vlr.gg<br>event and match pages"] --> U["update_calendar.py"]
+    CFG["events.toml<br>settings"] --> U
+    GA["GitHub Actions<br>daily, hourly<br>on match days"] -. runs .-> U
+    U --> ICS["vct_OnGoing.ics<br>current events"]
+    U --> FEEDS["feeds/<br>region and team calendars"]
+    U --> ARC["Calendar_Files/<br>finished events"]
+    ICS --> PAGES["GitHub Pages<br>subscription page"]
+    FEEDS --> PAGES
+    ARC --> PAGES
+    PAGES --> CAL["Your calendar"]
+```
+
+| Part | What it does |
+|---|---|
+| Discovery | Each run reads vlr.gg's event list and tracks ongoing and upcoming tier-1 VCT events: Kickoff, Stage 1 and Stage 2 in the four regions, plus Masters and Champions |
+| Schedule | Once a day, and every hour while a match is about to start or in progress, so scores and reschedules arrive within the hour |
+| Archiving | Seven days after an event's last match it leaves the live calendar and is archived to `Calendar_Files/`, `TEXT_Files/` and `data/archive/` |
+| Guarding against bad data | A scrape with fewer matches than the last published one is refused. Each run first parses a finished event as a canary, to tell "no schedule yet" apart from "the page layout changed" |
+| Alerts | A failed scheduled run opens an issue with the log attached, and the next successful run closes it |
+
+## Season review
+
+The subscription page draws each year's events on a timeline. Pick one to see all its results as a table, cards or a heatmap.
+
+[![Season review](images/page-season.png)](https://adamchen566.github.io/VCT-matches-to-iCal/#season)
+
+## Desktop GUI
+
+The repository also holds an offline desktop viewer that reads the same calendar files and offers the same three views.
 
 | Table View | Card View | Heatmap View |
 |------------|-----------|--------------|
-| ![view_table](images/view_table.png) | ![view_card](images/view_card.png) | ![view_heatmap](images/view_heatmap.png) |
-
-To use GUI:
+| ![Table View](images/view_table.png) | ![Card View](images/view_card.png) | ![Heatmap View](images/view_heatmap.png) |
 
 ```bash
 python -m pip install -r requirements-gui.txt
 python GUI.py
 ```
 
-The GUI only reads `vct_OnGoing.ics` and `Calendar_Files/` from this repository and makes no network requests. The copy button at the bottom copies the subscription link of the calendar on screen.
+The GUI only reads `vct_OnGoing.ics` and `Calendar_Files/` from the repository and never touches the network. Its copy button copies the subscription link of the event on screen.
 
----
+## Run it yourself
 
-## 📅 Subscribe in Calendar
-
-Subscribe to the automatically updated calendar:
-
-- **Current events (ongoing and upcoming VCT events, tracked automatically)**:
-
-  https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
-
-Only want one region or one team? Open the **[subscription page](https://adamchen566.github.io/VCT-matches-to-iCal/)** for a separate calendar per region and per team, plus downloads of past seasons. The addresses can also be used directly:
-
-- Region: `https://adamchen566.github.io/VCT-matches-to-iCal/feeds/region/AMER.ics` (replace `AMER` with `PAC`, `EMEA`, `CN` or `INTL`; `INTL` is international events)
-- Team: `https://adamchen566.github.io/VCT-matches-to-iCal/feeds/team/paper-rex.ics` (team name in lower case with hyphens; the page lists them all)
-
-Event titles read `[CN] A vs B (Bo3)` before a match and `[CN] A 2:1 B` once there is a score. To keep scores out of titles (no spoilers), set `score_in_title = false` in `events.toml`.
-
-### Usage:
-
-- **Google Calendar**: Settings → Add Calendar → From URL → Paste the link above.
-- **iOS/macOS Calendar**: File → New Calendar Subscription → Paste link.
-- **Xiaomi/Android system calendars**: Use a network ICS subscription sync app such as [ICSx⁵](https://icsx5.bitfire.at/), add the URL, enable automatic sync, and make the subscribed calendar visible in the system calendar. A one-time file import will not auto-update.
-
----
-
-## 🚀 Quick Start
-
-### 📋 Requirements
-
-- Python 3.11 or newer
-- Works on: Windows / macOS / Linux
-
-### 📦 Dependencies
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### 🔧 Installation
+Python 3.11 or newer, on Windows, macOS or Linux.
 
 ```bash
 git clone https://github.com/Adamchen566/VCT-matches-to-iCal
 cd VCT-matches-to-iCal
+python -m pip install -r requirements.txt
 python update_calendar.py
 python update_calendar.py --check
 ```
 
-Generated files:
+| Output | Contents |
+|---|---|
+| `vct_OnGoing.ics` | The live subscription calendar |
+| `vct_OnGoing.txt` | A readable schedule in Sydney time |
+| `data/matches.json` | The match cache that keeps updates stable |
+| `feeds/` | One calendar per region and per team, plus the index and results the page reads |
 
-- `vct_OnGoing.ics`: calendar subscription feed
-- `vct_OnGoing.txt`: readable schedule in Australia/Sydney time
-- `data/matches.json`: match cache used for stable updates
+| Task | How |
+|---|---|
+| Add a qualifier or third-party event | Discovery only recognises tier-1 events; add others in [`events.toml`](events.toml) with `[[events]]` |
+| Change retention or the display timezone | Also in `events.toml` |
+| Archive an event that already ended | `python update_calendar.py --archive 2766/valorant-champions-2026` |
+| VLR really removed a match | `python update_calendar.py --allow-shrink` |
+| Run the tests | `python -m unittest discover -s tests` |
 
-### 🔁 Event tracking and archiving
+The link preview image and the calendar illustration are rendered from [`images/social-card.html`](images/social-card.html). After editing it, take a new screenshot with a headless browser:
 
-- **Auto-discovery**: every run reads the vlr.gg events list and follows ongoing and upcoming tier-1 VCT events. Matches show up in the subscription calendar as soon as VLR publishes the schedule.
-- **Auto-archiving**: once every match of an event is completed and the last one ended 7 days ago, the event leaves the subscription calendar and is archived to `Calendar_Files/` (calendar), `TEXT_Files/` (readable text) and `data/archive/` (data), for example `2026_Champions_Global.ics` or `2026_Stage_2_CN.ics`.
-- **Manual events**: discovery only recognises tier-1 events. Qualifiers or third-party events can be added with `[[events]]` in [`events.toml`](events.toml), which also holds the grace period and display timezone.
-- **Backfilling**: an already finished event can be scraped straight into the archive:
+```bash
+msedge --headless --hide-scrollbars --window-size=1200,630 --screenshot=images/social-card.png images/social-card.html
+```
 
-  ```bash
-  python update_calendar.py --archive 2766/valorant-champions-2026
-  ```
+## License and feedback
 
-- **Failure alerts**: when a scheduled update fails (VLR unreachable, page layout changed, incomplete data), the workflow opens an issue with the run link and log, and closes it again after the next successful run. Every run first parses the page of a finished event as a canary, which tells "no schedule published yet" apart from "the parser no longer matches the page".
+Released under the MIT License, see [LICENSE](LICENSE). Not affiliated with Riot Games or vlr.gg.
 
-If an event returns fewer matches than the last published run, the script refuses to overwrite the calendar; use `python update_calendar.py --allow-shrink` when VLR really removed a match.
-
----
-
-## 📜 License
-
-MIT License. See [LICENSE](LICENSE).
-
----
-
-## 💬 Feedback & Contribution
-
-1. Submit Issues for bugs or suggestions.
-2. Fork the repo and submit a Pull Request.
-
-Thanks for using this tool! 🎉
+Please report problems and ideas in [Issues](https://github.com/Adamchen566/VCT-matches-to-iCal/issues). Forks and pull requests are welcome.
