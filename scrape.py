@@ -282,6 +282,6 @@ def generate_all_txt():
                     save2file(matches, path=out_folder + os.sep, name=filename, title=title)
 
 if __name__ == "__main__":
-    from update_stage2_calendar import main as update_stage2_main
+    from update_calendar import main as update_calendar_main
 
-    raise SystemExit(update_stage2_main())
+    raise SystemExit(update_calendar_main())

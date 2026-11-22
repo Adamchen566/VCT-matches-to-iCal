@@ -4,7 +4,10 @@ import argparse
 import json
 import re
 import time
+import tomllib
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -13,52 +16,25 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 
 ROOT = Path(__file__).resolve().parent
-DATA_PATH = ROOT / "data" / "vct_stage2_matches.json"
+CONFIG_PATH = ROOT / "events.toml"
+DATA_PATH = ROOT / "data" / "matches.json"
 ICS_PATH = ROOT / "vct_OnGoing.ics"
 TEXT_PATH = ROOT / "vct_OnGoing.txt"
 
 VLR_BASE_URL = "https://www.vlr.gg"
 USER_AGENT = (
-    "VCTCalendar/2.0 "
+    "VCTCalendar/3.0 "
     "(+https://github.com/Adamchen566/VCT-matches-to-iCal)"
 )
 REQUEST_TIMEOUT = (10, 30)
 REQUEST_ATTEMPTS = 3
-DISPLAY_TIMEZONE = ZoneInfo("Australia/Sydney")
 VLR_DETAIL_TIMEZONE = ZoneInfo("America/Havana")
 UTC = timezone.utc
-CACHE_SCHEMA_VERSION = 2
-
-STAGE_2_EVENTS = {
-    "AMER": {
-        "event_id": 2977,
-        "name": "VCT 2026: Americas Stage 2",
-        "slug": "vct-2026-americas-stage-2",
-        "expected_matches": 30,
-    },
-    "PAC": {
-        "event_id": 2776,
-        "name": "VCT 2026: Pacific Stage 2",
-        "slug": "vct-2026-pacific-stage-2",
-        "expected_matches": 30,
-    },
-    "EMEA": {
-        "event_id": 2976,
-        "name": "VCT 2026: EMEA Stage 2",
-        "slug": "vct-2026-emea-stage-2",
-        "expected_matches": 30,
-    },
-    "CN": {
-        "event_id": 2978,
-        "name": "VCT 2026: China Stage 2",
-        "slug": "vct-2026-china-stage-2",
-        "expected_matches": 36,
-    },
-}
+CACHE_SCHEMA_VERSION = 3
 
 SEMANTIC_FIELDS = (
     "match_id",
@@ -80,6 +56,105 @@ SEMANTIC_FIELDS = (
 
 class CalendarUpdateError(RuntimeError):
     """Raised when a complete and valid calendar cannot be produced."""
+
+
+@dataclass(frozen=True)
+class EventConfig:
+    region: str
+    event_id: int
+    slug: str
+    name: str
+    min_matches: int = 0
+
+    @property
+    def matches_url(self) -> str:
+        return (
+            f"{VLR_BASE_URL}/event/matches/{self.event_id}/"
+            f"{self.slug}/?group=all&series_id=all"
+        )
+
+    @property
+    def ical_url(self) -> str:
+        return f"{VLR_BASE_URL}/event/ical/{self.event_id}"
+
+
+@dataclass(frozen=True)
+class CalendarConfig:
+    name: str
+    display_timezone: ZoneInfo
+    events: tuple[EventConfig, ...]
+
+    @property
+    def event_ids(self) -> set[int]:
+        return {event.event_id for event in self.events}
+
+
+def parse_config(data: dict[str, Any]) -> CalendarConfig:
+    calendar = data.get("calendar")
+    if not isinstance(calendar, dict) or not calendar.get("name"):
+        raise CalendarUpdateError("配置缺少 [calendar] name")
+
+    timezone_name = calendar.get("display_timezone", "Australia/Sydney")
+    try:
+        display_timezone = ZoneInfo(timezone_name)
+    except (ZoneInfoNotFoundError, ValueError) as exc:
+        raise CalendarUpdateError(
+            f"配置里的 display_timezone 无效: {timezone_name}"
+        ) from exc
+
+    raw_events = data.get("events")
+    if not isinstance(raw_events, list) or not raw_events:
+        raise CalendarUpdateError("配置里至少要有一个 [[events]]")
+
+    events: list[EventConfig] = []
+    for index, raw in enumerate(raw_events, start=1):
+        missing = [
+            key
+            for key in ("region", "event_id", "slug", "name")
+            if not raw.get(key)
+        ]
+        if missing:
+            raise CalendarUpdateError(
+                f"第 {index} 个 [[events]] 缺少字段: {', '.join(missing)}"
+            )
+        if not isinstance(raw["event_id"], int):
+            raise CalendarUpdateError(
+                f"第 {index} 个 [[events]] 的 event_id 必须是整数"
+            )
+        min_matches = raw.get("min_matches", 0)
+        if not isinstance(min_matches, int) or min_matches < 0:
+            raise CalendarUpdateError(
+                f"第 {index} 个 [[events]] 的 min_matches 必须是非负整数"
+            )
+        events.append(
+            EventConfig(
+                region=str(raw["region"]),
+                event_id=raw["event_id"],
+                slug=str(raw["slug"]),
+                name=str(raw["name"]),
+                min_matches=min_matches,
+            )
+        )
+
+    event_ids = [event.event_id for event in events]
+    if len(event_ids) != len(set(event_ids)):
+        raise CalendarUpdateError("配置里出现重复的 event_id")
+
+    return CalendarConfig(
+        name=str(calendar["name"]),
+        display_timezone=display_timezone,
+        events=tuple(events),
+    )
+
+
+def load_config(path: Path = CONFIG_PATH) -> CalendarConfig:
+    if not path.exists():
+        raise CalendarUpdateError(f"找不到赛事配置文件: {path}")
+    try:
+        data = tomllib.loads(path.read_text(encoding="utf-8"))
+    except tomllib.TOMLDecodeError as exc:
+        raise CalendarUpdateError(f"赛事配置文件格式错误: {exc}") from exc
+    return parse_config(data)
 
 
 def utc_now() -> datetime:
@@ -129,21 +204,12 @@ def match_id_from_url(url: str) -> str:
     return match.group(1)
 
 
-def event_matches_url(config: dict[str, Any]) -> str:
-    return (
-        f"{VLR_BASE_URL}/event/matches/{config['event_id']}/"
-        f"{config['slug']}/?group=all&series_id=all"
-    )
-
-
 def parse_score(value: str) -> int | None:
     value = value.strip()
     return int(value) if value.isdigit() else None
 
 
-def parse_event_page(region: str, config: dict[str, Any]) -> list[dict[str, Any]]:
-    url = event_matches_url(config)
-    html = str(get_url(url))
+def parse_event_html(html: str, event: EventConfig) -> list[dict[str, Any]]:
     soup = BeautifulSoup(html, "html.parser")
     matches: list[dict[str, Any]] = []
 
@@ -155,7 +221,7 @@ def parse_event_page(region: str, config: dict[str, Any]) -> list[dict[str, Any]
         team_nodes = item.select(".match-item-vs-team-name")
         if len(team_nodes) != 2:
             raise CalendarUpdateError(
-                f"{region} 比赛 {match_id} 的队伍数量不是 2"
+                f"{event.name} 比赛 {match_id} 的队伍数量不是 2"
             )
         team1, team2 = [
             node.get_text(" ", strip=True) or "TBD" for node in team_nodes
@@ -182,9 +248,9 @@ def parse_event_page(region: str, config: dict[str, Any]) -> list[dict[str, Any]
         matches.append(
             {
                 "match_id": match_id,
-                "event_id": config["event_id"],
-                "event_name": config["name"],
-                "region": region,
+                "event_id": event.event_id,
+                "event_name": event.name,
+                "region": event.region,
                 "url": match_url,
                 "team1": team1,
                 "team2": team2,
@@ -198,18 +264,36 @@ def parse_event_page(region: str, config: dict[str, Any]) -> list[dict[str, Any]
             }
         )
 
-    expected_matches = int(config["expected_matches"])
-    if len(matches) < expected_matches:
-        raise CalendarUpdateError(
-            f"{region} 只抓到 {len(matches)} 场，少于已确认的 "
-            f"{expected_matches} 场，拒绝覆盖现有日历"
-        )
-
     ids = [match["match_id"] for match in matches]
     if len(ids) != len(set(ids)):
-        raise CalendarUpdateError(f"{region} 出现重复的 VLR match ID")
+        raise CalendarUpdateError(f"{event.name} 出现重复的 VLR match ID")
+    return matches
 
-    print(f"{region}: 赛事页抓到 {len(matches)} 场")
+
+def check_match_count(
+    event: EventConfig,
+    scraped: int,
+    cached: int,
+    *,
+    allow_shrink: bool = False,
+) -> None:
+    """Refuse to publish when a scrape looks incomplete."""
+    if scraped < event.min_matches:
+        raise CalendarUpdateError(
+            f"{event.name} 只抓到 {scraped} 场，少于配置的 "
+            f"min_matches={event.min_matches}，拒绝覆盖现有日历"
+        )
+    if scraped < cached and not allow_shrink:
+        raise CalendarUpdateError(
+            f"{event.name} 只抓到 {scraped} 场，少于上次已发布的 "
+            f"{cached} 场，拒绝覆盖现有日历"
+            "（确认是 VLR 真的删了比赛时，加 --allow-shrink 重跑）"
+        )
+
+
+def parse_event_page(event: EventConfig) -> list[dict[str, Any]]:
+    matches = parse_event_html(str(get_url(event.matches_url)), event)
+    print(f"{event.name}: 赛事页抓到 {len(matches)} 场")
     return matches
 
 
@@ -226,10 +310,9 @@ def decoded_datetime(component: Event, key: str) -> datetime | None:
 
 
 def fetch_official_upcoming_times(
-    config: dict[str, Any],
+    event: EventConfig,
 ) -> dict[str, dict[str, Any]]:
-    url = f"{VLR_BASE_URL}/event/ical/{config['event_id']}"
-    payload = get_url(url, binary=True)
+    payload = get_url(event.ical_url, binary=True)
     calendar = Calendar.from_ical(payload)
     result: dict[str, dict[str, Any]] = {}
 
@@ -249,10 +332,7 @@ def fetch_official_upcoming_times(
             "end_utc": format_utc(end),
         }
 
-    print(
-        f"{config['name']}: VLR 官方 ICS 提供 "
-        f"{len(result)} 场未来比赛时间"
-    )
+    print(f"{event.name}: VLR 官方 ICS 提供 {len(result)} 场未来比赛时间")
     return result
 
 
@@ -279,10 +359,11 @@ def fetch_match_detail_timing(match_url: str) -> dict[str, Any]:
     }
 
 
-def load_cache() -> dict[str, dict[str, Any]]:
-    if not DATA_PATH.exists():
+def load_cache(path: Path | None = None) -> dict[str, dict[str, Any]]:
+    path = path or DATA_PATH
+    if not path.exists():
         return {}
-    data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8"))
     if data.get("schema_version") != CACHE_SCHEMA_VERSION:
         print(
             f"缓存 schema {data.get('schema_version')} 已过期，"
@@ -290,7 +371,7 @@ def load_cache() -> dict[str, dict[str, Any]]:
         )
         return {}
     if not isinstance(data.get("events"), dict):
-        raise CalendarUpdateError(f"缓存格式不受支持: {DATA_PATH}")
+        raise CalendarUpdateError(f"缓存格式不受支持: {path}")
     return data["events"]
 
 
@@ -396,14 +477,17 @@ def ics_description_text(value: Any) -> str:
     return str(value).replace(" ", "\N{NO-BREAK SPACE}")
 
 
-def build_calendar(events: dict[str, dict[str, Any]]) -> bytes:
+def build_calendar(
+    events: dict[str, dict[str, Any]],
+    config: CalendarConfig,
+) -> bytes:
     calendar = Calendar()
-    calendar.add("PRODID", "-//VCT Stage 2 Calendar//Adamchen566//EN")
+    calendar.add("PRODID", "-//VCT Calendar//Adamchen566//EN")
     calendar.add("VERSION", "2.0")
     calendar.add("CALSCALE", "GREGORIAN")
     calendar.add("METHOD", "PUBLISH")
-    calendar.add("X-WR-CALNAME", "VCT 2026 Stage 2 - AMER PAC EMEA CN")
-    calendar.add("X-WR-TIMEZONE", "Australia/Sydney")
+    calendar.add("X-WR-CALNAME", config.name)
+    calendar.add("X-WR-TIMEZONE", config.display_timezone.key)
     calendar.add("X-PUBLISHED-TTL", "PT24H")
 
     for record in sorted_records(events):
@@ -438,23 +522,27 @@ def build_calendar(events: dict[str, dict[str, Any]]) -> bytes:
         event.add("URL", record["url"])
         event.add("STATUS", "CONFIRMED")
         event.add("TRANSP", "TRANSPARENT")
-        event.add(
-            "CATEGORIES",
-            ["VCT 2026", "Stage 2", record["region"]],
-        )
+        event.add("CATEGORIES", [record["event_name"], record["region"]])
         calendar.add_component(event)
 
     return calendar.to_ical()
 
 
-def build_text(events: dict[str, dict[str, Any]]) -> str:
+def build_text(
+    events: dict[str, dict[str, Any]],
+    config: CalendarConfig,
+) -> str:
     lines = [
-        "VCT 2026 Stage 2 | AMER + PAC + EMEA + CN",
-        "Timezone: Australia/Sydney",
+        config.name,
+        f"Timezone: {config.display_timezone.key}",
         "",
     ]
+    if not events:
+        lines.append("VLR 尚未公布这些赛事的赛程，公布后会自动出现在这里。")
     for record in sorted_records(events):
-        local_time = parse_utc(record["start_utc"]).astimezone(DISPLAY_TIMEZONE)
+        local_time = parse_utc(record["start_utc"]).astimezone(
+            config.display_timezone
+        )
         lines.append(
             f"{local_time:%Y-%m-%d %H:%M %Z} | "
             f"{record['region']:<4} | "
@@ -465,10 +553,13 @@ def build_text(events: dict[str, dict[str, Any]]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def build_cache_json(events: dict[str, dict[str, Any]]) -> str:
+def build_cache_json(
+    events: dict[str, dict[str, Any]],
+    config: CalendarConfig,
+) -> str:
     payload = {
         "schema_version": CACHE_SCHEMA_VERSION,
-        "calendar": "VCT 2026 Stage 2 - AMER PAC EMEA CN",
+        "calendar": config.name,
         "events": events,
     }
     return json.dumps(
@@ -479,23 +570,28 @@ def build_cache_json(events: dict[str, dict[str, Any]]) -> str:
     ) + "\n"
 
 
-def validate_records(events: dict[str, dict[str, Any]]) -> None:
-    counts = {region: 0 for region in STAGE_2_EVENTS}
+def validate_records(
+    events: dict[str, dict[str, Any]],
+    config: CalendarConfig,
+) -> None:
+    counts = Counter()
     for record in events.values():
-        region = record.get("region")
-        if region not in counts:
-            raise CalendarUpdateError(f"未知赛区: {region}")
-        counts[region] += 1
+        event_id = record.get("event_id")
+        if event_id not in config.event_ids:
+            raise CalendarUpdateError(
+                f"缓存里有不在配置中的赛事 event_id={event_id}，"
+                "请重新运行更新"
+            )
+        counts[event_id] += 1
         parse_utc(record["start_utc"])
         parse_utc(record["end_utc"])
         parse_utc(record["updated_at"])
 
-    for region, count in counts.items():
-        expected_matches = int(STAGE_2_EVENTS[region]["expected_matches"])
-        if count < expected_matches:
+    for event in config.events:
+        if counts[event.event_id] < event.min_matches:
             raise CalendarUpdateError(
-                f"{region} 只有 {count} 场，少于已确认的 "
-                f"{expected_matches} 场"
+                f"{event.name} 只有 {counts[event.event_id]} 场，少于配置的 "
+                f"min_matches={event.min_matches}"
             )
 
 
@@ -530,76 +626,87 @@ def write_if_changed(path: Path, content: bytes | str) -> bool:
     return True
 
 
-def run_update() -> None:
+def run_update(config: CalendarConfig, *, allow_shrink: bool = False) -> None:
     cache = load_cache()
+    cached_counts = Counter(record.get("event_id") for record in cache.values())
     all_matches: list[dict[str, Any]] = []
     official_times: dict[str, dict[str, Any]] = {}
 
-    for region, config in STAGE_2_EVENTS.items():
-        all_matches.extend(parse_event_page(region, config))
-        official_times.update(fetch_official_upcoming_times(config))
+    for event in config.events:
+        matches = parse_event_page(event)
+        check_match_count(
+            event,
+            len(matches),
+            cached_counts[event.event_id],
+            allow_shrink=allow_shrink,
+        )
+        all_matches.extend(matches)
+        official_times.update(fetch_official_upcoming_times(event))
 
     all_ids = [match["match_id"] for match in all_matches]
     if len(all_ids) != len(set(all_ids)):
-        raise CalendarUpdateError("四个赛区之间出现重复 VLR match ID")
+        raise CalendarUpdateError("不同赛事之间出现重复 VLR match ID")
 
     resolve_match_timings(all_matches, official_times, cache)
     events = merge_with_cache(all_matches, cache)
-    validate_records(events)
+    validate_records(events, config)
 
-    ical_bytes = build_calendar(events)
+    ical_bytes = build_calendar(events, config)
     validate_calendar(ical_bytes, events)
 
     changes = {
         str(ICS_PATH.relative_to(ROOT)): write_if_changed(ICS_PATH, ical_bytes),
         str(TEXT_PATH.relative_to(ROOT)): write_if_changed(
-            TEXT_PATH, build_text(events)
+            TEXT_PATH, build_text(events, config)
         ),
         str(DATA_PATH.relative_to(ROOT)): write_if_changed(
-            DATA_PATH, build_cache_json(events)
+            DATA_PATH, build_cache_json(events, config)
         ),
     }
 
-    region_counts = {
-        region: sum(
-            record["region"] == region for record in events.values()
-        )
-        for region in STAGE_2_EVENTS
-    }
+    counts = Counter(record["event_id"] for record in events.values())
     print(
         "更新完成: "
-        + ", ".join(f"{region}={count}" for region, count in region_counts.items())
+        + ", ".join(
+            f"{event.region}={counts[event.event_id]}" for event in config.events
+        )
         + f", total={len(events)}"
     )
     for path, changed in changes.items():
         print(f"{path}: {'updated' if changed else 'unchanged'}")
 
 
-def check_existing_outputs() -> None:
+def check_existing_outputs(config: CalendarConfig) -> None:
     if not DATA_PATH.exists() or not ICS_PATH.exists() or not TEXT_PATH.exists():
         raise CalendarUpdateError("日历、文本或缓存文件不存在")
     events = load_cache()
-    validate_records(events)
+    validate_records(events, config)
     validate_calendar(ICS_PATH.read_bytes(), events)
     print(f"本地输出验证通过，共 {len(events)} 场比赛")
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="更新 VCT 2026 Stage 2 四赛区合并日历"
+        description="按 events.toml 更新 VCT 订阅日历"
     )
     parser.add_argument(
         "--check",
         action="store_true",
         help="只验证现有输出，不访问 VLR",
     )
+    parser.add_argument(
+        "--allow-shrink",
+        action="store_true",
+        help="允许某个赛事的场次比上次发布的少（VLR 确实删除比赛时使用）",
+    )
     args = parser.parse_args()
 
     try:
+        config = load_config()
         if args.check:
-            check_existing_outputs()
+            check_existing_outputs(config)
         else:
-            run_update()
+            run_update(config, allow_shrink=args.allow_shrink)
     except (CalendarUpdateError, ValueError, KeyError, json.JSONDecodeError) as exc:
         print(f"ERROR: {exc}")
         return 1

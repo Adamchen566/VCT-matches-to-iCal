@@ -8,7 +8,7 @@
 
 本项目是一个基于 Python 的 **Valorant（无畏契约）比赛数据爬虫与可视化工具**，从 [VLR.gg](https://www.vlr.gg) 抓取数据，支持 `.ics` 日历导出、图形界面多种视图展示，以及多年份多赛区的比赛信息追踪。
 
-当前自动日历覆盖 **VCT 2026 Stage 2** 四大赛区：
+订阅日历跟踪哪些赛事由 [`events.toml`](events.toml) 决定，换赛事不需要改代码。当前配置为 **VCT 2027 Kickoff** 四大赛区（VLR 公布赛程后比赛会自动出现）：
 
 - Americas（AMER）
 - Pacific（PAC）
@@ -51,7 +51,7 @@ python GUI.py
 
 想实时掌握比赛进展？请订阅以下自动更新的 `.ics` 文件：
 
-- **VCT 2026 Stage 2 四赛区日历**：
+- **当前赛事日历（VCT 2027 Kickoff 四赛区）**：
 
   https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
 
@@ -81,15 +81,35 @@ python -m pip install -r requirements.txt
 ```bash
 git clone https://github.com/Adamchen566/VCT-matches-to-iCal
 cd VCT-matches-to-iCal
-python update_stage2_calendar.py
-python update_stage2_calendar.py --check
+python update_calendar.py
+python update_calendar.py --check
 ```
 
 生成文件：
 
 - `vct_OnGoing.ics`：手机/电脑日历订阅文件
 - `vct_OnGoing.txt`：按澳洲悉尼时间显示的可读赛程
-- `data/vct_stage2_matches.json`：稳定更新所需的比赛缓存
+- `data/matches.json`：稳定更新所需的比赛缓存
+
+### 🔁 切换赛事
+
+编辑 `events.toml`，每个 `[[events]]` 对应 vlr.gg 上的一个赛事页（`https://www.vlr.gg/event/matches/<event_id>/<slug>/`）：
+
+```toml
+[calendar]
+name = "VCT 2027 Kickoff - AMER PAC EMEA CN"
+display_timezone = "Australia/Sydney"
+
+[[events]]
+region = "AMER"
+event_id = 3178
+slug = "vct-2027-americas-kickoff"
+name = "VCT 2027: Americas Kickoff"
+```
+
+推送后 GitHub Actions 会自动重新生成日历，订阅链接保持不变。如果某个赛事抓到的场次比上次发布的少，脚本会拒绝覆盖现有日历；确认是 VLR 真的删了比赛时，用 `python update_calendar.py --allow-shrink`。
+
+已结束的赛事归档在 `Calendar_Files/`（例如 `2026_Stage_2_All.ics`）。
 
 ---
 
