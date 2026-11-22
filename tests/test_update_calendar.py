@@ -426,7 +426,7 @@ class ArchiveTests(unittest.TestCase):
                 ARCHIVE_DATA_DIR=root / "data" / "archive",
             ):
                 self.assertFalse(is_archived(SEOUL))
-                write_archive(SEOUL, records, ZoneInfo("Australia/Sydney"))
+                write_archive(SEOUL, records, CONFIG)
                 self.assertTrue(is_archived(SEOUL))
 
             stem = "2027_Masters_Seoul_Global"

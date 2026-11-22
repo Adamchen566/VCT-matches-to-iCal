@@ -35,6 +35,8 @@ OTHER_GROUP = "其他"
 
 SCORE_PATTERN = re.compile(r"(?:Score|比分)\s*[:：]\s*(\d+)\s*:\s*(\d+)")
 TAG_PATTERN = re.compile(r"^\[([^\]]+)\]\s*(.*)$")
+TITLE_SCORE_PATTERN = re.compile(r"^(.*\S)\s+(\d+):(\d+)\s+(\S.*)$")
+BEST_OF_SUFFIX = re.compile(r"\s*\(Bo\d+\)\s*$")
 
 
 @dataclass(frozen=True)
@@ -143,13 +145,19 @@ def parse_match(component) -> MatchRow | None:
         if tagged:
             summary = tagged.group(2)
 
-    if " vs " not in summary:
-        return None
-    team1, team2 = (part.strip() for part in summary.split(" vs ", 1))
-
-    score = SCORE_PATTERN.search(description) or SCORE_PATTERN.search(location)
-    score1 = int(score.group(1)) if score else None
-    score2 = int(score.group(2)) if score else None
+    # Current titles: "A 2:1 B" once there is a score, "A vs B (Bo3)" before.
+    scored = TITLE_SCORE_PATTERN.match(summary)
+    if scored:
+        team1, team2 = scored.group(1).strip(), scored.group(4).strip()
+        score1, score2 = int(scored.group(2)), int(scored.group(3))
+    else:
+        summary = BEST_OF_SUFFIX.sub("", summary)
+        if " vs " not in summary:
+            return None
+        team1, team2 = (part.strip() for part in summary.split(" vs ", 1))
+        score = SCORE_PATTERN.search(description) or SCORE_PATTERN.search(location)
+        score1 = int(score.group(1)) if score else None
+        score2 = int(score.group(2)) if score else None
 
     start = None
     if component.get("DTSTART") is not None:
