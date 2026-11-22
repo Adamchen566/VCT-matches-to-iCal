@@ -1,5 +1,70 @@
 {
-  "calendar": "VCT 2027 Kickoff - AMER PAC EMEA CN",
+  "calendar": "VCT Matches",
   "events": {},
-  "schema_version": 3
+  "schema_version": 4,
+  "tracked": [
+    {
+      "archive": "",
+      "event_id": 3161,
+      "min_matches": 0,
+      "name": "Valorant Masters Seoul 2027",
+      "region": "INTL",
+      "slug": "valorant-masters-seoul-2027",
+      "source": "discovered"
+    },
+    {
+      "archive": "",
+      "event_id": 3162,
+      "min_matches": 0,
+      "name": "Valorant Masters Valencia 2027",
+      "region": "INTL",
+      "slug": "valorant-masters-valencia-2027",
+      "source": "discovered"
+    },
+    {
+      "archive": "",
+      "event_id": 3163,
+      "min_matches": 0,
+      "name": "Valorant Champions 2027",
+      "region": "INTL",
+      "slug": "valorant-champions-2027",
+      "source": "discovered"
+    },
+    {
+      "archive": "",
+      "event_id": 3176,
+      "min_matches": 0,
+      "name": "VCT 2027: EMEA Kickoff",
+      "region": "EMEA",
+      "slug": "vct-2027-emea-kickoff",
+      "source": "discovered"
+    },
+    {
+      "archive": "",
+      "event_id": 3178,
+      "min_matches": 0,
+      "name": "VCT 2027: Americas Kickoff",
+      "region": "AMER",
+      "slug": "vct-2027-americas-kickoff",
+      "source": "discovered"
+    },
+    {
+      "archive": "",
+      "event_id": 3181,
+      "min_matches": 0,
+      "name": "VCT 2027: Pacific Kickoff",
+      "region": "PAC",
+      "slug": "vct-2027-pacific-kickoff",
+      "source": "discovered"
+    },
+    {
+      "archive": "",
+      "event_id": 3182,
+      "min_matches": 0,
+      "name": "VCT 2027: China Kickoff",
+      "region": "CN",
+      "slug": "vct-2027-china-kickoff",
+      "source": "discovered"
+    }
+  ]
 }

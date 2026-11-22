@@ -1,0 +1,442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valorant Masters Santiago 2026
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[INTL] Gentle Mates vs EDward Gaming
+DTSTART:20260228T170000Z
+DTEND:20260228T200000Z
+DTSTAMP:20260228T200000Z
+UID:vlr-625788@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n比分：2:0\nVLR：https://www.vlr.gg/625788/g
+ entle-mates-vs-edward-gaming-valorant-masters-santiago-2026-r1
+LAST-MODIFIED:20260228T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/625788/gentle-mates-vs-edward-gaming-valorant-maste
+ rs-santiago-2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming vs NRG
+DTSTART:20260228T193000Z
+DTEND:20260228T223000Z
+DTSTAMP:20260228T223000Z
+UID:vlr-625791@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/625791/x
+ i-lai-gaming-vs-nrg-valorant-masters-santiago-2026-r1
+LAST-MODIFIED:20260228T223000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/625791/xi-lai-gaming-vs-nrg-valorant-masters-santia
+ go-2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports vs Paper Rex
+DTSTART:20260301T170000Z
+DTEND:20260301T200000Z
+DTSTAMP:20260301T200000Z
+UID:vlr-625790@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/625790/g
+ 2-esports-vs-paper-rex-valorant-masters-santiago-2026-r1
+LAST-MODIFIED:20260301T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/625790/g2-esports-vs-paper-rex-valorant-masters-san
+ tiago-2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] T1 vs Team Liquid
+DTSTART:20260301T190500Z
+DTEND:20260301T220500Z
+DTSTAMP:20260301T220500Z
+UID:vlr-625789@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/625789/t
+ 1-vs-team-liquid-valorant-masters-santiago-2026-r1
+LAST-MODIFIED:20260301T220500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/625789/t1-vs-team-liquid-valorant-masters-santiago-
+ 2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs NRG
+DTSTART:20260302T180000Z
+DTEND:20260302T210000Z
+DTSTAMP:20260302T210000Z
+UID:vlr-626529@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 2 (1-0) Swiss Stage\n比分：2:1\nVLR：https://www.vlr.gg/6
+ 26529/paper-rex-vs-nrg-valorant-masters-santiago-2026-r2-1-0
+LAST-MODIFIED:20260302T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626529/paper-rex-vs-nrg-valorant-masters-santiago-2
+ 026-r2-1-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Gentle Mates vs Team Liquid
+DTSTART:20260302T213000Z
+DTEND:20260303T003000Z
+DTSTAMP:20260303T003000Z
+UID:vlr-626530@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 2 (1-0) Swiss Stage\n比分：2:0\nVLR：https://www.vlr.gg/6
+ 26530/gentle-mates-vs-team-liquid-valorant-masters-santiago-2026-r2-1-0
+LAST-MODIFIED:20260303T003000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626530/gentle-mates-vs-team-liquid-valorant-masters
+ -santiago-2026-r2-1-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] EDward Gaming vs T1
+DTSTART:20260303T180000Z
+DTEND:20260303T210000Z
+DTSTAMP:20260303T210000Z
+UID:vlr-626532@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 2 (0-1) Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/6
+ 26532/edward-gaming-vs-t1-valorant-masters-santiago-2026-r2-0-1
+LAST-MODIFIED:20260303T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626532/edward-gaming-vs-t1-valorant-masters-santiag
+ o-2026-r2-0-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming vs G2 Esports
+DTSTART:20260303T201000Z
+DTEND:20260303T231000Z
+DTSTAMP:20260303T231000Z
+UID:vlr-626533@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 2 (0-1) Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/6
+ 26533/xi-lai-gaming-vs-g2-esports-valorant-masters-santiago-2026-r2-0-1
+LAST-MODIFIED:20260303T231000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626533/xi-lai-gaming-vs-g2-esports-valorant-masters
+ -santiago-2026-r2-0-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] NRG vs Team Liquid
+DTSTART:20260304T180000Z
+DTEND:20260304T210000Z
+DTSTAMP:20260304T210000Z
+UID:vlr-626535@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 3 Swiss Stage\n比分：2:0\nVLR：https://www.vlr.gg/626535/n
+ rg-vs-team-liquid-valorant-masters-santiago-2026-r3
+LAST-MODIFIED:20260304T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626535/nrg-vs-team-liquid-valorant-masters-santiago
+ -2026-r3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports vs T1
+DTSTART:20260304T202000Z
+DTEND:20260304T232000Z
+DTSTAMP:20260304T232000Z
+UID:vlr-626534@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Round 3 Swiss Stage\n比分：2:0\nVLR：https://www.vlr.gg/626534/g
+ 2-esports-vs-t1-valorant-masters-santiago-2026-r3
+LAST-MODIFIED:20260304T232000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626534/g2-esports-vs-t1-valorant-masters-santiago-2
+ 026-r3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FURIA vs Paper Rex
+DTSTART:20260306T180000Z
+DTEND:20260306T210000Z
+DTSTAMP:20260306T210000Z
+UID:vlr-626539@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/
+ 626539/furia-vs-paper-rex-valorant-masters-santiago-2026-ubqf
+LAST-MODIFIED:20260306T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626539/furia-vs-paper-rex-valorant-masters-santiago
+ -2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Nongshim RedForce vs Gentle Mates
+DTSTART:20260306T210000Z
+DTEND:20260307T000000Z
+DTSTAMP:20260307T000000Z
+UID:vlr-626537@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/
+ 626537/nongshim-redforce-vs-gentle-mates-valorant-masters-santiago-2026-ub
+ qf
+LAST-MODIFIED:20260307T000000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626537/nongshim-redforce-vs-gentle-mates-valorant-m
+ asters-santiago-2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] BBL Esports vs NRG
+DTSTART:20260307T170000Z
+DTEND:20260307T200000Z
+DTSTAMP:20260307T200000Z
+UID:vlr-626540@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/
+ 626540/bbl-esports-vs-nrg-valorant-masters-santiago-2026-ubqf
+LAST-MODIFIED:20260307T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626540/bbl-esports-vs-nrg-valorant-masters-santiago
+ -2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] All Gamers vs G2 Esports
+DTSTART:20260307T203000Z
+DTEND:20260307T233000Z
+DTSTAMP:20260307T233000Z
+UID:vlr-626538@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/
+ 626538/all-gamers-vs-g2-esports-valorant-masters-santiago-2026-ubqf
+LAST-MODIFIED:20260307T233000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626538/all-gamers-vs-g2-esports-valorant-masters-sa
+ ntiago-2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FURIA vs BBL Esports
+DTSTART:20260308T170000Z
+DTEND:20260308T200000Z
+DTSTAMP:20260308T200000Z
+UID:vlr-626546@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Lower Round 1 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/62654
+ 6/furia-vs-bbl-esports-valorant-masters-santiago-2026-lr1
+LAST-MODIFIED:20260308T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626546/furia-vs-bbl-esports-valorant-masters-santia
+ go-2026-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Gentle Mates vs All Gamers
+DTSTART:20260308T203000Z
+DTEND:20260308T233000Z
+DTSTAMP:20260308T233000Z
+UID:vlr-626545@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Lower Round 1 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/62654
+ 5/gentle-mates-vs-all-gamers-valorant-masters-santiago-2026-lr1
+LAST-MODIFIED:20260308T233000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626545/gentle-mates-vs-all-gamers-valorant-masters-
+ santiago-2026-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Nongshim RedForce vs G2 Esports
+DTSTART:20260309T180000Z
+DTEND:20260309T210000Z
+DTSTAMP:20260309T210000Z
+UID:vlr-626541@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Semifinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/626
+ 541/nongshim-redforce-vs-g2-esports-valorant-masters-santiago-2026-ubsf
+LAST-MODIFIED:20260309T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626541/nongshim-redforce-vs-g2-esports-valorant-mas
+ ters-santiago-2026-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs NRG
+DTSTART:20260309T212000Z
+DTEND:20260310T002000Z
+DTSTAMP:20260310T002000Z
+UID:vlr-626542@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Semifinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/626
+ 542/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf
+LAST-MODIFIED:20260310T002000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626542/paper-rex-vs-nrg-valorant-masters-santiago-2
+ 026-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports vs BBL Esports
+DTSTART:20260310T180000Z
+DTEND:20260310T210000Z
+DTSTAMP:20260310T210000Z
+UID:vlr-626548@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Lower Round 2 Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/62654
+ 8/g2-esports-vs-bbl-esports-valorant-masters-santiago-2026-lr2
+LAST-MODIFIED:20260310T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626548/g2-esports-vs-bbl-esports-valorant-masters-s
+ antiago-2026-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs All Gamers
+DTSTART:20260310T201000Z
+DTEND:20260310T231000Z
+DTSTAMP:20260310T231000Z
+UID:vlr-626547@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Lower Round 2 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/62654
+ 7/paper-rex-vs-all-gamers-valorant-masters-santiago-2026-lr2
+LAST-MODIFIED:20260310T231000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626547/paper-rex-vs-all-gamers-valorant-masters-san
+ tiago-2026-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Nongshim RedForce vs NRG
+DTSTART:20260313T170000Z
+DTEND:20260313T200000Z
+DTSTAMP:20260313T200000Z
+UID:vlr-626543@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Upper Final Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/626543/n
+ ongshim-redforce-vs-nrg-valorant-masters-santiago-2026-ubf
+LAST-MODIFIED:20260313T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626543/nongshim-redforce-vs-nrg-valorant-masters-sa
+ ntiago-2026-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs G2 Esports
+DTSTART:20260313T192500Z
+DTEND:20260313T222500Z
+DTSTAMP:20260313T222500Z
+UID:vlr-626549@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Lower Round 3 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/62654
+ 9/paper-rex-vs-g2-esports-valorant-masters-santiago-2026-lr3
+LAST-MODIFIED:20260313T222500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626549/paper-rex-vs-g2-esports-valorant-masters-san
+ tiago-2026-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] NRG vs Paper Rex
+DTSTART:20260314T170000Z
+DTEND:20260314T200000Z
+DTSTAMP:20260314T200000Z
+UID:vlr-626550@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Lower Final Playoffs\n比分：1:3\nVLR：https://www.vlr.gg/626550/n
+ rg-vs-paper-rex-valorant-masters-santiago-2026-lbf
+LAST-MODIFIED:20260314T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626550/nrg-vs-paper-rex-valorant-masters-santiago-2
+ 026-lbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Nongshim RedForce vs Paper Rex
+DTSTART:20260315T180000Z
+DTEND:20260315T210000Z
+DTSTAMP:20260315T210000Z
+UID:vlr-626544@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Santiago 2026,INTL
+DESCRIPTION:Valorant Masters Santiago 2026\n状态：Completed\n阶段
+ ：Grand Final Playoffs\n比分：3:0\nVLR：https://www.vlr.gg/626544/n
+ ongshim-redforce-vs-paper-rex-valorant-masters-santiago-2026-gf
+LAST-MODIFIED:20260315T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/626544/nongshim-redforce-vs-paper-rex-valorant-mast
+ ers-santiago-2026-gf
+END:VEVENT
+END:VCALENDAR

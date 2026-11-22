@@ -1,0 +1,442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valorant Masters London 2026
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming vs NRG
+DTSTART:20260606T140000Z
+DTEND:20260606T170000Z
+DTSTAMP:20260606T170000Z
+UID:vlr-684613@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 1 Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/684613/xi-l
+ ai-gaming-vs-nrg-valorant-masters-london-2026-r1
+LAST-MODIFIED:20260606T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684613/xi-lai-gaming-vs-nrg-valorant-masters-london
+ -2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Vitality vs Dragon Ranger Gaming
+DTSTART:20260606T163000Z
+DTEND:20260606T193000Z
+DTSTAMP:20260606T193000Z
+UID:vlr-684610@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 1 Swiss Stage\n比分：2:0\nVLR：https://www.vlr.gg/684610/team
+ -vitality-vs-dragon-ranger-gaming-valorant-masters-london-2026-r1
+LAST-MODIFIED:20260606T193000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684610/team-vitality-vs-dragon-ranger-gaming-valora
+ nt-masters-london-2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FULL SENSE vs FUT Esports
+DTSTART:20260607T140000Z
+DTEND:20260607T170000Z
+DTSTAMP:20260607T170000Z
+UID:vlr-684611@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 1 Swiss Stage\n比分：0:2\nVLR：https://www.vlr.gg/684611/full
+ -sense-vs-fut-esports-valorant-masters-london-2026-r1
+LAST-MODIFIED:20260607T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684611/full-sense-vs-fut-esports-valorant-masters-l
+ ondon-2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] LEVIATÁN vs Global Esports
+DTSTART:20260607T160000Z
+DTEND:20260607T190000Z
+DTSTAMP:20260607T190000Z
+UID:vlr-684612@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 1 Swiss Stage\n比分：2:1\nVLR：https://www.vlr.gg/684612/levi
+ at-n-vs-global-esports-valorant-masters-london-2026-r1
+LAST-MODIFIED:20260607T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684612/leviat-n-vs-global-esports-valorant-masters-
+ london-2026-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Vitality vs FUT Esports
+DTSTART:20260608T140000Z
+DTEND:20260608T170000Z
+DTSTAMP:20260608T170000Z
+UID:vlr-684614@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 2 (1-0) Swiss Stage\n比分：2:1\nVLR：https://www.vlr.gg/6846
+ 14/team-vitality-vs-fut-esports-valorant-masters-london-2026-r2-1-0
+LAST-MODIFIED:20260608T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684614/team-vitality-vs-fut-esports-valorant-master
+ s-london-2026-r2-1-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] NRG vs LEVIATÁN
+DTSTART:20260608T171500Z
+DTEND:20260608T201500Z
+DTSTAMP:20260608T201500Z
+UID:vlr-684615@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 2 (1-0) Swiss Stage\n比分：1:2\nVLR：https://www.vlr.gg/6846
+ 15/nrg-vs-leviat-n-valorant-masters-london-2026-r2-1-0
+LAST-MODIFIED:20260608T201500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684615/nrg-vs-leviat-n-valorant-masters-london-2026
+ -r2-1-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Dragon Ranger Gaming vs Xi Lai Gaming
+DTSTART:20260609T140000Z
+DTEND:20260609T170000Z
+DTSTAMP:20260609T170000Z
+UID:vlr-684616@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 2 (0-1) Swiss Stage\n比分：1:2\nVLR：https://www.vlr.gg/6846
+ 16/dragon-ranger-gaming-vs-xi-lai-gaming-valorant-masters-london-2026-r2-0
+ -1
+LAST-MODIFIED:20260609T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684616/dragon-ranger-gaming-vs-xi-lai-gaming-valora
+ nt-masters-london-2026-r2-0-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Global Esports vs FULL SENSE
+DTSTART:20260609T172000Z
+DTEND:20260609T202000Z
+DTSTAMP:20260609T202000Z
+UID:vlr-684617@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 2 (0-1) Swiss Stage\n比分：2:1\nVLR：https://www.vlr.gg/6846
+ 17/global-esports-vs-full-sense-valorant-masters-london-2026-r2-0-1
+LAST-MODIFIED:20260609T202000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684617/global-esports-vs-full-sense-valorant-master
+ s-london-2026-r2-0-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FUT Esports vs NRG
+DTSTART:20260610T140000Z
+DTEND:20260610T170000Z
+DTSTAMP:20260610T170000Z
+UID:vlr-684619@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 3 (1-1) Swiss Stage\n比分：2:1\nVLR：https://www.vlr.gg/6846
+ 19/fut-esports-vs-nrg-valorant-masters-london-2026-r3-1-1
+LAST-MODIFIED:20260610T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684619/fut-esports-vs-nrg-valorant-masters-london-2
+ 026-r3-1-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Global Esports vs Xi Lai Gaming
+DTSTART:20260610T174000Z
+DTEND:20260610T204000Z
+DTSTAMP:20260610T204000Z
+UID:vlr-684618@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Round 3 (1-1) Swiss Stage\n比分：1:2\nVLR：https://www.vlr.gg/6846
+ 18/global-esports-vs-xi-lai-gaming-valorant-masters-london-2026-r3-1-1
+LAST-MODIFIED:20260610T204000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/684618/global-esports-vs-xi-lai-gaming-valorant-mas
+ ters-london-2026-r3-1-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs LEVIATÁN
+DTSTART:20260612T140000Z
+DTEND:20260612T170000Z
+DTSTAMP:20260612T170000Z
+UID:vlr-670466@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Quarterfinals Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/670
+ 466/paper-rex-vs-leviat-n-valorant-masters-london-2026-ubqf
+LAST-MODIFIED:20260612T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670466/paper-rex-vs-leviat-n-valorant-masters-londo
+ n-2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Heretics vs Team Vitality
+DTSTART:20260612T160000Z
+DTEND:20260612T190000Z
+DTSTAMP:20260612T190000Z
+UID:vlr-670467@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Quarterfinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/670
+ 467/team-heretics-vs-team-vitality-valorant-masters-london-2026-ubqf
+LAST-MODIFIED:20260612T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670467/team-heretics-vs-team-vitality-valorant-mast
+ ers-london-2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] EDward Gaming vs FUT Esports
+DTSTART:20260613T140000Z
+DTEND:20260613T170000Z
+DTSTAMP:20260613T170000Z
+UID:vlr-670465@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Quarterfinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/670
+ 465/edward-gaming-vs-fut-esports-valorant-masters-london-2026-ubqf
+LAST-MODIFIED:20260613T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670465/edward-gaming-vs-fut-esports-valorant-master
+ s-london-2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports vs Xi Lai Gaming
+DTSTART:20260613T170000Z
+DTEND:20260613T200000Z
+DTSTAMP:20260613T200000Z
+UID:vlr-670464@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Quarterfinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/670
+ 464/g2-esports-vs-xi-lai-gaming-valorant-masters-london-2026-ubqf
+LAST-MODIFIED:20260613T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670464/g2-esports-vs-xi-lai-gaming-valorant-masters
+ -london-2026-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] LEVIATÁN vs Team Heretics
+DTSTART:20260614T140000Z
+DTEND:20260614T170000Z
+DTSTAMP:20260614T170000Z
+UID:vlr-670473@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Lower Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/670473/l
+ eviat-n-vs-team-heretics-valorant-masters-london-2026-lr1
+LAST-MODIFIED:20260614T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670473/leviat-n-vs-team-heretics-valorant-masters-l
+ ondon-2026-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports vs FUT Esports
+DTSTART:20260614T170000Z
+DTEND:20260614T200000Z
+DTSTAMP:20260614T200000Z
+UID:vlr-670472@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Lower Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/670472/g
+ 2-esports-vs-fut-esports-valorant-masters-london-2026-lr1
+LAST-MODIFIED:20260614T200000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670472/g2-esports-vs-fut-esports-valorant-masters-l
+ ondon-2026-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming vs EDward Gaming
+DTSTART:20260615T140000Z
+DTEND:20260615T170000Z
+DTSTAMP:20260615T170000Z
+UID:vlr-670468@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Semifinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/670468
+ /xi-lai-gaming-vs-edward-gaming-valorant-masters-london-2026-ubsf
+LAST-MODIFIED:20260615T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670468/xi-lai-gaming-vs-edward-gaming-valorant-mast
+ ers-london-2026-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs Team Vitality
+DTSTART:20260615T171500Z
+DTEND:20260615T201500Z
+DTSTAMP:20260615T201500Z
+UID:vlr-670469@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Semifinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/670469
+ /paper-rex-vs-team-vitality-valorant-masters-london-2026-ubsf
+LAST-MODIFIED:20260615T201500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670469/paper-rex-vs-team-vitality-valorant-masters-
+ london-2026-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming vs LEVIATÁN
+DTSTART:20260616T140000Z
+DTEND:20260616T170000Z
+DTSTAMP:20260616T170000Z
+UID:vlr-670475@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Lower Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/670475/x
+ i-lai-gaming-vs-leviat-n-valorant-masters-london-2026-lr2
+LAST-MODIFIED:20260616T170000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670475/xi-lai-gaming-vs-leviat-n-valorant-masters-l
+ ondon-2026-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Vitality vs FUT Esports
+DTSTART:20260616T160500Z
+DTEND:20260616T190500Z
+DTSTAMP:20260616T190500Z
+UID:vlr-670474@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Lower Round 2 Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/670474/t
+ eam-vitality-vs-fut-esports-valorant-masters-london-2026-lr2
+LAST-MODIFIED:20260616T190500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670474/team-vitality-vs-fut-esports-valorant-master
+ s-london-2026-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] EDward Gaming vs Paper Rex
+DTSTART:20260619T130000Z
+DTEND:20260619T160000Z
+DTSTAMP:20260619T160000Z
+UID:vlr-670470@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Upper Final Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/670470/edwa
+ rd-gaming-vs-paper-rex-valorant-masters-london-2026-ubf
+LAST-MODIFIED:20260619T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670470/edward-gaming-vs-paper-rex-valorant-masters-
+ london-2026-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Vitality vs LEVIATÁN
+DTSTART:20260619T163500Z
+DTEND:20260619T193500Z
+DTSTAMP:20260619T193500Z
+UID:vlr-670476@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Lower Round 3 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/670476/t
+ eam-vitality-vs-leviat-n-valorant-masters-london-2026-lr3
+LAST-MODIFIED:20260619T193500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670476/team-vitality-vs-leviat-n-valorant-masters-l
+ ondon-2026-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] EDward Gaming vs LEVIATÁN
+DTSTART:20260620T130000Z
+DTEND:20260620T160000Z
+DTSTAMP:20260620T160000Z
+UID:vlr-670477@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Lower Final Playoffs\n比分：0:3\nVLR：https://www.vlr.gg/670477/edwa
+ rd-gaming-vs-leviat-n-valorant-masters-london-2026-lbf
+LAST-MODIFIED:20260620T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670477/edward-gaming-vs-leviat-n-valorant-masters-l
+ ondon-2026-lbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex vs LEVIATÁN
+DTSTART:20260621T142000Z
+DTEND:20260621T172000Z
+DTSTAMP:20260621T172000Z
+UID:vlr-670471@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters London 2026,INTL
+DESCRIPTION:Valorant Masters London 2026\n状态：Completed\n阶段：
+ Grand Final Playoffs\n比分：2:3\nVLR：https://www.vlr.gg/670471/pape
+ r-rex-vs-leviat-n-valorant-masters-london-2026-gf
+LAST-MODIFIED:20260621T172000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/670471/paper-rex-vs-leviat-n-valorant-masters-londo
+ n-2026-gf
+END:VEVENT
+END:VCALENDAR

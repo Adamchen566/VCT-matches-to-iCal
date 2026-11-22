@@ -8,7 +8,7 @@
 
 本项目是一个基于 Python 的 **Valorant（无畏契约）比赛数据爬虫与可视化工具**，从 [VLR.gg](https://www.vlr.gg) 抓取数据，支持 `.ics` 日历导出、图形界面多种视图展示，以及多年份多赛区的比赛信息追踪。
 
-订阅日历跟踪哪些赛事由 [`events.toml`](events.toml) 决定，换赛事不需要改代码。当前配置为 **VCT 2027 Kickoff** 四大赛区（VLR 公布赛程后比赛会自动出现）：
+订阅日历会**自动发现** vlr.gg 上进行中和即将开始的 VCT 一级赛事，不需要每个赛季手动改配置。覆盖四大赛区的 Kickoff / Stage 1 / Stage 2，以及 Masters 和 Champions：
 
 - Americas（AMER）
 - Pacific（PAC）
@@ -51,7 +51,7 @@ python GUI.py
 
 想实时掌握比赛进展？请订阅以下自动更新的 `.ics` 文件：
 
-- **当前赛事日历（VCT 2027 Kickoff 四赛区）**：
+- **当前赛事日历（自动跟踪进行中和即将开始的 VCT 赛事）**：
 
   https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
 
@@ -91,25 +91,18 @@ python update_calendar.py --check
 - `vct_OnGoing.txt`：按澳洲悉尼时间显示的可读赛程
 - `data/matches.json`：稳定更新所需的比赛缓存
 
-### 🔁 切换赛事
+### 🔁 赛事的跟踪与归档
 
-编辑 `events.toml`，每个 `[[events]]` 对应 vlr.gg 上的一个赛事页（`https://www.vlr.gg/event/matches/<event_id>/<slug>/`）：
+- **自动发现**：每次运行读取 vlr.gg 的赛事列表，自动跟踪进行中和即将开始的 VCT 一级赛事。VLR 公布赛程后，比赛会自动出现在订阅日历里。
+- **自动归档**：一个赛事全部打完、并且最后一场结束满 7 天后，会从订阅日历移出，归档到 `Calendar_Files/`（日历）、`TEXT_Files/`（可读文本）和 `data/archive/`（数据），例如 `2026_Champions_Global.ics`、`2026_Stage_2_CN.ics`。
+- **手动添加**：自动发现只认一级赛事。预选赛或第三方赛事可以在 [`events.toml`](events.toml) 里用 `[[events]]` 添加，保留天数和显示时区也在这个文件里改。
+- **补归档**：已经结束的赛事可以直接抓取归档：
 
-```toml
-[calendar]
-name = "VCT 2027 Kickoff - AMER PAC EMEA CN"
-display_timezone = "Australia/Sydney"
+  ```bash
+  python update_calendar.py --archive 2766/valorant-champions-2026
+  ```
 
-[[events]]
-region = "AMER"
-event_id = 3178
-slug = "vct-2027-americas-kickoff"
-name = "VCT 2027: Americas Kickoff"
-```
-
-推送后 GitHub Actions 会自动重新生成日历，订阅链接保持不变。如果某个赛事抓到的场次比上次发布的少，脚本会拒绝覆盖现有日历；确认是 VLR 真的删了比赛时，用 `python update_calendar.py --allow-shrink`。
-
-已结束的赛事归档在 `Calendar_Files/`（例如 `2026_Stage_2_All.ics`）。
+如果某个赛事抓到的场次比上次发布的少，脚本会拒绝覆盖现有日历；确认是 VLR 真的删了比赛时，用 `python update_calendar.py --allow-shrink`。
 
 ---
 
