@@ -1,0 +1,35 @@
+name: Live Match Updates
+
+# Every hour, check the committed match cache. While a match is about to start
+# or in progress, start a full calendar update so scores and reschedules reach
+# subscribers within the hour. On days without matches this exits in seconds.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: live-match-updates
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Start an update while a match is on
+        run: |
+          if python3 live_check.py; then
+            gh workflow run update_OnGoing.yml --ref main
+          fi

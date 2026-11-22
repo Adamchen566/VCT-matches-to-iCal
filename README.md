@@ -8,7 +8,7 @@
 
 This project is a Python-based crawler and GUI viewer for **Valorant** match data from [VLR.gg](https://www.vlr.gg). It supports calendar export (`.ics`), interactive GUI views (table, card, heatmap), and match tracking across regions and years.
 
-The subscription calendar **auto-discovers** ongoing and upcoming tier-1 VCT events on vlr.gg, so nothing needs editing between seasons. It covers Kickoff / Stage 1 / Stage 2 in AMER, PAC, EMEA, and CN, plus Masters and Champions. GitHub Actions refreshes it every day at **14:00 Australia/Sydney**, with daylight-saving changes handled by the named timezone.
+The subscription calendar **auto-discovers** ongoing and upcoming tier-1 VCT events on vlr.gg, so nothing needs editing between seasons. It covers Kickoff / Stage 1 / Stage 2 in AMER, PAC, EMEA, and CN, plus Masters and Champions. GitHub Actions refreshes it once a day, and every hour while a match is about to start or in progress, so scores and reschedules reach the calendar within the hour.
 
 ---
 
@@ -50,6 +50,13 @@ Subscribe to the automatically updated calendar:
 - **Current events (ongoing and upcoming VCT events, tracked automatically)**:
 
   https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
+
+Only want one region or one team? Open the **[subscription page](https://adamchen566.github.io/VCT-matches-to-iCal/)** for a separate calendar per region and per team, plus downloads of past seasons. The addresses can also be used directly:
+
+- Region: `https://adamchen566.github.io/VCT-matches-to-iCal/feeds/region/AMER.ics` (replace `AMER` with `PAC`, `EMEA`, `CN` or `INTL`; `INTL` is international events)
+- Team: `https://adamchen566.github.io/VCT-matches-to-iCal/feeds/team/paper-rex.ics` (team name in lower case with hyphens; the page lists them all)
+
+Event titles read `[CN] A vs B (Bo3)` before a match and `[CN] A 2:1 B` once there is a score. To keep scores out of titles (no spoilers), set `score_in_title = false` in `events.toml`.
 
 ### Usage:
 

@@ -4,7 +4,9 @@ import argparse
 import json
 import re
 import time
+import hashlib
 import tomllib
+import unicodedata
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field, replace
@@ -27,6 +29,8 @@ TEXT_PATH = ROOT / "vct_OnGoing.txt"
 ARCHIVE_ICS_DIR = ROOT / "Calendar_Files"
 ARCHIVE_TEXT_DIR = ROOT / "TEXT_Files"
 ARCHIVE_DATA_DIR = ROOT / "data" / "archive"
+FEEDS_DIR = ROOT / "feeds"
+FEEDS_INDEX_NAME = "index.json"
 
 VLR_BASE_URL = "https://www.vlr.gg"
 EVENTS_LIST_URL = f"{VLR_BASE_URL}/events"
@@ -69,6 +73,15 @@ REGION_CODES = {
     "china": "CN",
 }
 INTERNATIONAL_REGION = "INTL"
+# Regions that always get their own feed, with the label shown to subscribers.
+REGION_LABELS = {
+    "AMER": "美洲",
+    "PAC": "太平洋",
+    "EMEA": "欧洲、中东和非洲",
+    "CN": "中国",
+    "INTL": "国际赛",
+}
+UPCOMING_LIMIT = 12
 REGIONAL_SLUG = re.compile(
     r"^(?:vct|champions-tour)-(\d{4})-(americas|pacific|emea|china)-"
     r"(kickoff|stage-\d)$"
@@ -174,6 +187,7 @@ class CalendarConfig:
     discover: bool = True
     keep_finished_days: int = 7
     canary: EventConfig | None = None
+    score_in_title: bool = True
 
 
 @dataclass
@@ -200,6 +214,10 @@ def parse_config(data: dict[str, Any]) -> CalendarConfig:
     keep_finished_days = calendar.get("keep_finished_days", 7)
     if not isinstance(keep_finished_days, int) or keep_finished_days < 0:
         raise CalendarUpdateError("keep_finished_days 必须是非负整数")
+
+    score_in_title = calendar.get("score_in_title", True)
+    if not isinstance(score_in_title, bool):
+        raise CalendarUpdateError("score_in_title 必须是 true 或 false")
 
     discovery = data.get("discovery", {})
     if not isinstance(discovery, dict):
@@ -283,6 +301,7 @@ def parse_config(data: dict[str, Any]) -> CalendarConfig:
         discover=discover,
         keep_finished_days=keep_finished_days,
         canary=canary,
+        score_in_title=score_in_title,
     )
 
 
@@ -633,6 +652,7 @@ def resolve_match_timings(
     cache: dict[str, dict[str, Any]],
 ) -> None:
     detail_targets: dict[str, dict[str, Any]] = {}
+    format_targets: dict[str, dict[str, Any]] = {}
 
     for match in matches:
         match_id = match["match_id"]
@@ -643,6 +663,10 @@ def resolve_match_timings(
             match.update(official)
             if previous:
                 match["best_of"] = previous.get("best_of")
+            if match["best_of"] is None:
+                # VLR's calendar export has the time but not Bo3/Bo5; read it
+                # from the match page once, then keep it in the cache.
+                format_targets[match_id] = match
             continue
 
         if previous and previous.get("start_utc") and match["status"].lower() == "completed":
@@ -653,16 +677,23 @@ def resolve_match_timings(
 
         detail_targets[match_id] = match
 
-    if detail_targets:
-        print(f"需要从比赛详情页补充 {len(detail_targets)} 场 UTC 时间")
+    if detail_targets or format_targets:
+        print(
+            f"需要从比赛详情页补充 {len(detail_targets)} 场 UTC 时间、"
+            f"{len(format_targets)} 场赛制"
+        )
         with ThreadPoolExecutor(max_workers=4) as executor:
             future_to_id = {
                 executor.submit(fetch_match_detail_timing, match["url"]): match_id
-                for match_id, match in detail_targets.items()
+                for match_id, match in (detail_targets | format_targets).items()
             }
             for future in as_completed(future_to_id):
                 match_id = future_to_id[future]
-                detail_targets[match_id].update(future.result())
+                detail = future.result()
+                if match_id in detail_targets:
+                    detail_targets[match_id].update(detail)
+                else:
+                    format_targets[match_id]["best_of"] = detail["best_of"]
 
     unresolved = [
         match["match_id"]
@@ -724,6 +755,21 @@ def score_text(record: dict[str, Any]) -> str:
     return f"{record['score1']}:{record['score2']}"
 
 
+def summary_text(record: dict[str, Any], score_in_title: bool) -> str:
+    """Calendar event title: "[CN] A 2:1 B", or "[CN] A vs B (Bo3)" before play."""
+    tag = f"[{record['region']}]"
+    has_score = record.get("score1") is not None and record.get("score2") is not None
+    if score_in_title and has_score:
+        return (
+            f"{tag} {record['team1']} {record['score1']}:{record['score2']} "
+            f"{record['team2']}"
+        )
+    title = f"{tag} {record['team1']} vs {record['team2']}"
+    if record.get("best_of"):
+        title += f" (Bo{record['best_of']})"
+    return title
+
+
 def ics_description_text(value: Any) -> str:
     """Keep visible spacing without creating Git trailing-space false positives."""
     return str(value).replace(" ", "\N{NO-BREAK SPACE}")
@@ -754,10 +800,7 @@ def build_calendar(
         event.add("SEQUENCE", int(record["sequence"]))
         event.add("DTSTART", start)
         event.add("DTEND", end)
-        event.add(
-            "SUMMARY",
-            f"[{record['region']}] {record['team1']} vs {record['team2']}",
-        )
+        event.add("SUMMARY", summary_text(record, config.score_in_title))
         event.add("LOCATION", f"VCT {record['region']}")
         event.add(
             "DESCRIPTION",
@@ -766,6 +809,7 @@ def build_calendar(
                     ics_description_text(record["event_name"]),
                     f"状态：{ics_description_text(record['status'] or '待定')}",
                     f"阶段：{ics_description_text(record['phase'] or '待定')}",
+                    f"赛制：{'Bo' + str(record['best_of']) if record.get('best_of') else '待定'}",
                     f"比分：{score_text(record)}",
                     f"VLR：{record['url']}",
                 ]
@@ -933,16 +977,13 @@ def is_archived(event: EventConfig) -> bool:
 def write_archive(
     event: EventConfig,
     records: dict[str, dict[str, Any]],
-    display_timezone: ZoneInfo,
+    config: CalendarConfig,
 ) -> None:
     """Write the permanent per-event calendar, text and data files."""
     if not records:
         raise CalendarUpdateError(f"{event.name} 没有比赛，无法归档")
-    archive_config = CalendarConfig(
-        name=event.name,
-        display_timezone=display_timezone,
-        events=(event,),
-        discover=False,
+    archive_config = replace(
+        config, name=event.name, events=(event,), discover=False
     )
     ical_bytes = build_calendar(records, archive_config)
     validate_calendar(ical_bytes, records)
@@ -962,6 +1003,213 @@ def write_archive(
     write_if_changed(text_path, build_text(records, archive_config))
     write_if_changed(data_path, payload)
     print(f"{event.name}: 已归档 {len(records)} 场 -> {ics_path.name}")
+
+
+def team_slug(name: str) -> str:
+    """File-name-safe id for a team: "LEVIATÁN" -> "leviatan"."""
+    ascii_name = (
+        unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    )
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()).strip("-")
+    if slug:
+        return slug
+    return "team-" + hashlib.sha1(name.encode("utf-8")).hexdigest()[:8]
+
+
+def is_real_team(name: str) -> bool:
+    return bool(name) and name.strip().upper() != "TBD"
+
+
+def load_known_teams(path: Path | None = None) -> dict[str, dict[str, str]]:
+    """Teams that already have a feed: slug -> name and home region."""
+    path = path or (FEEDS_DIR / FEEDS_INDEX_NAME)
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {
+        team["slug"]: {"name": team["name"], "region": team["region"]}
+        for team in data.get("teams", [])
+    }
+
+
+def merge_teams(
+    known: dict[str, dict[str, str]],
+    events: dict[str, dict[str, Any]],
+) -> dict[str, dict[str, str]]:
+    """Add teams seen in the live calendar to the known ones.
+
+    A team keeps its feed after its event ends, so subscribers never hit a
+    missing file. The home region comes from a regional league; playing an
+    international event does not change it.
+    """
+    teams = {slug: dict(info) for slug, info in known.items()}
+    for record in sorted_records(events):
+        for name in (record["team1"], record["team2"]):
+            if not is_real_team(name):
+                continue
+            slug = team_slug(name)
+            current = teams.get(slug)
+            if current is None:
+                teams[slug] = {"name": name, "region": record["region"]}
+            elif (
+                current["region"] == INTERNATIONAL_REGION
+                and record["region"] != INTERNATIONAL_REGION
+            ):
+                current["region"] = record["region"]
+    return dict(sorted(teams.items()))
+
+
+def upcoming_matches(events: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    pending = [
+        record
+        for record in sorted_records(events)
+        if str(record["status"]).lower() != "completed"
+    ]
+    return [
+        {
+            "start_utc": record["start_utc"],
+            "region": record["region"],
+            "team1": record["team1"],
+            "team2": record["team2"],
+            "best_of": record.get("best_of"),
+            "event_name": record["event_name"],
+            "status": record["status"],
+            "url": record["url"],
+        }
+        for record in pending[:UPCOMING_LIMIT]
+    ]
+
+
+def list_archives() -> list[dict[str, str]]:
+    archives = []
+    for path in ARCHIVE_ICS_DIR.glob("*.ics"):
+        year, _, rest = path.stem.partition("_")
+        if not (re.fullmatch(r"\d{4}", year) and rest):
+            continue
+        archives.append(
+            {
+                "year": year,
+                "title": rest.replace("_", " "),
+                "file": f"{ARCHIVE_ICS_DIR.name}/{path.name}",
+            }
+        )
+    return sorted(archives, key=lambda item: (-int(item["year"]), item["title"]))
+
+
+def build_feeds(
+    events: dict[str, dict[str, Any]],
+    tracked: dict[int, EventConfig],
+    config: CalendarConfig,
+    known_teams: dict[str, dict[str, str]],
+) -> dict[str, bytes | str]:
+    """Per-region and per-team calendars plus the index the web page reads.
+
+    Returns file contents keyed by path relative to the feeds directory.
+    """
+    files: dict[str, bytes | str] = {}
+
+    regions = list(REGION_LABELS)
+    for record in events.values():
+        if record["region"] not in regions:
+            regions.append(record["region"])
+
+    region_entries = []
+    for region in regions:
+        subset = {
+            match_id: record
+            for match_id, record in events.items()
+            if record["region"] == region
+        }
+        name = re.sub(r"[^A-Za-z0-9_-]", "_", region)
+        relative = f"region/{name}.ics"
+        files[relative] = build_calendar(
+            subset, replace(config, name=f"VCT {region}")
+        )
+        region_entries.append(
+            {
+                "code": region,
+                "name": REGION_LABELS.get(region, region),
+                "file": f"{FEEDS_DIR.name}/{relative}",
+                "matches": len(subset),
+            }
+        )
+
+    team_entries = []
+    for slug, info in merge_teams(known_teams, events).items():
+        subset = {
+            match_id: record
+            for match_id, record in events.items()
+            if slug
+            in {
+                team_slug(name)
+                for name in (record["team1"], record["team2"])
+                if is_real_team(name)
+            }
+        }
+        relative = f"team/{slug}.ics"
+        files[relative] = build_calendar(
+            subset, replace(config, name=f"VCT {info['name']}")
+        )
+        team_entries.append(
+            {
+                "slug": slug,
+                "name": info["name"],
+                "region": info["region"],
+                "file": f"{FEEDS_DIR.name}/{relative}",
+                "matches": len(subset),
+            }
+        )
+
+    counts = Counter(record["event_id"] for record in events.values())
+    index = {
+        "calendar": {
+            "name": config.name,
+            "file": ICS_PATH.name,
+            "matches": len(events),
+        },
+        "events": [
+            {
+                "name": event.name,
+                "region": event.region,
+                "matches": counts[event.event_id],
+            }
+            for event in tracked.values()
+        ],
+        "regions": region_entries,
+        "teams": team_entries,
+        "upcoming": upcoming_matches(events),
+        "archives": list_archives(),
+    }
+    files[FEEDS_INDEX_NAME] = (
+        json.dumps(index, ensure_ascii=False, indent=2) + "\n"
+    )
+    return files
+
+
+def write_feeds(files: dict[str, bytes | str]) -> int:
+    changed = 0
+    for relative, content in files.items():
+        changed += write_if_changed(FEEDS_DIR / relative, content)
+    return changed
+
+
+def validate_feeds() -> int:
+    """Every feed named in the index exists and holds the matches it claims."""
+    index_path = FEEDS_DIR / FEEDS_INDEX_NAME
+    if not index_path.exists():
+        raise CalendarUpdateError("订阅索引 feeds/index.json 不存在")
+    index = json.loads(index_path.read_text(encoding="utf-8"))
+    entries = index["regions"] + index["teams"]
+    for entry in entries:
+        path = ROOT / entry["file"]
+        if not path.exists():
+            raise CalendarUpdateError(f"订阅文件不存在: {entry['file']}")
+        found = len(list(Calendar.from_ical(path.read_bytes()).walk("VEVENT")))
+        if found != entry["matches"]:
+            raise CalendarUpdateError(
+                f"{entry['file']} 有 {found} 场，索引记录的是 {entry['matches']} 场"
+            )
+    return len(entries)
 
 
 def run_update(config: CalendarConfig, *, allow_shrink: bool = False) -> None:
@@ -1006,7 +1254,7 @@ def run_update(config: CalendarConfig, *, allow_shrink: bool = False) -> None:
         records = records_for_event(merged, event)
         vlr_status = (statuses or {}).get(event.event_id, {}).get("status")
         if ready_to_archive(records, vlr_status, now, config.keep_finished_days):
-            write_archive(event, records, config.display_timezone)
+            write_archive(event, records, config)
             continue
         tracked[event.event_id] = event
         events.update(records)
@@ -1026,6 +1274,11 @@ def run_update(config: CalendarConfig, *, allow_shrink: bool = False) -> None:
         ),
     }
 
+    feed_files = build_feeds(events, tracked, config, load_known_teams())
+    changes[f"{FEEDS_DIR.name}/ ({len(feed_files)} 个文件)"] = bool(
+        write_feeds(feed_files)
+    )
+
     counts = Counter(record["event_id"] for record in events.values())
     print(f"更新完成: 跟踪 {len(tracked)} 个赛事，共 {len(events)} 场")
     for event in tracked.values():
@@ -1040,9 +1293,10 @@ def check_existing_outputs() -> None:
     state = load_cache()
     validate_records(state.events, state.tracked)
     validate_calendar(ICS_PATH.read_bytes(), state.events)
+    feeds = validate_feeds()
     print(
         f"本地输出验证通过，跟踪 {len(state.tracked)} 个赛事，"
-        f"共 {len(state.events)} 场比赛"
+        f"共 {len(state.events)} 场比赛，{feeds} 个分类订阅"
     )
 
 
@@ -1083,7 +1337,7 @@ def event_title_from_html(html: str) -> str | None:
     return None
 
 
-def archive_finished_event(reference: str, display_timezone: ZoneInfo) -> None:
+def archive_finished_event(reference: str, config: CalendarConfig) -> None:
     """Scrape an already finished event straight into the archive."""
     event = event_from_reference(reference)
     html = str(get_url(event.matches_url))
@@ -1106,7 +1360,7 @@ def archive_finished_event(reference: str, display_timezone: ZoneInfo) -> None:
     for record in records.values():
         # Keep archive output reproducible no matter when the backfill runs.
         record["updated_at"] = record["end_utc"]
-    write_archive(event, records, display_timezone)
+    write_archive(event, records, config)
 
 
 def main() -> int:
@@ -1140,7 +1394,7 @@ def main() -> int:
             check_existing_outputs()
         elif args.archive:
             for reference in args.archive:
-                archive_finished_event(reference, config.display_timezone)
+                archive_finished_event(reference, config)
         else:
             run_update(config, allow_shrink=args.allow_shrink)
     except (CalendarUpdateError, ValueError, KeyError, json.JSONDecodeError) as exc:

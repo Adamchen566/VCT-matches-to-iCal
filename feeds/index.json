@@ -1,0 +1,760 @@
+{
+  "calendar": {
+    "name": "VCT Matches",
+    "file": "vct_OnGoing.ics",
+    "matches": 0
+  },
+  "events": [
+    {
+      "name": "Valorant Masters Seoul 2027",
+      "region": "INTL",
+      "matches": 0
+    },
+    {
+      "name": "Valorant Masters Valencia 2027",
+      "region": "INTL",
+      "matches": 0
+    },
+    {
+      "name": "Valorant Champions 2027",
+      "region": "INTL",
+      "matches": 0
+    },
+    {
+      "name": "VCT 2027: EMEA Kickoff",
+      "region": "EMEA",
+      "matches": 0
+    },
+    {
+      "name": "VCT 2027: Americas Kickoff",
+      "region": "AMER",
+      "matches": 0
+    },
+    {
+      "name": "VCT 2027: Pacific Kickoff",
+      "region": "PAC",
+      "matches": 0
+    },
+    {
+      "name": "VCT 2027: China Kickoff",
+      "region": "CN",
+      "matches": 0
+    }
+  ],
+  "regions": [
+    {
+      "code": "AMER",
+      "name": "美洲",
+      "file": "feeds/region/AMER.ics",
+      "matches": 0
+    },
+    {
+      "code": "PAC",
+      "name": "太平洋",
+      "file": "feeds/region/PAC.ics",
+      "matches": 0
+    },
+    {
+      "code": "EMEA",
+      "name": "欧洲、中东和非洲",
+      "file": "feeds/region/EMEA.ics",
+      "matches": 0
+    },
+    {
+      "code": "CN",
+      "name": "中国",
+      "file": "feeds/region/CN.ics",
+      "matches": 0
+    },
+    {
+      "code": "INTL",
+      "name": "国际赛",
+      "file": "feeds/region/INTL.ics",
+      "matches": 0
+    }
+  ],
+  "teams": [
+    {
+      "slug": "100-thieves",
+      "name": "100 Thieves",
+      "region": "AMER",
+      "file": "feeds/team/100-thieves.ics",
+      "matches": 0
+    },
+    {
+      "slug": "2game-esports",
+      "name": "2Game Esports",
+      "region": "AMER",
+      "file": "feeds/team/2game-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "a-team",
+      "name": "A Team",
+      "region": "CN",
+      "file": "feeds/team/a-team.ics",
+      "matches": 0
+    },
+    {
+      "slug": "all-gamers",
+      "name": "All Gamers",
+      "region": "CN",
+      "file": "feeds/team/all-gamers.ics",
+      "matches": 0
+    },
+    {
+      "slug": "bbl-esports",
+      "name": "BBL Esports",
+      "region": "EMEA",
+      "file": "feeds/team/bbl-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "bestia",
+      "name": "BESTIA",
+      "region": "AMER",
+      "file": "feeds/team/bestia.ics",
+      "matches": 0
+    },
+    {
+      "slug": "bilibili-gaming",
+      "name": "Bilibili Gaming",
+      "region": "CN",
+      "file": "feeds/team/bilibili-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "cloud9",
+      "name": "Cloud9",
+      "region": "AMER",
+      "file": "feeds/team/cloud9.ics",
+      "matches": 0
+    },
+    {
+      "slug": "detonation-focusme",
+      "name": "DetonatioN FocusMe",
+      "region": "PAC",
+      "file": "feeds/team/detonation-focusme.ics",
+      "matches": 0
+    },
+    {
+      "slug": "dragon-ranger-gaming",
+      "name": "Dragon Ranger Gaming",
+      "region": "CN",
+      "file": "feeds/team/dragon-ranger-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "edward-gaming",
+      "name": "EDward Gaming",
+      "region": "CN",
+      "file": "feeds/team/edward-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "eintracht-frankfurt",
+      "name": "Eintracht Frankfurt",
+      "region": "EMEA",
+      "file": "feeds/team/eintracht-frankfurt.ics",
+      "matches": 0
+    },
+    {
+      "slug": "enterprise-esports",
+      "name": "Enterprise Esports",
+      "region": "EMEA",
+      "file": "feeds/team/enterprise-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "envy",
+      "name": "ENVY",
+      "region": "AMER",
+      "file": "feeds/team/envy.ics",
+      "matches": 0
+    },
+    {
+      "slug": "eternal-fire",
+      "name": "Eternal Fire",
+      "region": "EMEA",
+      "file": "feeds/team/eternal-fire.ics",
+      "matches": 0
+    },
+    {
+      "slug": "evil-geniuses",
+      "name": "Evil Geniuses",
+      "region": "AMER",
+      "file": "feeds/team/evil-geniuses.ics",
+      "matches": 0
+    },
+    {
+      "slug": "fire-flux-esports",
+      "name": "Fire Flux Esports",
+      "region": "EMEA",
+      "file": "feeds/team/fire-flux-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "fluxo-w7m",
+      "name": "Fluxo W7M",
+      "region": "AMER",
+      "file": "feeds/team/fluxo-w7m.ics",
+      "matches": 0
+    },
+    {
+      "slug": "fnatic",
+      "name": "FNATIC",
+      "region": "EMEA",
+      "file": "feeds/team/fnatic.ics",
+      "matches": 0
+    },
+    {
+      "slug": "full-sense",
+      "name": "FULL SENSE",
+      "region": "PAC",
+      "file": "feeds/team/full-sense.ics",
+      "matches": 0
+    },
+    {
+      "slug": "funplus-phoenix",
+      "name": "FunPlus Phoenix",
+      "region": "CN",
+      "file": "feeds/team/funplus-phoenix.ics",
+      "matches": 0
+    },
+    {
+      "slug": "furia",
+      "name": "FURIA",
+      "region": "AMER",
+      "file": "feeds/team/furia.ics",
+      "matches": 0
+    },
+    {
+      "slug": "fut-esports",
+      "name": "FUT Esports",
+      "region": "EMEA",
+      "file": "feeds/team/fut-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "g2-esports",
+      "name": "G2 Esports",
+      "region": "AMER",
+      "file": "feeds/team/g2-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "gen-g",
+      "name": "Gen.G",
+      "region": "PAC",
+      "file": "feeds/team/gen-g.ics",
+      "matches": 0
+    },
+    {
+      "slug": "gentle-mates",
+      "name": "Gentle Mates",
+      "region": "EMEA",
+      "file": "feeds/team/gentle-mates.ics",
+      "matches": 0
+    },
+    {
+      "slug": "giantx",
+      "name": "GIANTX",
+      "region": "EMEA",
+      "file": "feeds/team/giantx.ics",
+      "matches": 0
+    },
+    {
+      "slug": "global-esports",
+      "name": "Global Esports",
+      "region": "PAC",
+      "file": "feeds/team/global-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "jd-gaming",
+      "name": "JD Gaming",
+      "region": "CN",
+      "file": "feeds/team/jd-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "joblife",
+      "name": "Joblife",
+      "region": "EMEA",
+      "file": "feeds/team/joblife.ics",
+      "matches": 0
+    },
+    {
+      "slug": "karmine-corp",
+      "name": "Karmine Corp",
+      "region": "EMEA",
+      "file": "feeds/team/karmine-corp.ics",
+      "matches": 0
+    },
+    {
+      "slug": "keepbest-gaming",
+      "name": "KeepBest Gaming",
+      "region": "CN",
+      "file": "feeds/team/keepbest-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "kiwoom-drx",
+      "name": "KIWOOM DRX",
+      "region": "PAC",
+      "file": "feeds/team/kiwoom-drx.ics",
+      "matches": 0
+    },
+    {
+      "slug": "kru-esports",
+      "name": "KRÜ Esports",
+      "region": "AMER",
+      "file": "feeds/team/kru-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "leviatan",
+      "name": "LEVIATÁN",
+      "region": "AMER",
+      "file": "feeds/team/leviatan.ics",
+      "matches": 0
+    },
+    {
+      "slug": "loud",
+      "name": "LOUD",
+      "region": "AMER",
+      "file": "feeds/team/loud.ics",
+      "matches": 0
+    },
+    {
+      "slug": "m80",
+      "name": "M80",
+      "region": "AMER",
+      "file": "feeds/team/m80.ics",
+      "matches": 0
+    },
+    {
+      "slug": "mibr",
+      "name": "MIBR",
+      "region": "AMER",
+      "file": "feeds/team/mibr.ics",
+      "matches": 0
+    },
+    {
+      "slug": "natus-vincere",
+      "name": "Natus Vincere",
+      "region": "EMEA",
+      "file": "feeds/team/natus-vincere.ics",
+      "matches": 0
+    },
+    {
+      "slug": "nongshim-redforce",
+      "name": "Nongshim RedForce",
+      "region": "PAC",
+      "file": "feeds/team/nongshim-redforce.ics",
+      "matches": 0
+    },
+    {
+      "slug": "nova-esports",
+      "name": "Nova Esports",
+      "region": "CN",
+      "file": "feeds/team/nova-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "nrg",
+      "name": "NRG",
+      "region": "AMER",
+      "file": "feeds/team/nrg.ics",
+      "matches": 0
+    },
+    {
+      "slug": "onside-gaming",
+      "name": "ONSIDE GAMING",
+      "region": "PAC",
+      "file": "feeds/team/onside-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "paper-rex",
+      "name": "Paper Rex",
+      "region": "PAC",
+      "file": "feeds/team/paper-rex.ics",
+      "matches": 0
+    },
+    {
+      "slug": "pcific-esports",
+      "name": "PCIFIC Esports",
+      "region": "EMEA",
+      "file": "feeds/team/pcific-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "qt-dig",
+      "name": "QT DIG∞",
+      "region": "PAC",
+      "file": "feeds/team/qt-dig.ics",
+      "matches": 0
+    },
+    {
+      "slug": "rex-regum-qeon",
+      "name": "Rex Regum Qeon",
+      "region": "PAC",
+      "file": "feeds/team/rex-regum-qeon.ics",
+      "matches": 0
+    },
+    {
+      "slug": "sentinels",
+      "name": "Sentinels",
+      "region": "AMER",
+      "file": "feeds/team/sentinels.ics",
+      "matches": 0
+    },
+    {
+      "slug": "sharper-esports",
+      "name": "Sharper Esports",
+      "region": "PAC",
+      "file": "feeds/team/sharper-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "t1",
+      "name": "T1",
+      "region": "PAC",
+      "file": "feeds/team/t1.ics",
+      "matches": 0
+    },
+    {
+      "slug": "team-heretics",
+      "name": "Team Heretics",
+      "region": "EMEA",
+      "file": "feeds/team/team-heretics.ics",
+      "matches": 0
+    },
+    {
+      "slug": "team-liquid",
+      "name": "Team Liquid",
+      "region": "EMEA",
+      "file": "feeds/team/team-liquid.ics",
+      "matches": 0
+    },
+    {
+      "slug": "team-secret",
+      "name": "Team Secret",
+      "region": "PAC",
+      "file": "feeds/team/team-secret.ics",
+      "matches": 0
+    },
+    {
+      "slug": "team-vitality",
+      "name": "Team Vitality",
+      "region": "EMEA",
+      "file": "feeds/team/team-vitality.ics",
+      "matches": 0
+    },
+    {
+      "slug": "titan-esports-club",
+      "name": "Titan Esports Club",
+      "region": "CN",
+      "file": "feeds/team/titan-esports-club.ics",
+      "matches": 0
+    },
+    {
+      "slug": "trace-esports",
+      "name": "Trace Esports",
+      "region": "CN",
+      "file": "feeds/team/trace-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "tyloo",
+      "name": "TYLOO",
+      "region": "CN",
+      "file": "feeds/team/tyloo.ics",
+      "matches": 0
+    },
+    {
+      "slug": "varrel",
+      "name": "VARREL",
+      "region": "PAC",
+      "file": "feeds/team/varrel.ics",
+      "matches": 0
+    },
+    {
+      "slug": "wolves-esports",
+      "name": "Wolves Esports",
+      "region": "CN",
+      "file": "feeds/team/wolves-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "xi-lai-gaming",
+      "name": "Xi Lai Gaming",
+      "region": "CN",
+      "file": "feeds/team/xi-lai-gaming.ics",
+      "matches": 0
+    },
+    {
+      "slug": "xipto-esports",
+      "name": "Xipto Esports",
+      "region": "PAC",
+      "file": "feeds/team/xipto-esports.ics",
+      "matches": 0
+    },
+    {
+      "slug": "zeta-division",
+      "name": "ZETA DIVISION",
+      "region": "PAC",
+      "file": "feeds/team/zeta-division.ics",
+      "matches": 0
+    }
+  ],
+  "upcoming": [],
+  "archives": [
+    {
+      "year": "2026",
+      "title": "Champions Global",
+      "file": "Calendar_Files/2026_Champions_Global.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Kickoff AMER",
+      "file": "Calendar_Files/2026_Kickoff_AMER.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Kickoff CN",
+      "file": "Calendar_Files/2026_Kickoff_CN.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Kickoff EMEA",
+      "file": "Calendar_Files/2026_Kickoff_EMEA.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Kickoff PAC",
+      "file": "Calendar_Files/2026_Kickoff_PAC.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Masters London Global",
+      "file": "Calendar_Files/2026_Masters_London_Global.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Masters Santiago Global",
+      "file": "Calendar_Files/2026_Masters_Santiago_Global.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 1 AMER",
+      "file": "Calendar_Files/2026_Stage_1_AMER.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 1 CN",
+      "file": "Calendar_Files/2026_Stage_1_CN.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 1 EMEA",
+      "file": "Calendar_Files/2026_Stage_1_EMEA.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 1 PAC",
+      "file": "Calendar_Files/2026_Stage_1_PAC.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 2 AMER",
+      "file": "Calendar_Files/2026_Stage_2_AMER.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 2 CN",
+      "file": "Calendar_Files/2026_Stage_2_CN.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 2 EMEA",
+      "file": "Calendar_Files/2026_Stage_2_EMEA.ics"
+    },
+    {
+      "year": "2026",
+      "title": "Stage 2 PAC",
+      "file": "Calendar_Files/2026_Stage_2_PAC.ics"
+    },
+    {
+      "year": "2025",
+      "title": "China Evolution Act1",
+      "file": "Calendar_Files/2025_China_Evolution_Act1.ics"
+    },
+    {
+      "year": "2025",
+      "title": "China Evolution Act2",
+      "file": "Calendar_Files/2025_China_Evolution_Act2.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Kickoff AMER",
+      "file": "Calendar_Files/2025_Kickoff_AMER.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Kickoff CN",
+      "file": "Calendar_Files/2025_Kickoff_CN.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Kickoff EMEA",
+      "file": "Calendar_Files/2025_Kickoff_EMEA.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Kickoff PAC",
+      "file": "Calendar_Files/2025_Kickoff_PAC.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Masters Bangkok Global",
+      "file": "Calendar_Files/2025_Masters_Bangkok_Global.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 1 AMER",
+      "file": "Calendar_Files/2025_Stage_1_AMER.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 1 CN",
+      "file": "Calendar_Files/2025_Stage_1_CN.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 1 EMEA",
+      "file": "Calendar_Files/2025_Stage_1_EMEA.ics"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 1 PAC",
+      "file": "Calendar_Files/2025_Stage_1_PAC.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Champions Seoul Global",
+      "file": "Calendar_Files/2024_Champions_Seoul_Global.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Kickoff AMER",
+      "file": "Calendar_Files/2024_Kickoff_AMER.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Kickoff CN",
+      "file": "Calendar_Files/2024_Kickoff_CN.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Kickoff EMEA",
+      "file": "Calendar_Files/2024_Kickoff_EMEA.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Kickoff PAC",
+      "file": "Calendar_Files/2024_Kickoff_PAC.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Masters Madrid Global",
+      "file": "Calendar_Files/2024_Masters_Madrid_Global.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Masters Shanghai Global",
+      "file": "Calendar_Files/2024_Masters_Shanghai_Global.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 1 AMER",
+      "file": "Calendar_Files/2024_Stage_1_AMER.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 1 CN",
+      "file": "Calendar_Files/2024_Stage_1_CN.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 1 EMEA",
+      "file": "Calendar_Files/2024_Stage_1_EMEA.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 1 PAC",
+      "file": "Calendar_Files/2024_Stage_1_PAC.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 2 AMER",
+      "file": "Calendar_Files/2024_Stage_2_AMER.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 2 CN",
+      "file": "Calendar_Files/2024_Stage_2_CN.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 2 EMEA",
+      "file": "Calendar_Files/2024_Stage_2_EMEA.ics"
+    },
+    {
+      "year": "2024",
+      "title": "Stage 2 PAC",
+      "file": "Calendar_Files/2024_Stage_2_PAC.ics"
+    },
+    {
+      "year": "2023",
+      "title": "Champions 2023 Global",
+      "file": "Calendar_Files/2023_Champions_2023_Global.ics"
+    },
+    {
+      "year": "2023",
+      "title": "Masters Tokyo Global",
+      "file": "Calendar_Files/2023_Masters_Tokyo_Global.ics"
+    },
+    {
+      "year": "2022",
+      "title": "Champions istanbul 2022 Global",
+      "file": "Calendar_Files/2022_Champions_istanbul_2022_Global.ics"
+    },
+    {
+      "year": "2022",
+      "title": "Masters Copenhagen Global",
+      "file": "Calendar_Files/2022_Masters_Copenhagen_Global.ics"
+    },
+    {
+      "year": "2022",
+      "title": "Masters Reykjavik Global",
+      "file": "Calendar_Files/2022_Masters_Reykjavik_Global.ics"
+    },
+    {
+      "year": "2021",
+      "title": "Champions Berlin 2021 Global",
+      "file": "Calendar_Files/2021_Champions_Berlin_2021_Global.ics"
+    },
+    {
+      "year": "2021",
+      "title": "Masters Berlin Global",
+      "file": "Calendar_Files/2021_Masters_Berlin_Global.ics"
+    },
+    {
+      "year": "2021",
+      "title": "Masters Reykjavik Global",
+      "file": "Calendar_Files/2021_Masters_Reykjavik_Global.ics"
+    }
+  ]
+}

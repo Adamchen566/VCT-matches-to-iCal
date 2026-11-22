@@ -5,6 +5,9 @@ name = "VCT Matches"
 display_timezone = "Australia/Sydney"
 # 赛事全部打完后，在订阅日历里再保留几天（方便看最终比分），之后自动归档到 Calendar_Files/
 keep_finished_days = 7
+# 日历事件标题里是否显示比分。true：有比分后标题变成 "[CN] A 2:1 B"；
+# false：标题始终是 "[CN] A vs B (Bo3)"，比分只写在事件描述里（避免剧透）
+score_in_title = true
 
 # 自动发现：每次运行读取 vlr.gg 的赛事列表，自动跟踪进行中和即将开始的 VCT 一级赛事
 # （四大赛区的 Kickoff / Stage 1 / Stage 2、Masters、Champions），不需要每个赛季手动改配置。

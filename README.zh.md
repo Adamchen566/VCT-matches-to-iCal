@@ -15,7 +15,7 @@
 - EMEA
 - China（CN）
 
-GitHub Actions 每天 **澳洲悉尼时间 14:00** 自动抓取并更新日历；夏令时切换由时区规则自动处理。
+GitHub Actions 每天自动更新一次；有比赛即将开始或正在进行时，改为每小时更新，比分和改期会在一小时内同步到日历。
 
 ---
 
@@ -57,6 +57,13 @@ python GUI.py
 - **当前赛事日历（自动跟踪进行中和即将开始的 VCT 赛事）**：
 
   https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
+
+只想看某个赛区或某支战队？打开 **[订阅页面](https://adamchen566.github.io/VCT-matches-to-iCal/)**，那里有每个赛区、每支战队的独立日历，以及往年赛程的下载。也可以直接使用这些地址：
+
+- 赛区：`https://adamchen566.github.io/VCT-matches-to-iCal/feeds/region/AMER.ics`（把 `AMER` 换成 `PAC`、`EMEA`、`CN` 或 `INTL`，`INTL` 是国际赛）
+- 战队：`https://adamchen566.github.io/VCT-matches-to-iCal/feeds/team/paper-rex.ics`（战队名小写、空格换成连字符，完整列表见订阅页面）
+
+日历事件的标题在赛前是 `[CN] A vs B (Bo3)`，有比分后变成 `[CN] A 2:1 B`。不想在标题里看到比分（避免剧透）的话，在 `events.toml` 里设 `score_in_title = false`。
 
 ### 订阅方式：
 

@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VCT 赛程订阅</title>
+<meta name="description" content="把 VCT 四大赛区联赛、Masters 和 Champions 的比赛时间与比分订阅进手机和电脑的日历，自动更新。">
+<meta name="color-scheme" content="dark">
+<style>
+  /* 琥珀夜色 (Amber Night) tokens */
+  :root {
+    --bg-base: #14130f; --bg-surface: #1c1a15; --bg-raised: #25221b; --bg-overlay: #2e2a22;
+    --border-subtle: #34302a; --border-control: #756c5b;
+    --text-primary: #f5f0e1; --text-secondary: #bdb5a3; --text-muted: #958c7b;
+    --primary: #f5c542; --primary-hover: #ffd666; --primary-pressed: #d9a92b;
+    --primary-subtle: #3a3016; --primary-border: #6b5620; --on-primary: #1f1803;
+    --secondary: #84a9d6; --secondary-hover: #9dbce2; --secondary-subtle: #18263a;
+    --success: #5cc98a;
+    --focus-ring: #ffd666;
+    --radius-sm: 4px; --radius-md: 8px; --radius-lg: 14px; --radius-pill: 999px;
+    --font-display: "Bricolage Grotesque", "Noto Sans SC", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+    --font-body: "Noto Sans SC", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", "Cascadia Mono", Consolas, Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg-base); }
+  body {
+    margin: 0; background: var(--bg-base); color: var(--text-primary);
+    font: 15px/1.7 var(--font-body);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--secondary); text-underline-offset: 3px; }
+  a:hover { color: var(--secondary-hover); }
+  :focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
+  .page { max-width: 920px; margin: 0 auto; padding: 0 24px 48px; }
+
+  .topbar { display: flex; justify-content: space-between; align-items: center; padding: 24px 0; font-size: 13px; }
+  .topbar strong { font-family: var(--font-display); font-size: 15px; letter-spacing: 0.01em; }
+
+  .hero { padding: 32px 0 48px; }
+  h1 {
+    margin: 0 0 16px; font-family: var(--font-display); font-weight: 700;
+    font-size: clamp(32px, 6vw, 48px); line-height: 1.15; letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+  .lede { margin: 0 0 24px; max-width: 34em; color: var(--text-secondary); }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+
+  .btn {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-height: 36px; padding: 0 16px; border-radius: var(--radius-md);
+    border: 1px solid var(--border-control); background: transparent; color: var(--text-primary);
+    font: 500 13px/1 var(--font-body); text-decoration: none; cursor: pointer; white-space: nowrap;
+  }
+  .btn:hover { background: var(--bg-overlay); color: var(--text-primary); }
+  .btn.primary {
+    min-height: 44px; padding: 0 24px; border-color: var(--primary); background: var(--primary);
+    color: var(--on-primary); font-size: 15px; font-weight: 700;
+  }
+  .btn.primary:hover { background: var(--primary-hover); border-color: var(--primary-hover); color: var(--on-primary); }
+  .btn.primary:active { background: var(--primary-pressed); }
+  .btn.quiet { border-color: transparent; color: var(--secondary); padding: 0 8px; }
+  .btn.done { color: var(--success); }
+
+  section { padding: 32px 0; border-top: 1px solid var(--border-subtle); }
+  h2 { margin: 0 0 4px; font-family: var(--font-display); font-size: 22px; font-weight: 700; line-height: 1.3; }
+  .hint { margin: 0 0 16px; color: var(--text-muted); font-size: 13px; }
+
+  /* schedule: one block per day, date on the left like a desk calendar */
+  .day { display: grid; grid-template-columns: 88px 1fr; gap: 16px; padding: 12px 0; }
+  .day + .day { border-top: 1px solid var(--border-subtle); }
+  .date { font-family: var(--font-mono); color: var(--text-secondary); line-height: 1.2; }
+  .date b { display: block; font-size: 30px; font-weight: 700; color: var(--text-primary); }
+  .date span { font-size: 12px; white-space: nowrap; }
+  .match { display: grid; grid-template-columns: 56px 56px 1fr auto; gap: 12px; align-items: baseline; padding: 4px 0; }
+  .match time { font-family: var(--font-mono); font-size: 13px; color: var(--text-secondary); }
+  .match .teams { font-weight: 500; color: var(--text-primary); text-decoration: none; }
+  .match .teams:hover { color: var(--text-primary); text-decoration: underline; }
+  .match .meta { font-size: 12px; color: var(--text-muted); }
+  .badge {
+    display: inline-block; padding: 2px 8px; border-radius: var(--radius-pill);
+    background: var(--bg-raised); border: 1px solid var(--border-subtle);
+    font: 12px/1.4 var(--font-mono); color: var(--text-secondary); text-align: center;
+  }
+  .badge.live { background: var(--primary-subtle); border-color: var(--primary-border); color: var(--primary); }
+
+  .empty { padding: 16px; border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); }
+  .empty p { margin: 0 0 8px; }
+  .empty ul { margin: 0; padding-left: 20px; color: var(--text-secondary); font-size: 13px; }
+
+  .rows { border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); overflow: hidden; }
+  .row { display: flex; align-items: center; gap: 12px; padding: 10px 16px; }
+  .row + .row { border-top: 1px solid var(--border-subtle); }
+  .row .badge { flex: none; min-width: 52px; }
+  .row .name { flex: 1; min-width: 0; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .row .count { font: 12px var(--font-mono); color: var(--text-muted); white-space: nowrap; }
+  .rows.two { display: grid; grid-template-columns: 1fr 1fr; }
+  .rows.two .row { border-top: 0; border-bottom: 1px solid var(--border-subtle); }
+  .rows.two .row:nth-child(odd) { border-right: 1px solid var(--border-subtle); }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 16px; }
+  .filters input {
+    flex: 1 1 200px; min-height: 36px; padding: 0 12px; border-radius: var(--radius-md);
+    border: 1px solid var(--border-control); background: var(--bg-base); color: var(--text-primary);
+    font: 15px var(--font-body);
+  }
+  .filters input::placeholder { color: var(--text-muted); }
+  .filters input:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(245, 197, 66, 0.28); }
+  .tab {
+    min-height: 32px; padding: 0 12px; border-radius: var(--radius-pill);
+    border: 1px solid var(--border-subtle); background: transparent; color: var(--text-secondary);
+    font: 13px var(--font-body); cursor: pointer;
+  }
+  .tab:hover { background: var(--bg-overlay); color: var(--text-primary); }
+  .tab[aria-pressed="true"] { background: var(--primary-subtle); border-color: var(--primary-border); color: var(--text-primary); }
+  .none { padding: 16px; color: var(--text-muted); font-size: 13px; }
+
+  .howto { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .howto div { padding: 16px; border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); }
+  .howto h3 { margin: 0 0 8px; font-size: 15px; }
+  .howto p { margin: 0; font-size: 13px; color: var(--text-secondary); }
+
+  footer { padding: 24px 0 0; border-top: 1px solid var(--border-subtle); color: var(--text-muted); font-size: 13px; }
+  footer p { margin: 0 0 4px; }
+
+  @media (max-width: 640px) {
+    .page { padding: 0 16px 32px; }
+    .day { grid-template-columns: 64px 1fr; gap: 12px; }
+    .date b { font-size: 22px; }
+    .match { grid-template-columns: 48px 1fr; }
+    .match .badge { justify-self: start; }
+    .match .teams, .match .meta { grid-column: 1 / -1; }
+    .rows.two { grid-template-columns: 1fr; }
+    .rows.two .row:nth-child(odd) { border-right: 0; }
+    .howto { grid-template-columns: 1fr; }
+    .row { flex-wrap: wrap; }
+    .row .name { flex-basis: calc(100% - 64px); }
+    .rows:not(.two) .row .count { flex: 1; }
+    .match { padding: 8px 0; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="topbar">
+    <strong>VCT 赛程订阅</strong>
+    <a href="https://github.com/Adamchen566/VCT-matches-to-iCal">GitHub 上的源码</a>
+  </header>
+
+  <main>
+    <div class="hero">
+      <h1>把 VCT 赛程订阅进日历</h1>
+      <p class="lede">四大赛区联赛、Masters 和 Champions 的比赛时间和比分，自动出现在你手机和电脑的日历里。比赛日每小时更新一次。</p>
+      <div class="actions">
+        <a class="btn primary" id="subscribe-all" href="vct_OnGoing.ics">订阅全部赛事</a>
+        <button class="btn" type="button" data-copy="vct_OnGoing.ics">复制订阅链接</button>
+      </div>
+    </div>
+
+    <section aria-labelledby="h-upcoming">
+      <h2 id="h-upcoming">接下来的比赛</h2>
+      <p class="hint" id="tz-note"></p>
+      <div id="upcoming"><p class="none">正在读取赛程</p></div>
+    </section>
+
+    <section aria-labelledby="h-regions">
+      <h2 id="h-regions">只看一个赛区</h2>
+      <p class="hint">每个赛区一份独立的日历，国际赛单独一份。</p>
+      <div class="rows" id="regions"></div>
+    </section>
+
+    <section aria-labelledby="h-teams">
+      <h2 id="h-teams">只看一支战队</h2>
+      <p class="hint">战队的日历包含它在联赛和国际赛里的全部比赛。休赛期日历是空的，新赛程公布后自动填上。</p>
+      <div class="filters">
+        <input type="search" id="team-search" placeholder="搜索战队，例如 Paper Rex" aria-label="搜索战队">
+        <div id="team-tabs" class="filters" style="margin:0" role="group" aria-label="按赛区筛选战队"></div>
+      </div>
+      <div class="rows two" id="teams"></div>
+    </section>
+
+    <section aria-labelledby="h-archive">
+      <h2 id="h-archive">往年赛程</h2>
+      <p class="hint">已结束的赛事不再更新，下载后导入日历即可。</p>
+      <div class="filters" id="year-tabs" role="group" aria-label="选择年份"></div>
+      <div class="rows two" id="archives"></div>
+    </section>
+
+    <section aria-labelledby="h-howto">
+      <h2 id="h-howto">怎么订阅</h2>
+      <p class="hint">要选「订阅」而不是「导入」，导入的日历不会自动更新。</p>
+      <div class="howto">
+        <div>
+          <h3>iPhone、iPad、Mac</h3>
+          <p>直接点「订阅」，系统日历会弹出确认。也可以在日历的「添加订阅日历」里粘贴链接。</p>
+        </div>
+        <div>
+          <h3>Google 日历</h3>
+          <p>复制订阅链接，在电脑版 Google 日历的「其他日历」旁点加号，选「通过网址添加」后粘贴。</p>
+        </div>
+        <div>
+          <h3>小米和其他安卓手机</h3>
+          <p>系统日历通常不支持网络订阅。装一个 ICSx⁵ 之类的同步应用，把订阅链接加进去并打开自动同步。</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>赛程数据来自 <a href="https://www.vlr.gg">vlr.gg</a>，本页面与 Riot Games 和 vlr.gg 没有关联。</p>
+    <p>MIT 协议开源，问题和建议可以在 <a href="https://github.com/Adamchen566/VCT-matches-to-iCal/issues">GitHub Issues</a> 里提。</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var absolute = function (file) { return new URL(file, document.baseURI).href; };
+  var webcal = function (file) { return absolute(file).replace(/^https?:/, "webcal:"); };
+  var el = function (tag, attrs, children) {
+    var node = document.createElement(tag);
+    Object.keys(attrs || {}).forEach(function (key) {
+      if (key === "text") node.textContent = attrs[key];
+      else node.setAttribute(key, attrs[key]);
+    });
+    (children || []).forEach(function (child) { node.appendChild(child); });
+    return node;
+  };
+
+  // --- copy buttons (event delegation covers rows rendered later) -------------
+  document.addEventListener("click", function (event) {
+    var button = event.target.closest("[data-copy]");
+    if (!button) return;
+    var url = absolute(button.getAttribute("data-copy"));
+    var label = button.getAttribute("data-label") || button.textContent;
+    button.setAttribute("data-label", label);
+    var done = function (text) {
+      button.textContent = text;
+      button.classList.add("done");
+      setTimeout(function () { button.textContent = label; button.classList.remove("done"); }, 1800);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function () { done("已复制"); }, function () { window.prompt("复制这个链接", url); });
+    } else {
+      window.prompt("复制这个链接", url);
+    }
+  });
+
+  document.getElementById("subscribe-all").href = webcal("vct_OnGoing.ics");
+
+  var feedButtons = function (file, download) {
+    var first = download
+      ? el("a", { class: "btn", href: file, download: "", text: "下载" })
+      : el("a", { class: "btn", href: webcal(file), text: "订阅" });
+    return [first, el("button", { class: "btn quiet", type: "button", "data-copy": file, text: "复制链接" })];
+  };
+
+  // --- upcoming matches ---------------------------------------------------------
+  var zone = Intl.DateTimeFormat().resolvedOptions().timeZone || "本机时区";
+  document.getElementById("tz-note").textContent = "时间按你的设备时区显示（" + zone + "）。";
+  var dayKey = new Intl.DateTimeFormat("zh-CN", { year: "numeric", month: "2-digit", day: "2-digit" });
+  var weekday = new Intl.DateTimeFormat("zh-CN", { weekday: "short" });
+  var clock = new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hour12: false });
+
+  function renderUpcoming(data) {
+    var box = document.getElementById("upcoming");
+    box.textContent = "";
+    if (!data.upcoming.length) {
+      var list = el("ul", {}, data.events.map(function (event) { return el("li", { text: event.name }); }));
+      box.appendChild(el("div", { class: "empty" }, [
+        el("p", { text: "VLR 还没有公布下一阶段的赛程。" }),
+        el("p", { class: "hint", text: "已经在跟踪下面这些赛事，赛程一公布就会出现在这里和你订阅的日历里：" }),
+        list
+      ]));
+      return;
+    }
+    var days = [];
+    data.upcoming.forEach(function (match) {
+      var start = new Date(match.start_utc);
+      var key = dayKey.format(start);
+      var day = days.length && days[days.length - 1].key === key ? days[days.length - 1] : null;
+      if (!day) { day = { key: key, start: start, matches: [] }; days.push(day); }
+      day.matches.push({ match: match, start: start });
+    });
+    days.forEach(function (day) {
+      var rows = day.matches.map(function (item) {
+        var match = item.match;
+        var live = String(match.status).toLowerCase() === "live";
+        var teams = el("a", { class: "teams", href: match.url, text: match.team1 + " vs " + match.team2 });
+        var meta = match.event_name + (match.best_of ? "，Bo" + match.best_of : "");
+        return el("div", { class: "match" }, [
+          el("time", { datetime: match.start_utc, text: live ? "进行中" : clock.format(item.start) }),
+          el("span", { class: "badge" + (live ? " live" : ""), text: match.region }),
+          teams,
+          el("span", { class: "meta", text: meta })
+        ]);
+      });
+      box.appendChild(el("div", { class: "day" }, [
+        el("div", { class: "date" }, [
+          el("b", { text: String(day.start.getDate()) }),
+          el("span", { text: (day.start.getMonth() + 1) + "月 " + weekday.format(day.start) })
+        ]),
+        el("div", {}, rows)
+      ]));
+    });
+  }
+
+  // --- regions ---------------------------------------------------------------------
+  function countText(matches) { return matches ? matches + " 场" : "暂无比赛"; }
+
+  function renderRegions(data) {
+    var box = document.getElementById("regions");
+    data.regions.forEach(function (region) {
+      box.appendChild(el("div", { class: "row" }, [
+        el("span", { class: "badge", text: region.code }),
+        el("span", { class: "name", text: region.name }),
+        el("span", { class: "count", text: countText(region.matches) })
+      ].concat(feedButtons(region.file))));
+    });
+  }
+
+  // --- teams -------------------------------------------------------------------------
+  function renderTeams(data) {
+    var box = document.getElementById("teams");
+    var tabs = document.getElementById("team-tabs");
+    var search = document.getElementById("team-search");
+    var region = "";
+    var codes = [""].concat(data.regions.map(function (r) { return r.code; }).filter(function (code) {
+      return data.teams.some(function (team) { return team.region === code; });
+    }));
+
+    function draw() {
+      var query = search.value.trim().toLowerCase();
+      var shown = data.teams.filter(function (team) {
+        return (!region || team.region === region) && (!query || team.name.toLowerCase().indexOf(query) !== -1);
+      });
+      box.textContent = "";
+      box.classList.toggle("two", shown.length > 1);
+      if (!shown.length) {
+        box.appendChild(el("p", { class: "none", text: "没有找到叫这个名字的战队。新赛季的战队会在赛程公布后自动加进来。" }));
+        return;
+      }
+      shown.forEach(function (team) {
+        box.appendChild(el("div", { class: "row" }, [
+          el("span", { class: "badge", text: team.region }),
+          el("span", { class: "name", title: team.name, text: team.name })
+        ].concat(team.matches ? [el("span", { class: "count", text: team.matches + " 场" })] : [], feedButtons(team.file))));
+      });
+    }
+
+    codes.forEach(function (code) {
+      var tab = el("button", { class: "tab", type: "button", "aria-pressed": String(code === region), text: code || "全部" });
+      tab.addEventListener("click", function () {
+        region = code;
+        Array.prototype.forEach.call(tabs.children, function (other) { other.setAttribute("aria-pressed", String(other === tab)); });
+        draw();
+      });
+      tabs.appendChild(tab);
+    });
+    search.addEventListener("input", draw);
+    draw();
+  }
+
+  // --- archives -------------------------------------------------------------------------
+  function renderArchives(data) {
+    var box = document.getElementById("archives");
+    var tabs = document.getElementById("year-tabs");
+    var years = [];
+    data.archives.forEach(function (archive) { if (years.indexOf(archive.year) === -1) years.push(archive.year); });
+
+    function draw(year) {
+      box.textContent = "";
+      data.archives.filter(function (archive) { return archive.year === year; }).forEach(function (archive) {
+        box.appendChild(el("div", { class: "row" }, [
+          el("span", { class: "name", title: archive.title, text: archive.title })
+        ].concat(feedButtons(archive.file, true))));
+      });
+      Array.prototype.forEach.call(tabs.children, function (tab) {
+        tab.setAttribute("aria-pressed", String(tab.textContent === year));
+      });
+    }
+
+    years.forEach(function (year) {
+      var tab = el("button", { class: "tab", type: "button", "aria-pressed": "false", text: year });
+      tab.addEventListener("click", function () { draw(year); });
+      tabs.appendChild(tab);
+    });
+    if (years.length) draw(years[0]);
+  }
+
+  fetch("feeds/index.json", { cache: "no-cache" })
+    .then(function (response) {
+      if (!response.ok) throw new Error(response.status);
+      return response.json();
+    })
+    .then(function (data) {
+      renderUpcoming(data);
+      renderRegions(data);
+      renderTeams(data);
+      renderArchives(data);
+    })
+    .catch(function () {
+      document.getElementById("upcoming").textContent = "";
+      document.getElementById("upcoming").appendChild(el("div", { class: "empty" }, [
+        el("p", { text: "读取赛程列表失败，刷新页面再试一次。" }),
+        el("p", { class: "hint", text: "页面顶部的「订阅全部赛事」不受影响，仍然可以使用。" })
+      ]));
+    });
+})();
+</script>
+</body>
+</html>
