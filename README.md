@@ -103,6 +103,10 @@ Beyond the schedule, the repository keeps detailed statistics parsed from vlr.gg
 | Economy | `rounds.csv`: each team's buy type, loadout value and bank for every round |
 | Ready-made summaries | Per-year map, agent, composition, player and team tables in `summary/` |
 
+**[Open the analysis page](https://adamchen566.github.io/VCT-matches-to-iCal/stats.html)** (in Chinese): map play and side balance, agent pick rates year by year, the usual compositions on each map, player rankings with attack and defence ratings, team win rates per map, and round win rates by buy type, for any season.
+
+[![Analysis page](images/stats-page.png)](https://adamchen566.github.io/VCT-matches-to-iCal/stats.html)
+
 Every column is described in [`data/stats/README.md`](data/stats/README.md) (in Chinese). `vlr_stats.py` downloads and parses the pages, and `analyze_stats.py` builds the summaries.
 
 ## Run it yourself

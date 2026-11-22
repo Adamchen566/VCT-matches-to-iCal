@@ -1,0 +1,805 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VCT 数据分析</title>
+<meta name="description" content="2021 到 2026 年 VCT 国际赛、联赛和资格赛的地图、特工、阵容、选手和经济数据分析。">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#14130f">
+<meta property="og:type" content="website">
+<meta property="og:title" content="VCT 数据分析">
+<meta property="og:description" content="2021 到 2026 年 VCT 的地图、特工、阵容、选手和经济数据。">
+<meta property="og:image" content="https://adamchen566.github.io/VCT-matches-to-iCal/images/social-card.png">
+<link rel="icon" href="images/icon.svg" type="image/svg+xml">
+<style>
+  /* 琥珀夜色 (Amber Night) tokens */
+  :root {
+    --bg-base: #14130f; --bg-surface: #1c1a15; --bg-raised: #25221b; --bg-overlay: #2e2a22;
+    --border-subtle: #34302a; --border-control: #756c5b;
+    --text-primary: #f5f0e1; --text-secondary: #bdb5a3; --text-muted: #958c7b;
+    --primary: #f5c542; --primary-subtle: #3a3016; --primary-border: #6b5620; --on-primary: #1f1803;
+    --secondary: #84a9d6; --secondary-hover: #9dbce2;
+    --focus-ring: #ffd666;
+    /* chart colours, validated for the dark surface (OKLCH L 0.48-0.67, C >= 0.10) */
+    --series-a: #b8891c; --series-b: #5b8ed6; --neutral: #4a463d;
+    --radius-sm: 4px; --radius-md: 8px; --radius-lg: 14px; --radius-pill: 999px;
+    --font-display: "Bricolage Grotesque", "Noto Sans SC", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+    --font-body: "Noto Sans SC", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", "Cascadia Mono", Consolas, Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg-base); }
+  body { margin: 0; background: var(--bg-base); color: var(--text-primary); font: 15px/1.7 var(--font-body); -webkit-font-smoothing: antialiased; }
+  a { color: var(--secondary); text-underline-offset: 3px; }
+  a:hover { color: var(--secondary-hover); }
+  :focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
+  .page { max-width: 1080px; margin: 0 auto; padding: 0 24px 48px; }
+
+  .topbar { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 24px 0; font-size: 13px; }
+  .topbar strong { font-family: var(--font-display); font-size: 15px; }
+  .topbar nav { display: flex; gap: 16px; }
+
+  .hero { padding: 24px 0 32px; }
+  h1 { margin: 0 0 12px; font: 700 clamp(30px, 5vw, 44px)/1.15 var(--font-display); letter-spacing: -0.01em; }
+  .lede { margin: 0; max-width: 40em; color: var(--text-secondary); }
+
+  /* one filter row, sticky, drives every chart */
+  .filterbar {
+    position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+    padding: 12px 0; background: var(--bg-base); border-bottom: 1px solid var(--border-subtle);
+  }
+  .filterbar span { font-size: 13px; color: var(--text-muted); margin-right: 4px; }
+  .tab {
+    min-height: 32px; padding: 0 12px; border-radius: var(--radius-pill); border: 1px solid var(--border-subtle);
+    background: transparent; color: var(--text-secondary); font: 13px var(--font-body); cursor: pointer;
+  }
+  .tab:hover { background: var(--bg-overlay); color: var(--text-primary); }
+  .tab[aria-pressed="true"] { background: var(--primary-subtle); border-color: var(--primary-border); color: var(--text-primary); }
+  .filterbar nav { margin-left: auto; display: flex; gap: 12px; font-size: 13px; }
+
+  section { padding: 40px 0 8px; scroll-margin-top: 56px; }
+  h2 { margin: 0 0 4px; font: 700 24px/1.3 var(--font-display); }
+  h3 { margin: 0 0 4px; font: 700 16px/1.4 var(--font-display); }
+  .hint { margin: 0 0 16px; color: var(--text-muted); font-size: 13px; max-width: 60em; }
+  .finding { margin: 0 0 20px; padding: 12px 16px; border-left: 3px solid var(--primary); background: var(--bg-surface); border-radius: 0 var(--radius-md) var(--radius-md) 0; color: var(--text-secondary); font-size: 14px; }
+  .finding b { color: var(--text-primary); font-weight: 600; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .panel { padding: 16px; border: 1px solid var(--border-subtle); border-radius: var(--radius-lg); background: var(--bg-surface); min-width: 0; }
+  .panel.wide { grid-column: 1 / -1; }
+  .scroll { overflow-x: auto; }
+
+  /* horizontal bars */
+  .bars { display: grid; grid-template-columns: minmax(72px, auto) 1fr auto; gap: 6px 10px; align-items: center; font-size: 13px; }
+  .bars .label { color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bars .value { font: 12px var(--font-mono); color: var(--text-secondary); text-align: right; white-space: nowrap; }
+  .track { position: relative; height: 14px; }
+  .bar { position: absolute; top: 0; height: 100%; border-radius: 0 4px 4px 0; }
+  .bar.a { background: var(--series-a); }
+  .bar.b { background: var(--series-b); }
+  .bar.left { border-radius: 4px 0 0 4px; }
+  .track.pair .bar { height: 6px; }
+  .track.pair .bar.b { top: 8px; }
+  .midline { position: absolute; top: -3px; bottom: -3px; width: 1px; background: var(--text-muted); }
+  .legend { display: flex; flex-wrap: wrap; gap: 16px; margin: 0 0 12px; font-size: 12px; color: var(--text-secondary); }
+  .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+  .axisnote { display: flex; justify-content: space-between; margin-top: 8px; font: 12px var(--font-mono); color: var(--text-muted); }
+
+  /* heatmaps */
+  table.heat { border-collapse: separate; border-spacing: 2px; font-size: 12px; }
+  table.heat th { font-weight: 400; color: var(--text-secondary); white-space: nowrap; padding: 0 6px; }
+  table.heat thead th { font-family: var(--font-mono); }
+  table.heat tbody th { text-align: right; }
+  table.heat td { min-width: 52px; height: 26px; border-radius: 3px; text-align: center; font: 12px var(--font-mono); background: var(--bg-raised); color: var(--text-primary); }
+  table.heat td.blank { background: transparent; color: var(--text-muted); }
+  table.heat td.dark { color: var(--on-primary); }
+  .ramp { display: flex; align-items: center; gap: 6px; margin-top: 10px; font-size: 12px; color: var(--text-muted); }
+  .ramp b { display: inline-block; width: 120px; height: 10px; border-radius: 2px; }
+
+  /* tables */
+  table.data { width: 100%; border-collapse: collapse; font-size: 13px; }
+  table.data th { padding: 6px 8px; text-align: right; font-weight: 500; color: var(--text-muted); white-space: nowrap; }
+  table.data th:first-child, table.data td:first-child { text-align: left; }
+  table.data th button { all: unset; cursor: pointer; }
+  table.data th button:focus-visible { outline: 2px solid var(--focus-ring); }
+  table.data th[aria-sort] button { color: var(--text-primary); }
+  table.data td { padding: 6px 8px; border-top: 1px solid var(--border-subtle); text-align: right; font-family: var(--font-mono); white-space: nowrap; }
+  table.data td.text { font-family: var(--font-body); text-align: left; }
+  table.data td.muted { color: var(--text-muted); }
+  table.data tr.picked td { background: var(--primary-subtle); }
+  table.data tbody tr { cursor: default; }
+  table.data.clickable tbody tr { cursor: pointer; }
+  table.data.clickable tbody tr:hover td { background: var(--bg-raised); }
+  .cell-bar { display: inline-flex; align-items: center; gap: 6px; }
+  .cell-bar i { display: inline-block; height: 8px; border-radius: 0 3px 3px 0; background: var(--series-a); }
+  .chips { display: flex; flex-wrap: wrap; gap: 4px; }
+  .chip { padding: 1px 8px; border-radius: var(--radius-pill); background: var(--bg-raised); border: 1px solid var(--border-subtle); font: 12px var(--font-body); color: var(--text-primary); }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; margin-bottom: 12px; font-size: 13px; color: var(--text-secondary); }
+  .controls select, .controls input[type="search"] {
+    min-height: 32px; padding: 0 8px; border-radius: var(--radius-md); border: 1px solid var(--border-control);
+    background: var(--bg-base); color: var(--text-primary); font: 13px var(--font-body);
+  }
+  .controls input[type="range"] { accent-color: var(--primary); }
+
+  svg text { font-family: var(--font-mono); font-size: 11px; fill: var(--text-muted); }
+  svg .grid-line { stroke: var(--border-subtle); stroke-width: 1; }
+  svg .diag { stroke: var(--text-muted); stroke-dasharray: 3 4; stroke-width: 1; }
+  svg .dot { fill: var(--series-a); stroke: var(--bg-surface); stroke-width: 2; }
+  svg .dot:hover, svg .dot:focus { fill: var(--primary); outline: none; }
+
+  #tip {
+    position: fixed; z-index: 10; max-width: 280px; padding: 6px 10px; border-radius: var(--radius-md);
+    border: 1px solid var(--border-control); background: var(--bg-overlay); color: var(--text-primary);
+    font-size: 12px; line-height: 1.5; pointer-events: none; white-space: pre-line;
+  }
+  .none { padding: 12px 0; color: var(--text-muted); font-size: 13px; }
+  footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border-subtle); color: var(--text-muted); font-size: 13px; }
+  footer p { margin: 0 0 4px; }
+
+  @media (max-width: 760px) {
+    .page { padding: 0 16px 32px; }
+    .grid { grid-template-columns: 1fr; }
+    .filterbar nav { display: none; }
+    .filterbar { flex-wrap: nowrap; }
+    #years { flex-wrap: nowrap !important; overflow-x: auto; scrollbar-width: none; }
+    #years .tab { flex: none; }
+    .topbar nav a:first-child { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="topbar">
+    <strong>VCT 数据分析</strong>
+    <nav>
+      <a href="./">赛程订阅</a>
+      <a href="https://github.com/Adamchen566/VCT-matches-to-iCal/blob/main/data/stats/README.md">数据字典</a>
+      <a href="https://github.com/Adamchen566/VCT-matches-to-iCal">GitHub</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="hero">
+      <h1>六个赛季的 VCT，在打什么图、用什么人</h1>
+      <p class="lede" id="lede">读取数据中。</p>
+    </div>
+
+    <div class="filterbar" role="group" aria-label="选择赛季">
+      <span>赛季</span>
+      <div id="years" style="display:flex;flex-wrap:wrap;gap:8px"></div>
+      <nav>
+        <a href="#maps">地图</a><a href="#agents">特工</a><a href="#comps">阵容</a>
+        <a href="#players">选手</a><a href="#teams">战队</a><a href="#economy">经济</a>
+      </nav>
+    </div>
+
+    <section id="maps" aria-labelledby="h-maps">
+      <h2 id="h-maps">地图</h2>
+      <p class="hint">地图池每年轮换。进攻方回合占比偏离 50% 越多，这张图越偏向一边。</p>
+      <p class="finding" id="f-maps"></p>
+      <div class="grid">
+        <div class="panel wide">
+          <h3>每年各地图的出场占比</h3>
+          <p class="hint">每格是这张图在当年所有地图里的比例，空白表示当年不在地图池。</p>
+          <div class="scroll" id="map-years"></div>
+        </div>
+        <div class="panel">
+          <h3>攻防平衡</h3>
+          <p class="hint">进攻方赢下的回合占比，只列出场 20 次以上的图。</p>
+          <div class="legend"><span><i style="background:var(--series-b)"></i>偏防守</span><span><i style="background:var(--series-a)"></i>偏进攻</span></div>
+          <div id="map-sides"></div>
+        </div>
+        <div class="panel">
+          <h3>被选和被禁的比例</h3>
+          <p class="hint">在有禁选记录的比赛里，这张图被任一方选或禁的比例。</p>
+          <div class="legend"><span><i style="background:var(--series-a)"></i>被选</span><span><i style="background:var(--series-b)"></i>被禁</span></div>
+          <div id="map-veto"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="agents" aria-labelledby="h-agents">
+      <h2 id="h-agents">特工</h2>
+      <p class="hint">出场率是这个特工出现在多少比例的「一支队 × 一张图」里，最高是 100%。</p>
+      <p class="finding" id="f-agents"></p>
+      <div class="grid">
+        <div class="panel wide">
+          <h3>出场率逐年变化</h3>
+          <p class="hint">按六年合计的出场率排序，只列合计出场率 3% 以上的特工。</p>
+          <div class="scroll" id="agent-years"></div>
+        </div>
+        <div class="panel">
+          <h3 id="h-agent-rate">出场率和胜率</h3>
+          <p class="hint">柱是出场率，右边是胜率。常用特工的胜率都接近 50%，出场率反映的是选择而不是强弱。</p>
+          <div id="agent-bars"></div>
+        </div>
+        <div class="panel">
+          <h3>各赛区的偏好</h3>
+          <p class="hint">每个赛区出场率前五的特工。国际赛单独算一个赛区。</p>
+          <div class="scroll" id="agent-regions"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="comps" aria-labelledby="h-comps">
+      <h2 id="h-comps">阵容</h2>
+      <p class="hint">阵容是一支队在一张图上用的五个特工。只列至少打了 3 次的阵容。</p>
+      <p class="finding" id="f-comps"></p>
+      <div class="panel">
+        <div class="controls">
+          <label>地图 <select id="comp-map"></select></label>
+          <label>排序 <select id="comp-sort"><option value="played">次数</option><option value="win">胜率（10 次以上）</option></select></label>
+        </div>
+        <div class="scroll" id="comp-table"></div>
+      </div>
+    </section>
+
+    <section id="players" aria-labelledby="h-players">
+      <h2 id="h-players">选手</h2>
+      <p class="hint">评分、ACS、KAST、ADR 按每张图的回合数加权平均。中国赛区很多比赛在 VLR 上没有评分，也完全没有残局数据，这些选手的评分只基于有数据的图，残局数会显示为 0。</p>
+      <p class="finding" id="f-players"></p>
+      <div class="grid">
+        <div class="panel wide">
+          <div class="controls">
+            <label>至少打了 <input type="range" id="min-maps" min="10" max="200" step="10"> <b id="min-maps-value"></b> 张图</label>
+            <input type="search" id="player-search" placeholder="搜索选手或战队" aria-label="搜索选手或战队">
+          </div>
+          <div class="scroll" id="player-table"></div>
+        </div>
+        <div class="panel wide">
+          <h3>进攻和防守评分</h3>
+          <p class="hint">每个点是一位选手（满足上面的图数要求）。虚线以下的选手防守打得比进攻好，以上的相反。</p>
+          <div id="player-scatter"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="teams" aria-labelledby="h-teams">
+      <h2 id="h-teams">战队</h2>
+      <p class="hint">战队的胜率受赛区影响：联赛里主要和本赛区的队伍交手，不同赛区的数字不能直接比较。点一行看这支队在各地图上的表现。</p>
+      <p class="finding" id="f-teams"></p>
+      <div class="grid">
+        <div class="panel wide"><div class="scroll" id="team-table"></div></div>
+        <div class="panel wide">
+          <h3 id="h-team-maps">各地图胜率</h3>
+          <p class="hint">柱长是胜率，右边是打了几次、自己选了几次、禁了几次。</p>
+          <div id="team-maps"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="economy" aria-labelledby="h-economy">
+      <h2 id="h-economy">经济</h2>
+      <p class="hint">每回合按全队装备价值分成经济局（不到 10k）、半甲（10k 到 18k）和全甲（18k 以上），手枪局单独算。每格是行这一方对列那一方时的回合胜率。中国赛区没有经济数据。</p>
+      <p class="finding" id="f-economy"></p>
+      <div class="panel"><div class="scroll" id="economy-matrix"></div></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>数据来自 <a href="https://www.vlr.gg">vlr.gg</a> 的 2021 到 2026 年国际赛、联赛和资格赛，2026 年 11 月抓取。本页面与 Riot Games 和 vlr.gg 没有关联。</p>
+    <p>原始表格和每一列的含义见 <a href="https://github.com/Adamchen566/VCT-matches-to-iCal/blob/main/data/stats/README.md">数据字典</a>，汇总表在 <a href="https://github.com/Adamchen566/VCT-matches-to-iCal/tree/main/data/stats/summary">data/stats/summary</a>。</p>
+  </footer>
+</div>
+<div id="tip" role="tooltip" hidden></div>
+
+<script>
+(function () {
+  "use strict";
+
+  var FILES = ["maps", "agents", "agents_by_region", "comps", "players", "teams", "team_maps", "economy"];
+  var ALL = "all";
+  var BUY = { pistol: "手枪局", eco: "经济局", half: "半甲", full: "全甲" };
+  var REGION = { AMER: "美洲", EMEA: "欧洲、中东和非洲", PAC: "太平洋", CN: "中国", INTL: "国际赛" };
+  var data = {};
+  var year = ALL;
+  var state = { compMap: "", compSort: "played", sortKey: "rating", sortDir: -1, team: "", minMaps: null };
+
+  // ---------------------------------------------------------------- helpers
+  function el(tag, attrs, children) {
+    var node = document.createElement(tag);
+    Object.keys(attrs || {}).forEach(function (key) {
+      if (key === "text") node.textContent = attrs[key];
+      else if (key === "style") node.style.cssText = attrs[key];
+      else node.setAttribute(key, attrs[key]);
+    });
+    (children || []).forEach(function (child) { if (child) node.appendChild(child); });
+    return node;
+  }
+  function svg(tag, attrs) {
+    var node = document.createElementNS("http://www.w3.org/2000/svg", tag);
+    Object.keys(attrs || {}).forEach(function (key) { node.setAttribute(key, attrs[key]); });
+    return node;
+  }
+  function parseCSV(text) {
+    var rows = [], row = [], field = "", quoted = false;
+    for (var i = 0; i < text.length; i += 1) {
+      var c = text[i];
+      if (quoted) {
+        if (c === '"' && text[i + 1] === '"') { field += '"'; i += 1; }
+        else if (c === '"') quoted = false;
+        else field += c;
+      } else if (c === '"') quoted = true;
+      else if (c === ",") { row.push(field); field = ""; }
+      else if (c === "\n") { row.push(field); rows.push(row); row = []; field = ""; }
+      else if (c !== "\r") field += c;
+    }
+    if (field || row.length) { row.push(field); rows.push(row); }
+    var head = rows.shift();
+    return rows.map(function (cells) {
+      var item = {};
+      head.forEach(function (key, index) { item[key] = cells[index]; });
+      return item;
+    });
+  }
+  function num(value) { var n = parseFloat(value); return isNaN(n) ? null : n; }
+  function pct(value, digits) { var n = num(value); return n === null ? "–" : (n * 100).toFixed(digits === undefined ? 0 : digits) + "%"; }
+  function rows(name, y) { return data[name].filter(function (row) { return row.year === (y || year); }); }
+  function yearLabel(y) { return y === ALL ? "六年合计" : y + " 年"; }
+  function clear(id) { var node = document.getElementById(id); node.textContent = ""; return node; }
+  function setText(id, html) { document.getElementById(id).innerHTML = html; }
+  function esc(text) { return String(text).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+
+  // sequential amber ramp: dark surface -> bright amber
+  var LOW = [42, 38, 28], HIGH = [245, 197, 66];
+  function shade(t) {
+    t = Math.max(0, Math.min(1, t));
+    return "rgb(" + LOW.map(function (v, i) { return Math.round(v + (HIGH[i] - v) * t); }).join(",") + ")";
+  }
+  // diverging: blue below 0.5, neutral at 0.5, amber above
+  var BLUE = [91, 142, 214], MID = [58, 55, 47], AMBER = [184, 137, 28];
+  function diverge(value, spread) {
+    var t = Math.max(-1, Math.min(1, (value - 0.5) / spread));
+    var end = t < 0 ? BLUE : AMBER, k = Math.abs(t);
+    return "rgb(" + MID.map(function (v, i) { return Math.round(v + (end[i] - v) * k); }).join(",") + ")";
+  }
+
+  // ---------------------------------------------------------------- tooltip
+  var tip = document.getElementById("tip");
+  function showTip(target, event) {
+    tip.textContent = target.getAttribute("data-tip");
+    tip.hidden = false;
+    var rect = target.getBoundingClientRect();
+    var x = event && event.clientX ? event.clientX : rect.left + rect.width / 2;
+    var left = Math.min(Math.max(8, x - tip.offsetWidth / 2), window.innerWidth - tip.offsetWidth - 8);
+    var top = rect.top - tip.offsetHeight - 8;
+    tip.style.left = left + "px";
+    tip.style.top = (top < 8 ? rect.bottom + 8 : top) + "px";
+  }
+  document.addEventListener("mouseover", function (event) {
+    var target = event.target.closest && event.target.closest("[data-tip]");
+    if (target) showTip(target, event); else tip.hidden = true;
+  });
+  document.addEventListener("focusin", function (event) {
+    var target = event.target.closest && event.target.closest("[data-tip]");
+    if (target) showTip(target);
+  });
+  ["focusout", "scroll"].forEach(function (type) { document.addEventListener(type, function () { tip.hidden = true; }, true); });
+
+  // ---------------------------------------------------------------- shared charts
+  function heatTable(columns, rowNames, value, tipText, max) {
+    var head = el("tr", {}, [el("th", {})].concat(columns.map(function (c) { return el("th", { scope: "col", text: c }); })));
+    var body = rowNames.map(function (name) {
+      return el("tr", {}, [el("th", { scope: "row", text: name })].concat(columns.map(function (c) {
+        var v = value(name, c);
+        if (v === null) return el("td", { class: "blank", text: "·" });
+        var t = v / max;
+        var cell = el("td", { tabindex: "0", text: (v * 100).toFixed(0), "data-tip": tipText(name, c, v) });
+        cell.style.background = shade(t);
+        if (t > 0.55) cell.className = "dark";
+        return cell;
+      })));
+    });
+    return el("table", { class: "heat" }, [el("thead", {}, [head]), el("tbody", {}, body)]);
+  }
+  function ramp(label) {
+    var bar = el("b", {});
+    bar.style.background = "linear-gradient(to right," + shade(0) + "," + shade(1) + ")";
+    return el("div", { class: "ramp" }, [el("span", { text: "低" }), bar, el("span", { text: "高。" + label })]);
+  }
+
+  // ---------------------------------------------------------------- lede
+  function renderLede() {
+    var teams = rows("teams", ALL), players = rows("players", ALL), maps = rows("maps", ALL);
+    var matches = teams.reduce(function (s, r) { return s + Number(r.matches); }, 0) / 2;
+    var played = maps.reduce(function (s, r) { return s + Number(r.played); }, 0);
+    setText("lede", "2021 到 2026 年全部国际赛、联赛和资格赛：" + Math.round(matches) + " 场比赛、" + played +
+      " 张图、" + teams.length + " 支战队、" + players.length + " 名选手。顶部选一个赛季，下面每张图都会跟着变。");
+  }
+
+  // ---------------------------------------------------------------- maps
+  function renderMaps() {
+    var years = data.years;
+    var totals = {};
+    years.forEach(function (y) { totals[y] = rows("maps", y).reduce(function (s, r) { return s + Number(r.played); }, 0); });
+    var all = rows("maps", ALL).slice().sort(function (a, b) { return b.played - a.played; });
+    var share = {};
+    data.maps.forEach(function (r) { if (r.year !== ALL) share[r.map + "|" + r.year] = r.played / totals[r.year]; });
+    var max = Math.max.apply(null, Object.keys(share).map(function (k) { return share[k]; }));
+    var box = clear("map-years");
+    box.appendChild(heatTable(years, all.map(function (r) { return r.map; }),
+      function (m, y) { return share[m + "|" + y] === undefined ? null : share[m + "|" + y]; },
+      function (m, y, v) { return m + "，" + y + " 年\n占当年地图的 " + (v * 100).toFixed(1) + "%"; }, max));
+    box.appendChild(ramp("格子里的数字是百分比。"));
+
+    var current = rows("maps").filter(function (r) { return Number(r.played) >= 20; });
+    var sides = current.slice().sort(function (a, b) { return num(a.atk_round_share) - num(b.atk_round_share); });
+    var sideBox = clear("map-sides");
+    var spread = 0.08;
+    var grid = el("div", { class: "bars" });
+    sides.forEach(function (r) {
+      var v = num(r.atk_round_share), d = v - 0.5;
+      var width = Math.min(Math.abs(d) / spread, 1) * 50;
+      var bar = el("div", { class: "bar " + (d < 0 ? "b left" : "a") });
+      bar.style.width = width + "%";
+      bar.style.left = d < 0 ? (50 - width) + "%" : "50%";
+      var track = el("div", { class: "track", tabindex: "0",
+        "data-tip": r.map + "\n进攻方赢 " + pct(v, 1) + " 的回合\n出场 " + r.played + " 次，加时率 " + pct(r.overtime_rate) }, [el("div", { class: "midline", style: "left:50%" }), bar]);
+      grid.appendChild(el("span", { class: "label", text: r.map }));
+      grid.appendChild(track);
+      grid.appendChild(el("span", { class: "value", text: pct(v, 1) }));
+    });
+    sideBox.appendChild(sides.length ? grid : el("p", { class: "none", text: "这个赛季没有出场 20 次以上的图。" }));
+    sideBox.appendChild(el("div", { class: "axisnote" }, [el("span", { text: "42% 偏防守" }), el("span", { text: "50%" }), el("span", { text: "58% 偏进攻" })]));
+
+    var veto = current.slice().sort(function (a, b) { return num(b.pick_rate) + num(b.ban_rate) - num(a.pick_rate) - num(a.ban_rate); });
+    var vetoBox = clear("map-veto");
+    var vmax = Math.max.apply(null, veto.map(function (r) { return Math.max(num(r.pick_rate), num(r.ban_rate)); }).concat([0.01]));
+    var vgrid = el("div", { class: "bars" });
+    veto.forEach(function (r) {
+      var a = el("div", { class: "bar a" }); a.style.width = (num(r.pick_rate) / vmax * 100) + "%";
+      var b = el("div", { class: "bar b" }); b.style.width = (num(r.ban_rate) / vmax * 100) + "%";
+      vgrid.appendChild(el("span", { class: "label", text: r.map }));
+      vgrid.appendChild(el("div", { class: "track pair", tabindex: "0",
+        "data-tip": r.map + "\n被选 " + pct(r.pick_rate) + "，被禁 " + pct(r.ban_rate) + "\n选图方胜率 " + pct(r.picker_win_rate) }, [a, b]));
+      vgrid.appendChild(el("span", { class: "value", text: pct(r.pick_rate) + " / " + pct(r.ban_rate) }));
+    });
+    vetoBox.appendChild(veto.length ? vgrid : el("p", { class: "none", text: "没有数据。" }));
+
+    if (sides.length) {
+      var defSide = sides[0], atkSide = sides[sides.length - 1];
+      var picker = current.reduce(function (s, r) { return s + num(r.picker_win_rate) * r.played; }, 0) /
+        current.reduce(function (s, r) { return s + Number(r.played); }, 0);
+      setText("f-maps", yearLabel(year) + "最偏防守的是 <b>" + esc(defSide.map) + "</b>（进攻方赢 " + pct(defSide.atk_round_share, 1) +
+        " 的回合），最偏进攻的是 <b>" + esc(atkSide.map) + "</b>（" + pct(atkSide.atk_round_share, 1) + "）。自己选的图平均只赢 <b>" +
+        (picker * 100).toFixed(0) + "%</b>，选图带来的优势很小。");
+    }
+  }
+
+  // ---------------------------------------------------------------- agents
+  function renderAgents() {
+    var years = data.years;
+    var all = rows("agents", ALL).filter(function (r) { return num(r.pick_rate) >= 0.03; });
+    var rate = {};
+    data.agents.forEach(function (r) { rate[r.agent + "|" + r.year] = num(r.pick_rate); });
+    var max = Math.max.apply(null, data.agents.filter(function (r) { return r.year !== ALL; }).map(function (r) { return num(r.pick_rate); }));
+    var box = clear("agent-years");
+    box.appendChild(heatTable(years, all.map(function (r) { return r.agent; }),
+      function (a, y) { return rate[a + "|" + y] === undefined ? null : rate[a + "|" + y]; },
+      function (a, y, v) { return a + "，" + y + " 年\n出场率 " + (v * 100).toFixed(1) + "%"; }, max));
+    box.appendChild(ramp("格子里的数字是出场率（%），空白表示当年没有用过或还没推出。"));
+
+    var current = rows("agents").slice(0, 14);
+    document.getElementById("h-agent-rate").textContent = yearLabel(year) + "的出场率和胜率";
+    var barBox = clear("agent-bars");
+    var top = Math.max.apply(null, current.map(function (r) { return num(r.pick_rate); }).concat([0.01]));
+    var grid = el("div", { class: "bars" });
+    current.forEach(function (r) {
+      var bar = el("div", { class: "bar a" }); bar.style.width = (num(r.pick_rate) / top * 100) + "%";
+      grid.appendChild(el("span", { class: "label", text: r.agent }));
+      grid.appendChild(el("div", { class: "track", tabindex: "0",
+        "data-tip": r.agent + "\n出场 " + r.picks + " 次，出场率 " + pct(r.pick_rate, 1) + "\n胜率 " + pct(r.win_rate, 1) + "，平均评分 " + (r.rating || "–") }, [bar]));
+      grid.appendChild(el("span", { class: "value", text: pct(r.pick_rate) + "  胜 " + pct(r.win_rate) }));
+    });
+    barBox.appendChild(grid);
+
+    var regions = ["AMER", "EMEA", "PAC", "CN", "INTL"];
+    var regionBox = clear("agent-regions");
+    var byRegion = rows("agents_by_region");
+    var table = el("table", { class: "data" }, [el("thead", {}, [el("tr", {}, [el("th", { text: "赛区" }), el("th", { text: "出场率前五", style: "text-align:left" })])]),
+      el("tbody", {}, regions.map(function (code) {
+        var list = byRegion.filter(function (r) { return r.region === code; }).slice(0, 5);
+        return el("tr", {}, [el("td", { class: "text", text: REGION[code] }),
+          el("td", { class: "text" }, [el("div", { class: "chips" }, list.map(function (r) {
+            return el("span", { class: "chip", tabindex: "0", text: r.agent + " " + pct(r.pick_rate),
+              "data-tip": REGION[code] + "：" + r.agent + "\n出场率 " + pct(r.pick_rate, 1) + "，胜率 " + pct(r.win_rate, 1) });
+          }))])]);
+      }))]);
+    regionBox.appendChild(table);
+
+    var findings = [];
+    if (current[0]) findings.push(yearLabel(year) + "出场率最高的是 <b>" + esc(current[0].agent) + "</b>（" + pct(current[0].pick_rate) + "）");
+    if (year !== ALL) {
+      var prev = String(Number(year) - 1), change = [];
+      rows("agents").forEach(function (r) {
+        var before = rate[r.agent + "|" + prev];
+        if (before !== undefined) change.push({ agent: r.agent, d: num(r.pick_rate) - before });
+      });
+      change.sort(function (a, b) { return b.d - a.d; });
+      if (change.length) {
+        findings.push("比上一年涨得最多的是 <b>" + esc(change[0].agent) + "</b>（+" + (change[0].d * 100).toFixed(0) +
+          " 个百分点），跌得最多的是 <b>" + esc(change[change.length - 1].agent) + "</b>（" + (change[change.length - 1].d * 100).toFixed(0) + " 个百分点）");
+      }
+    } else {
+      findings.push("Omen 从 2024 年起每年出场率都在 64% 左右，是近三年最稳定的选择");
+    }
+    setText("f-agents", findings.join("；") + "。");
+  }
+
+  // ---------------------------------------------------------------- comps
+  function renderComps() {
+    var list = rows("comps");
+    var totals = {};
+    list.forEach(function (r) { totals[r.map] = (totals[r.map] || 0) + Number(r.played); });
+    var mapNames = Object.keys(totals).sort(function (a, b) { return totals[b] - totals[a]; });
+    var select = document.getElementById("comp-map");
+    if (mapNames.indexOf(state.compMap) === -1) state.compMap = mapNames[0] || "";
+    select.textContent = "";
+    mapNames.forEach(function (m) { select.appendChild(el("option", { value: m, text: m })); });
+    select.value = state.compMap;
+
+    var box = clear("comp-table");
+    var shown = list.filter(function (r) { return r.map === state.compMap; });
+    if (state.compSort === "win") {
+      shown = shown.filter(function (r) { return Number(r.played) >= 10; }).sort(function (a, b) { return num(b.win_rate) - num(a.win_rate) || b.played - a.played; });
+    } else {
+      shown = shown.slice().sort(function (a, b) { return b.played - a.played; });
+    }
+    shown = shown.slice(0, 15);
+    if (!shown.length) { box.appendChild(el("p", { class: "none", text: "这张图没有打满 10 次的阵容。" })); }
+    else {
+      var most = Math.max.apply(null, shown.map(function (r) { return Number(r.played); }));
+      box.appendChild(el("table", { class: "data" }, [
+        el("thead", {}, [el("tr", {}, ["阵容", "次数", "占这张图", "胜率", "用过的战队"].map(function (t, i) {
+          return el("th", { text: t, style: i === 0 ? "text-align:left" : "" });
+        }))]),
+        el("tbody", {}, shown.map(function (r) {
+          var bar = el("i", {}); bar.style.width = (r.played / most * 60) + "px";
+          return el("tr", {}, [
+            el("td", { class: "text" }, [el("div", { class: "chips" }, r.comp.split("|").map(function (a) { return el("span", { class: "chip", text: a }); }))]),
+            el("td", {}, [el("span", { class: "cell-bar" }, [bar, document.createTextNode(r.played)])]),
+            el("td", { text: pct(r.pick_rate) }),
+            el("td", { text: pct(r.win_rate) }),
+            el("td", { text: r.teams })
+          ]);
+        }))
+      ]));
+    }
+
+    var counts = {};
+    data.comps.forEach(function (r) { if (r.year !== ALL) counts[r.year] = (counts[r.year] || 0) + 1; });
+    var ys = data.years;
+    setText("f-comps", "阵容越来越分散：打了 3 次以上的不同阵容，" + ys[0] + " 年有 <b>" + counts[ys[0]] + "</b> 套，" +
+      ys[ys.length - 1] + " 年有 <b>" + counts[ys[ys.length - 1]] + "</b> 套。按胜率排序时只看打了 10 次以上的阵容，样本仍然偏小。");
+  }
+
+  // ---------------------------------------------------------------- players
+  var PLAYER_COLUMNS = [
+    ["player", "选手", "text"], ["team", "战队", "text"], ["maps", "图数"], ["rating", "评分"], ["rating_atk", "进攻"],
+    ["rating_def", "防守"], ["acs", "ACS"], ["kd", "KD"], ["kast", "KAST"], ["adr", "ADR"], ["fk_per_map", "每图首杀"],
+    ["clutches", "残局"], ["agents", "常用特工", "text"]
+  ];
+  function qualifiedPlayers() {
+    var query = document.getElementById("player-search").value.trim().toLowerCase();
+    return rows("players").filter(function (r) {
+      return Number(r.maps) >= state.minMaps && num(r.rating) !== null &&
+        (!query || r.player.toLowerCase().indexOf(query) !== -1 || r.team.toLowerCase().indexOf(query) !== -1);
+    });
+  }
+  function renderPlayers(resetSlider) {
+    var slider = document.getElementById("min-maps");
+    if (resetSlider || state.minMaps === null) { state.minMaps = year === ALL ? 120 : 40; slider.value = state.minMaps; }
+    document.getElementById("min-maps-value").textContent = state.minMaps;
+    var list = qualifiedPlayers();
+    var key = state.sortKey, dir = state.sortDir;
+    var text = PLAYER_COLUMNS.filter(function (c) { return c[0] === key; })[0][2] === "text";
+    list.sort(function (a, b) {
+      if (text) return dir * a[key].localeCompare(b[key]);
+      return dir * ((num(a[key]) || 0) - (num(b[key]) || 0));
+    });
+    var box = clear("player-table");
+    if (!list.length) { box.appendChild(el("p", { class: "none", text: "没有符合条件的选手，把图数要求调低试试。" })); }
+    else {
+      var head = el("tr", {}, PLAYER_COLUMNS.map(function (c) {
+        var button = el("button", { type: "button", text: c[1] + (c[0] === key ? (dir < 0 ? " ↓" : " ↑") : "") });
+        button.addEventListener("click", function () {
+          if (state.sortKey === c[0]) state.sortDir = -state.sortDir;
+          else { state.sortKey = c[0]; state.sortDir = c[2] === "text" ? 1 : -1; }
+          renderPlayers(false);
+        });
+        var th = el("th", { scope: "col", style: c[2] === "text" ? "text-align:left" : "" }, [button]);
+        if (c[0] === key) th.setAttribute("aria-sort", dir < 0 ? "descending" : "ascending");
+        return th;
+      }));
+      var best = Math.max.apply(null, list.map(function (r) { return num(r.rating); }));
+      var body = list.slice(0, 50).map(function (r) {
+        return el("tr", {}, PLAYER_COLUMNS.map(function (c) {
+          var v = r[c[0]];
+          if (c[0] === "agents") v = v.split("|").map(function (part) { return part.split(":")[0]; }).slice(0, 3).join("、");
+          if (c[0] === "kast" || c[0] === "hs") v = v ? v + "%" : "–";
+          if (c[0] === "rating") {
+            var bar = el("i", {}); bar.style.width = Math.max(0, (num(v) - 0.7) / (best - 0.7) * 48) + "px";
+            return el("td", {}, [el("span", { class: "cell-bar" }, [bar, document.createTextNode(v)])]);
+          }
+          return el("td", { class: c[2] === "text" ? "text" + (c[0] === "agents" ? " muted" : "") : "", text: v || "–" });
+        }));
+      });
+      box.appendChild(el("table", { class: "data" }, [el("thead", {}, [head]), el("tbody", {}, body)]));
+      if (list.length > 50) box.appendChild(el("p", { class: "none", text: "共 " + list.length + " 人，只显示排序后的前 50 位。" }));
+    }
+    renderScatter(list);
+
+    var top = qualifiedPlayers().sort(function (a, b) { return num(b.rating) - num(a.rating); });
+    if (top.length >= 3) {
+      setText("f-players", yearLabel(year) + "打满 " + state.minMaps + " 张图的选手里，评分最高的是 <b>" + esc(top[0].player) +
+        "</b>（" + esc(top[0].team) + "，" + top[0].rating + "），其次是 " + esc(top[1].player) + "（" + top[1].rating + "）和 " +
+        esc(top[2].player) + "（" + top[2].rating + "）。");
+    } else setText("f-players", "符合条件的选手不足三位。");
+  }
+
+  function renderScatter(list) {
+    var box = clear("player-scatter");
+    var points = list.filter(function (r) { return num(r.rating_atk) !== null && num(r.rating_def) !== null; });
+    if (points.length < 2) { box.appendChild(el("p", { class: "none", text: "选手太少，画不出散点图。" })); return; }
+    var W = 640, H = 400, P = { l: 44, r: 16, t: 32, b: 36 };
+    var values = points.map(function (r) { return num(r.rating_atk); }).concat(points.map(function (r) { return num(r.rating_def); }));
+    var lo = Math.floor(Math.min.apply(null, values) * 10) / 10, hi = Math.ceil(Math.max.apply(null, values) * 10) / 10;
+    var x = function (v) { return P.l + (v - lo) / (hi - lo) * (W - P.l - P.r); };
+    var y = function (v) { return H - P.b - (v - lo) / (hi - lo) * (H - P.t - P.b); };
+    var chart = svg("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "选手进攻评分和防守评分的散点图" });
+    for (var t = lo; t <= hi + 1e-9; t += 0.1) {
+      var v = Math.round(t * 10) / 10;
+      chart.appendChild(svg("line", { class: "grid-line", x1: P.l, x2: W - P.r, y1: y(v), y2: y(v) }));
+      chart.appendChild(svg("line", { class: "grid-line", y1: P.t, y2: H - P.b, x1: x(v), x2: x(v) }));
+      var lx = svg("text", { x: x(v), y: H - P.b + 16, "text-anchor": "middle" }); lx.textContent = v.toFixed(1); chart.appendChild(lx);
+      var ly = svg("text", { x: P.l - 8, y: y(v) + 4, "text-anchor": "end" }); ly.textContent = v.toFixed(1); chart.appendChild(ly);
+    }
+    chart.appendChild(svg("line", { class: "diag", x1: x(lo), y1: y(lo), x2: x(hi), y2: y(hi) }));
+    var xl = svg("text", { x: W - P.r, y: H - 4, "text-anchor": "end" }); xl.textContent = "进攻评分 →"; chart.appendChild(xl);
+    var yl = svg("text", { x: 4, y: 12 }); yl.textContent = "↑ 防守评分"; chart.appendChild(yl);
+    points.forEach(function (r) {
+      var dot = svg("circle", { class: "dot", cx: x(num(r.rating_atk)), cy: y(num(r.rating_def)), r: 5, tabindex: "0",
+        "data-tip": r.player + "（" + r.team + "）\n进攻 " + r.rating_atk + "，防守 " + r.rating_def + "\n总评分 " + r.rating + "，" + r.maps + " 张图" });
+      chart.appendChild(dot);
+    });
+    // name the three furthest from the diagonal on each side
+    var byGap = points.slice().sort(function (a, b) { return (num(a.rating_def) - num(a.rating_atk)) - (num(b.rating_def) - num(b.rating_atk)); });
+    byGap.slice(0, 2).concat(byGap.slice(-2)).forEach(function (r) {
+      var label = svg("text", { x: x(num(r.rating_atk)) + 8, y: y(num(r.rating_def)) + 4 });
+      label.style.fill = "var(--text-secondary)";
+      label.textContent = r.player;
+      chart.appendChild(label);
+    });
+    box.appendChild(chart);
+  }
+
+  // ---------------------------------------------------------------- teams
+  var TEAM_COLUMNS = [
+    ["team", "战队", "text"], ["matches", "比赛"], ["maps", "地图"], ["map_win_rate", "地图胜率", "rate"],
+    ["round_win_rate", "回合胜率", "rate"], ["atk_round_win_rate", "进攻回合", "rate"], ["def_round_win_rate", "防守回合", "rate"],
+    ["pistol_win_rate", "手枪局", "rate"], ["own_pick_win_rate", "自选图", "rate"], ["most_played_map", "最常打的图", "text"]
+  ];
+  function renderTeams() {
+    var min = year === ALL ? 100 : 25;
+    var list = rows("teams").filter(function (r) { return Number(r.maps) >= min; })
+      .sort(function (a, b) { return num(b.map_win_rate) - num(a.map_win_rate); });
+    if (!list.some(function (r) { return r.team_id === state.team; })) state.team = list[0] ? list[0].team_id : "";
+    var box = clear("team-table");
+    var head = el("tr", {}, TEAM_COLUMNS.map(function (c) { return el("th", { scope: "col", text: c[1], style: c[2] === "text" ? "text-align:left" : "" }); }));
+    var body = list.slice(0, 20).map(function (r) {
+      var tr = el("tr", { tabindex: "0", class: r.team_id === state.team ? "picked" : "" }, TEAM_COLUMNS.map(function (c) {
+        if (c[0] === "map_win_rate") {
+          var bar = el("i", {}); bar.style.width = Math.max(0, (num(r[c[0]]) - 0.3) / 0.45 * 56) + "px";
+          return el("td", {}, [el("span", { class: "cell-bar" }, [bar, document.createTextNode(pct(r[c[0]]))])]);
+        }
+        return el("td", { class: c[2] === "text" ? "text" : "", text: c[2] === "rate" ? pct(r[c[0]]) : r[c[0]] });
+      }));
+      var pick = function () { state.team = r.team_id; renderTeams(); };
+      tr.addEventListener("click", pick);
+      tr.addEventListener("keydown", function (event) { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); pick(); } });
+      return tr;
+    });
+    box.appendChild(el("p", { class: "hint", text: "地图数满 " + min + " 的战队，按地图胜率排序，显示前 20 支。" }));
+    box.appendChild(el("table", { class: "data clickable" }, [el("thead", {}, [head]), el("tbody", {}, body)]));
+
+    var team = list.filter(function (r) { return r.team_id === state.team; })[0];
+    var mapBox = clear("team-maps");
+    if (!team) { mapBox.appendChild(el("p", { class: "none", text: "没有数据。" })); return; }
+    document.getElementById("h-team-maps").textContent = team.team + "：" + yearLabel(year) + "各地图胜率";
+    var maps = rows("team_maps").filter(function (r) { return r.team_id === team.team_id && Number(r.played) > 0; })
+      .sort(function (a, b) { return b.played - a.played; });
+    var grid = el("div", { class: "bars" });
+    maps.forEach(function (r) {
+      var v = num(r.win_rate);
+      var bar = el("div", { class: "bar " + (v >= 0.5 ? "a" : "b") }); bar.style.width = (v * 100) + "%";
+      grid.appendChild(el("span", { class: "label", text: r.map }));
+      grid.appendChild(el("div", { class: "track", tabindex: "0",
+        "data-tip": team.team + " 在 " + r.map + "\n" + r.wins + " 胜 " + (r.played - r.wins) + " 负，胜率 " + pct(v) + "\n自己选了 " + r.picked + " 次，禁了 " + r.banned + " 次" },
+        [el("div", { class: "midline", style: "left:50%" }), bar]));
+      grid.appendChild(el("span", { class: "value", text: pct(v) + "  " + r.played + " 场，选 " + r.picked + "，禁 " + r.banned }));
+    });
+    mapBox.appendChild(el("div", { class: "legend" }, [el("span", {}, [el("i", { style: "background:var(--series-a)" }), document.createTextNode("胜率 50% 及以上")]),
+      el("span", {}, [el("i", { style: "background:var(--series-b)" }), document.createTextNode("胜率不到 50%")])]));
+    mapBox.appendChild(grid);
+
+    if (list.length >= 3) {
+      setText("f-teams", yearLabel(year) + "地图胜率最高的是 <b>" + esc(list[0].team) + "</b>（" + pct(list[0].map_win_rate) + "，" + list[0].maps +
+        " 张图），其次是 " + esc(list[1].team) + "（" + pct(list[1].map_win_rate) + "）和 " + esc(list[2].team) + "（" + pct(list[2].map_win_rate) +
+        "）。" + (function () {
+          var shown = list.slice(0, 20), high = shown.filter(function (r) { return num(r.pistol_win_rate) > 0.55; });
+          return "前 20 支里手枪局胜率超过 55% 的有 <b>" + high.length + "</b> 支，手枪局对谁都接近五五开。";
+        })());
+    }
+  }
+
+  // ---------------------------------------------------------------- economy
+  function renderEconomy() {
+    var list = rows("economy");
+    var box = clear("economy-matrix");
+    var order = ["eco", "half", "full"];
+    var find = function (a, b) { return list.filter(function (r) { return r.buy === a && r.against === b; })[0]; };
+    if (!list.length) { box.appendChild(el("p", { class: "none", text: "这个赛季没有经济数据。" })); return; }
+    var head = el("tr", {}, [el("th", { text: "己方 \\ 对方" })].concat(order.map(function (o) { return el("th", { scope: "col", text: BUY[o] }); })));
+    var body = order.map(function (a) {
+      return el("tr", {}, [el("th", { scope: "row", text: BUY[a] })].concat(order.map(function (b) {
+        var r = find(a, b);
+        if (!r || Number(r.rounds) < 20) return el("td", { class: "blank", text: "·" });
+        var v = num(r.win_rate);
+        var cell = el("td", { tabindex: "0", text: pct(v), "data-tip": BUY[a] + " 对 " + BUY[b] + "\n" + r.rounds + " 个回合，赢 " + pct(v, 1) });
+        cell.style.background = diverge(v, 0.45);
+        cell.style.minWidth = "88px";
+        cell.style.height = "40px";
+        return cell;
+      })));
+    });
+    box.appendChild(el("table", { class: "heat" }, [el("thead", {}, [head]), el("tbody", {}, body)]));
+    var key = el("div", { class: "ramp" }, [el("span", { text: "输得多" }), el("b", {}), el("span", { text: "赢得多。少于 20 个回合的组合不显示。" })]);
+    key.querySelector("b").style.background = "linear-gradient(to right," + diverge(0.05, 0.45) + "," + diverge(0.5, 0.45) + "," + diverge(0.95, 0.45) + ")";
+    box.appendChild(key);
+
+    var pistol = find("pistol", "pistol"), fullEco = find("full", "eco"), halfFull = find("half", "full"), halfEco = find("half", "eco");
+    if (fullEco && halfFull) {
+      setText("f-economy", "全甲打经济局赢 <b>" + pct(fullEco.win_rate) + "</b>；半甲打全甲只赢 <b>" + pct(halfFull.win_rate) + "</b>。" +
+        (halfEco ? "半甲打经济局反而赢 " + pct(halfEco.win_rate) + "，这多半是赢下手枪局之后的第二回合，对手几乎没钱。" : "") +
+        (pistol ? "共 " + pistol.rounds / 2 + " 个手枪局。" : ""));
+    }
+  }
+
+  // ---------------------------------------------------------------- wiring
+  function renderAll(resetSlider) {
+    renderMaps(); renderAgents(); renderComps(); renderPlayers(resetSlider); renderTeams(); renderEconomy();
+  }
+
+  document.getElementById("comp-map").addEventListener("change", function (event) { state.compMap = event.target.value; renderComps(); });
+  document.getElementById("comp-sort").addEventListener("change", function (event) { state.compSort = event.target.value; renderComps(); });
+  document.getElementById("min-maps").addEventListener("input", function (event) { state.minMaps = Number(event.target.value); renderPlayers(false); });
+  document.getElementById("player-search").addEventListener("input", function () { renderPlayers(false); });
+
+  Promise.all(FILES.map(function (name) {
+    return fetch("data/stats/summary/" + name + ".csv").then(function (response) {
+      if (!response.ok) throw new Error(name);
+      return response.text();
+    }).then(function (text) { data[name] = parseCSV(text); });
+  })).then(function () {
+    data.years = Array.from(new Set(data.maps.map(function (r) { return r.year; }))).filter(function (y) { return y !== ALL; }).sort();
+    var tabs = document.getElementById("years");
+    [ALL].concat(data.years).forEach(function (y) {
+      var tab = el("button", { class: "tab", type: "button", "aria-pressed": String(y === year), text: y === ALL ? "六年合计" : y });
+      tab.addEventListener("click", function () {
+        year = y;
+        Array.prototype.forEach.call(tabs.children, function (other) { other.setAttribute("aria-pressed", String(other === tab)); });
+        renderAll(true);
+      });
+      tabs.appendChild(tab);
+    });
+    renderLede();
+    renderAll(true);
+  }).catch(function () {
+    setText("lede", "读取数据失败，刷新页面再试一次。原始表格仍然可以在 GitHub 的 data/stats 目录里下载。");
+  });
+})();
+</script>
+</body>
+</html>
