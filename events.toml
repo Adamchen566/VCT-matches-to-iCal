@@ -1,40 +1,29 @@
-# 订阅日历（vct_OnGoing.ics）的赛事配置。
-# 换赛事只改这个文件，不需要动代码；推送后 GitHub Actions 会自动重新生成日历。
-#
+# 订阅日历（vct_OnGoing.ics）的配置。改完推送，GitHub Actions 会自动重新生成日历。
+
+[calendar]
+name = "VCT Matches"
+display_timezone = "Australia/Sydney"
+# 赛事全部打完后，在订阅日历里再保留几天（方便看最终比分），之后自动归档到 Calendar_Files/
+keep_finished_days = 7
+
+# 自动发现：每次运行读取 vlr.gg 的赛事列表，自动跟踪进行中和即将开始的 VCT 一级赛事
+# （四大赛区的 Kickoff / Stage 1 / Stage 2、Masters、Champions），不需要每个赛季手动改配置。
+[discovery]
+enabled = true
+
+# 自动发现覆盖不到的赛事（预选赛、第三方赛事等）可以在这里手动添加，
 # 每个 [[events]] 对应 vlr.gg 上的一个赛事页：
 #   https://www.vlr.gg/event/matches/<event_id>/<slug>/
 #
-#   region       日历标题里的赛区标签，例如 [AMER]；国际赛可以写 "INTL"
+#   region       日历标题里的标签，例如 [CN]
 #   event_id     vlr.gg 赛事 ID（URL 里的数字）
 #   slug         vlr.gg 赛事 URL 里的名称部分
 #   name         赛事全称，写进日历事件的描述
-#   min_matches  可选，默认 0。赛程公布后可填已确认的场次数，
-#                抓到的场次少于它就拒绝覆盖现有日历
-
-[calendar]
-name = "VCT 2027 Kickoff - AMER PAC EMEA CN"
-display_timezone = "Australia/Sydney"
-
-[[events]]
-region = "AMER"
-event_id = 3178
-slug = "vct-2027-americas-kickoff"
-name = "VCT 2027: Americas Kickoff"
-
-[[events]]
-region = "PAC"
-event_id = 3181
-slug = "vct-2027-pacific-kickoff"
-name = "VCT 2027: Pacific Kickoff"
-
-[[events]]
-region = "EMEA"
-event_id = 3176
-slug = "vct-2027-emea-kickoff"
-name = "VCT 2027: EMEA Kickoff"
-
-[[events]]
-region = "CN"
-event_id = 3182
-slug = "vct-2027-china-kickoff"
-name = "VCT 2027: China Kickoff"
+#   min_matches  可选，默认 0。抓到的场次少于它就拒绝覆盖现有日历
+#   archive      可选，归档文件名（不含扩展名），默认根据赛事名生成
+#
+# [[events]]
+# region = "CN"
+# event_id = 2894
+# slug = "china-evolution-series-2026-act-1"
+# name = "China Evolution Series 2026: Act 1"

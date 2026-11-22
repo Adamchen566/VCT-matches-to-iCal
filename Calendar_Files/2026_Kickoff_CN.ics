@@ -1,0 +1,549 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VCT 2026: China Kickoff
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Wolves Esports
+DTSTART:20260122T090000Z
+DTEND:20260122T120000Z
+DTSTAMP:20260122T120000Z
+UID:vlr-598923@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 1 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/598923/tra
+ ce-esports-vs-wolves-esports-vct-2026-china-kickoff-ur1
+LAST-MODIFIED:20260122T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598923/trace-esports-vs-wolves-esports-vct-2026-chi
+ na-kickoff-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs TYLOO
+DTSTART:20260122T122500Z
+DTEND:20260122T152500Z
+DTSTAMP:20260122T152500Z
+UID:vlr-598924@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/598924/fun
+ plus-phoenix-vs-tyloo-vct-2026-china-kickoff-ur1
+LAST-MODIFIED:20260122T152500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598924/funplus-phoenix-vs-tyloo-vct-2026-china-kick
+ off-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Nova Esports
+DTSTART:20260123T090000Z
+DTEND:20260123T120000Z
+DTSTAMP:20260123T120000Z
+UID:vlr-598921@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 1 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/598921/all
+ -gamers-vs-nova-esports-vct-2026-china-kickoff-ur1
+LAST-MODIFIED:20260123T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598921/all-gamers-vs-nova-esports-vct-2026-china-ki
+ ckoff-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs Titan Esports Club
+DTSTART:20260123T115500Z
+DTEND:20260123T145500Z
+DTSTAMP:20260123T145500Z
+UID:vlr-598922@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 1 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598922/jdg
+ -esports-vs-titan-esports-club-vct-2026-china-kickoff-ur1
+LAST-MODIFIED:20260123T145500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598922/jdg-esports-vs-titan-esports-club-vct-2026-c
+ hina-kickoff-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Wolves Esports
+DTSTART:20260124T090000Z
+DTEND:20260124T120000Z
+DTSTAMP:20260124T120000Z
+UID:vlr-598927@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 2 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/598927/xi-
+ lai-gaming-vs-wolves-esports-vct-2026-china-kickoff-ur2
+LAST-MODIFIED:20260124T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598927/xi-lai-gaming-vs-wolves-esports-vct-2026-chi
+ na-kickoff-ur2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs TYLOO
+DTSTART:20260124T113500Z
+DTEND:20260124T143500Z
+DTSTAMP:20260124T143500Z
+UID:vlr-598928@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 2 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/598928/edw
+ ard-gaming-vs-tyloo-vct-2026-china-kickoff-ur2
+LAST-MODIFIED:20260124T143500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598928/edward-gaming-vs-tyloo-vct-2026-china-kickof
+ f-ur2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Bilibili Gaming vs All Gamers
+DTSTART:20260125T090000Z
+DTEND:20260125T120000Z
+DTSTAMP:20260125T120000Z
+UID:vlr-598925@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 2 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/598925/bil
+ ibili-gaming-vs-all-gamers-vct-2026-china-kickoff-ur2
+LAST-MODIFIED:20260125T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598925/bilibili-gaming-vs-all-gamers-vct-2026-china
+ -kickoff-ur2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs JD Gaming
+DTSTART:20260125T113000Z
+DTEND:20260125T143000Z
+DTSTAMP:20260125T143000Z
+UID:vlr-598926@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 2 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598926/dra
+ gon-ranger-gaming-vs-jdg-esports-vct-2026-china-kickoff-ur2
+LAST-MODIFIED:20260125T143000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598926/dragon-ranger-gaming-vs-jdg-esports-vct-2026
+ -china-kickoff-ur2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs TYLOO
+DTSTART:20260128T090000Z
+DTEND:20260128T120000Z
+DTSTAMP:20260128T120000Z
+UID:vlr-598932@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/598932/no
+ va-esports-vs-tyloo-vct-2026-china-kickoff-mr1
+LAST-MODIFIED:20260128T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598932/nova-esports-vs-tyloo-vct-2026-china-kickoff
+ -mr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs Wolves Esports
+DTSTART:20260128T110000Z
+DTEND:20260128T140000Z
+DTSTAMP:20260128T140000Z
+UID:vlr-598933@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 1 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598933/ti
+ tan-esports-club-vs-wolves-esports-vct-2026-china-kickoff-mr1
+LAST-MODIFIED:20260128T140000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598933/titan-esports-club-vs-wolves-esports-vct-202
+ 6-china-kickoff-mr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs JD Gaming
+DTSTART:20260129T090000Z
+DTEND:20260129T120000Z
+DTSTAMP:20260129T120000Z
+UID:vlr-598934@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 1 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598934/tr
+ ace-esports-vs-jdg-esports-vct-2026-china-kickoff-mr1
+LAST-MODIFIED:20260129T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598934/trace-esports-vs-jdg-esports-vct-2026-china-
+ kickoff-mr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs Bilibili Gaming
+DTSTART:20260129T121000Z
+DTEND:20260129T151000Z
+DTSTAMP:20260129T151000Z
+UID:vlr-598935@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 1 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/598935/fu
+ nplus-phoenix-vs-bilibili-gaming-vct-2026-china-kickoff-mr1
+LAST-MODIFIED:20260129T151000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598935/funplus-phoenix-vs-bilibili-gaming-vct-2026-
+ china-kickoff-mr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Titan Esports Club
+DTSTART:20260130T090000Z
+DTEND:20260130T120000Z
+DTSTAMP:20260130T120000Z
+UID:vlr-598936@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 2 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598936/ty
+ loo-vs-titan-esports-club-vct-2026-china-kickoff-mr2
+LAST-MODIFIED:20260130T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598936/tyloo-vs-titan-esports-club-vct-2026-china-k
+ ickoff-mr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Bilibili Gaming
+DTSTART:20260130T122500Z
+DTEND:20260130T152500Z
+DTSTAMP:20260130T152500Z
+UID:vlr-598937@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 2 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/598937/tr
+ ace-esports-vs-bilibili-gaming-vct-2026-china-kickoff-mr2
+LAST-MODIFIED:20260130T152500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598937/trace-esports-vs-bilibili-gaming-vct-2026-ch
+ ina-kickoff-mr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs Wolves Esports
+DTSTART:20260131T090000Z
+DTEND:20260131T120000Z
+DTSTAMP:20260131T120000Z
+UID:vlr-598942@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 1 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/598942/nov
+ a-esports-vs-wolves-esports-vct-2026-china-kickoff-lr1
+LAST-MODIFIED:20260131T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598942/nova-esports-vs-wolves-esports-vct-2026-chin
+ a-kickoff-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Dragon Ranger Gaming
+DTSTART:20260131T121000Z
+DTEND:20260131T151000Z
+DTSTAMP:20260131T151000Z
+UID:vlr-598929@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 3 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598929/all
+ -gamers-vs-dragon-ranger-gaming-vct-2026-china-kickoff-ur3
+LAST-MODIFIED:20260131T151000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598929/all-gamers-vs-dragon-ranger-gaming-vct-2026-
+ china-kickoff-ur3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs FunPlus Phoenix
+DTSTART:20260201T090000Z
+DTEND:20260201T120000Z
+DTSTAMP:20260201T120000Z
+UID:vlr-598943@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 1 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598943/jdg
+ -esports-vs-funplus-phoenix-vct-2026-china-kickoff-lr1
+LAST-MODIFIED:20260201T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598943/jdg-esports-vs-funplus-phoenix-vct-2026-chin
+ a-kickoff-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs EDward Gaming
+DTSTART:20260201T120000Z
+DTEND:20260201T150000Z
+DTSTAMP:20260201T150000Z
+UID:vlr-598930@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Round 3 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/598930/xi-
+ lai-gaming-vs-edward-gaming-vct-2026-china-kickoff-ur3
+LAST-MODIFIED:20260201T150000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598930/xi-lai-gaming-vs-edward-gaming-vct-2026-chin
+ a-kickoff-ur3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Wolves Esports
+DTSTART:20260203T090000Z
+DTEND:20260203T120000Z
+DTSTAMP:20260203T120000Z
+UID:vlr-598944@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 2 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598944/tra
+ ce-esports-vs-wolves-esports-vct-2026-china-kickoff-lr2
+LAST-MODIFIED:20260203T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598944/trace-esports-vs-wolves-esports-vct-2026-chi
+ na-kickoff-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs TYLOO
+DTSTART:20260203T123000Z
+DTEND:20260203T153000Z
+DTSTAMP:20260203T153000Z
+UID:vlr-598938@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 3 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598938/dr
+ agon-ranger-gaming-vs-tyloo-vct-2026-china-kickoff-mr3
+LAST-MODIFIED:20260203T153000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598938/dragon-ranger-gaming-vs-tyloo-vct-2026-china
+ -kickoff-mr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs JD Gaming
+DTSTART:20260204T090000Z
+DTEND:20260204T120000Z
+DTSTAMP:20260204T120000Z
+UID:vlr-598945@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 2 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/598945/tit
+ an-esports-club-vs-jdg-esports-vct-2026-china-kickoff-lr2
+LAST-MODIFIED:20260204T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598945/titan-esports-club-vs-jdg-esports-vct-2026-c
+ hina-kickoff-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Bilibili Gaming
+DTSTART:20260204T122000Z
+DTEND:20260204T152000Z
+DTSTAMP:20260204T152000Z
+UID:vlr-598939@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 3 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/598939/ed
+ ward-gaming-vs-bilibili-gaming-vct-2026-china-kickoff-mr3
+LAST-MODIFIED:20260204T152000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598939/edward-gaming-vs-bilibili-gaming-vct-2026-ch
+ ina-kickoff-mr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Trace Esports
+DTSTART:20260205T090000Z
+DTEND:20260205T120000Z
+DTSTAMP:20260205T120000Z
+UID:vlr-598946@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 3 Main Event\n比分：2:0\nVLR：https://www.vlr.gg/598946/tyl
+ oo-vs-trace-esports-vct-2026-china-kickoff-lr3
+LAST-MODIFIED:20260205T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598946/tyloo-vs-trace-esports-vct-2026-china-kickof
+ f-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs JD Gaming
+DTSTART:20260205T112500Z
+DTEND:20260205T142500Z
+DTSTAMP:20260205T142500Z
+UID:vlr-598947@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 3 Main Event\n比分：2:1\nVLR：https://www.vlr.gg/598947/edw
+ ard-gaming-vs-jdg-esports-vct-2026-china-kickoff-lr3
+LAST-MODIFIED:20260205T142500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598947/edward-gaming-vs-jdg-esports-vct-2026-china-
+ kickoff-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Bilibili Gaming
+DTSTART:20260206T090000Z
+DTEND:20260206T120000Z
+DTSTAMP:20260206T120000Z
+UID:vlr-598940@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Round 4 Main Event\n比分：0:2\nVLR：https://www.vlr.gg/598940/dr
+ agon-ranger-gaming-vs-bilibili-gaming-vct-2026-china-kickoff-mr4
+LAST-MODIFIED:20260206T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598940/dragon-ranger-gaming-vs-bilibili-gaming-vct-
+ 2026-china-kickoff-mr4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs EDward Gaming
+DTSTART:20260206T110000Z
+DTEND:20260206T140000Z
+DTSTAMP:20260206T140000Z
+UID:vlr-598948@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 4 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/598948/tyl
+ oo-vs-edward-gaming-vct-2026-china-kickoff-lr4
+LAST-MODIFIED:20260206T140000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598948/tyloo-vs-edward-gaming-vct-2026-china-kickof
+ f-lr4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs EDward Gaming
+DTSTART:20260207T070000Z
+DTEND:20260207T100000Z
+DTSTAMP:20260207T100000Z
+UID:vlr-598949@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Round 5 Main Event\n比分：1:2\nVLR：https://www.vlr.gg/598949/dra
+ gon-ranger-gaming-vs-edward-gaming-vct-2026-china-kickoff-lr5
+LAST-MODIFIED:20260207T100000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598949/dragon-ranger-gaming-vs-edward-gaming-vct-20
+ 26-china-kickoff-lr5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Xi Lai Gaming
+DTSTART:20260207T101000Z
+DTEND:20260207T131000Z
+DTSTAMP:20260207T131000Z
+UID:vlr-598931@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Upper
+  Final Main Event\n比分：3:2\nVLR：https://www.vlr.gg/598931/all-ga
+ mers-vs-xi-lai-gaming-vct-2026-china-kickoff-ubf
+LAST-MODIFIED:20260207T131000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598931/all-gamers-vs-xi-lai-gaming-vct-2026-china-k
+ ickoff-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Bilibili Gaming
+DTSTART:20260208T090000Z
+DTEND:20260208T120000Z
+DTSTAMP:20260208T120000Z
+UID:vlr-598941@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Middl
+ e Final Main Event\n比分：3:2\nVLR：https://www.vlr.gg/598941/xi-la
+ i-gaming-vs-bilibili-gaming-vct-2026-china-kickoff-mbf
+LAST-MODIFIED:20260208T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598941/xi-lai-gaming-vs-bilibili-gaming-vct-2026-ch
+ ina-kickoff-mbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Bilibili Gaming vs EDward Gaming
+DTSTART:20260209T090000Z
+DTEND:20260209T120000Z
+DTSTAMP:20260209T120000Z
+UID:vlr-598950@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Kickoff,CN
+DESCRIPTION:VCT 2026: China Kickoff\n状态：Completed\n阶段：Lower
+  Final Main Event\n比分：1:3\nVLR：https://www.vlr.gg/598950/bilibi
+ li-gaming-vs-edward-gaming-vct-2026-china-kickoff-lbf
+LAST-MODIFIED:20260209T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/598950/bilibili-gaming-vs-edward-gaming-vct-2026-ch
+ ina-kickoff-lbf
+END:VEVENT
+END:VCALENDAR

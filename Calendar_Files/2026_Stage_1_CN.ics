@@ -1,0 +1,873 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VCT 2026: China Stage 1
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs All Gamers
+DTSTART:20260331T090000Z
+DTEND:20260331T120000Z
+DTSTAMP:20260331T120000Z
+UID:vlr-642914@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642914/titan-esp
+ orts-club-vs-all-gamers-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260331T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642914/titan-esports-club-vs-all-gamers-vct-2026-ch
+ ina-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs EDward Gaming
+DTSTART:20260331T123000Z
+DTEND:20260331T153000Z
+DTSTAMP:20260331T153000Z
+UID:vlr-642915@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642915/nova-espo
+ rts-vs-edward-gaming-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260331T153000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642915/nova-esports-vs-edward-gaming-vct-2026-china
+ -stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs FunPlus Phoenix
+DTSTART:20260401T090000Z
+DTEND:20260401T120000Z
+DTSTAMP:20260401T120000Z
+UID:vlr-642916@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/642916/jdg-espor
+ ts-vs-funplus-phoenix-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260401T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642916/jdg-esports-vs-funplus-phoenix-vct-2026-chin
+ a-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Xi Lai Gaming
+DTSTART:20260401T121000Z
+DTEND:20260401T151000Z
+DTSTAMP:20260401T151000Z
+UID:vlr-642917@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642917/dragon-ra
+ nger-gaming-vs-xi-lai-gaming-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260401T151000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642917/dragon-ranger-gaming-vs-xi-lai-gaming-vct-20
+ 26-china-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Wolves Esports vs Trace Esports
+DTSTART:20260402T090000Z
+DTEND:20260402T120000Z
+DTSTAMP:20260402T120000Z
+UID:vlr-642918@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642918/wolves-es
+ ports-vs-trace-esports-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260402T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642918/wolves-esports-vs-trace-esports-vct-2026-chi
+ na-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Bilibili Gaming vs TYLOO
+DTSTART:20260402T113000Z
+DTEND:20260402T143000Z
+DTSTAMP:20260402T143000Z
+UID:vlr-642919@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642919/bilibili-
+ gaming-vs-tyloo-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260402T143000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642919/bilibili-gaming-vs-tyloo-vct-2026-china-stag
+ e-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Nova Esports
+DTSTART:20260403T090000Z
+DTEND:20260403T120000Z
+DTSTAMP:20260403T120000Z
+UID:vlr-642920@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642920/dragon-ra
+ nger-gaming-vs-nova-esports-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260403T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642920/dragon-ranger-gaming-vs-nova-esports-vct-202
+ 6-china-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs All Gamers
+DTSTART:20260403T111000Z
+DTEND:20260403T141000Z
+DTSTAMP:20260403T141000Z
+UID:vlr-642921@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642921/funplus-p
+ hoenix-vs-all-gamers-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260403T141000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642921/funplus-phoenix-vs-all-gamers-vct-2026-china
+ -stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Titan Esports Club
+DTSTART:20260404T090000Z
+DTEND:20260404T120000Z
+DTSTAMP:20260404T120000Z
+UID:vlr-642922@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642922/tyloo-vs-
+ titan-esports-club-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260404T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642922/tyloo-vs-titan-esports-club-vct-2026-china-s
+ tage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Wolves Esports vs EDward Gaming
+DTSTART:20260404T113000Z
+DTEND:20260404T143000Z
+DTSTAMP:20260404T143000Z
+UID:vlr-642923@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642923/wolves-es
+ ports-vs-edward-gaming-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260404T143000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642923/wolves-esports-vs-edward-gaming-vct-2026-chi
+ na-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Xi Lai Gaming
+DTSTART:20260405T090000Z
+DTEND:20260405T120000Z
+DTSTAMP:20260405T120000Z
+UID:vlr-642924@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642924/trace-esp
+ orts-vs-xi-lai-gaming-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260405T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642924/trace-esports-vs-xi-lai-gaming-vct-2026-chin
+ a-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Bilibili Gaming vs JD Gaming
+DTSTART:20260405T122500Z
+DTEND:20260405T152500Z
+DTSTAMP:20260405T152500Z
+UID:vlr-642925@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642925/bilibili-
+ gaming-vs-jdg-esports-vct-2026-china-stage-1-w1
+LAST-MODIFIED:20260405T152500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642925/bilibili-gaming-vs-jdg-esports-vct-2026-chin
+ a-stage-1-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs TYLOO
+DTSTART:20260407T090000Z
+DTEND:20260407T120000Z
+DTSTAMP:20260407T120000Z
+UID:vlr-642927@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/642927/funplus-p
+ hoenix-vs-tyloo-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260407T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642927/funplus-phoenix-vs-tyloo-vct-2026-china-stag
+ e-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs Bilibili Gaming
+DTSTART:20260407T123000Z
+DTEND:20260407T153000Z
+DTSTAMP:20260407T153000Z
+UID:vlr-642928@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642928/titan-esp
+ orts-club-vs-bilibili-gaming-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260407T153000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642928/titan-esports-club-vs-bilibili-gaming-vct-20
+ 26-china-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Nova Esports
+DTSTART:20260408T090000Z
+DTEND:20260408T120000Z
+DTSTAMP:20260408T120000Z
+UID:vlr-642929@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642929/xi-lai-ga
+ ming-vs-nova-esports-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260408T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642929/xi-lai-gaming-vs-nova-esports-vct-2026-china
+ -stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Trace Esports
+DTSTART:20260408T113000Z
+DTEND:20260408T143000Z
+DTSTAMP:20260408T143000Z
+UID:vlr-642930@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642930/edward-ga
+ ming-vs-trace-esports-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260408T143000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642930/edward-gaming-vs-trace-esports-vct-2026-chin
+ a-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs All Gamers
+DTSTART:20260409T090000Z
+DTEND:20260409T120000Z
+DTSTAMP:20260409T120000Z
+UID:vlr-642931@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642931/jdg-espor
+ ts-vs-all-gamers-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260409T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642931/jdg-esports-vs-all-gamers-vct-2026-china-sta
+ ge-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Dragon Ranger Gaming vs Wolves Esports
+DTSTART:20260409T112500Z
+DTEND:20260409T142500Z
+DTSTAMP:20260409T142500Z
+UID:vlr-642932@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/642932/dragon-ra
+ nger-gaming-vs-wolves-esports-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260409T142500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642932/dragon-ranger-gaming-vs-wolves-esports-vct-2
+ 026-china-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs Trace Esports
+DTSTART:20260410T090000Z
+DTEND:20260410T120000Z
+DTSTAMP:20260410T120000Z
+UID:vlr-642933@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642933/nova-espo
+ rts-vs-trace-esports-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260410T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642933/nova-esports-vs-trace-esports-vct-2026-china
+ -stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] FunPlus Phoenix vs Bilibili Gaming
+DTSTART:20260410T113000Z
+DTEND:20260410T143000Z
+DTSTAMP:20260410T143000Z
+UID:vlr-642934@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642934/funplus-p
+ hoenix-vs-bilibili-gaming-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260410T143000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642934/funplus-phoenix-vs-bilibili-gaming-vct-2026-
+ china-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs TYLOO
+DTSTART:20260411T090000Z
+DTEND:20260411T120000Z
+DTSTAMP:20260411T120000Z
+UID:vlr-642935@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642935/all-gamer
+ s-vs-tyloo-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260411T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642935/all-gamers-vs-tyloo-vct-2026-china-stage-1-w
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Dragon Ranger Gaming
+DTSTART:20260411T121500Z
+DTEND:20260411T151500Z
+DTSTAMP:20260411T151500Z
+UID:vlr-642936@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/642936/edward-ga
+ ming-vs-dragon-ranger-gaming-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260411T151500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642936/edward-gaming-vs-dragon-ranger-gaming-vct-20
+ 26-china-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs Titan Esports Club
+DTSTART:20260412T090000Z
+DTEND:20260412T120000Z
+DTSTAMP:20260412T120000Z
+UID:vlr-642937@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642937/jdg-espor
+ ts-vs-titan-esports-club-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260412T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642937/jdg-esports-vs-titan-esports-club-vct-2026-c
+ hina-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Wolves Esports
+DTSTART:20260412T113500Z
+DTEND:20260412T143500Z
+DTSTAMP:20260412T143500Z
+UID:vlr-642938@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/642938/xi-lai-ga
+ ming-vs-wolves-esports-vct-2026-china-stage-1-w2
+LAST-MODIFIED:20260412T143500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642938/xi-lai-gaming-vs-wolves-esports-vct-2026-chi
+ na-stage-1-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs JD Gaming
+DTSTART:20260414T090000Z
+DTEND:20260414T120000Z
+DTSTAMP:20260414T120000Z
+UID:vlr-642939@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/642939/tyloo-vs-
+ jdg-esports-vct-2026-china-stage-1-w3
+LAST-MODIFIED:20260414T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642939/tyloo-vs-jdg-esports-vct-2026-china-stage-1-
+ w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Dragon Ranger Gaming
+DTSTART:20260414T115500Z
+DTEND:20260414T145500Z
+DTSTAMP:20260414T145500Z
+UID:vlr-642940@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642940/trace-esp
+ orts-vs-dragon-ranger-gaming-vct-2026-china-stage-1-w3
+LAST-MODIFIED:20260414T145500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642940/trace-esports-vs-dragon-ranger-gaming-vct-20
+ 26-china-stage-1-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs FunPlus Phoenix
+DTSTART:20260415T090000Z
+DTEND:20260415T120000Z
+DTSTAMP:20260415T120000Z
+UID:vlr-642941@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642941/titan-esp
+ orts-club-vs-funplus-phoenix-vct-2026-china-stage-1-w3
+LAST-MODIFIED:20260415T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642941/titan-esports-club-vs-funplus-phoenix-vct-20
+ 26-china-stage-1-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Bilibili Gaming
+DTSTART:20260415T110500Z
+DTEND:20260415T140500Z
+DTSTAMP:20260415T140500Z
+UID:vlr-642942@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/642942/all-gamer
+ s-vs-bilibili-gaming-vct-2026-china-stage-1-w3
+LAST-MODIFIED:20260415T140500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642942/all-gamers-vs-bilibili-gaming-vct-2026-china
+ -stage-1-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Nova Esports vs Wolves Esports
+DTSTART:20260416T090000Z
+DTEND:20260416T120000Z
+DTSTAMP:20260416T120000Z
+UID:vlr-642943@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642943/nova-espo
+ rts-vs-wolves-esports-vct-2026-china-stage-1-w3
+LAST-MODIFIED:20260416T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642943/nova-esports-vs-wolves-esports-vct-2026-chin
+ a-stage-1-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Xi Lai Gaming
+DTSTART:20260416T111500Z
+DTEND:20260416T141500Z
+DTSTAMP:20260416T141500Z
+UID:vlr-642944@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642944/edward-ga
+ ming-vs-xi-lai-gaming-vct-2026-china-stage-1-w3
+LAST-MODIFIED:20260416T141500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642944/edward-gaming-vs-xi-lai-gaming-vct-2026-chin
+ a-stage-1-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] TYLOO vs Dragon Ranger Gaming
+DTSTART:20260418T090000Z
+DTEND:20260418T120000Z
+DTSTAMP:20260418T120000Z
+UID:vlr-642947@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/642947/tyloo-vs-
+ dragon-ranger-gaming-vct-2026-china-stage-1-seeding
+LAST-MODIFIED:20260418T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642947/tyloo-vs-dragon-ranger-gaming-vct-2026-china
+ -stage-1-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs EDward Gaming
+DTSTART:20260418T111500Z
+DTEND:20260418T141500Z
+DTSTAMP:20260418T141500Z
+UID:vlr-642946@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642946/jdg-espor
+ ts-vs-edward-gaming-vct-2026-china-stage-1-seeding
+LAST-MODIFIED:20260418T141500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642946/jdg-esports-vs-edward-gaming-vct-2026-china-
+ stage-1-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs Trace Esports
+DTSTART:20260419T090000Z
+DTEND:20260419T120000Z
+DTSTAMP:20260419T120000Z
+UID:vlr-642948@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642948/titan-esp
+ orts-club-vs-trace-esports-vct-2026-china-stage-1-seeding
+LAST-MODIFIED:20260419T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642948/titan-esports-club-vs-trace-esports-vct-2026
+ -china-stage-1-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Xi Lai Gaming
+DTSTART:20260419T122500Z
+DTEND:20260419T152500Z
+DTSTAMP:20260419T152500Z
+UID:vlr-642945@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Seed
+ ing Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/642945/all-gamer
+ s-vs-xi-lai-gaming-vct-2026-china-stage-1-seeding
+LAST-MODIFIED:20260419T152500Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/642945/all-gamers-vs-xi-lai-gaming-vct-2026-china-s
+ tage-1-seeding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Titan Esports Club
+DTSTART:20260501T090000Z
+DTEND:20260501T120000Z
+DTSTAMP:20260501T120000Z
+UID:vlr-659474@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Quarterfinals Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/659474/
+ xi-lai-gaming-vs-titan-esports-club-vct-2026-china-stage-1-ubqf
+LAST-MODIFIED:20260501T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659474/xi-lai-gaming-vs-titan-esports-club-vct-2026
+ -china-stage-1-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs TYLOO
+DTSTART:20260501T112000Z
+DTEND:20260501T142000Z
+DTSTAMP:20260501T142000Z
+UID:vlr-659475@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Quarterfinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/659475/
+ jdg-esports-vs-tyloo-vct-2026-china-stage-1-ubqf
+LAST-MODIFIED:20260501T142000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659475/jdg-esports-vs-tyloo-vct-2026-china-stage-1-
+ ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Trace Esports
+DTSTART:20260502T090000Z
+DTEND:20260502T120000Z
+DTSTAMP:20260502T120000Z
+UID:vlr-659476@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Quarterfinals Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/659476/
+ all-gamers-vs-trace-esports-vct-2026-china-stage-1-ubqf
+LAST-MODIFIED:20260502T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659476/all-gamers-vs-trace-esports-vct-2026-china-s
+ tage-1-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Dragon Ranger Gaming
+DTSTART:20260502T111000Z
+DTEND:20260502T141000Z
+DTSTAMP:20260502T141000Z
+UID:vlr-659477@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Quarterfinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/659477/
+ edward-gaming-vs-dragon-ranger-gaming-vct-2026-china-stage-1-ubqf
+LAST-MODIFIED:20260502T141000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659477/edward-gaming-vs-dragon-ranger-gaming-vct-20
+ 26-china-stage-1-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Titan Esports Club vs TYLOO
+DTSTART:20260503T090000Z
+DTEND:20260503T120000Z
+DTSTAMP:20260503T120000Z
+UID:vlr-659482@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Lowe
+ r Round 1 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/659482/titan
+ -esports-club-vs-tyloo-vct-2026-china-stage-1-lr1
+LAST-MODIFIED:20260503T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659482/titan-esports-club-vs-tyloo-vct-2026-china-s
+ tage-1-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Trace Esports vs Dragon Ranger Gaming
+DTSTART:20260503T123000Z
+DTEND:20260503T153000Z
+DTSTAMP:20260503T153000Z
+UID:vlr-659483@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Lowe
+ r Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/659483/trace
+ -esports-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr1
+LAST-MODIFIED:20260503T153000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659483/trace-esports-vs-dragon-ranger-gaming-vct-20
+ 26-china-stage-1-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs JD Gaming
+DTSTART:20260504T090000Z
+DTEND:20260504T120000Z
+DTSTAMP:20260504T120000Z
+UID:vlr-659478@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Semifinals Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/659478/xi-
+ lai-gaming-vs-jdg-esports-vct-2026-china-stage-1-ubsf
+LAST-MODIFIED:20260504T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659478/xi-lai-gaming-vs-jdg-esports-vct-2026-china-
+ stage-1-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs EDward Gaming
+DTSTART:20260504T110000Z
+DTEND:20260504T140000Z
+DTSTAMP:20260504T140000Z
+UID:vlr-659479@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Semifinals Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/659479/all
+ -gamers-vs-edward-gaming-vct-2026-china-stage-1-ubsf
+LAST-MODIFIED:20260504T140000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659479/all-gamers-vs-edward-gaming-vct-2026-china-s
+ tage-1-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] JD Gaming vs Dragon Ranger Gaming
+DTSTART:20260505T090000Z
+DTEND:20260505T120000Z
+DTSTAMP:20260505T120000Z
+UID:vlr-659485@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Lowe
+ r Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/659485/jdg-e
+ sports-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr2
+LAST-MODIFIED:20260505T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659485/jdg-esports-vs-dragon-ranger-gaming-vct-2026
+ -china-stage-1-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs TYLOO
+DTSTART:20260505T110000Z
+DTEND:20260505T140000Z
+DTSTAMP:20260505T140000Z
+UID:vlr-659484@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Lowe
+ r Round 2 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/659484/all-g
+ amers-vs-tyloo-vct-2026-china-stage-1-lr2
+LAST-MODIFIED:20260505T140000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659484/all-gamers-vs-tyloo-vct-2026-china-stage-1-l
+ r2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs EDward Gaming
+DTSTART:20260508T090000Z
+DTEND:20260508T120000Z
+DTSTAMP:20260508T120000Z
+UID:vlr-659480@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Uppe
+ r Final Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/659480/xi-lai-g
+ aming-vs-edward-gaming-vct-2026-china-stage-1-ubf
+LAST-MODIFIED:20260508T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659480/xi-lai-gaming-vs-edward-gaming-vct-2026-chin
+ a-stage-1-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] All Gamers vs Dragon Ranger Gaming
+DTSTART:20260508T111000Z
+DTEND:20260508T141000Z
+DTSTAMP:20260508T141000Z
+UID:vlr-659486@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Lowe
+ r Round 3 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/659486/all-g
+ amers-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr3
+LAST-MODIFIED:20260508T141000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659486/all-gamers-vs-dragon-ranger-gaming-vct-2026-
+ china-stage-1-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] Xi Lai Gaming vs Dragon Ranger Gaming
+DTSTART:20260509T090000Z
+DTEND:20260509T120000Z
+DTSTAMP:20260509T120000Z
+UID:vlr-659487@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Lowe
+ r Final Playoffs\n比分：3:1\nVLR：https://www.vlr.gg/659487/xi-lai-g
+ aming-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lbf
+LAST-MODIFIED:20260509T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659487/xi-lai-gaming-vs-dragon-ranger-gaming-vct-20
+ 26-china-stage-1-lbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CN] EDward Gaming vs Xi Lai Gaming
+DTSTART:20260510T090000Z
+DTEND:20260510T120000Z
+DTSTAMP:20260510T120000Z
+UID:vlr-659481@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: China Stage 1,CN
+DESCRIPTION:VCT 2026: China Stage 1\n状态：Completed\n阶段：Gran
+ d Final Playoffs\n比分：3:2\nVLR：https://www.vlr.gg/659481/edward-g
+ aming-vs-xi-lai-gaming-vct-2026-china-stage-1-gf
+LAST-MODIFIED:20260510T120000Z
+LOCATION:VCT CN
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/659481/edward-gaming-vs-xi-lai-gaming-vct-2026-chin
+ a-stage-1-gf
+END:VEVENT
+END:VCALENDAR

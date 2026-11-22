@@ -8,7 +8,7 @@
 
 This project is a Python-based crawler and GUI viewer for **Valorant** match data from [VLR.gg](https://www.vlr.gg). It supports calendar export (`.ics`), interactive GUI views (table, card, heatmap), and match tracking across regions and years.
 
-The events tracked by the subscription calendar are defined in [`events.toml`](events.toml), so switching events needs no code changes. It is currently set to **VCT 2027 Kickoff** in AMER, PAC, EMEA, and CN (matches appear automatically once VLR publishes the schedule). GitHub Actions refreshes it every day at **14:00 Australia/Sydney**, with daylight-saving changes handled by the named timezone.
+The subscription calendar **auto-discovers** ongoing and upcoming tier-1 VCT events on vlr.gg, so nothing needs editing between seasons. It covers Kickoff / Stage 1 / Stage 2 in AMER, PAC, EMEA, and CN, plus Masters and Champions. GitHub Actions refreshes it every day at **14:00 Australia/Sydney**, with daylight-saving changes handled by the named timezone.
 
 ---
 
@@ -44,7 +44,7 @@ python GUI.py
 
 Subscribe to the automatically updated calendar:
 
-- **Current events (VCT 2027 Kickoff — AMER, PAC, EMEA, and CN)**:
+- **Current events (ongoing and upcoming VCT events, tracked automatically)**:
 
   https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
 
@@ -84,25 +84,18 @@ Generated files:
 - `vct_OnGoing.txt`: readable schedule in Australia/Sydney time
 - `data/matches.json`: match cache used for stable updates
 
-### 🔁 Switching events
+### 🔁 Event tracking and archiving
 
-Edit `events.toml`. Each `[[events]]` entry maps to one event page on vlr.gg (`https://www.vlr.gg/event/matches/<event_id>/<slug>/`):
+- **Auto-discovery**: every run reads the vlr.gg events list and follows ongoing and upcoming tier-1 VCT events. Matches show up in the subscription calendar as soon as VLR publishes the schedule.
+- **Auto-archiving**: once every match of an event is completed and the last one ended 7 days ago, the event leaves the subscription calendar and is archived to `Calendar_Files/` (calendar), `TEXT_Files/` (readable text) and `data/archive/` (data), for example `2026_Champions_Global.ics` or `2026_Stage_2_CN.ics`.
+- **Manual events**: discovery only recognises tier-1 events. Qualifiers or third-party events can be added with `[[events]]` in [`events.toml`](events.toml), which also holds the grace period and display timezone.
+- **Backfilling**: an already finished event can be scraped straight into the archive:
 
-```toml
-[calendar]
-name = "VCT 2027 Kickoff - AMER PAC EMEA CN"
-display_timezone = "Australia/Sydney"
+  ```bash
+  python update_calendar.py --archive 2766/valorant-champions-2026
+  ```
 
-[[events]]
-region = "AMER"
-event_id = 3178
-slug = "vct-2027-americas-kickoff"
-name = "VCT 2027: Americas Kickoff"
-```
-
-After a push, GitHub Actions regenerates the calendar and the subscription URL stays the same. If an event returns fewer matches than the last published run, the script refuses to overwrite the calendar; use `python update_calendar.py --allow-shrink` when VLR really removed a match.
-
-Finished events are archived in `Calendar_Files/` (for example `2026_Stage_2_All.ics`).
+If an event returns fewer matches than the last published run, the script refuses to overwrite the calendar; use `python update_calendar.py --allow-shrink` when VLR really removed a match.
 
 ---
 

@@ -1,0 +1,1086 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VCT 2026: EMEA Stage 2
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Natus Vincere
+DTSTART:20260715T150000Z
+DTEND:20260715T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712803@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712803/fut-espor
+ ts-vs-natus-vincere-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712803/fut-esports-vs-natus-vincere-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs Eternal Fire
+DTSTART:20260715T171000Z
+DTEND:20260715T201000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712804@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712804/team-liqu
+ id-vs-eternal-fire-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712804/team-liquid-vs-eternal-fire-vct-2026-emea-st
+ age-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs GIANTX
+DTSTART:20260716T150000Z
+DTEND:20260716T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712805@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712805/fnatic-vs
+ -giantx-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712805/fnatic-vs-giantx-vct-2026-emea-stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] PCIFIC Esports vs Gentle Mates
+DTSTART:20260716T173500Z
+DTEND:20260716T203500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712806@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/712806/pcific-es
+ ports-vs-gentle-mates-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712806/pcific-esports-vs-gentle-mates-vct-2026-emea
+ -stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Karmine Corp vs Eternal Fire
+DTSTART:20260717T150000Z
+DTEND:20260717T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712807@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712807/karmine-c
+ orp-vs-eternal-fire-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712807/karmine-corp-vs-eternal-fire-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Vitality vs Natus Vincere
+DTSTART:20260717T172500Z
+DTEND:20260717T202500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712808@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712808/team-vita
+ lity-vs-natus-vincere-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712808/team-vitality-vs-natus-vincere-vct-2026-emea
+ -stage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs FUT Esports
+DTSTART:20260718T150000Z
+DTEND:20260718T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712809@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712809/gentle-ma
+ tes-vs-fut-esports-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712809/gentle-mates-vs-fut-esports-vct-2026-emea-st
+ age-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Heretics vs Team Liquid
+DTSTART:20260718T172500Z
+DTEND:20260718T202500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712810@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712810/team-here
+ tics-vs-team-liquid-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712810/team-heretics-vs-team-liquid-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Karmine Corp
+DTSTART:20260719T140000Z
+DTEND:20260719T170000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712811@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712811/giantx-vs
+ -karmine-corp-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712811/giantx-vs-karmine-corp-vct-2026-emea-stage-2
+ -w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Vitality vs BBL Esports
+DTSTART:20260719T160500Z
+DTEND:20260719T190500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712812@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  1 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712812/team-vita
+ lity-vs-bbl-esports-vct-2026-emea-stage-2-w1
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712812/team-vitality-vs-bbl-esports-vct-2026-emea-s
+ tage-2-w1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs PCIFIC Esports
+DTSTART:20260722T150000Z
+DTEND:20260722T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712814@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712814/fut-espor
+ ts-vs-pcific-esports-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712814/fut-esports-vs-pcific-esports-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs Karmine Corp
+DTSTART:20260722T181500Z
+DTEND:20260722T211500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712815@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712815/fnatic-vs
+ -karmine-corp-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2
+ -w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs Team Heretics
+DTSTART:20260723T150000Z
+DTEND:20260723T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712816@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712816/eternal-f
+ ire-vs-team-heretics-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712816/eternal-fire-vs-team-heretics-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs Natus Vincere
+DTSTART:20260723T171500Z
+DTEND:20260723T201500Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712817@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712817/gentle-ma
+ tes-vs-natus-vincere-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712817/gentle-mates-vs-natus-vincere-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs BBL Esports
+DTSTART:20260724T150000Z
+DTEND:20260724T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712818@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712818/fut-espor
+ ts-vs-bbl-esports-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712818/fut-esports-vs-bbl-esports-vct-2026-emea-sta
+ ge-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs FNATIC
+DTSTART:20260724T182000Z
+DTEND:20260724T212000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712819@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712819/team-liqu
+ id-vs-fnatic-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712819/team-liquid-vs-fnatic-vct-2026-emea-stage-2-
+ w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] PCIFIC Esports vs Team Vitality
+DTSTART:20260725T150000Z
+DTEND:20260725T180000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712820@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712820/pcific-es
+ ports-vs-team-vitality-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712820/pcific-esports-vs-team-vitality-vct-2026-eme
+ a-stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs GIANTX
+DTSTART:20260725T170000Z
+DTEND:20260725T200000Z
+DTSTAMP:20260726T053252Z
+UID:vlr-712821@vct-calendar
+SEQUENCE:0
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712821/eternal-f
+ ire-vs-giantx-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260726T053252Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712821/eternal-fire-vs-giantx-vct-2026-emea-stage-2
+ -w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs Natus Vincere
+DTSTART:20260726T150000Z
+DTEND:20260726T170000Z
+DTSTAMP:20260727T072704Z
+UID:vlr-712822@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712822/bbl-espor
+ ts-vs-natus-vincere-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260727T072704Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712822/bbl-esports-vs-natus-vincere-vct-2026-emea-s
+ tage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Heretics vs Karmine Corp
+DTSTART:20260726T180000Z
+DTEND:20260726T200000Z
+DTSTAMP:20260727T072704Z
+UID:vlr-712823@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  2 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712823/team-here
+ tics-vs-karmine-corp-vct-2026-emea-stage-2-w2
+LAST-MODIFIED:20260727T072704Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712823/team-heretics-vs-karmine-corp-vct-2026-emea-
+ stage-2-w2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Team Liquid
+DTSTART:20260729T150000Z
+DTEND:20260729T170000Z
+DTSTAMP:20260730T062449Z
+UID:vlr-712824@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712824/giantx-vs
+ -team-liquid-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260730T062449Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712824/giantx-vs-team-liquid-vct-2026-emea-stage-2-
+ w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs Team Vitality
+DTSTART:20260729T180000Z
+DTEND:20260729T200000Z
+DTSTAMP:20260730T062449Z
+UID:vlr-712825@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/712825/gentle-ma
+ tes-vs-team-vitality-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260730T062449Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712825/gentle-mates-vs-team-vitality-vct-2026-emea-
+ stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Natus Vincere vs PCIFIC Esports
+DTSTART:20260730T150000Z
+DTEND:20260730T170000Z
+DTSTAMP:20260731T064107Z
+UID:vlr-712826@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712826/natus-vin
+ cere-vs-pcific-esports-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712826/natus-vincere-vs-pcific-esports-vct-2026-eme
+ a-stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs FNATIC
+DTSTART:20260730T180000Z
+DTEND:20260730T200000Z
+DTSTAMP:20260731T064107Z
+UID:vlr-712827@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:0\nVLR：https://www.vlr.gg/712827/eternal-f
+ ire-vs-fnatic-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260731T064107Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712827/eternal-fire-vs-fnatic-vct-2026-emea-stage-2
+ -w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs Gentle Mates
+DTSTART:20260731T150000Z
+DTEND:20260731T170000Z
+DTSTAMP:20260801T062551Z
+UID:vlr-712828@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712828/bbl-espor
+ ts-vs-gentle-mates-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260801T062551Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712828/bbl-esports-vs-gentle-mates-vct-2026-emea-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Team Heretics
+DTSTART:20260731T180000Z
+DTEND:20260731T200000Z
+DTSTAMP:20260801T062551Z
+UID:vlr-712829@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712829/giantx-vs
+ -team-heretics-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260801T062551Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712829/giantx-vs-team-heretics-vct-2026-emea-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Team Vitality
+DTSTART:20260801T150000Z
+DTEND:20260801T170000Z
+DTSTAMP:20260802T063008Z
+UID:vlr-712830@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：1:2\nVLR：https://www.vlr.gg/712830/fut-espor
+ ts-vs-team-vitality-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260802T063008Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712830/fut-esports-vs-team-vitality-vct-2026-emea-s
+ tage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Karmine Corp vs Team Liquid
+DTSTART:20260801T180000Z
+DTEND:20260801T200000Z
+DTSTAMP:20260802T063008Z
+UID:vlr-712831@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712831/karmine-c
+ orp-vs-team-liquid-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260802T063008Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712831/karmine-corp-vs-team-liquid-vct-2026-emea-st
+ age-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs PCIFIC Esports
+DTSTART:20260802T150000Z
+DTEND:20260802T170000Z
+DTSTAMP:20260803T065709Z
+UID:vlr-712832@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：2:1\nVLR：https://www.vlr.gg/712832/bbl-espor
+ ts-vs-pcific-esports-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260803T065709Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712832/bbl-esports-vs-pcific-esports-vct-2026-emea-
+ stage-2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs Team Heretics
+DTSTART:20260802T180000Z
+DTEND:20260802T200000Z
+DTSTAMP:20260803T065709Z
+UID:vlr-712833@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Week
+  3 Group Stage\n比分：0:2\nVLR：https://www.vlr.gg/712833/fnatic-vs
+ -team-heretics-vct-2026-emea-stage-2-w3
+LAST-MODIFIED:20260803T065709Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/712833/fnatic-vs-team-heretics-vct-2026-emea-stage-
+ 2-w3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs Eintracht Frankfurt
+DTSTART:20260806T150000Z
+DTEND:20260806T170000Z
+DTSTAMP:20260807T053800Z
+UID:vlr-729664@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Round 1 Play-Ins\n比分：2:1\nVLR：https://www.vlr.gg/729664/giantx
+ -vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1
+LAST-MODIFIED:20260807T053800Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-
+ stage-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Natus Vincere vs Joblife
+DTSTART:20260806T180000Z
+DTEND:20260806T200000Z
+DTSTAMP:20260807T053800Z
+UID:vlr-729665@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Round 1 Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/729665/natus-
+ vincere-vs-joblife-vct-2026-emea-stage-2-ur1
+LAST-MODIFIED:20260807T053800Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729665/natus-vincere-vs-joblife-vct-2026-emea-stage
+ -2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] PCIFIC Esports vs Fire Flux Esports
+DTSTART:20260807T150000Z
+DTEND:20260807T170000Z
+DTSTAMP:20260808T045315Z
+UID:vlr-729666@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Round 1 Play-Ins\n比分：0:2\nVLR：https://www.vlr.gg/729666/pcific
+ -esports-vs-fire-flux-esports-vct-2026-emea-stage-2-ur1
+LAST-MODIFIED:20260808T045315Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729666/pcific-esports-vs-fire-flux-esports-vct-2026
+ -emea-stage-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FNATIC vs Enterprise Esports
+DTSTART:20260807T180000Z
+DTEND:20260807T200000Z
+DTSTAMP:20260808T045315Z
+UID:vlr-729667@vct-calendar
+SEQUENCE:1
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Round 1 Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/729667/fnatic
+ -vs-enterprise-esports-vct-2026-emea-stage-2-ur1
+LAST-MODIFIED:20260808T045315Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729667/fnatic-vs-enterprise-esports-vct-2026-emea-s
+ tage-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs GIANTX
+DTSTART:20260808T150000Z
+DTEND:20260808T170000Z
+DTSTAMP:20260809T050053Z
+UID:vlr-729668@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Quarterfinals Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/729668/f
+ ut-esports-vs-giantx-vct-2026-emea-stage-2-ubqf
+LAST-MODIFIED:20260809T050053Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729668/fut-esports-vs-giantx-vct-2026-emea-stage-2-
+ ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs Joblife
+DTSTART:20260808T180000Z
+DTEND:20260808T200000Z
+DTSTAMP:20260809T050053Z
+UID:vlr-729669@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Quarterfinals Play-Ins\n比分：2:1\nVLR：https://www.vlr.gg/729669/e
+ ternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf
+LAST-MODIFIED:20260809T050053Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-
+ 2-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Heretics vs Fire Flux Esports
+DTSTART:20260809T150000Z
+DTEND:20260809T170000Z
+DTSTAMP:20260810T052324Z
+UID:vlr-729670@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Quarterfinals Play-Ins\n比分：1:2\nVLR：https://www.vlr.gg/729670/t
+ eam-heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf
+LAST-MODIFIED:20260810T052324Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729670/team-heretics-vs-fire-flux-esports-vct-2026-
+ emea-stage-2-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs Enterprise Esports
+DTSTART:20260809T180000Z
+DTEND:20260809T200000Z
+DTSTAMP:20260810T052324Z
+UID:vlr-729671@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Quarterfinals Play-Ins\n比分：0:2\nVLR：https://www.vlr.gg/729671/g
+ entle-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf
+LAST-MODIFIED:20260810T052324Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729671/gentle-mates-vs-enterprise-esports-vct-2026-
+ emea-stage-2-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Gentle Mates vs Eintracht Frankfurt
+DTSTART:20260812T150000Z
+DTEND:20260812T170000Z
+DTSTAMP:20260813T053735Z
+UID:vlr-729674@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 1 Play-Ins\n比分：0:2\nVLR：https://www.vlr.gg/729674/gentle
+ -mates-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1
+LAST-MODIFIED:20260813T053735Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729674/gentle-mates-vs-eintracht-frankfurt-vct-2026
+ -emea-stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Heretics vs Natus Vincere
+DTSTART:20260812T180000Z
+DTEND:20260812T200000Z
+DTSTAMP:20260813T053735Z
+UID:vlr-729675@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 1 Play-Ins\n比分：2:1\nVLR：https://www.vlr.gg/729675/team-h
+ eretics-vs-natus-vincere-vct-2026-emea-stage-2-lr1
+LAST-MODIFIED:20260813T053735Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729675/team-heretics-vs-natus-vincere-vct-2026-emea
+ -stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Joblife vs PCIFIC Esports
+DTSTART:20260813T150000Z
+DTEND:20260813T170000Z
+DTSTAMP:20260814T052936Z
+UID:vlr-729676@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 1 Play-Ins\n比分：2:1\nVLR：https://www.vlr.gg/729676/joblif
+ e-vs-pcific-esports-vct-2026-emea-stage-2-lr1
+LAST-MODIFIED:20260814T052936Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729676/joblife-vs-pcific-esports-vct-2026-emea-stag
+ e-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] GIANTX vs FNATIC
+DTSTART:20260813T180000Z
+DTEND:20260813T200000Z
+DTSTAMP:20260814T052936Z
+UID:vlr-729677@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 1 Play-Ins\n比分：0:2\nVLR：https://www.vlr.gg/729677/giantx
+ -vs-fnatic-vct-2026-emea-stage-2-lr1
+LAST-MODIFIED:20260814T052936Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729677/giantx-vs-fnatic-vct-2026-emea-stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eintracht Frankfurt vs Team Heretics
+DTSTART:20260814T150000Z
+DTEND:20260814T170000Z
+DTSTAMP:20260815T042629Z
+UID:vlr-729678@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 2 Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/729678/eintra
+ cht-frankfurt-vs-team-heretics-vct-2026-emea-stage-2-lr2
+LAST-MODIFIED:20260815T042629Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729678/eintracht-frankfurt-vs-team-heretics-vct-202
+ 6-emea-stage-2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Joblife vs FNATIC
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+DTSTAMP:20260815T042629Z
+UID:vlr-729680@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 2 Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/729680/joblif
+ e-vs-fnatic-vct-2026-emea-stage-2-lr2
+LAST-MODIFIED:20260815T042629Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729680/joblife-vs-fnatic-vct-2026-emea-stage-2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Eternal Fire
+DTSTART:20260815T150000Z
+DTEND:20260815T170000Z
+DTSTAMP:20260816T043203Z
+UID:vlr-729672@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Semifinals Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/729672/fut-
+ esports-vs-eternal-fire-vct-2026-emea-stage-2-ubsf
+LAST-MODIFIED:20260816T043203Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729672/fut-esports-vs-eternal-fire-vct-2026-emea-st
+ age-2-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Fire Flux Esports vs Enterprise Esports
+DTSTART:20260815T180000Z
+DTEND:20260815T200000Z
+DTSTAMP:20260816T043203Z
+UID:vlr-729673@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Semifinals Play-Ins\n比分：0:2\nVLR：https://www.vlr.gg/729673/fire
+ -flux-esports-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
+LAST-MODIFIED:20260816T043203Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729673/fire-flux-esports-vs-enterprise-esports-vct-
+ 2026-emea-stage-2-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Eternal Fire vs Eintracht Frankfurt
+DTSTART:20260816T130000Z
+DTEND:20260816T150000Z
+DTSTAMP:20260817T043729Z
+UID:vlr-729681@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 3 Play-Ins\n比分：0:2\nVLR：https://www.vlr.gg/729681/eterna
+ l-fire-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr3
+LAST-MODIFIED:20260817T043729Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729681/eternal-fire-vs-eintracht-frankfurt-vct-2026
+ -emea-stage-2-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Fire Flux Esports vs Joblife
+DTSTART:20260816T160000Z
+DTEND:20260816T180000Z
+DTSTAMP:20260817T043729Z
+UID:vlr-729682@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 3 Play-Ins\n比分：2:0\nVLR：https://www.vlr.gg/729682/fire-f
+ lux-esports-vs-joblife-vct-2026-emea-stage-2-lr3
+LAST-MODIFIED:20260817T043729Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/729682/fire-flux-esports-vs-joblife-vct-2026-emea-s
+ tage-2-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs FUT Esports
+DTSTART:20260820T150000Z
+DTEND:20260820T170000Z
+DTSTAMP:20260821T043354Z
+UID:vlr-731396@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Round 1 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/731396/team-l
+ iquid-vs-fut-esports-vct-2026-emea-stage-2-ur1
+LAST-MODIFIED:20260821T043354Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731396/team-liquid-vs-fut-esports-vct-2026-emea-sta
+ ge-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Vitality vs Enterprise Esports
+DTSTART:20260820T180000Z
+DTEND:20260820T200000Z
+DTSTAMP:20260821T043354Z
+UID:vlr-731397@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Round 1 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/731397/team-v
+ itality-vs-enterprise-esports-vct-2026-emea-stage-2-ur1
+LAST-MODIFIED:20260821T043354Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731397/team-vitality-vs-enterprise-esports-vct-2026
+ -emea-stage-2-ur1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Karmine Corp vs Enterprise Esports
+DTSTART:20260821T150000Z
+DTEND:20260821T170000Z
+DTSTAMP:20260822T042847Z
+UID:vlr-731399@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Semifinals Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/731399/karm
+ ine-corp-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
+LAST-MODIFIED:20260822T042847Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731399/karmine-corp-vs-enterprise-esports-vct-2026-
+ emea-stage-2-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs FUT Esports
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+DTSTAMP:20260822T042847Z
+UID:vlr-731398@vct-calendar
+SEQUENCE:2
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Semifinals Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/731398/bbl-
+ esports-vs-fut-esports-vct-2026-emea-stage-2-ubsf
+LAST-MODIFIED:20260822T042847Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731398/bbl-esports-vs-fut-esports-vct-2026-emea-sta
+ ge-2-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs Eintracht Frankfurt
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+DTSTAMP:20260823T043319Z
+UID:vlr-731402@vct-calendar
+SEQUENCE:4
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 1 Playoffs\n比分：2:1\nVLR：https://www.vlr.gg/731402/team-l
+ iquid-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1
+LAST-MODIFIED:20260823T043319Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731402/team-liquid-vs-eintracht-frankfurt-vct-2026-
+ emea-stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Vitality vs Fire Flux Esports
+DTSTART:20260822T170000Z
+DTEND:20260822T190000Z
+DTSTAMP:20260823T043319Z
+UID:vlr-731403@vct-calendar
+SEQUENCE:4
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 1 Playoffs\n比分：1:2\nVLR：https://www.vlr.gg/731403/team-v
+ itality-vs-fire-flux-esports-vct-2026-emea-stage-2-lr1
+LAST-MODIFIED:20260823T043319Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731403/team-vitality-vs-fire-flux-esports-vct-2026-
+ emea-stage-2-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Enterprise Esports vs Team Liquid
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+DTSTAMP:20260824T044027Z
+UID:vlr-731404@vct-calendar
+SEQUENCE:4
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/731404/enterp
+ rise-esports-vs-team-liquid-vct-2026-emea-stage-2-lr2
+LAST-MODIFIED:20260824T044027Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731404/enterprise-esports-vs-team-liquid-vct-2026-e
+ mea-stage-2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] BBL Esports vs Fire Flux Esports
+DTSTART:20260823T170000Z
+DTEND:20260823T190000Z
+DTSTAMP:20260824T044027Z
+UID:vlr-731406@vct-calendar
+SEQUENCE:4
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 2 Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/731406/bbl-es
+ ports-vs-fire-flux-esports-vct-2026-emea-stage-2-lr2
+LAST-MODIFIED:20260824T044027Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731406/bbl-esports-vs-fire-flux-esports-vct-2026-em
+ ea-stage-2-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Karmine Corp
+DTSTART:20260828T140000Z
+DTEND:20260828T160000Z
+DTSTAMP:20260829T104357Z
+UID:vlr-731400@vct-calendar
+SEQUENCE:4
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Upper
+  Final Playoffs\n比分：0:2\nVLR：https://www.vlr.gg/731400/fut-espor
+ ts-vs-karmine-corp-vct-2026-emea-stage-2-ubf
+LAST-MODIFIED:20260829T104357Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731400/fut-esports-vs-karmine-corp-vct-2026-emea-st
+ age-2-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Team Liquid vs Fire Flux Esports
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+DTSTAMP:20260829T104357Z
+UID:vlr-731407@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Round 3 Playoffs\n比分：2:0\nVLR：https://www.vlr.gg/731407/team-l
+ iquid-vs-fire-flux-esports-vct-2026-emea-stage-2-lr3
+LAST-MODIFIED:20260829T104357Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731407/team-liquid-vs-fire-flux-esports-vct-2026-em
+ ea-stage-2-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] FUT Esports vs Team Liquid
+DTSTART:20260829T150000Z
+DTEND:20260829T190000Z
+DTSTAMP:20260830T094234Z
+UID:vlr-731408@vct-calendar
+SEQUENCE:3
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Lower
+  Final Playoffs\n比分：0:3\nVLR：https://www.vlr.gg/731408/fut-espor
+ ts-vs-team-liquid-vct-2026-emea-stage-2-lbf
+LAST-MODIFIED:20260830T094234Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731408/fut-esports-vs-team-liquid-vct-2026-emea-sta
+ ge-2-lbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EMEA] Karmine Corp vs Team Liquid
+DTSTART:20260830T150000Z
+DTEND:20260830T190000Z
+DTSTAMP:20260831T102808Z
+UID:vlr-731401@vct-calendar
+SEQUENCE:4
+CATEGORIES:VCT 2026: EMEA Stage 2,EMEA
+DESCRIPTION:VCT 2026: EMEA Stage 2\n状态：Completed\n阶段：Grand
+  Final Playoffs\n比分：3:1\nVLR：https://www.vlr.gg/731401/karmine-c
+ orp-vs-team-liquid-vct-2026-emea-stage-2-gf
+LAST-MODIFIED:20260831T102808Z
+LOCATION:VCT EMEA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/731401/karmine-corp-vs-team-liquid-vct-2026-emea-st
+ age-2-gf
+END:VEVENT
+END:VCALENDAR
