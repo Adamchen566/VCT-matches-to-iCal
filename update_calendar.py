@@ -153,6 +153,19 @@ class EventConfig:
         return f"{VLR_BASE_URL}/event/ical/{self.event_id}"
 
 
+# A finished event whose page must always parse to a known number of matches.
+# While the followed events have no schedule yet, an empty result looks the
+# same as a VLR redesign that broke the parser; this check tells them apart.
+DEFAULT_CANARY = EventConfig(
+    region=INTERNATIONAL_REGION,
+    event_id=2766,
+    slug="valorant-champions-2026",
+    name="Valorant Champions 2026",
+    min_matches=34,
+    source="canary",
+)
+
+
 @dataclass(frozen=True)
 class CalendarConfig:
     name: str
@@ -160,6 +173,7 @@ class CalendarConfig:
     events: tuple[EventConfig, ...] = ()
     discover: bool = True
     keep_finished_days: int = 7
+    canary: EventConfig | None = None
 
 
 @dataclass
@@ -193,6 +207,31 @@ def parse_config(data: dict[str, Any]) -> CalendarConfig:
     discover = discovery.get("enabled", True)
     if not isinstance(discover, bool):
         raise CalendarUpdateError("[discovery] enabled 必须是 true 或 false")
+
+    raw_canary = data.get("canary", {})
+    if not isinstance(raw_canary, dict):
+        raise CalendarUpdateError("[canary] 必须是一个表")
+    canary: EventConfig | None = DEFAULT_CANARY
+    if raw_canary.get("enabled", True) is False:
+        canary = None
+    elif any(key in raw_canary for key in ("event_id", "slug", "min_matches")):
+        missing = [
+            key
+            for key in ("event_id", "slug", "min_matches")
+            if not isinstance(raw_canary.get(key), (int, str))
+        ]
+        if missing:
+            raise CalendarUpdateError(
+                f"[canary] 缺少字段: {', '.join(missing)}"
+            )
+        canary = EventConfig(
+            region=INTERNATIONAL_REGION,
+            event_id=int(raw_canary["event_id"]),
+            slug=str(raw_canary["slug"]),
+            name=str(raw_canary.get("name", raw_canary["slug"])),
+            min_matches=int(raw_canary["min_matches"]),
+            source="canary",
+        )
 
     raw_events = data.get("events", [])
     if not isinstance(raw_events, list):
@@ -243,6 +282,7 @@ def parse_config(data: dict[str, Any]) -> CalendarConfig:
         events=tuple(events),
         discover=discover,
         keep_finished_days=keep_finished_days,
+        canary=canary,
     )
 
 
@@ -473,6 +513,23 @@ def select_events(
     return [selected[event_id] for event_id in sorted(selected)]
 
 
+def check_canary_html(html: str, canary: EventConfig) -> int:
+    """Fail loudly when a known event page no longer parses as expected."""
+    found = len(parse_event_html(html, canary))
+    if found < canary.min_matches:
+        raise CalendarUpdateError(
+            f"探针失败: {canary.name} 应有至少 {canary.min_matches} 场，"
+            f"只解析出 {found} 场。VLR 的页面结构可能变了，"
+            "为避免发布不完整的日历，本次不更新"
+        )
+    return found
+
+
+def check_canary(canary: EventConfig) -> None:
+    found = check_canary_html(str(get_url(canary.matches_url)), canary)
+    print(f"探针通过: {canary.name} 解析出 {found} 场")
+
+
 def parse_event_page(event: EventConfig) -> list[dict[str, Any]]:
     matches = parse_event_html(str(get_url(event.matches_url)), event)
     print(f"{event.name}: 赛事页抓到 {len(matches)} 场")
@@ -518,8 +575,7 @@ def fetch_official_upcoming_times(
     return result
 
 
-def fetch_match_detail_timing(match_url: str) -> dict[str, Any]:
-    html = str(get_url(match_url))
+def parse_match_detail_html(html: str, match_url: str) -> dict[str, Any]:
     soup = BeautifulSoup(html, "html.parser")
     timestamp_node = soup.find(attrs={"data-utc-ts": True})
     if timestamp_node is None:
@@ -528,8 +584,12 @@ def fetch_match_detail_timing(match_url: str) -> dict[str, Any]:
     raw_timestamp = str(timestamp_node["data-utc-ts"])
     start = parse_vlr_detail_timestamp(raw_timestamp)
 
-    note_node = soup.select_one(".match-header-vs-note")
-    note = note_node.get_text(" ", strip=True) if note_node else ""
+    # The header has two note nodes: the match state ("final") and the series
+    # format ("Bo5"). Read both; the format is not always the first one.
+    note = " ".join(
+        node.get_text(" ", strip=True)
+        for node in soup.select(".match-header-vs-note")
+    )
     best_of_match = re.search(r"\bBo(\d+)\b", note, re.IGNORECASE)
     best_of = int(best_of_match.group(1)) if best_of_match else None
 
@@ -539,6 +599,10 @@ def fetch_match_detail_timing(match_url: str) -> dict[str, Any]:
         "end_utc": format_utc(start + duration),
         "best_of": best_of,
     }
+
+
+def fetch_match_detail_timing(match_url: str) -> dict[str, Any]:
+    return parse_match_detail_html(str(get_url(match_url)), match_url)
 
 
 def load_cache(path: Path | None = None) -> CacheState:
@@ -901,6 +965,9 @@ def write_archive(
 
 
 def run_update(config: CalendarConfig, *, allow_shrink: bool = False) -> None:
+    if config.canary is not None:
+        check_canary(config.canary)
+
     state = load_cache()
     statuses = fetch_event_statuses() if config.discover else None
     cached_counts = Counter(

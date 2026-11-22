@@ -105,6 +105,8 @@ python update_calendar.py --check
   python update_calendar.py --archive 2766/valorant-champions-2026
   ```
 
+- **故障告警**：定时更新失败时（VLR 打不开、页面结构变了、抓到的数据不完整）会自动在仓库开一个 Issue，附运行记录和日志；之后某次运行成功会自动关闭它。每次运行还会先解析一个已结束赛事的页面作为探针，用来区分「还没排赛程」和「页面改版导致解析不出来」。
+
 如果某个赛事抓到的场次比上次发布的少，脚本会拒绝覆盖现有日历；确认是 VLR 真的删了比赛时，用 `python update_calendar.py --allow-shrink`。
 
 ---

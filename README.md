@@ -98,6 +98,8 @@ Generated files:
   python update_calendar.py --archive 2766/valorant-champions-2026
   ```
 
+- **Failure alerts**: when a scheduled update fails (VLR unreachable, page layout changed, incomplete data), the workflow opens an issue with the run link and log, and closes it again after the next successful run. Every run first parses the page of a finished event as a canary, which tells "no schedule published yet" apart from "the parser no longer matches the page".
+
 If an event returns fewer matches than the last published run, the script refuses to overwrite the calendar; use `python update_calendar.py --allow-shrink` when VLR really removed a match.
 
 ---
