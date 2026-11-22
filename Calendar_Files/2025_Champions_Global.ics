@@ -1,0 +1,614 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valorant Champions 2025
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 2:0 Xi Lai Gaming
+DTSTART:20250912T130000Z
+DTEND:20250912T160000Z
+DTSTAMP:20250912T160000Z
+UID:vlr-542195@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (A) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /542195/paper-rex-vs-xi-lai-gaming-valorant-champions-2025-opening-a
+LAST-MODIFIED:20250912T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542195/paper-rex-vs-xi-lai-gaming-valorant-champion
+ s-2025-opening-a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] GIANTX 2:1 Sentinels
+DTSTART:20250912T152500Z
+DTEND:20250912T182500Z
+DTSTAMP:20250912T182500Z
+UID:vlr-542196@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (A) Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /542196/giantx-vs-sentinels-valorant-champions-2025-opening-a
+LAST-MODIFIED:20250912T182500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542196/giantx-vs-sentinels-valorant-champions-2025-
+ opening-a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] NRG 2:0 EDward Gaming
+DTSTART:20250913T130000Z
+DTEND:20250913T160000Z
+DTSTAMP:20250913T160000Z
+UID:vlr-542207@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (C) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /542207/nrg-vs-edward-gaming-valorant-champions-2025-opening-c
+LAST-MODIFIED:20250913T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542207/nrg-vs-edward-gaming-valorant-champions-2025
+ -opening-c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Liquid 0:2 KIWOOM DRX
+DTSTART:20250913T155500Z
+DTEND:20250913T185500Z
+DTSTAMP:20250913T185500Z
+UID:vlr-542205@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (C) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /542205/team-liquid-vs-drx-valorant-champions-2025-opening-c
+LAST-MODIFIED:20250913T185500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542205/team-liquid-vs-drx-valorant-champions-2025-o
+ pening-c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Dragon Ranger Gaming 0:2 T1
+DTSTART:20250914T130000Z
+DTEND:20250914T160000Z
+DTSTAMP:20250914T160000Z
+UID:vlr-542212@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (D) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /542212/dragon-ranger-gaming-vs-t1-valorant-champions-2025-opening-d
+LAST-MODIFIED:20250914T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542212/dragon-ranger-gaming-vs-t1-valorant-champion
+ s-2025-opening-d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports 0:2 Team Heretics
+DTSTART:20250914T162000Z
+DTEND:20250914T192000Z
+DTSTAMP:20250914T192000Z
+UID:vlr-542211@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (D) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /542211/g2-esports-vs-team-heretics-valorant-champions-2025-opening-d
+LAST-MODIFIED:20250914T192000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542211/g2-esports-vs-team-heretics-valorant-champio
+ ns-2025-opening-d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Bilibili Gaming 0:2 MIBR
+DTSTART:20250915T130000Z
+DTEND:20250915T160000Z
+DTSTAMP:20250915T160000Z
+UID:vlr-542200@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (B) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /542200/bilibili-gaming-vs-mibr-valorant-champions-2025-opening-b
+LAST-MODIFIED:20250915T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542200/bilibili-gaming-vs-mibr-valorant-champions-2
+ 025-opening-b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Rex Regum Qeon 0:2 FNATIC
+DTSTART:20250915T151000Z
+DTEND:20250915T181000Z
+DTSTAMP:20250915T181000Z
+UID:vlr-542201@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Openin
+ g (B) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /542201/rex-regum-qeon-vs-fnatic-valorant-champions-2025-opening-b
+LAST-MODIFIED:20250915T181000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542201/rex-regum-qeon-vs-fnatic-valorant-champions-
+ 2025-opening-b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 2:1 GIANTX
+DTSTART:20250917T130000Z
+DTEND:20250917T160000Z
+DTSTAMP:20250917T160000Z
+UID:vlr-542197@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Winner
+ 's (A) Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.g
+ g/542197/paper-rex-vs-giantx-valorant-champions-2025-winners-a
+LAST-MODIFIED:20250917T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542197/paper-rex-vs-giantx-valorant-champions-2025-
+ winners-a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] KIWOOM DRX 1:2 NRG
+DTSTART:20250917T161000Z
+DTEND:20250917T191000Z
+DTSTAMP:20250917T191000Z
+UID:vlr-542208@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Winner
+ 's (C) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.g
+ g/542208/drx-vs-nrg-valorant-champions-2025-winners-c
+LAST-MODIFIED:20250917T191000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542208/drx-vs-nrg-valorant-champions-2025-winners-c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Heretics 2:0 T1
+DTSTART:20250918T130000Z
+DTEND:20250918T160000Z
+DTSTAMP:20250918T160000Z
+UID:vlr-542213@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Winner
+ 's (D) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.g
+ g/542213/team-heretics-vs-t1-valorant-champions-2025-winners-d
+LAST-MODIFIED:20250918T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542213/team-heretics-vs-t1-valorant-champions-2025-
+ winners-d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] MIBR 1:2 FNATIC
+DTSTART:20250918T152500Z
+DTEND:20250918T182500Z
+DTSTAMP:20250918T182500Z
+UID:vlr-542202@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Winner
+ 's (B) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.g
+ g/542202/mibr-vs-fnatic-valorant-champions-2025-winners-b
+LAST-MODIFIED:20250918T182500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542202/mibr-vs-fnatic-valorant-champions-2025-winne
+ rs-b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Liquid 2:1 EDward Gaming
+DTSTART:20250919T130000Z
+DTEND:20250919T160000Z
+DTSTAMP:20250919T160000Z
+UID:vlr-542209@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Elimin
+ ation (C) Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vl
+ r.gg/542209/team-liquid-vs-edward-gaming-valorant-champions-2025-elim-c
+LAST-MODIFIED:20250919T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542209/team-liquid-vs-edward-gaming-valorant-champi
+ ons-2025-elim-c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming 2:1 Sentinels
+DTSTART:20250919T163000Z
+DTEND:20250919T193000Z
+DTSTAMP:20250919T193000Z
+UID:vlr-542198@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Elimin
+ ation (A) Group Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.vl
+ r.gg/542198/xi-lai-gaming-vs-sentinels-valorant-champions-2025-elim-a
+LAST-MODIFIED:20250919T193000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542198/xi-lai-gaming-vs-sentinels-valorant-champion
+ s-2025-elim-a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Bilibili Gaming 1:2 Rex Regum Qeon
+DTSTART:20250920T130000Z
+DTEND:20250920T160000Z
+DTSTAMP:20250920T160000Z
+UID:vlr-542203@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Elimin
+ ation (B) Group Stage\n赛制：Bo3\n比分：1:2\nVLR：https://www.vl
+ r.gg/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-champions-2025-elim
+ -b
+LAST-MODIFIED:20250920T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542203/bilibili-gaming-vs-rex-regum-qeon-valorant-c
+ hampions-2025-elim-b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports 2:0 Dragon Ranger Gaming
+DTSTART:20250920T160000Z
+DTEND:20250920T190000Z
+DTSTAMP:20250920T190000Z
+UID:vlr-542214@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Elimin
+ ation (D) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vl
+ r.gg/542214/g2-esports-vs-dragon-ranger-gaming-valorant-champions-2025-eli
+ m-d
+LAST-MODIFIED:20250920T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542214/g2-esports-vs-dragon-ranger-gaming-valorant-
+ champions-2025-elim-d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] KIWOOM DRX 2:0 Team Liquid
+DTSTART:20250921T130000Z
+DTEND:20250921T160000Z
+DTSTAMP:20250921T160000Z
+UID:vlr-542210@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Decide
+ r (C) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /542210/drx-vs-team-liquid-valorant-champions-2025-decider-c
+LAST-MODIFIED:20250921T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542210/drx-vs-team-liquid-valorant-champions-2025-d
+ ecider-c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] GIANTX 2:0 Xi Lai Gaming
+DTSTART:20250921T152000Z
+DTEND:20250921T182000Z
+DTSTAMP:20250921T182000Z
+UID:vlr-542199@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Decide
+ r (A) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /542199/giantx-vs-xi-lai-gaming-valorant-champions-2025-decider-a
+LAST-MODIFIED:20250921T182000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542199/giantx-vs-xi-lai-gaming-valorant-champions-2
+ 025-decider-a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] T1 0:2 G2 Esports
+DTSTART:20250922T130000Z
+DTEND:20250922T160000Z
+DTSTAMP:20250922T160000Z
+UID:vlr-542215@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Decide
+ r (D) Group Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg
+ /542215/t1-vs-g2-esports-valorant-champions-2025-decider-d
+LAST-MODIFIED:20250922T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542215/t1-vs-g2-esports-valorant-champions-2025-dec
+ ider-d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] MIBR 2:0 Rex Regum Qeon
+DTSTART:20250922T151500Z
+DTEND:20250922T181500Z
+DTSTAMP:20250922T181500Z
+UID:vlr-542204@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Decide
+ r (B) Group Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /542204/mibr-vs-rex-regum-qeon-valorant-champions-2025-decider-b
+LAST-MODIFIED:20250922T181500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542204/mibr-vs-rex-regum-qeon-valorant-champions-20
+ 25-decider-b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 2:1 G2 Esports
+DTSTART:20250925T130000Z
+DTEND:20250925T160000Z
+DTSTAMP:20250925T160000Z
+UID:vlr-542265@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.v
+ lr.gg/542265/paper-rex-vs-g2-esports-valorant-champions-2025-ubqf
+LAST-MODIFIED:20250925T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542265/paper-rex-vs-g2-esports-valorant-champions-2
+ 025-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FNATIC 2:1 KIWOOM DRX
+DTSTART:20250925T165000Z
+DTEND:20250925T195000Z
+DTSTAMP:20250925T195000Z
+UID:vlr-542264@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.v
+ lr.gg/542264/fnatic-vs-drx-valorant-champions-2025-ubqf
+LAST-MODIFIED:20250925T195000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542264/fnatic-vs-drx-valorant-champions-2025-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Heretics 0:2 MIBR
+DTSTART:20250926T130000Z
+DTEND:20250926T160000Z
+DTSTAMP:20250926T160000Z
+UID:vlr-542266@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.v
+ lr.gg/542266/team-heretics-vs-mibr-valorant-champions-2025-ubqf
+LAST-MODIFIED:20250926T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542266/team-heretics-vs-mibr-valorant-champions-202
+ 5-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] NRG 2:0 GIANTX
+DTSTART:20250926T153500Z
+DTEND:20250926T183500Z
+DTSTAMP:20250926T183500Z
+UID:vlr-542267@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Quarterfinals Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.v
+ lr.gg/542267/nrg-vs-giantx-valorant-champions-2025-ubqf
+LAST-MODIFIED:20250926T183500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542267/nrg-vs-giantx-valorant-champions-2025-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] KIWOOM DRX 2:1 G2 Esports
+DTSTART:20250927T130000Z
+DTEND:20250927T160000Z
+DTSTAMP:20250927T160000Z
+UID:vlr-542273@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Lower
+  Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /542273/drx-vs-g2-esports-valorant-champions-2025-lr1
+LAST-MODIFIED:20250927T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542273/drx-vs-g2-esports-valorant-champions-2025-lr
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Heretics 2:1 GIANTX
+DTSTART:20250927T162000Z
+DTEND:20250927T192000Z
+DTSTAMP:20250927T192000Z
+UID:vlr-542274@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Lower
+  Round 1 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /542274/team-heretics-vs-giantx-valorant-champions-2025-lr1
+LAST-MODIFIED:20250927T192000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542274/team-heretics-vs-giantx-valorant-champions-2
+ 025-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FNATIC 2:1 Paper Rex
+DTSTART:20250928T130000Z
+DTEND:20250928T160000Z
+DTSTAMP:20250928T160000Z
+UID:vlr-542268@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Semifinals Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.
+ gg/542268/fnatic-vs-paper-rex-valorant-champions-2025-ubsf
+LAST-MODIFIED:20250928T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542268/fnatic-vs-paper-rex-valorant-champions-2025-
+ ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] MIBR 1:2 NRG
+DTSTART:20250928T162000Z
+DTEND:20250928T192000Z
+DTSTAMP:20250928T192000Z
+UID:vlr-542269@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Semifinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.
+ gg/542269/mibr-vs-nrg-valorant-champions-2025-ubsf
+LAST-MODIFIED:20250928T192000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542269/mibr-vs-nrg-valorant-champions-2025-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 2:1 Team Heretics
+DTSTART:20250929T130000Z
+DTEND:20250929T160000Z
+DTSTAMP:20250929T160000Z
+UID:vlr-542277@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Lower
+  Round 2 Playoffs\n赛制：Bo3\n比分：2:1\nVLR：https://www.vlr.gg
+ /542277/paper-rex-vs-team-heretics-valorant-champions-2025-lr2
+LAST-MODIFIED:20250929T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542277/paper-rex-vs-team-heretics-valorant-champion
+ s-2025-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] MIBR 1:2 KIWOOM DRX
+DTSTART:20250929T162000Z
+DTEND:20250929T192000Z
+DTSTAMP:20250929T192000Z
+UID:vlr-542276@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Lower
+  Round 2 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://www.vlr.gg
+ /542276/mibr-vs-drx-valorant-champions-2025-lr2
+LAST-MODIFIED:20250929T192000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542276/mibr-vs-drx-valorant-champions-2025-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FNATIC 0:2 NRG
+DTSTART:20251003T110000Z
+DTEND:20251003T140000Z
+DTSTAMP:20251003T140000Z
+UID:vlr-542270@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Upper
+  Final Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://www.vlr.gg/54
+ 2270/fnatic-vs-nrg-valorant-champions-2025-ubf
+LAST-MODIFIED:20251003T140000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542270/fnatic-vs-nrg-valorant-champions-2025-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] KIWOOM DRX 2:0 Paper Rex
+DTSTART:20251003T133500Z
+DTEND:20251003T163500Z
+DTSTAMP:20251003T163500Z
+UID:vlr-542278@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Lower
+  Round 3 Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.vlr.gg
+ /542278/drx-vs-paper-rex-valorant-champions-2025-lr3
+LAST-MODIFIED:20251003T163500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542278/drx-vs-paper-rex-valorant-champions-2025-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FNATIC 3:1 KIWOOM DRX
+DTSTART:20251004T110000Z
+DTEND:20251004T160000Z
+DTSTAMP:20251004T160000Z
+UID:vlr-542279@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Lower
+  Final Playoffs\n赛制：Bo5\n比分：3:1\nVLR：https://www.vlr.gg/54
+ 2279/fnatic-vs-drx-valorant-champions-2025-lbf
+LAST-MODIFIED:20251004T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542279/fnatic-vs-drx-valorant-champions-2025-lbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] NRG 3:2 FNATIC
+DTSTART:20251005T110000Z
+DTEND:20251005T160000Z
+DTSTAMP:20251005T160000Z
+UID:vlr-542272@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Champions 2025,INTL
+DESCRIPTION:Valorant Champions 2025\n状态：Completed\n阶段：Grand
+  Final Playoffs\n赛制：Bo5\n比分：3:2\nVLR：https://www.vlr.gg/54
+ 2272/nrg-vs-fnatic-valorant-champions-2025-gf
+LAST-MODIFIED:20251005T160000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/542272/nrg-vs-fnatic-valorant-champions-2025-gf
+END:VEVENT
+END:VCALENDAR

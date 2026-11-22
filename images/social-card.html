@@ -1,0 +1,74 @@
+<!doctype html>
+<!-- Source of images/social-card.png (1200x630, the link preview image) and,
+     with ?phone, of images/calendar-preview.png. Render with a headless
+     browser; see the "Images" note in README.md. -->
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>VCT 赛程订阅：分享预览图</title>
+<style>
+  :root {
+    --bg-base: #14130f; --bg-surface: #1c1a15; --bg-raised: #25221b;
+    --border-subtle: #34302a; --text-primary: #f5f0e1; --text-secondary: #bdb5a3; --text-muted: #958c7b;
+    --primary: #f5c542; --secondary: #84a9d6;
+    --font-display: "Bricolage Grotesque", "Noto Sans SC", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+    --font-body: "Noto Sans SC", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+    --font-mono: "JetBrains Mono", "Cascadia Mono", Consolas, Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg-base); color: var(--text-primary); font-family: var(--font-body); }
+  .card { width: 1200px; height: 630px; padding: 64px; display: grid; grid-template-columns: 1fr 480px; gap: 44px; overflow: hidden; }
+  .left { display: flex; flex-direction: column; }
+  .brand { display: flex; align-items: center; gap: 12px; font: 700 24px var(--font-display); }
+  .brand img { width: 36px; height: 36px; }
+  h1 { margin: 56px 0 24px; font: 700 80px/1.12 var(--font-display); letter-spacing: -0.01em; }
+  .lede { margin: 0; font-size: 27px; line-height: 1.55; color: var(--text-secondary); }
+  .url { margin-top: auto; font: 21px var(--font-mono); color: var(--text-muted); }
+
+  .agenda { align-self: center; border: 1px solid var(--border-subtle); border-radius: 14px; background: var(--bg-surface); padding: 8px 24px; }
+  .day { padding: 16px 0; }
+  .day + .day { border-top: 1px solid var(--border-subtle); }
+  .day p { margin: 0 0 10px; font: 16px var(--font-body); color: var(--text-secondary); }
+  .event { display: grid; grid-template-columns: 4px 54px 1fr; gap: 12px; align-items: center; padding: 5px 0; font-size: 17px; }
+  .event i { height: 26px; border-radius: 2px; background: var(--secondary); }
+  .event.first i { background: var(--primary); }
+  .event time { font: 16px var(--font-mono); color: var(--text-muted); }
+  .event span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  /* ?phone: only the agenda, sized like a phone calendar's day list */
+  body.phone .card { width: 420px; height: auto; padding: 20px; display: block; }
+  body.phone .left { display: none; }
+  body.phone .agenda { padding: 4px 20px; }
+  body.phone .event { font-size: 15px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="left">
+    <div class="brand"><img src="icon.svg" alt="">VCT 赛程订阅</div>
+    <h1>把 VCT 赛程<br>订阅进日历</h1>
+    <p class="lede">四大赛区联赛、Masters 和 Champions。<br>比赛时间和比分自动更新。</p>
+    <div class="url">adamchen566.github.io/VCT-matches-to-iCal</div>
+  </div>
+  <!-- Titles exactly as the calendar files write them (Champions 2026, UTC+11). -->
+  <div class="agenda">
+    <div class="day">
+      <p>10月16日 周五</p>
+      <div class="event"><i></i><time>17:00</time><span>[INTL] Team Vitality 1:2 LOUD</span></div>
+      <div class="event"><i></i><time>21:10</time><span>[INTL] 100 Thieves 2:1 G2 Esports</span></div>
+    </div>
+    <div class="day">
+      <p>10月17日 周六</p>
+      <div class="event"><i></i><time>18:00</time><span>[INTL] Team Vitality 3:1 100 Thieves</span></div>
+    </div>
+    <div class="day">
+      <p>10月18日 周日</p>
+      <div class="event first"><i></i><time>17:00</time><span>[INTL] LOUD 3:1 Team Vitality</span></div>
+    </div>
+  </div>
+</div>
+<script>
+  if (location.search.indexOf("phone") !== -1) document.body.classList.add("phone");
+</script>
+</body>
+</html>

@@ -1,0 +1,475 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VCT Calendar//Adamchen566//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valorant Masters Toronto 2025
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Heretics 0:2 Paper Rex
+DTSTART:20250607T160000Z
+DTEND:20250607T190000Z
+DTSTAMP:20250607T190000Z
+UID:vlr-490309@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n赛制：Bo3\n比分：0:2\nVLR：https://www.v
+ lr.gg/490309/team-heretics-vs-paper-rex-champions-tour-2025-masters-toront
+ o-r1
+LAST-MODIFIED:20250607T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490309/team-heretics-vs-paper-rex-champions-tour-20
+ 25-masters-toronto-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Bilibili Gaming 2:1 Team Liquid
+DTSTART:20250607T181000Z
+DTEND:20250607T211000Z
+DTSTAMP:20250607T211000Z
+UID:vlr-490307@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n赛制：Bo3\n比分：2:1\nVLR：https://www.v
+ lr.gg/490307/bilibili-gaming-vs-team-liquid-champions-tour-2025-masters-to
+ ronto-r1
+LAST-MODIFIED:20250607T211000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490307/bilibili-gaming-vs-team-liquid-champions-tou
+ r-2025-masters-toronto-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Sentinels 2:0 Wolves Esports
+DTSTART:20250608T160000Z
+DTEND:20250608T190000Z
+DTSTAMP:20250608T190000Z
+UID:vlr-490308@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.v
+ lr.gg/490308/sentinels-vs-wolves-esports-champions-tour-2025-masters-toron
+ to-r1
+LAST-MODIFIED:20250608T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490308/sentinels-vs-wolves-esports-champions-tour-2
+ 025-masters-toronto-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Gen.G 2:0 MIBR
+DTSTART:20250608T184500Z
+DTEND:20250608T214500Z
+DTSTAMP:20250608T214500Z
+UID:vlr-490306@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 1 Swiss Stage\n赛制：Bo3\n比分：2:0\nVLR：https://www.v
+ lr.gg/490306/gen-g-vs-mibr-champions-tour-2025-masters-toronto-r1
+LAST-MODIFIED:20250608T214500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490306/gen-g-vs-mibr-champions-tour-2025-masters-to
+ ronto-r1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Bilibili Gaming 1:2 Sentinels
+DTSTART:20250609T160000Z
+DTEND:20250609T190000Z
+DTSTAMP:20250609T190000Z
+UID:vlr-490311@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 2 (1-0) Swiss Stage\n赛制：Bo3\n比分：1:2\nVLR：https:
+ //www.vlr.gg/490311/bilibili-gaming-vs-sentinels-champions-tour-2025-maste
+ rs-toronto-r2-1-0
+LAST-MODIFIED:20250609T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490311/bilibili-gaming-vs-sentinels-champions-tour-
+ 2025-masters-toronto-r2-1-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 0:2 Gen.G
+DTSTART:20250609T193000Z
+DTEND:20250609T223000Z
+DTSTAMP:20250609T223000Z
+UID:vlr-490310@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 2 (1-0) Swiss Stage\n赛制：Bo3\n比分：0:2\nVLR：https:
+ //www.vlr.gg/490310/paper-rex-vs-gen-g-champions-tour-2025-masters-toronto
+ -r2-1-0
+LAST-MODIFIED:20250609T223000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490310/paper-rex-vs-gen-g-champions-tour-2025-maste
+ rs-toronto-r2-1-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Heretics 0:2 Wolves Esports
+DTSTART:20250610T160000Z
+DTEND:20250610T190000Z
+DTSTAMP:20250610T190000Z
+UID:vlr-490312@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 2 (0-1) Swiss Stage\n赛制：Bo3\n比分：0:2\nVLR：https:
+ //www.vlr.gg/490312/team-heretics-vs-wolves-esports-valorant-masters-2025-
+ toronto-r2-0-1
+LAST-MODIFIED:20250610T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490312/team-heretics-vs-wolves-esports-valorant-mas
+ ters-2025-toronto-r2-0-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team Liquid 2:0 MIBR
+DTSTART:20250610T183000Z
+DTEND:20250610T213000Z
+DTSTAMP:20250610T213000Z
+UID:vlr-490313@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 2 (0-1) Swiss Stage\n赛制：Bo3\n比分：2:0\nVLR：https:
+ //www.vlr.gg/490313/team-liquid-vs-mibr-valorant-masters-2025-toronto-r2-0
+ -1
+LAST-MODIFIED:20250610T213000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490313/team-liquid-vs-mibr-valorant-masters-2025-to
+ ronto-r2-0-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Bilibili Gaming 0:2 Wolves Esports
+DTSTART:20250611T160000Z
+DTEND:20250611T190000Z
+DTSTAMP:20250611T190000Z
+UID:vlr-490315@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 3 (1-1) Swiss Stage\n赛制：Bo3\n比分：0:2\nVLR：https:
+ //www.vlr.gg/490315/bilibili-gaming-vs-wolves-esports-valorant-masters-202
+ 5-toronto-r3-1-1
+LAST-MODIFIED:20250611T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490315/bilibili-gaming-vs-wolves-esports-valorant-m
+ asters-2025-toronto-r3-1-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 2:1 Team Liquid
+DTSTART:20250611T183000Z
+DTEND:20250611T213000Z
+DTSTAMP:20250611T213000Z
+UID:vlr-490314@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Round 3 (1-1) Swiss Stage\n赛制：Bo3\n比分：2:1\nVLR：https:
+ //www.vlr.gg/490314/paper-rex-vs-team-liquid-valorant-masters-toronto-2025
+ -r3-1-1
+LAST-MODIFIED:20250611T213000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/490314/paper-rex-vs-team-liquid-valorant-masters-to
+ ronto-2025-r3-1-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports 0:2 Paper Rex
+DTSTART:20250613T160000Z
+DTEND:20250613T190000Z
+DTSTAMP:20250613T190000Z
+UID:vlr-498622@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https
+ ://www.vlr.gg/498622/g2-esports-vs-paper-rex-valorant-masters-toronto-2025
+ -ubqf
+LAST-MODIFIED:20250613T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498622/g2-esports-vs-paper-rex-valorant-masters-tor
+ onto-2025-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming 0:2 Sentinels
+DTSTART:20250613T182500Z
+DTEND:20250613T212500Z
+DTSTAMP:20250613T212500Z
+UID:vlr-498621@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https
+ ://www.vlr.gg/498621/xi-lai-gaming-vs-sentinels-valorant-masters-toronto-2
+ 025-ubqf
+LAST-MODIFIED:20250613T212500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498621/xi-lai-gaming-vs-sentinels-valorant-masters-
+ toronto-2025-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Rex Regum Qeon 0:2 Wolves Esports
+DTSTART:20250614T160000Z
+DTEND:20250614T190000Z
+DTSTAMP:20250614T190000Z
+UID:vlr-498623@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https
+ ://www.vlr.gg/498623/rex-regum-qeon-vs-wolves-esports-valorant-masters-tor
+ onto-2025-ubqf
+LAST-MODIFIED:20250614T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498623/rex-regum-qeon-vs-wolves-esports-valorant-ma
+ sters-toronto-2025-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] FNATIC 1:2 Gen.G
+DTSTART:20250614T183000Z
+DTEND:20250614T213000Z
+DTSTAMP:20250614T213000Z
+UID:vlr-498624@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Quarterfinals Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https
+ ://www.vlr.gg/498624/fnatic-vs-gen-g-valorant-masters-toronto-2025-ubqf
+LAST-MODIFIED:20250614T213000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498624/fnatic-vs-gen-g-valorant-masters-toronto-202
+ 5-ubqf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Xi Lai Gaming 0:2 G2 Esports
+DTSTART:20250615T160000Z
+DTEND:20250615T190000Z
+DTSTAMP:20250615T190000Z
+UID:vlr-498629@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Lower Round 1 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://ww
+ w.vlr.gg/498629/xi-lai-gaming-vs-g2-esports-valorant-masters-toronto-2025-
+ lr1
+LAST-MODIFIED:20250615T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498629/xi-lai-gaming-vs-g2-esports-valorant-masters
+ -toronto-2025-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Rex Regum Qeon 1:2 FNATIC
+DTSTART:20250615T181000Z
+DTEND:20250615T211000Z
+DTSTAMP:20250615T211000Z
+UID:vlr-498630@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Lower Round 1 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://ww
+ w.vlr.gg/498630/rex-regum-qeon-vs-fnatic-valorant-masters-toronto-2025-lr1
+LAST-MODIFIED:20250615T211000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498630/rex-regum-qeon-vs-fnatic-valorant-masters-to
+ ronto-2025-lr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Wolves Esports 2:0 Gen.G
+DTSTART:20250616T160000Z
+DTEND:20250616T190000Z
+DTSTAMP:20250616T190000Z
+UID:vlr-498626@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Semifinals Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://
+ www.vlr.gg/498626/wolves-esports-vs-gen-g-valorant-masters-toronto-2025-ub
+ sf
+LAST-MODIFIED:20250616T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498626/wolves-esports-vs-gen-g-valorant-masters-tor
+ onto-2025-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Sentinels 0:2 Paper Rex
+DTSTART:20250616T183000Z
+DTEND:20250616T213000Z
+DTSTAMP:20250616T213000Z
+UID:vlr-498625@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Semifinals Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://
+ www.vlr.gg/498625/sentinels-vs-paper-rex-valorant-masters-toronto-2025-ubs
+ f
+LAST-MODIFIED:20250616T213000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498625/sentinels-vs-paper-rex-valorant-masters-toro
+ nto-2025-ubsf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Gen.G 1:2 G2 Esports
+DTSTART:20250617T160000Z
+DTEND:20250617T190000Z
+DTSTAMP:20250617T190000Z
+UID:vlr-498631@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Lower Round 2 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://ww
+ w.vlr.gg/498631/gen-g-vs-g2-esports-valorant-masters-toronto-2025-lr2
+LAST-MODIFIED:20250617T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498631/gen-g-vs-g2-esports-valorant-masters-toronto
+ -2025-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Sentinels 1:2 FNATIC
+DTSTART:20250617T193500Z
+DTEND:20250617T223500Z
+DTSTAMP:20250617T223500Z
+UID:vlr-498632@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Lower Round 2 Playoffs\n赛制：Bo3\n比分：1:2\nVLR：https://ww
+ w.vlr.gg/498632/sentinels-vs-fnatic-valorant-masters-toronto-2025-lr2
+LAST-MODIFIED:20250617T223500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498632/sentinels-vs-fnatic-valorant-masters-toronto
+ -2025-lr2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 2:0 Wolves Esports
+DTSTART:20250620T160000Z
+DTEND:20250620T190000Z
+DTSTAMP:20250620T190000Z
+UID:vlr-498627@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Upper Final Playoffs\n赛制：Bo3\n比分：2:0\nVLR：https://www.v
+ lr.gg/498627/paper-rex-vs-wolves-esports-valorant-masters-toronto-2025-ubf
+LAST-MODIFIED:20250620T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498627/paper-rex-vs-wolves-esports-valorant-masters
+ -toronto-2025-ubf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] G2 Esports 0:2 FNATIC
+DTSTART:20250620T184000Z
+DTEND:20250620T214000Z
+DTSTAMP:20250620T214000Z
+UID:vlr-498633@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Lower Round 3 Playoffs\n赛制：Bo3\n比分：0:2\nVLR：https://ww
+ w.vlr.gg/498633/g2-esports-vs-fnatic-valorant-masters-toronto-2025-lr3
+LAST-MODIFIED:20250620T214000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498633/g2-esports-vs-fnatic-valorant-masters-toront
+ o-2025-lr3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Wolves Esports 1:3 FNATIC
+DTSTART:20250621T160000Z
+DTEND:20250621T210000Z
+DTSTAMP:20250621T210000Z
+UID:vlr-498634@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Lower Final Playoffs\n赛制：Bo5\n比分：1:3\nVLR：https://www.v
+ lr.gg/498634/wolves-esports-vs-fnatic-valorant-masters-toronto-2025-lbf
+LAST-MODIFIED:20250621T210000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498634/wolves-esports-vs-fnatic-valorant-masters-to
+ ronto-2025-lbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Team tarik 7:13 Team Toast
+DTSTART:20250622T160000Z
+DTEND:20250622T190000Z
+DTSTAMP:20250622T190000Z
+UID:vlr-507067@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Showmatch Showmatch\n赛制：Bo1\n比分：7:13\nVLR：https://www.vl
+ r.gg/507067/team-tarik-vs-team-toast-valorant-masters-toronto-2025-showmat
+ ch
+LAST-MODIFIED:20250622T190000Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/507067/team-tarik-vs-team-toast-valorant-masters-to
+ ronto-2025-showmatch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[INTL] Paper Rex 3:1 FNATIC
+DTSTART:20250622T171500Z
+DTEND:20250622T221500Z
+DTSTAMP:20250622T221500Z
+UID:vlr-498628@vct-calendar
+SEQUENCE:0
+CATEGORIES:Valorant Masters Toronto 2025,INTL
+DESCRIPTION:Valorant Masters Toronto 2025\n状态：Completed\n阶段
+ ：Grand Final Playoffs\n赛制：Bo5\n比分：3:1\nVLR：https://www.v
+ lr.gg/498628/paper-rex-vs-fnatic-valorant-masters-toronto-2025-gf
+LAST-MODIFIED:20250622T221500Z
+LOCATION:VCT INTL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.vlr.gg/498628/paper-rex-vs-fnatic-valorant-masters-toronto
+ -2025-gf
+END:VEVENT
+END:VCALENDAR

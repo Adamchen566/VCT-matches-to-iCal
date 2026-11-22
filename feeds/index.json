@@ -514,247 +514,608 @@
     {
       "year": "2026",
       "title": "Champions Global",
-      "file": "Calendar_Files/2026_Champions_Global.ics"
+      "label": "Champions",
+      "region": "INTL",
+      "file": "Calendar_Files/2026_Champions_Global.ics",
+      "data": "feeds/matches/2026_Champions_Global.json",
+      "matches": 34,
+      "start": "2026-09-24T09:00:00Z",
+      "end": "2026-10-18T06:00:00Z"
     },
     {
       "year": "2026",
       "title": "Kickoff AMER",
-      "file": "Calendar_Files/2026_Kickoff_AMER.ics"
+      "label": "Kickoff",
+      "region": "AMER",
+      "file": "Calendar_Files/2026_Kickoff_AMER.ics",
+      "data": "feeds/matches/2026_Kickoff_AMER.json",
+      "matches": 30,
+      "start": "2026-01-15T22:00:00Z",
+      "end": "2026-02-15T22:00:00Z"
     },
     {
       "year": "2026",
       "title": "Kickoff CN",
-      "file": "Calendar_Files/2026_Kickoff_CN.ics"
+      "label": "Kickoff",
+      "region": "CN",
+      "file": "Calendar_Files/2026_Kickoff_CN.ics",
+      "data": "feeds/matches/2026_Kickoff_CN.json",
+      "matches": 30,
+      "start": "2026-01-22T09:00:00Z",
+      "end": "2026-02-09T09:00:00Z"
     },
     {
       "year": "2026",
       "title": "Kickoff EMEA",
-      "file": "Calendar_Files/2026_Kickoff_EMEA.ics"
+      "label": "Kickoff",
+      "region": "EMEA",
+      "file": "Calendar_Files/2026_Kickoff_EMEA.ics",
+      "data": "feeds/matches/2026_Kickoff_EMEA.json",
+      "matches": 30,
+      "start": "2026-01-20T16:00:00Z",
+      "end": "2026-02-15T17:00:00Z"
     },
     {
       "year": "2026",
       "title": "Kickoff PAC",
-      "file": "Calendar_Files/2026_Kickoff_PAC.ics"
+      "label": "Kickoff",
+      "region": "PAC",
+      "file": "Calendar_Files/2026_Kickoff_PAC.ics",
+      "data": "feeds/matches/2026_Kickoff_PAC.json",
+      "matches": 30,
+      "start": "2026-01-22T08:00:00Z",
+      "end": "2026-02-15T07:00:00Z"
     },
     {
       "year": "2026",
       "title": "Masters London Global",
-      "file": "Calendar_Files/2026_Masters_London_Global.ics"
+      "label": "Masters London",
+      "region": "INTL",
+      "file": "Calendar_Files/2026_Masters_London_Global.ics",
+      "data": "feeds/matches/2026_Masters_London_Global.json",
+      "matches": 24,
+      "start": "2026-06-06T14:00:00Z",
+      "end": "2026-06-21T14:20:00Z"
     },
     {
       "year": "2026",
       "title": "Masters Santiago Global",
-      "file": "Calendar_Files/2026_Masters_Santiago_Global.ics"
+      "label": "Masters Santiago",
+      "region": "INTL",
+      "file": "Calendar_Files/2026_Masters_Santiago_Global.ics",
+      "data": "feeds/matches/2026_Masters_Santiago_Global.json",
+      "matches": 24,
+      "start": "2026-02-28T17:00:00Z",
+      "end": "2026-03-15T18:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 1 AMER",
-      "file": "Calendar_Files/2026_Stage_1_AMER.ics"
+      "label": "Stage 1",
+      "region": "AMER",
+      "file": "Calendar_Files/2026_Stage_1_AMER.ics",
+      "data": "feeds/matches/2026_Stage_1_AMER.json",
+      "matches": 42,
+      "start": "2026-04-10T21:00:00Z",
+      "end": "2026-05-24T21:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 1 CN",
-      "file": "Calendar_Files/2026_Stage_1_CN.ics"
+      "label": "Stage 1",
+      "region": "CN",
+      "file": "Calendar_Files/2026_Stage_1_CN.ics",
+      "data": "feeds/matches/2026_Stage_1_CN.json",
+      "matches": 48,
+      "start": "2026-03-31T09:00:00Z",
+      "end": "2026-05-10T09:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 1 EMEA",
-      "file": "Calendar_Files/2026_Stage_1_EMEA.ics"
+      "label": "Stage 1",
+      "region": "EMEA",
+      "file": "Calendar_Files/2026_Stage_1_EMEA.ics",
+      "data": "feeds/matches/2026_Stage_1_EMEA.json",
+      "matches": 42,
+      "start": "2026-04-01T15:00:00Z",
+      "end": "2026-05-17T16:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 1 PAC",
-      "file": "Calendar_Files/2026_Stage_1_PAC.ics"
+      "label": "Stage 1",
+      "region": "PAC",
+      "file": "Calendar_Files/2026_Stage_1_PAC.ics",
+      "data": "feeds/matches/2026_Stage_1_PAC.json",
+      "matches": 42,
+      "start": "2026-04-03T08:00:00Z",
+      "end": "2026-05-17T10:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 2 AMER",
-      "file": "Calendar_Files/2026_Stage_2_AMER.ics"
+      "label": "Stage 2",
+      "region": "AMER",
+      "file": "Calendar_Files/2026_Stage_2_AMER.ics",
+      "data": "feeds/matches/2026_Stage_2_AMER.json",
+      "matches": 60,
+      "start": "2026-07-16T21:00:00Z",
+      "end": "2026-09-06T17:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 2 CN",
-      "file": "Calendar_Files/2026_Stage_2_CN.ics"
+      "label": "Stage 2",
+      "region": "CN",
+      "file": "Calendar_Files/2026_Stage_2_CN.ics",
+      "data": "feeds/matches/2026_Stage_2_CN.json",
+      "matches": 66,
+      "start": "2026-07-09T08:00:00Z",
+      "end": "2026-08-23T08:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 2 EMEA",
-      "file": "Calendar_Files/2026_Stage_2_EMEA.ics"
+      "label": "Stage 2",
+      "region": "EMEA",
+      "file": "Calendar_Files/2026_Stage_2_EMEA.ics",
+      "data": "feeds/matches/2026_Stage_2_EMEA.json",
+      "matches": 60,
+      "start": "2026-07-15T15:00:00Z",
+      "end": "2026-08-30T15:00:00Z"
     },
     {
       "year": "2026",
       "title": "Stage 2 PAC",
-      "file": "Calendar_Files/2026_Stage_2_PAC.ics"
+      "label": "Stage 2",
+      "region": "PAC",
+      "file": "Calendar_Files/2026_Stage_2_PAC.ics",
+      "data": "feeds/matches/2026_Stage_2_PAC.json",
+      "matches": 60,
+      "start": "2026-07-16T08:00:00Z",
+      "end": "2026-09-06T08:00:00Z"
+    },
+    {
+      "year": "2025",
+      "title": "Champions Global",
+      "label": "Champions",
+      "region": "INTL",
+      "file": "Calendar_Files/2025_Champions_Global.ics",
+      "data": "feeds/matches/2025_Champions_Global.json",
+      "matches": 34,
+      "start": "2025-09-12T13:00:00Z",
+      "end": "2025-10-05T11:00:00Z"
     },
     {
       "year": "2025",
       "title": "China Evolution Act1",
-      "file": "Calendar_Files/2025_China_Evolution_Act1.ics"
+      "label": "China Evolution Act1",
+      "region": "CN",
+      "file": "Calendar_Files/2025_China_Evolution_Act1.ics",
+      "data": "feeds/matches/2025_China_Evolution_Act1.json",
+      "matches": 12,
+      "start": "2025-02-08T09:00:00Z",
+      "end": "2025-02-16T09:00:00Z"
     },
     {
       "year": "2025",
       "title": "China Evolution Act2",
-      "file": "Calendar_Files/2025_China_Evolution_Act2.ics"
+      "label": "China Evolution Act2",
+      "region": "CN",
+      "file": "Calendar_Files/2025_China_Evolution_Act2.ics",
+      "data": "feeds/matches/2025_China_Evolution_Act2.json",
+      "matches": 12,
+      "start": "2025-05-08T04:00:00Z",
+      "end": "2025-05-12T09:00:00Z"
     },
     {
       "year": "2025",
       "title": "Kickoff AMER",
-      "file": "Calendar_Files/2025_Kickoff_AMER.ics"
+      "label": "Kickoff",
+      "region": "AMER",
+      "file": "Calendar_Files/2025_Kickoff_AMER.ics",
+      "data": "feeds/matches/2025_Kickoff_AMER.json",
+      "matches": 22,
+      "start": "2025-01-16T22:00:00Z",
+      "end": "2025-02-08T22:00:00Z"
     },
     {
       "year": "2025",
       "title": "Kickoff CN",
-      "file": "Calendar_Files/2025_Kickoff_CN.ics"
+      "label": "Kickoff",
+      "region": "CN",
+      "file": "Calendar_Files/2025_Kickoff_CN.ics",
+      "data": "feeds/matches/2025_Kickoff_CN.json",
+      "matches": 22,
+      "start": "2025-01-11T09:00:00Z",
+      "end": "2025-01-25T09:00:00Z"
     },
     {
       "year": "2025",
       "title": "Kickoff EMEA",
-      "file": "Calendar_Files/2025_Kickoff_EMEA.ics"
+      "label": "Kickoff",
+      "region": "EMEA",
+      "file": "Calendar_Files/2025_Kickoff_EMEA.ics",
+      "data": "feeds/matches/2025_Kickoff_EMEA.json",
+      "matches": 22,
+      "start": "2025-01-15T17:00:00Z",
+      "end": "2025-02-09T17:00:00Z"
     },
     {
       "year": "2025",
       "title": "Kickoff PAC",
-      "file": "Calendar_Files/2025_Kickoff_PAC.ics"
+      "label": "Kickoff",
+      "region": "PAC",
+      "file": "Calendar_Files/2025_Kickoff_PAC.ics",
+      "data": "feeds/matches/2025_Kickoff_PAC.json",
+      "matches": 22,
+      "start": "2025-01-18T08:00:00Z",
+      "end": "2025-02-09T08:00:00Z"
     },
     {
       "year": "2025",
       "title": "Masters Bangkok Global",
-      "file": "Calendar_Files/2025_Masters_Bangkok_Global.ics"
+      "label": "Masters Bangkok",
+      "region": "INTL",
+      "file": "Calendar_Files/2025_Masters_Bangkok_Global.ics",
+      "data": "feeds/matches/2025_Masters_Bangkok_Global.json",
+      "matches": 17,
+      "start": "2025-02-20T10:00:00Z",
+      "end": "2025-03-02T11:15:00Z"
+    },
+    {
+      "year": "2025",
+      "title": "Masters Toronto Global",
+      "label": "Masters Toronto",
+      "region": "INTL",
+      "file": "Calendar_Files/2025_Masters_Toronto_Global.ics",
+      "data": "feeds/matches/2025_Masters_Toronto_Global.json",
+      "matches": 25,
+      "start": "2025-06-07T16:00:00Z",
+      "end": "2025-06-22T17:15:00Z"
     },
     {
       "year": "2025",
       "title": "Stage 1 AMER",
-      "file": "Calendar_Files/2025_Stage_1_AMER.ics"
+      "label": "Stage 1",
+      "region": "AMER",
+      "file": "Calendar_Files/2025_Stage_1_AMER.ics",
+      "data": "feeds/matches/2025_Stage_1_AMER.json",
+      "matches": 42,
+      "start": "2025-03-21T21:00:00Z",
+      "end": "2025-05-04T21:00:00Z"
     },
     {
       "year": "2025",
       "title": "Stage 1 CN",
-      "file": "Calendar_Files/2025_Stage_1_CN.ics"
+      "label": "Stage 1",
+      "region": "CN",
+      "file": "Calendar_Files/2025_Stage_1_CN.ics",
+      "data": "feeds/matches/2025_Stage_1_CN.json",
+      "matches": 42,
+      "start": "2025-03-13T11:00:00Z",
+      "end": "2025-05-04T09:00:00Z"
     },
     {
       "year": "2025",
       "title": "Stage 1 EMEA",
-      "file": "Calendar_Files/2025_Stage_1_EMEA.ics"
+      "label": "Stage 1",
+      "region": "EMEA",
+      "file": "Calendar_Files/2025_Stage_1_EMEA.ics",
+      "data": "feeds/matches/2025_Stage_1_EMEA.json",
+      "matches": 42,
+      "start": "2025-03-26T16:00:00Z",
+      "end": "2025-05-18T16:00:00Z"
     },
     {
       "year": "2025",
       "title": "Stage 1 PAC",
-      "file": "Calendar_Files/2025_Stage_1_PAC.ics"
+      "label": "Stage 1",
+      "region": "PAC",
+      "file": "Calendar_Files/2025_Stage_1_PAC.ics",
+      "data": "feeds/matches/2025_Stage_1_PAC.json",
+      "matches": 42,
+      "start": "2025-03-22T08:00:00Z",
+      "end": "2025-05-11T08:00:00Z"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 2 AMER",
+      "label": "Stage 2",
+      "region": "AMER",
+      "file": "Calendar_Files/2025_Stage_2_AMER.ics",
+      "data": "feeds/matches/2025_Stage_2_AMER.json",
+      "matches": 43,
+      "start": "2025-07-18T21:00:00Z",
+      "end": "2025-08-31T21:00:00Z"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 2 CN",
+      "label": "Stage 2",
+      "region": "CN",
+      "file": "Calendar_Files/2025_Stage_2_CN.ics",
+      "data": "feeds/matches/2025_Stage_2_CN.json",
+      "matches": 43,
+      "start": "2025-07-03T11:00:00Z",
+      "end": "2025-08-24T09:00:00Z"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 2 EMEA",
+      "label": "Stage 2",
+      "region": "EMEA",
+      "file": "Calendar_Files/2025_Stage_2_EMEA.ics",
+      "data": "feeds/matches/2025_Stage_2_EMEA.json",
+      "matches": 43,
+      "start": "2025-07-16T15:00:00Z",
+      "end": "2025-08-31T16:00:00Z"
+    },
+    {
+      "year": "2025",
+      "title": "Stage 2 PAC",
+      "label": "Stage 2",
+      "region": "PAC",
+      "file": "Calendar_Files/2025_Stage_2_PAC.ics",
+      "data": "feeds/matches/2025_Stage_2_PAC.json",
+      "matches": 43,
+      "start": "2025-07-15T08:00:00Z",
+      "end": "2025-08-31T05:50:00Z"
     },
     {
       "year": "2024",
       "title": "Champions Seoul Global",
-      "file": "Calendar_Files/2024_Champions_Seoul_Global.ics"
+      "label": "Champions Seoul",
+      "region": "INTL",
+      "file": "Calendar_Files/2024_Champions_Seoul_Global.ics",
+      "data": "feeds/matches/2024_Champions_Seoul_Global.json",
+      "matches": 34,
+      "start": "2024-08-01T08:00:00Z",
+      "end": "2024-08-25T07:00:00Z"
     },
     {
       "year": "2024",
       "title": "Kickoff AMER",
-      "file": "Calendar_Files/2024_Kickoff_AMER.ics"
+      "label": "Kickoff",
+      "region": "AMER",
+      "file": "Calendar_Files/2024_Kickoff_AMER.ics",
+      "data": "feeds/matches/2024_Kickoff_AMER.json",
+      "matches": 19,
+      "start": "2024-02-16T22:00:00Z",
+      "end": "2024-03-03T22:00:00Z"
     },
     {
       "year": "2024",
       "title": "Kickoff CN",
-      "file": "Calendar_Files/2024_Kickoff_CN.ics"
+      "label": "Kickoff",
+      "region": "CN",
+      "file": "Calendar_Files/2024_Kickoff_CN.ics",
+      "data": "feeds/matches/2024_Kickoff_CN.json",
+      "matches": 19,
+      "start": "2024-02-22T09:00:00Z",
+      "end": "2024-03-02T09:00:00Z"
     },
     {
       "year": "2024",
       "title": "Kickoff EMEA",
-      "file": "Calendar_Files/2024_Kickoff_EMEA.ics"
+      "label": "Kickoff",
+      "region": "EMEA",
+      "file": "Calendar_Files/2024_Kickoff_EMEA.ics",
+      "data": "feeds/matches/2024_Kickoff_EMEA.json",
+      "matches": 19,
+      "start": "2024-02-20T16:00:00Z",
+      "end": "2024-03-01T16:00:00Z"
     },
     {
       "year": "2024",
       "title": "Kickoff PAC",
-      "file": "Calendar_Files/2024_Kickoff_PAC.ics"
+      "label": "Kickoff",
+      "region": "PAC",
+      "file": "Calendar_Files/2024_Kickoff_PAC.ics",
+      "data": "feeds/matches/2024_Kickoff_PAC.json",
+      "matches": 19,
+      "start": "2024-02-17T06:00:00Z",
+      "end": "2024-02-25T08:00:00Z"
     },
     {
       "year": "2024",
       "title": "Masters Madrid Global",
-      "file": "Calendar_Files/2024_Masters_Madrid_Global.ics"
+      "label": "Masters Madrid",
+      "region": "INTL",
+      "file": "Calendar_Files/2024_Masters_Madrid_Global.ics",
+      "data": "feeds/matches/2024_Masters_Madrid_Global.json",
+      "matches": 17,
+      "start": "2024-03-14T15:00:00Z",
+      "end": "2024-03-24T16:15:00Z"
     },
     {
       "year": "2024",
       "title": "Masters Shanghai Global",
-      "file": "Calendar_Files/2024_Masters_Shanghai_Global.ics"
+      "label": "Masters Shanghai",
+      "region": "INTL",
+      "file": "Calendar_Files/2024_Masters_Shanghai_Global.ics",
+      "data": "feeds/matches/2024_Masters_Shanghai_Global.json",
+      "matches": 25,
+      "start": "2024-05-23T08:00:00Z",
+      "end": "2024-06-09T08:15:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 1 AMER",
-      "file": "Calendar_Files/2024_Stage_1_AMER.ics"
+      "label": "Stage 1",
+      "region": "AMER",
+      "file": "Calendar_Files/2024_Stage_1_AMER.ics",
+      "data": "feeds/matches/2024_Stage_1_AMER.json",
+      "matches": 8,
+      "start": "2024-05-08T21:00:00Z",
+      "end": "2024-05-12T21:00:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 1 CN",
-      "file": "Calendar_Files/2024_Stage_1_CN.ics"
+      "label": "Stage 1",
+      "region": "CN",
+      "file": "Calendar_Files/2024_Stage_1_CN.ics",
+      "data": "feeds/matches/2024_Stage_1_CN.json",
+      "matches": 8,
+      "start": "2024-05-08T09:00:00Z",
+      "end": "2024-05-12T09:00:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 1 EMEA",
-      "file": "Calendar_Files/2024_Stage_1_EMEA.ics"
+      "label": "Stage 1",
+      "region": "EMEA",
+      "file": "Calendar_Files/2024_Stage_1_EMEA.ics",
+      "data": "feeds/matches/2024_Stage_1_EMEA.json",
+      "matches": 8,
+      "start": "2024-05-08T15:00:00Z",
+      "end": "2024-05-12T15:00:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 1 PAC",
-      "file": "Calendar_Files/2024_Stage_1_PAC.ics"
+      "label": "Stage 1",
+      "region": "PAC",
+      "file": "Calendar_Files/2024_Stage_1_PAC.ics",
+      "data": "feeds/matches/2024_Stage_1_PAC.json",
+      "matches": 8,
+      "start": "2024-05-03T08:00:00Z",
+      "end": "2024-05-12T08:00:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 2 AMER",
-      "file": "Calendar_Files/2024_Stage_2_AMER.ics"
+      "label": "Stage 2",
+      "region": "AMER",
+      "file": "Calendar_Files/2024_Stage_2_AMER.ics",
+      "data": "feeds/matches/2024_Stage_2_AMER.json",
+      "matches": 33,
+      "start": "2024-06-22T21:00:00Z",
+      "end": "2024-07-21T21:00:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 2 CN",
-      "file": "Calendar_Files/2024_Stage_2_CN.ics"
+      "label": "Stage 2",
+      "region": "CN",
+      "file": "Calendar_Files/2024_Stage_2_CN.ics",
+      "data": "feeds/matches/2024_Stage_2_CN.json",
+      "matches": 33,
+      "start": "2024-06-15T11:00:00Z",
+      "end": "2024-07-20T08:30:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 2 EMEA",
-      "file": "Calendar_Files/2024_Stage_2_EMEA.ics"
+      "label": "Stage 2",
+      "region": "EMEA",
+      "file": "Calendar_Files/2024_Stage_2_EMEA.ics",
+      "data": "feeds/matches/2024_Stage_2_EMEA.json",
+      "matches": 33,
+      "start": "2024-06-18T18:00:00Z",
+      "end": "2024-07-20T16:00:00Z"
     },
     {
       "year": "2024",
       "title": "Stage 2 PAC",
-      "file": "Calendar_Files/2024_Stage_2_PAC.ics"
+      "label": "Stage 2",
+      "region": "PAC",
+      "file": "Calendar_Files/2024_Stage_2_PAC.ics",
+      "data": "feeds/matches/2024_Stage_2_PAC.json",
+      "matches": 33,
+      "start": "2024-06-15T08:00:00Z",
+      "end": "2024-07-21T08:00:00Z"
     },
     {
       "year": "2023",
       "title": "Champions 2023 Global",
-      "file": "Calendar_Files/2023_Champions_2023_Global.ics"
+      "label": "Champions 2023",
+      "region": "INTL",
+      "file": "Calendar_Files/2023_Champions_2023_Global.ics",
+      "data": "feeds/matches/2023_Champions_2023_Global.json",
+      "matches": 34,
+      "start": "2023-08-06T19:00:00Z",
+      "end": "2023-08-26T19:30:00Z"
     },
     {
       "year": "2023",
       "title": "Masters Tokyo Global",
-      "file": "Calendar_Files/2023_Masters_Tokyo_Global.ics"
+      "label": "Masters Tokyo",
+      "region": "INTL",
+      "file": "Calendar_Files/2023_Masters_Tokyo_Global.ics",
+      "data": "feeds/matches/2023_Masters_Tokyo_Global.json",
+      "matches": 24,
+      "start": "2023-06-11T03:00:00Z",
+      "end": "2023-06-25T04:30:00Z"
     },
     {
       "year": "2022",
       "title": "Champions istanbul 2022 Global",
-      "file": "Calendar_Files/2022_Champions_istanbul_2022_Global.ics"
+      "label": "Champions istanbul 2022",
+      "region": "INTL",
+      "file": "Calendar_Files/2022_Champions_istanbul_2022_Global.ics",
+      "data": "feeds/matches/2022_Champions_istanbul_2022_Global.json",
+      "matches": 34,
+      "start": "2022-08-31T14:00:00Z",
+      "end": "2022-09-18T14:10:00Z"
     },
     {
       "year": "2022",
       "title": "Masters Copenhagen Global",
-      "file": "Calendar_Files/2022_Masters_Copenhagen_Global.ics"
+      "label": "Masters Copenhagen",
+      "region": "INTL",
+      "file": "Calendar_Files/2022_Masters_Copenhagen_Global.ics",
+      "data": "feeds/matches/2022_Masters_Copenhagen_Global.json",
+      "matches": 24,
+      "start": "2022-07-10T13:00:00Z",
+      "end": "2022-07-24T15:00:00Z"
     },
     {
       "year": "2022",
       "title": "Masters Reykjavik Global",
-      "file": "Calendar_Files/2022_Masters_Reykjavik_Global.ics"
+      "label": "Masters Reykjavik",
+      "region": "INTL",
+      "file": "Calendar_Files/2022_Masters_Reykjavik_Global.ics",
+      "data": "feeds/matches/2022_Masters_Reykjavik_Global.json",
+      "matches": 24,
+      "start": "2022-04-10T15:00:00Z",
+      "end": "2022-04-24T17:00:00Z"
     },
     {
       "year": "2021",
       "title": "Champions Berlin 2021 Global",
-      "file": "Calendar_Files/2021_Champions_Berlin_2021_Global.ics"
+      "label": "Champions Berlin 2021",
+      "region": "INTL",
+      "file": "Calendar_Files/2021_Champions_Berlin_2021_Global.ics",
+      "data": "feeds/matches/2021_Champions_Berlin_2021_Global.json",
+      "matches": 27,
+      "start": "2021-12-01T14:00:00Z",
+      "end": "2021-12-12T17:30:00Z"
     },
     {
       "year": "2021",
       "title": "Masters Berlin Global",
-      "file": "Calendar_Files/2021_Masters_Berlin_Global.ics"
+      "label": "Masters Berlin",
+      "region": "INTL",
+      "file": "Calendar_Files/2021_Masters_Berlin_Global.ics",
+      "data": "feeds/matches/2021_Masters_Berlin_Global.json",
+      "matches": 28,
+      "start": "2021-09-10T13:00:00Z",
+      "end": "2021-09-19T16:00:00Z"
     },
     {
       "year": "2021",
       "title": "Masters Reykjavik Global",
-      "file": "Calendar_Files/2021_Masters_Reykjavik_Global.ics"
+      "label": "Masters Reykjavik",
+      "region": "INTL",
+      "file": "Calendar_Files/2021_Masters_Reykjavik_Global.ics",
+      "data": "feeds/matches/2021_Masters_Reykjavik_Global.json",
+      "matches": 18,
+      "start": "2021-05-24T15:00:00Z",
+      "end": "2021-05-30T17:00:00Z"
     }
-  ]
+  ],
+  "latest": "feeds/matches/2026_Champions_Global.json"
 }

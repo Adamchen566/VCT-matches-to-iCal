@@ -20,6 +20,8 @@ from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
+from calendar_library import load_matches
+
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "events.toml"
@@ -31,6 +33,7 @@ ARCHIVE_TEXT_DIR = ROOT / "TEXT_Files"
 ARCHIVE_DATA_DIR = ROOT / "data" / "archive"
 FEEDS_DIR = ROOT / "feeds"
 FEEDS_INDEX_NAME = "index.json"
+FEEDS_MATCHES_DIR = "matches"
 
 VLR_BASE_URL = "https://www.vlr.gg"
 EVENTS_LIST_URL = f"{VLR_BASE_URL}/events"
@@ -1080,20 +1083,71 @@ def upcoming_matches(events: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
     ]
 
 
-def list_archives() -> list[dict[str, str]]:
-    archives = []
+def describe_archive(stem: str) -> tuple[str, str, str] | None:
+    """Split "2026_Stage_2_CN" into ("2026", "Stage 2", "CN")."""
+    year, _, rest = stem.partition("_")
+    if not (re.fullmatch(r"\d{4}", year) and rest):
+        return None
+    words = rest.split("_")
+    if words[-1] in REGION_LABELS:
+        region = words.pop()
+    elif words[-1] == "Global":
+        words.pop()
+        region = INTERNATIONAL_REGION
+    else:
+        region = "CN" if "China" in words else ""
+    return year, " ".join(words), region
+
+
+def list_archives() -> tuple[list[dict[str, Any]], dict[str, str]]:
+    """Archived events for the index, plus each one's matches for the web page.
+
+    The matches are read back from the calendar files, so the page shows
+    exactly what a subscriber's calendar holds, whatever format the file
+    was written in.
+    """
+    archives: list[dict[str, Any]] = []
+    files: dict[str, str] = {}
     for path in ARCHIVE_ICS_DIR.glob("*.ics"):
-        year, _, rest = path.stem.partition("_")
-        if not (re.fullmatch(r"\d{4}", year) and rest):
+        described = describe_archive(path.stem)
+        if described is None:
             continue
+        year, label, region = described
+        matches = [
+            {
+                "start_utc": format_utc(match.start) if match.start else None,
+                "team1": match.team1,
+                "team2": match.team2,
+                "score1": match.score1,
+                "score2": match.score2,
+            }
+            for match in load_matches(path)
+        ]
+        starts = [match["start_utc"] for match in matches if match["start_utc"]]
+        relative = f"{FEEDS_MATCHES_DIR}/{path.stem}.json"
+        files[relative] = (
+            json.dumps(
+                {"title": f"{year} {label}", "region": region, "matches": matches},
+                ensure_ascii=False,
+                separators=(",", ":"),
+            )
+            + "\n"
+        )
         archives.append(
             {
                 "year": year,
-                "title": rest.replace("_", " "),
+                "title": path.stem.partition("_")[2].replace("_", " "),
+                "label": label,
+                "region": region,
                 "file": f"{ARCHIVE_ICS_DIR.name}/{path.name}",
+                "data": f"{FEEDS_DIR.name}/{relative}",
+                "matches": len(matches),
+                "start": min(starts) if starts else None,
+                "end": max(starts) if starts else None,
             }
         )
-    return sorted(archives, key=lambda item: (-int(item["year"]), item["title"]))
+    archives.sort(key=lambda item: (-int(item["year"]), item["title"]))
+    return archives, files
 
 
 def build_feeds(
@@ -1160,6 +1214,11 @@ def build_feeds(
             }
         )
 
+    archives, archive_files = list_archives()
+    files.update(archive_files)
+    finished = [archive for archive in archives if archive["end"]]
+    latest = max(finished, key=lambda item: item["end"], default=None)
+
     counts = Counter(record["event_id"] for record in events.values())
     index = {
         "calendar": {
@@ -1178,7 +1237,9 @@ def build_feeds(
         "regions": region_entries,
         "teams": team_entries,
         "upcoming": upcoming_matches(events),
-        "archives": list_archives(),
+        "archives": archives,
+        # The event that finished last; shown while nothing is scheduled.
+        "latest": latest["data"] if latest else None,
     }
     files[FEEDS_INDEX_NAME] = (
         json.dumps(index, ensure_ascii=False, indent=2) + "\n"
@@ -1208,6 +1269,15 @@ def validate_feeds() -> int:
         if found != entry["matches"]:
             raise CalendarUpdateError(
                 f"{entry['file']} 有 {found} 场，索引记录的是 {entry['matches']} 场"
+            )
+    for archive in index["archives"]:
+        path = ROOT / archive["data"]
+        if not path.exists():
+            raise CalendarUpdateError(f"赛果文件不存在: {archive['data']}")
+        found = len(json.loads(path.read_text(encoding="utf-8"))["matches"])
+        if found != archive["matches"]:
+            raise CalendarUpdateError(
+                f"{archive['data']} 有 {found} 场，索引记录的是 {archive['matches']} 场"
             )
     return len(entries)
 
