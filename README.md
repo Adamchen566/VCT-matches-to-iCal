@@ -8,7 +8,7 @@
 
 This project is a Python-based crawler and GUI viewer for **Valorant** match data from [VLR.gg](https://www.vlr.gg). It supports calendar export (`.ics`), interactive GUI views (table, card, heatmap), and match tracking across regions and years.
 
-The automated calendar currently covers **VCT 2026 Stage 2** in AMER, PAC, EMEA, and CN. GitHub Actions refreshes it every day at **14:00 Australia/Sydney**, with daylight-saving changes handled by the named timezone.
+The events tracked by the subscription calendar are defined in [`events.toml`](events.toml), so switching events needs no code changes. It is currently set to **VCT 2027 Kickoff** in AMER, PAC, EMEA, and CN (matches appear automatically once VLR publishes the schedule). GitHub Actions refreshes it every day at **14:00 Australia/Sydney**, with daylight-saving changes handled by the named timezone.
 
 ---
 
@@ -42,9 +42,9 @@ python GUI.py
 
 ## 📅 Subscribe in Calendar
 
-Subscribe to the automatically updated Stage 2 calendar:
+Subscribe to the automatically updated calendar:
 
-- **VCT 2026 Stage 2 — AMER, PAC, EMEA, and CN**:
+- **Current events (VCT 2027 Kickoff — AMER, PAC, EMEA, and CN)**:
 
   https://raw.githubusercontent.com/Adamchen566/VCT-matches-to-iCal/main/vct_OnGoing.ics
 
@@ -74,15 +74,35 @@ python -m pip install -r requirements.txt
 ```bash
 git clone https://github.com/Adamchen566/VCT-matches-to-iCal
 cd VCT-matches-to-iCal
-python update_stage2_calendar.py
-python update_stage2_calendar.py --check
+python update_calendar.py
+python update_calendar.py --check
 ```
 
 Generated files:
 
 - `vct_OnGoing.ics`: calendar subscription feed
 - `vct_OnGoing.txt`: readable schedule in Australia/Sydney time
-- `data/vct_stage2_matches.json`: match cache used for stable updates
+- `data/matches.json`: match cache used for stable updates
+
+### 🔁 Switching events
+
+Edit `events.toml`. Each `[[events]]` entry maps to one event page on vlr.gg (`https://www.vlr.gg/event/matches/<event_id>/<slug>/`):
+
+```toml
+[calendar]
+name = "VCT 2027 Kickoff - AMER PAC EMEA CN"
+display_timezone = "Australia/Sydney"
+
+[[events]]
+region = "AMER"
+event_id = 3178
+slug = "vct-2027-americas-kickoff"
+name = "VCT 2027: Americas Kickoff"
+```
+
+After a push, GitHub Actions regenerates the calendar and the subscription URL stays the same. If an event returns fewer matches than the last published run, the script refuses to overwrite the calendar; use `python update_calendar.py --allow-shrink` when VLR really removed a match.
+
+Finished events are archived in `Calendar_Files/` (for example `2026_Stage_2_All.ics`).
 
 ---
 
