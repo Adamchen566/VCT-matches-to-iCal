@@ -91,6 +91,20 @@ python GUI.py
 
 The GUI only reads `vct_OnGoing.ics` and `Calendar_Files/` from the repository and never touches the network. Its copy button copies the subscription link of the event on screen.
 
+## Match statistics
+
+Beyond the schedule, the repository keeps detailed statistics parsed from vlr.gg match pages in [`data/stats/`](data/stats), ready for analysis.
+
+| To study | Use |
+|---|---|
+| Maps: play counts, picks and bans, side balance | `maps.csv`, `vetoes.csv`, `rounds.csv` |
+| Compositions and agent picks | The composition columns in `maps.csv`, the agent column in `player_stats.csv` |
+| Player performance | `player_stats.csv`: rating, ACS, KDA, KAST, ADR, headshot rate and first kills, each split by side, plus multi-kills and clutches |
+| Economy | `rounds.csv`: each team's buy type, loadout value and bank for every round |
+| Ready-made summaries | Per-year map, agent, composition, player and team tables in `summary/` |
+
+Every column is described in [`data/stats/README.md`](data/stats/README.md) (in Chinese). `vlr_stats.py` downloads and parses the pages, and `analyze_stats.py` builds the summaries.
+
 ## Run it yourself
 
 Python 3.11 or newer, on Windows, macOS or Linux.

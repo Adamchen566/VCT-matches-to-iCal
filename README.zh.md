@@ -91,6 +91,20 @@ python GUI.py
 
 图形界面只读取仓库内的 `vct_OnGoing.ics` 和 `Calendar_Files/`，不访问网络；底部的「复制」按钮会复制当前赛事对应的订阅链接。
 
+## 比赛数据集
+
+除了赛程，仓库还保存了从 vlr.gg 比赛页面解析出来的详细数据，放在 [`data/stats/`](data/stats)，可以直接用来做分析。
+
+| 想分析 | 用哪张表 |
+|---|---|
+| 地图：出场、选禁、攻防平衡 | `maps.csv`、`vetoes.csv`、`rounds.csv` |
+| 阵容和特工选取 | `maps.csv` 里的阵容列、`player_stats.csv` 里的特工列 |
+| 选手表现 | `player_stats.csv`：评分、ACS、KDA、KAST、ADR、爆头率、首杀，都分攻防，另有多杀和残局 |
+| 经济 | `rounds.csv`：每回合双方的经济类型、装备价值和存款 |
+| 现成的汇总 | `summary/` 里按年份算好的地图、特工、阵容、选手、战队表 |
+
+每一列的含义见 [`data/stats/README.md`](data/stats/README.md)。数据由 `vlr_stats.py` 抓取和解析，`analyze_stats.py` 生成汇总表。
+
 ## 自己运行
 
 需要 Python 3.11 及以上，Windows、macOS、Linux 都可以。

@@ -6,3 +6,6 @@ build/
 *.tmp
 *.log
 dist/
+
+# Downloaded VLR pages used to build data/stats (rebuildable)
+.cache/

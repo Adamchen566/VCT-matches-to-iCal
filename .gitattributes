@@ -7,3 +7,4 @@
 # Generated data and text are compared byte for byte, so keep LF everywhere.
 *.json text eol=lf
 *.txt text eol=lf
+*.csv text eol=lf

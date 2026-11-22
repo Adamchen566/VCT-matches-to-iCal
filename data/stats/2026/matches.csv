@@ -1,0 +1,623 @@
+match_id,event_id,series,start_utc,patch,best_of,team1_id,team1,team1_tag,team2_id,team2,team2_tag,score1,score2,winner,url
+596399,2682,Main Event: Upper Round 1,2026-01-15T22:00:00Z,12.0,3,427,ENVY,ENVY,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/596399/envy-vs-evil-geniuses-vct-2026-americas-kickoff-ur1
+596398,2682,Main Event: Upper Round 1,2026-01-16T01:10:00Z,12.0,3,6961,LOUD,LOUD,188,Cloud9,C9,0,2,2,https://www.vlr.gg/596398/loud-vs-cloud9-vct-2026-americas-kickoff-ur1
+596400,2682,Main Event: Upper Round 1,2026-01-16T22:00:00Z,12.0,3,2355,KRÜ Esports,KRÜ,2406,FURIA,FUR,1,2,2,https://www.vlr.gg/596400/kr-esports-vs-furia-vct-2026-americas-kickoff-ur1
+596401,2682,Main Event: Upper Round 1,2026-01-17T01:05:00Z,12.0,3,120,100 Thieves,100T,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/596401/100-thieves-vs-leviat-n-vct-2026-americas-kickoff-ur1
+596402,2682,Main Event: Upper Round 2,2026-01-17T22:00:00Z,12.0,3,1034,NRG,NRG,188,Cloud9,C9,2,0,1,https://www.vlr.gg/596402/nrg-vs-cloud9-vct-2026-americas-kickoff-ur2
+596403,2682,Main Event: Upper Round 2,2026-01-18T00:00:00Z,12.0,3,7386,MIBR,MIBR,427,ENVY,ENVY,2,0,1,https://www.vlr.gg/596403/mibr-vs-envy-vct-2026-americas-kickoff-ur2
+596404,2682,Main Event: Upper Round 2,2026-01-18T22:00:00Z,12.0,3,2,Sentinels,SEN,2406,FURIA,FUR,0,2,2,https://www.vlr.gg/596404/sentinels-vs-furia-vct-2026-americas-kickoff-ur2
+596405,2682,Main Event: Upper Round 2,2026-01-19T00:20:00Z,12.0,3,11058,G2 Esports,G2,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/596405/g2-esports-vs-100-thieves-vct-2026-americas-kickoff-ur2
+594740,2684,Main Event: Upper Round 1,2026-01-20T16:00:00Z,12.0,3,4915,Natus Vincere,NAVI,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/594740/natus-vincere-vs-karmine-corp-vct-2026-emea-kickoff-ur1
+594741,2684,Main Event: Upper Round 1,2026-01-20T18:35:00Z,12.0,3,1184,FUT Esports,FUT,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/594741/fut-esports-vs-gentle-mates-vct-2026-emea-kickoff-ur1
+594742,2684,Main Event: Upper Round 1,2026-01-21T16:00:00Z,12.0,3,3478,PCIFIC Esports,PCF,397,BBL Esports,BBL,1,2,2,https://www.vlr.gg/594742/pcific-esports-vs-bbl-esports-vct-2026-emea-kickoff-ur1
+594743,2684,Main Event: Upper Round 1,2026-01-21T19:20:00Z,12.0,3,18019,ULF Esports,ULF,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/594743/ulf-esports-vs-team-vitality-vct-2026-emea-kickoff-ur1
+595630,2683,Main Event: Upper Round 1,2026-01-22T08:00:00Z,12.0,3,11060,Nongshim RedForce,NS,6199,Team Secret,TS,2,0,1,https://www.vlr.gg/595630/nongshim-redforce-vs-team-secret-vct-2026-pacific-kickoff-ur1
+598923,2685,Main Event: Upper Round 1,2026-01-22T09:00:00Z,,3,12685,Trace Esports,TE,13790,Wolves Esports,WOL,1,2,2,https://www.vlr.gg/598923/trace-esports-vs-wolves-esports-vct-2026-china-kickoff-ur1
+595631,2683,Main Event: Upper Round 1,2026-01-22T10:10:00Z,12.0,3,5448,ZETA DIVISION,ZETA,4050,FULL SENSE,FS,0,2,2,https://www.vlr.gg/595631/zeta-division-vs-full-sense-vct-2026-pacific-kickoff-ur1
+598924,2685,Main Event: Upper Round 1,2026-01-22T12:25:00Z,,3,11328,FunPlus Phoenix,FPX,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/598924/funplus-phoenix-vs-tyloo-vct-2026-china-kickoff-ur1
+594744,2684,Main Event: Upper Round 2,2026-01-22T16:00:00Z,12.0,3,1001,Team Heretics,TH,4915,Natus Vincere,NAVI,1,2,2,https://www.vlr.gg/594744/team-heretics-vs-natus-vincere-vct-2026-emea-kickoff-ur2
+594745,2684,Main Event: Upper Round 2,2026-01-22T19:30:00Z,12.0,3,14419,GIANTX,GX,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/594745/giantx-vs-gentle-mates-vct-2026-emea-kickoff-ur2
+595632,2683,Main Event: Upper Round 1,2026-01-23T08:00:00Z,12.0,3,11229,VARREL,VL,918,Global Esports,GE,0,2,2,https://www.vlr.gg/595632/varrel-vs-global-esports-vct-2026-pacific-kickoff-ur1
+598921,2685,Main Event: Upper Round 1,2026-01-23T09:00:00Z,,3,1119,All Gamers,AG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/598921/all-gamers-vs-nova-esports-vct-2026-china-kickoff-ur1
+595633,2683,Main Event: Upper Round 1,2026-01-23T10:10:00Z,12.0,3,278,DetonatioN FocusMe,DFM,17,Gen.G,GEN,2,0,1,https://www.vlr.gg/595633/detonation-focusme-vs-gen-g-vct-2026-pacific-kickoff-ur1
+598922,2685,Main Event: Upper Round 1,2026-01-23T11:55:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,1,1,https://www.vlr.gg/598922/jdg-esports-vs-titan-esports-club-vct-2026-china-kickoff-ur1
+594746,2684,Main Event: Upper Round 2,2026-01-23T16:00:00Z,12.0,3,2593,FNATIC,FNC,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/594746/fnatic-vs-bbl-esports-vct-2026-emea-kickoff-ur2
+594747,2684,Main Event: Upper Round 2,2026-01-23T18:25:00Z,12.0,3,474,Team Liquid,TL,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/594747/team-liquid-vs-team-vitality-vct-2026-emea-kickoff-ur2
+596409,2682,Main Event: Middle Round 1,2026-01-23T22:00:00Z,12.0,3,6961,LOUD,LOUD,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/596409/loud-vs-100-thieves-vct-2026-americas-kickoff-mr1
+596410,2682,Main Event: Middle Round 1,2026-01-24T01:10:00Z,12.0,3,5248,Evil Geniuses,EG,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/596410/evil-geniuses-vs-sentinels-vct-2026-americas-kickoff-mr1
+595634,2683,Main Event: Upper Round 2,2026-01-24T08:00:00Z,12.0,3,14,T1,T1,11060,Nongshim RedForce,NS,1,2,2,https://www.vlr.gg/595634/t1-vs-nongshim-redforce-vct-2026-pacific-kickoff-ur2
+598927,2685,Main Event: Upper Round 2,2026-01-24T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/598927/xi-lai-gaming-vs-wolves-esports-vct-2026-china-kickoff-ur2
+595635,2683,Main Event: Upper Round 2,2026-01-24T10:55:00Z,12.0,3,8185,KIWOOM DRX,KRX,4050,FULL SENSE,FS,1,2,2,https://www.vlr.gg/595635/drx-vs-full-sense-vct-2026-pacific-kickoff-ur2
+598928,2685,Main Event: Upper Round 2,2026-01-24T11:35:00Z,,3,1120,EDward Gaming,EDG,731,TYLOO,TYL,2,0,1,https://www.vlr.gg/598928/edward-gaming-vs-tyloo-vct-2026-china-kickoff-ur2
+596411,2682,Main Event: Middle Round 1,2026-01-24T22:00:00Z,12.0,3,2355,KRÜ Esports,KRÜ,427,ENVY,ENVY,1,2,2,https://www.vlr.gg/596411/kr-esports-vs-envy-vct-2026-americas-kickoff-mr1
+596412,2682,Main Event: Middle Round 1,2026-01-25T01:05:00Z,12.0,3,2359,LEVIATÁN,LEV,188,Cloud9,C9,0,2,2,https://www.vlr.gg/596412/leviat-n-vs-cloud9-vct-2026-americas-kickoff-mr1
+595636,2683,Main Event: Upper Round 2,2026-01-25T08:00:00Z,12.0,3,624,Paper Rex,PRX,918,Global Esports,GE,2,1,1,https://www.vlr.gg/595636/paper-rex-vs-global-esports-vct-2026-pacific-kickoff-ur2
+598925,2685,Main Event: Upper Round 2,2026-01-25T09:00:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1119,All Gamers,AG,0,2,2,https://www.vlr.gg/598925/bilibili-gaming-vs-all-gamers-vct-2026-china-kickoff-ur2
+595637,2683,Main Event: Upper Round 2,2026-01-25T11:00:00Z,12.0,3,878,Rex Regum Qeon,RRQ,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/595637/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-kickoff-ur2
+598926,2685,Main Event: Upper Round 2,2026-01-25T11:30:00Z,,3,11981,Dragon Ranger Gaming,DRG,13576,JD Mall JDG Esports (JD Gaming),JDG,2,1,1,https://www.vlr.gg/598926/dragon-ranger-gaming-vs-jdg-esports-vct-2026-china-kickoff-ur2
+596413,2682,Main Event: Middle Round 2,2026-01-25T22:00:00Z,12.0,3,120,100 Thieves,100T,2,Sentinels,SEN,2,0,1,https://www.vlr.gg/596413/100-thieves-vs-sentinels-vct-2026-americas-kickoff-mr2
+596414,2682,Main Event: Middle Round 2,2026-01-26T01:00:00Z,12.0,3,427,ENVY,ENVY,188,Cloud9,C9,1,2,2,https://www.vlr.gg/596414/envy-vs-cloud9-vct-2026-americas-kickoff-mr2
+594751,2684,Main Event: Middle Round 1,2026-01-27T16:00:00Z,12.0,3,8877,Karmine Corp,KC,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/594751/karmine-corp-vs-team-liquid-vct-2026-emea-kickoff-mr1
+594752,2684,Main Event: Middle Round 1,2026-01-27T19:20:00Z,12.0,3,1184,FUT Esports,FUT,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/594752/fut-esports-vs-fnatic-vct-2026-emea-kickoff-mr1
+598932,2685,Main Event: Middle Round 1,2026-01-28T09:00:00Z,,3,12064,Nova Esports,NOVA,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/598932/nova-esports-vs-tyloo-vct-2026-china-kickoff-mr1
+598933,2685,Main Event: Middle Round 1,2026-01-28T11:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/598933/titan-esports-club-vs-wolves-esports-vct-2026-china-kickoff-mr1
+594753,2684,Main Event: Middle Round 1,2026-01-28T16:00:00Z,12.0,3,3478,PCIFIC Esports,PCF,14419,GIANTX,GX,1,2,2,https://www.vlr.gg/594753/pcific-esports-vs-giantx-vct-2026-emea-kickoff-mr1
+594754,2684,Main Event: Middle Round 1,2026-01-28T19:35:00Z,12.0,3,18019,ULF Esports,ULF,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/594754/ulf-esports-vs-team-heretics-vct-2026-emea-kickoff-mr1
+595641,2683,Main Event: Middle Round 1,2026-01-29T08:00:00Z,12.0,3,6199,Team Secret,TS,278,DetonatioN FocusMe,DFM,0,2,2,https://www.vlr.gg/595641/team-secret-vs-detonation-focusme-vct-2026-pacific-kickoff-mr1
+598934,2685,Main Event: Middle Round 1,2026-01-29T09:00:00Z,,3,12685,Trace Esports,TE,13576,JD Mall JDG Esports (JD Gaming),JDG,2,1,1,https://www.vlr.gg/598934/trace-esports-vs-jdg-esports-vct-2026-china-kickoff-mr1
+595642,2683,Main Event: Middle Round 1,2026-01-29T10:00:00Z,12.0,3,5448,ZETA DIVISION,ZETA,918,Global Esports,GE,0,2,2,https://www.vlr.gg/595642/zeta-division-vs-global-esports-vct-2026-pacific-kickoff-mr1
+598935,2685,Main Event: Middle Round 1,2026-01-29T12:10:00Z,,3,11328,FunPlus Phoenix,FPX,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,0,2,2,https://www.vlr.gg/598935/funplus-phoenix-vs-bilibili-gaming-vct-2026-china-kickoff-mr1
+594748,2684,Main Event: Upper Round 3,2026-01-29T16:00:00Z,12.0,3,4915,Natus Vincere,NAVI,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/594748/natus-vincere-vs-gentle-mates-vct-2026-emea-kickoff-ur3
+594749,2684,Main Event: Upper Round 3,2026-01-29T18:20:00Z,12.0,3,397,BBL Esports,BBL,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/594749/bbl-esports-vs-team-vitality-vct-2026-emea-kickoff-ur3
+595643,2683,Main Event: Middle Round 1,2026-01-30T08:00:00Z,12.0,3,11229,VARREL,VL,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/595643/varrel-vs-drx-vct-2026-pacific-kickoff-mr1
+598936,2685,Main Event: Middle Round 2,2026-01-30T09:00:00Z,,3,731,TYLOO,TYL,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,1,1,https://www.vlr.gg/598936/tyloo-vs-titan-esports-club-vct-2026-china-kickoff-mr2
+595644,2683,Main Event: Middle Round 1,2026-01-30T11:25:00Z,12.0,3,17,Gen.G,GEN,14,T1,T1,1,2,2,https://www.vlr.gg/595644/gen-g-vs-t1-vct-2026-pacific-kickoff-mr1
+598937,2685,Main Event: Middle Round 2,2026-01-30T12:25:00Z,,3,12685,Trace Esports,TE,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,0,2,2,https://www.vlr.gg/598937/trace-esports-vs-bilibili-gaming-vct-2026-china-kickoff-mr2
+594755,2684,Main Event: Middle Round 2,2026-01-30T16:00:00Z,12.0,3,474,Team Liquid,TL,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/594755/team-liquid-vs-fnatic-vct-2026-emea-kickoff-mr2
+594756,2684,Main Event: Middle Round 2,2026-01-30T18:20:00Z,12.0,3,14419,GIANTX,GX,1001,Team Heretics,TH,2,0,1,https://www.vlr.gg/594756/giantx-vs-team-heretics-vct-2026-emea-kickoff-mr2
+596406,2682,Main Event: Upper Round 3,2026-01-30T22:00:00Z,12.0,3,1034,NRG,NRG,7386,MIBR,MIBR,1,2,2,https://www.vlr.gg/596406/nrg-vs-mibr-vct-2026-americas-kickoff-ur3
+596407,2682,Main Event: Upper Round 3,2026-01-31T01:55:00Z,12.0,3,2406,FURIA,FUR,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/596407/furia-vs-g2-esports-vct-2026-americas-kickoff-ur3
+595638,2683,Main Event: Upper Round 3,2026-01-31T08:00:00Z,12.0,3,11060,Nongshim RedForce,NS,4050,FULL SENSE,FS,2,0,1,https://www.vlr.gg/595638/nongshim-redforce-vs-full-sense-vct-2026-pacific-kickoff-ur3
+598942,2685,Main Event: Lower Round 1,2026-01-31T09:00:00Z,,3,12064,Nova Esports,NOVA,13790,Wolves Esports,WOL,1,2,2,https://www.vlr.gg/598942/nova-esports-vs-wolves-esports-vct-2026-china-kickoff-lr1
+595639,2683,Main Event: Upper Round 3,2026-01-31T10:10:00Z,12.0,3,624,Paper Rex,PRX,878,Rex Regum Qeon,RRQ,0,2,2,https://www.vlr.gg/595639/paper-rex-vs-rex-regum-qeon-vct-2026-pacific-kickoff-ur3
+598929,2685,Main Event: Upper Round 3,2026-01-31T12:10:00Z,,3,1119,All Gamers,AG,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/598929/all-gamers-vs-dragon-ranger-gaming-vct-2026-china-kickoff-ur3
+596419,2682,Main Event: Lower Round 1,2026-01-31T22:00:00Z,12.0,3,6961,LOUD,LOUD,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/596419/loud-vs-evil-geniuses-vct-2026-americas-kickoff-lr1
+596420,2682,Main Event: Lower Round 1,2026-02-01T00:45:00Z,12.0,3,2355,KRÜ Esports,KRÜ,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/596420/kr-esports-vs-leviat-n-vct-2026-americas-kickoff-lr1
+595645,2683,Main Event: Middle Round 2,2026-02-01T08:00:00Z,12.0,3,278,DetonatioN FocusMe,DFM,918,Global Esports,GE,2,1,1,https://www.vlr.gg/595645/detonation-focusme-vs-global-esports-vct-2026-pacific-kickoff-mr2
+598943,2685,Main Event: Lower Round 1,2026-02-01T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,11328,FunPlus Phoenix,FPX,2,1,1,https://www.vlr.gg/598943/jdg-esports-vs-funplus-phoenix-vct-2026-china-kickoff-lr1
+595646,2683,Main Event: Middle Round 2,2026-02-01T11:05:00Z,12.0,3,8185,KIWOOM DRX,KRX,14,T1,T1,0,2,2,https://www.vlr.gg/595646/drx-vs-t1-vct-2026-pacific-kickoff-mr2
+598930,2685,Main Event: Upper Round 3,2026-02-01T12:00:00Z,,3,13581,Xi Lai Gaming,XLG,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/598930/xi-lai-gaming-vs-edward-gaming-vct-2026-china-kickoff-ur3
+596415,2682,Main Event: Middle Round 3,2026-02-01T22:00:00Z,12.0,3,1034,NRG,NRG,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/596415/nrg-vs-100-thieves-vct-2026-americas-kickoff-mr3
+596416,2682,Main Event: Middle Round 3,2026-02-02T00:25:00Z,12.0,3,11058,G2 Esports,G2,188,Cloud9,C9,2,0,1,https://www.vlr.gg/596416/g2-esports-vs-cloud9-vct-2026-americas-kickoff-mr3
+598944,2685,Main Event: Lower Round 2,2026-02-03T09:00:00Z,,3,12685,Trace Esports,TE,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/598944/trace-esports-vs-wolves-esports-vct-2026-china-kickoff-lr2
+598938,2685,Main Event: Middle Round 3,2026-02-03T12:30:00Z,,3,11981,Dragon Ranger Gaming,DRG,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/598938/dragon-ranger-gaming-vs-tyloo-vct-2026-china-kickoff-mr3
+594761,2684,Main Event: Lower Round 1,2026-02-03T16:00:00Z,12.0,3,8877,Karmine Corp,KC,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/594761/karmine-corp-vs-fut-esports-vct-2026-emea-kickoff-lr1
+594762,2684,Main Event: Lower Round 1,2026-02-03T19:35:00Z,12.0,3,3478,PCIFIC Esports,PCF,18019,ULF Esports,ULF,0,2,2,https://www.vlr.gg/594762/pcific-esports-vs-ulf-esports-vct-2026-emea-kickoff-lr1
+598945,2685,Main Event: Lower Round 2,2026-02-04T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,13576,JD Mall JDG Esports (JD Gaming),JDG,1,2,2,https://www.vlr.gg/598945/titan-esports-club-vs-jdg-esports-vct-2026-china-kickoff-lr2
+598939,2685,Main Event: Middle Round 3,2026-02-04T12:20:00Z,,3,1120,EDward Gaming,EDG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,2,2,https://www.vlr.gg/598939/edward-gaming-vs-bilibili-gaming-vct-2026-china-kickoff-mr3
+594757,2684,Main Event: Middle Round 3,2026-02-04T16:00:00Z,12.0,3,4915,Natus Vincere,NAVI,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/594757/natus-vincere-vs-fnatic-vct-2026-emea-kickoff-mr3
+594758,2684,Main Event: Middle Round 3,2026-02-04T20:00:00Z,12.0,3,2059,Team Vitality,VIT,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/594758/team-vitality-vs-giantx-vct-2026-emea-kickoff-mr3
+595651,2683,Main Event: Lower Round 1,2026-02-05T08:00:00Z,12.0,3,6199,Team Secret,TS,5448,ZETA DIVISION,ZETA,1,2,2,https://www.vlr.gg/595651/team-secret-vs-zeta-division-vct-2026-pacific-kickoff-lr1
+598946,2685,Main Event: Lower Round 3,2026-02-05T09:00:00Z,,3,731,TYLOO,TYL,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/598946/tyloo-vs-trace-esports-vct-2026-china-kickoff-lr3
+595652,2683,Main Event: Lower Round 1,2026-02-05T10:45:00Z,12.0,3,11229,VARREL,VL,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/595652/varrel-vs-gen-g-vct-2026-pacific-kickoff-lr1
+598947,2685,Main Event: Lower Round 3,2026-02-05T11:25:00Z,,3,1120,EDward Gaming,EDG,13576,JD Mall JDG Esports (JD Gaming),JDG,2,1,1,https://www.vlr.gg/598947/edward-gaming-vs-jdg-esports-vct-2026-china-kickoff-lr3
+594763,2684,Main Event: Lower Round 2,2026-02-05T16:00:00Z,12.0,3,1001,Team Heretics,TH,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/594763/team-heretics-vs-karmine-corp-vct-2026-emea-kickoff-lr2
+594764,2684,Main Event: Lower Round 2,2026-02-05T19:00:00Z,12.0,3,474,Team Liquid,TL,18019,ULF Esports,ULF,2,1,1,https://www.vlr.gg/594764/team-liquid-vs-ulf-esports-vct-2026-emea-kickoff-lr2
+595647,2683,Main Event: Middle Round 3,2026-02-06T08:00:00Z,12.0,3,4050,FULL SENSE,FS,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/595647/full-sense-vs-detonation-focusme-vct-2026-pacific-kickoff-mr3
+598940,2685,Main Event: Middle Round 4,2026-02-06T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,0,2,2,https://www.vlr.gg/598940/dragon-ranger-gaming-vs-bilibili-gaming-vct-2026-china-kickoff-mr4
+595648,2683,Main Event: Middle Round 3,2026-02-06T11:00:00Z,12.0,3,624,Paper Rex,PRX,14,T1,T1,1,2,2,https://www.vlr.gg/595648/paper-rex-vs-t1-vct-2026-pacific-kickoff-mr3
+598948,2685,Main Event: Lower Round 4,2026-02-06T11:00:00Z,,3,731,TYLOO,TYL,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/598948/tyloo-vs-edward-gaming-vct-2026-china-kickoff-lr4
+594765,2684,Main Event: Lower Round 3,2026-02-06T16:00:00Z,12.0,3,4915,Natus Vincere,NAVI,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/594765/natus-vincere-vs-team-heretics-vct-2026-emea-kickoff-lr3
+594766,2684,Main Event: Lower Round 3,2026-02-06T18:00:00Z,12.0,3,14419,GIANTX,GX,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/594766/giantx-vs-team-liquid-vct-2026-emea-kickoff-lr3
+596421,2682,Main Event: Lower Round 2,2026-02-06T22:00:00Z,12.0,3,427,ENVY,ENVY,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/596421/envy-vs-evil-geniuses-vct-2026-americas-kickoff-lr2
+596422,2682,Main Event: Lower Round 2,2026-02-07T00:30:00Z,12.0,3,2,Sentinels,SEN,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/596422/sentinels-vs-leviat-n-vct-2026-americas-kickoff-lr2
+598949,2685,Main Event: Lower Round 5,2026-02-07T07:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/598949/dragon-ranger-gaming-vs-edward-gaming-vct-2026-china-kickoff-lr5
+595653,2683,Main Event: Lower Round 2,2026-02-07T08:00:00Z,12.0,3,8185,KIWOOM DRX,KRX,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/595653/drx-vs-zeta-division-vct-2026-pacific-kickoff-lr2
+598931,2685,Main Event: Upper Final,2026-02-07T10:10:00Z,,5,1119,All Gamers,AG,13581,Xi Lai Gaming,XLG,3,2,1,https://www.vlr.gg/598931/all-gamers-vs-xi-lai-gaming-vct-2026-china-kickoff-ubf
+595654,2683,Main Event: Lower Round 2,2026-02-07T11:00:00Z,12.0,3,918,Global Esports,GE,17,Gen.G,GEN,2,1,1,https://www.vlr.gg/595654/global-esports-vs-gen-g-vct-2026-pacific-kickoff-lr2
+596423,2682,Main Event: Lower Round 3,2026-02-07T20:00:00Z,12.0,3,120,100 Thieves,100T,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/596423/100-thieves-vs-evil-geniuses-vct-2026-americas-kickoff-lr3
+596424,2682,Main Event: Lower Round 3,2026-02-07T23:20:00Z,12.0,3,188,Cloud9,C9,2359,LEVIATÁN,LEV,2,0,1,https://www.vlr.gg/596424/cloud9-vs-leviat-n-vct-2026-americas-kickoff-lr3
+596417,2682,Main Event: Middle Round 4,2026-02-08T01:25:00Z,12.0,3,1034,NRG,NRG,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/596417/nrg-vs-g2-esports-vct-2026-americas-kickoff-mr4
+595655,2683,Main Event: Lower Round 3,2026-02-08T08:00:00Z,12.0,3,4050,FULL SENSE,FS,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/595655/full-sense-vs-drx-vct-2026-pacific-kickoff-lr3
+598941,2685,Main Event: Middle Final,2026-02-08T09:00:00Z,,5,13581,Xi Lai Gaming,XLG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,3,2,1,https://www.vlr.gg/598941/xi-lai-gaming-vs-bilibili-gaming-vct-2026-china-kickoff-mbf
+595656,2683,Main Event: Lower Round 3,2026-02-08T10:00:00Z,12.0,3,624,Paper Rex,PRX,918,Global Esports,GE,2,1,1,https://www.vlr.gg/595656/paper-rex-vs-global-esports-vct-2026-pacific-kickoff-lr3
+598950,2685,Main Event: Lower Final,2026-02-09T09:00:00Z,,5,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1120,EDward Gaming,EDG,1,3,2,https://www.vlr.gg/598950/bilibili-gaming-vs-edward-gaming-vct-2026-china-kickoff-lbf
+595657,2683,Main Event: Lower Round 4,2026-02-12T08:00:00Z,12.0,3,8185,KIWOOM DRX,KRX,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/595657/drx-vs-paper-rex-vct-2026-pacific-kickoff-lr4
+594767,2684,Main Event: Lower Round 4,2026-02-12T17:00:00Z,12.0,3,1001,Team Heretics,TH,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/594767/team-heretics-vs-team-liquid-vct-2026-emea-kickoff-lr4
+595649,2683,Main Event: Middle Round 4,2026-02-13T07:00:00Z,12.0,3,278,DetonatioN FocusMe,DFM,14,T1,T1,0,2,2,https://www.vlr.gg/595649/detonation-focusme-vs-t1-vct-2026-pacific-kickoff-mr4
+595640,2683,Main Event: Upper Final,2026-02-13T09:00:00Z,12.0,5,11060,Nongshim RedForce,NS,878,Rex Regum Qeon,RRQ,3,2,1,https://www.vlr.gg/595640/nongshim-redforce-vs-rex-regum-qeon-vct-2026-pacific-kickoff-ubf
+594759,2684,Main Event: Middle Round 4,2026-02-13T13:00:00Z,12.0,3,2593,FNATIC,FNC,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/594759/fnatic-vs-team-vitality-vct-2026-emea-kickoff-mr4
+594750,2684,Main Event: Upper Final,2026-02-13T15:15:00Z,12.0,5,12694,Gentle Mates,M8,397,BBL Esports,BBL,2,3,2,https://www.vlr.gg/594750/gentle-mates-vs-bbl-esports-vct-2026-emea-kickoff-ubf
+596425,2682,Main Event: Lower Round 4,2026-02-13T20:00:00Z,12.0,3,120,100 Thieves,100T,188,Cloud9,C9,2,1,1,https://www.vlr.gg/596425/100-thieves-vs-cloud9-vct-2026-americas-kickoff-lr4
+596408,2682,Main Event: Upper Final,2026-02-13T23:30:00Z,12.0,5,7386,MIBR,MIBR,2406,FURIA,FUR,2,3,2,https://www.vlr.gg/596408/mibr-vs-furia-vct-2026-americas-kickoff-ubf
+595658,2683,Main Event: Lower Round 5,2026-02-14T07:00:00Z,12.0,3,278,DetonatioN FocusMe,DFM,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/595658/detonation-focusme-vs-paper-rex-vct-2026-pacific-kickoff-lr5
+595650,2683,Main Event: Middle Final,2026-02-14T09:00:00Z,12.0,5,878,Rex Regum Qeon,RRQ,14,T1,T1,0,3,2,https://www.vlr.gg/595650/rex-regum-qeon-vs-t1-vct-2026-pacific-kickoff-mbf
+594768,2684,Main Event: Lower Round 5,2026-02-14T13:00:00Z,12.0,3,2059,Team Vitality,VIT,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/594768/team-vitality-vs-team-liquid-vct-2026-emea-kickoff-lr5
+594760,2684,Main Event: Middle Final,2026-02-14T16:10:00Z,12.0,5,12694,Gentle Mates,M8,2593,FNATIC,FNC,3,2,1,https://www.vlr.gg/594760/gentle-mates-vs-fnatic-vct-2026-emea-kickoff-mbf
+596426,2682,Main Event: Lower Round 5,2026-02-14T20:00:00Z,12.0,3,1034,NRG,NRG,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/596426/nrg-vs-100-thieves-vct-2026-americas-kickoff-lr5
+596418,2682,Main Event: Middle Final,2026-02-14T22:20:00Z,12.0,5,7386,MIBR,MIBR,11058,G2 Esports,G2,0,3,2,https://www.vlr.gg/596418/mibr-vs-g2-esports-vct-2026-americas-kickoff-mbf
+595659,2683,Main Event: Lower Final,2026-02-15T07:00:00Z,12.0,5,878,Rex Regum Qeon,RRQ,624,Paper Rex,PRX,1,3,2,https://www.vlr.gg/595659/rex-regum-qeon-vs-paper-rex-vct-2026-pacific-kickoff-lbf
+594769,2684,Main Event: Lower Final,2026-02-15T17:00:00Z,12.0,5,2593,FNATIC,FNC,474,Team Liquid,TL,0,3,2,https://www.vlr.gg/594769/fnatic-vs-team-liquid-vct-2026-emea-kickoff-lbf
+596427,2682,Main Event: Lower Final,2026-02-15T22:00:00Z,12.0,5,7386,MIBR,MIBR,1034,NRG,NRG,2,3,2,https://www.vlr.gg/596427/mibr-vs-nrg-vct-2026-americas-kickoff-lbf
+625788,2760,Swiss Stage: Round 1,2026-02-28T17:00:00Z,12.03,3,12694,Gentle Mates,M8,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/625788/gentle-mates-vs-edward-gaming-valorant-masters-santiago-2026-r1
+625791,2760,Swiss Stage: Round 1,2026-02-28T19:30:00Z,12.03,3,13581,Xi Lai Gaming,XLG,1034,NRG,NRG,0,2,2,https://www.vlr.gg/625791/xi-lai-gaming-vs-nrg-valorant-masters-santiago-2026-r1
+625790,2760,Swiss Stage: Round 1,2026-03-01T17:00:00Z,12.03,3,11058,G2 Esports,G2,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/625790/g2-esports-vs-paper-rex-valorant-masters-santiago-2026-r1
+625789,2760,Swiss Stage: Round 1,2026-03-01T19:05:00Z,12.03,3,14,T1,T1,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/625789/t1-vs-team-liquid-valorant-masters-santiago-2026-r1
+626529,2760,Swiss Stage: Round 2 (1-0),2026-03-02T18:00:00Z,12.03,3,624,Paper Rex,PRX,1034,NRG,NRG,2,1,1,https://www.vlr.gg/626529/paper-rex-vs-nrg-valorant-masters-santiago-2026-r2-1-0
+626530,2760,Swiss Stage: Round 2 (1-0),2026-03-02T21:30:00Z,12.03,3,12694,Gentle Mates,M8,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/626530/gentle-mates-vs-team-liquid-valorant-masters-santiago-2026-r2-1-0
+626532,2760,Swiss Stage: Round 2 (0-1),2026-03-03T18:00:00Z,12.03,3,1120,EDward Gaming,EDG,14,T1,T1,0,2,2,https://www.vlr.gg/626532/edward-gaming-vs-t1-valorant-masters-santiago-2026-r2-0-1
+626533,2760,Swiss Stage: Round 2 (0-1),2026-03-03T20:10:00Z,12.03,3,13581,Xi Lai Gaming,XLG,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/626533/xi-lai-gaming-vs-g2-esports-valorant-masters-santiago-2026-r2-0-1
+626535,2760,Swiss Stage: Round 3,2026-03-04T18:00:00Z,12.03,3,1034,NRG,NRG,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/626535/nrg-vs-team-liquid-valorant-masters-santiago-2026-r3
+626534,2760,Swiss Stage: Round 3,2026-03-04T20:20:00Z,12.03,3,11058,G2 Esports,G2,14,T1,T1,2,0,1,https://www.vlr.gg/626534/g2-esports-vs-t1-valorant-masters-santiago-2026-r3
+626539,2760,Playoffs: Upper Quarterfinals,2026-03-06T18:00:00Z,12.03,3,2406,FURIA,FUR,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/626539/furia-vs-paper-rex-valorant-masters-santiago-2026-ubqf
+626537,2760,Playoffs: Upper Quarterfinals,2026-03-06T21:00:00Z,12.03,3,11060,Nongshim RedForce,NS,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/626537/nongshim-redforce-vs-gentle-mates-valorant-masters-santiago-2026-ubqf
+626540,2760,Playoffs: Upper Quarterfinals,2026-03-07T17:00:00Z,12.03,3,397,BBL Esports,BBL,1034,NRG,NRG,1,2,2,https://www.vlr.gg/626540/bbl-esports-vs-nrg-valorant-masters-santiago-2026-ubqf
+626538,2760,Playoffs: Upper Quarterfinals,2026-03-07T20:30:00Z,12.03,3,1119,All Gamers,AG,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/626538/all-gamers-vs-g2-esports-valorant-masters-santiago-2026-ubqf
+626546,2760,Playoffs: Lower Round 1,2026-03-08T17:00:00Z,12.03,3,2406,FURIA,FUR,397,BBL Esports,BBL,1,2,2,https://www.vlr.gg/626546/furia-vs-bbl-esports-valorant-masters-santiago-2026-lr1
+626545,2760,Playoffs: Lower Round 1,2026-03-08T20:30:00Z,12.03,3,12694,Gentle Mates,M8,1119,All Gamers,AG,1,2,2,https://www.vlr.gg/626545/gentle-mates-vs-all-gamers-valorant-masters-santiago-2026-lr1
+626541,2760,Playoffs: Upper Semifinals,2026-03-09T18:00:00Z,12.03,3,11060,Nongshim RedForce,NS,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/626541/nongshim-redforce-vs-g2-esports-valorant-masters-santiago-2026-ubsf
+626542,2760,Playoffs: Upper Semifinals,2026-03-09T21:20:00Z,12.03,3,624,Paper Rex,PRX,1034,NRG,NRG,0,2,2,https://www.vlr.gg/626542/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf
+626548,2760,Playoffs: Lower Round 2,2026-03-10T18:00:00Z,12.03,3,11058,G2 Esports,G2,397,BBL Esports,BBL,2,0,1,https://www.vlr.gg/626548/g2-esports-vs-bbl-esports-valorant-masters-santiago-2026-lr2
+626547,2760,Playoffs: Lower Round 2,2026-03-10T20:10:00Z,12.03,3,624,Paper Rex,PRX,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/626547/paper-rex-vs-all-gamers-valorant-masters-santiago-2026-lr2
+626543,2760,Playoffs: Upper Final,2026-03-13T17:00:00Z,12.03,3,11060,Nongshim RedForce,NS,1034,NRG,NRG,2,0,1,https://www.vlr.gg/626543/nongshim-redforce-vs-nrg-valorant-masters-santiago-2026-ubf
+626549,2760,Playoffs: Lower Round 3,2026-03-13T19:25:00Z,12.03,3,624,Paper Rex,PRX,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/626549/paper-rex-vs-g2-esports-valorant-masters-santiago-2026-lr3
+626550,2760,Playoffs: Lower Final,2026-03-14T17:00:00Z,12.03,5,1034,NRG,NRG,624,Paper Rex,PRX,1,3,2,https://www.vlr.gg/626550/nrg-vs-paper-rex-valorant-masters-santiago-2026-lbf
+626544,2760,Playoffs: Grand Final,2026-03-15T18:00:00Z,12.03,5,11060,Nongshim RedForce,NS,624,Paper Rex,PRX,3,0,1,https://www.vlr.gg/626544/nongshim-redforce-vs-paper-rex-valorant-masters-santiago-2026-gf
+642914,2864,Group Stage: Week 1,2026-03-31T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,1119,All Gamers,AG,1,2,2,https://www.vlr.gg/642914/titan-esports-club-vs-all-gamers-vct-2026-china-stage-1-w1
+642915,2864,Group Stage: Week 1,2026-03-31T12:30:00Z,,3,12064,Nova Esports,NOVA,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/642915/nova-esports-vs-edward-gaming-vct-2026-china-stage-1-w1
+642916,2864,Group Stage: Week 1,2026-04-01T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,11328,FunPlus Phoenix,FPX,2,1,1,https://www.vlr.gg/642916/jdg-esports-vs-funplus-phoenix-vct-2026-china-stage-1-w1
+642917,2864,Group Stage: Week 1,2026-04-01T12:10:00Z,,3,11981,Dragon Ranger Gaming,DRG,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/642917/dragon-ranger-gaming-vs-xi-lai-gaming-vct-2026-china-stage-1-w1
+644709,2863,Group Stage: Week 1,2026-04-01T15:00:00Z,12.05,3,2593,FNATIC,FNC,6392,Eternal Fire,EF,2,1,1,https://www.vlr.gg/644709/fnatic-vs-eternal-fire-vct-2026-emea-stage-1-w1
+644710,2863,Group Stage: Week 1,2026-04-01T18:35:00Z,12.05,3,474,Team Liquid,TL,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/644710/team-liquid-vs-karmine-corp-vct-2026-emea-stage-1-w1
+642918,2864,Group Stage: Week 1,2026-04-02T09:00:00Z,,3,13790,Wolves Esports,WOL,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/642918/wolves-esports-vs-trace-esports-vct-2026-china-stage-1-w1
+642919,2864,Group Stage: Week 1,2026-04-02T11:30:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,731,TYLOO,TYL,1,2,2,https://www.vlr.gg/642919/bilibili-gaming-vs-tyloo-vct-2026-china-stage-1-w1
+644711,2863,Group Stage: Week 1,2026-04-02T15:00:00Z,12.05,3,2059,Team Vitality,VIT,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/644711/team-vitality-vs-giantx-vct-2026-emea-stage-1-w1
+644712,2863,Group Stage: Week 1,2026-04-02T17:05:00Z,12.05,3,12694,Gentle Mates,M8,1184,FUT Esports,FUT,1,2,2,https://www.vlr.gg/644712/gentle-mates-vs-fut-esports-vct-2026-emea-stage-1-w1
+644652,2775,Group Stage: Week 1,2026-04-03T08:00:00Z,12.05,3,17,Gen.G,GEN,918,Global Esports,GE,0,2,2,https://www.vlr.gg/644652/gen-g-vs-global-esports-vct-2026-pacific-stage-1-w1
+642920,2864,Group Stage: Week 1,2026-04-03T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/642920/dragon-ranger-gaming-vs-nova-esports-vct-2026-china-stage-1-w1
+644653,2775,Group Stage: Week 1,2026-04-03T10:15:00Z,12.05,3,14,T1,T1,11229,VARREL,VL,2,0,1,https://www.vlr.gg/644653/t1-vs-varrel-vct-2026-pacific-stage-1-w1
+642921,2864,Group Stage: Week 1,2026-04-03T11:10:00Z,,3,11328,FunPlus Phoenix,FPX,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/642921/funplus-phoenix-vs-all-gamers-vct-2026-china-stage-1-w1
+644713,2863,Group Stage: Week 1,2026-04-03T15:00:00Z,12.05,3,1001,Team Heretics,TH,4915,Natus Vincere,NAVI,1,2,2,https://www.vlr.gg/644713/team-heretics-vs-natus-vincere-vct-2026-emea-stage-1-w1
+644714,2863,Group Stage: Week 1,2026-04-03T18:55:00Z,12.05,3,397,BBL Esports,BBL,3478,PCIFIC Esports,PCF,2,0,1,https://www.vlr.gg/644714/bbl-esports-vs-pcific-esports-vct-2026-emea-stage-1-w1
+644654,2775,Group Stage: Week 1,2026-04-04T08:00:00Z,12.05,3,11060,Nongshim RedForce,NS,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/644654/nongshim-redforce-vs-paper-rex-vct-2026-pacific-stage-1-w1
+642922,2864,Group Stage: Week 1,2026-04-04T09:00:00Z,,3,731,TYLOO,TYL,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,0,1,https://www.vlr.gg/642922/tyloo-vs-titan-esports-club-vct-2026-china-stage-1-w1
+644655,2775,Group Stage: Week 1,2026-04-04T11:10:00Z,12.05,3,4050,FULL SENSE,FS,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/644655/full-sense-vs-detonation-focusme-vct-2026-pacific-stage-1-w1
+642923,2864,Group Stage: Week 1,2026-04-04T11:30:00Z,,3,13790,Wolves Esports,WOL,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/642923/wolves-esports-vs-edward-gaming-vct-2026-china-stage-1-w1
+644656,2775,Group Stage: Week 1,2026-04-05T08:00:00Z,12.05,3,6199,Team Secret,TS,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/644656/team-secret-vs-drx-vct-2026-pacific-stage-1-w1
+642924,2864,Group Stage: Week 1,2026-04-05T09:00:00Z,,3,12685,Trace Esports,TE,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/642924/trace-esports-vs-xi-lai-gaming-vct-2026-china-stage-1-w1
+644657,2775,Group Stage: Week 1,2026-04-05T10:30:00Z,12.05,3,878,Rex Regum Qeon,RRQ,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/644657/rex-regum-qeon-vs-zeta-division-vct-2026-pacific-stage-1-w1
+642925,2864,Group Stage: Week 1,2026-04-05T12:25:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,13576,JD Mall JDG Esports (JD Gaming),JDG,2,0,1,https://www.vlr.gg/642925/bilibili-gaming-vs-jdg-esports-vct-2026-china-stage-1-w1
+642927,2864,Group Stage: Week 2,2026-04-07T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/642927/funplus-phoenix-vs-tyloo-vct-2026-china-stage-1-w2
+642928,2864,Group Stage: Week 2,2026-04-07T12:30:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,0,1,https://www.vlr.gg/642928/titan-esports-club-vs-bilibili-gaming-vct-2026-china-stage-1-w2
+642929,2864,Group Stage: Week 2,2026-04-08T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/642929/xi-lai-gaming-vs-nova-esports-vct-2026-china-stage-1-w2
+642930,2864,Group Stage: Week 2,2026-04-08T11:30:00Z,,3,1120,EDward Gaming,EDG,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/642930/edward-gaming-vs-trace-esports-vct-2026-china-stage-1-w2
+644716,2863,Group Stage: Week 2,2026-04-08T15:00:00Z,12.06,3,3478,PCIFIC Esports,PCF,14419,GIANTX,GX,1,2,2,https://www.vlr.gg/644716/pcific-esports-vs-giantx-vct-2026-emea-stage-1-w2
+644717,2863,Group Stage: Week 2,2026-04-08T18:25:00Z,12.06,3,397,BBL Esports,BBL,6392,Eternal Fire,EF,0,2,2,https://www.vlr.gg/644717/bbl-esports-vs-eternal-fire-vct-2026-emea-stage-1-w2
+642931,2864,Group Stage: Week 2,2026-04-09T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,1119,All Gamers,AG,0,2,2,https://www.vlr.gg/642931/jdg-esports-vs-all-gamers-vct-2026-china-stage-1-w2
+642932,2864,Group Stage: Week 2,2026-04-09T11:25:00Z,,3,11981,Dragon Ranger Gaming,DRG,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/642932/dragon-ranger-gaming-vs-wolves-esports-vct-2026-china-stage-1-w2
+644718,2863,Group Stage: Week 2,2026-04-09T15:00:00Z,12.06,3,2593,FNATIC,FNC,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/644718/fnatic-vs-team-vitality-vct-2026-emea-stage-1-w2
+644719,2863,Group Stage: Week 2,2026-04-09T17:30:00Z,12.06,3,474,Team Liquid,TL,1001,Team Heretics,TH,2,0,1,https://www.vlr.gg/644719/team-liquid-vs-team-heretics-vct-2026-emea-stage-1-w2
+644658,2775,Group Stage: Week 2,2026-04-10T08:00:00Z,12.05,3,278,DetonatioN FocusMe,DFM,14,T1,T1,0,2,2,https://www.vlr.gg/644658/detonation-focusme-vs-t1-vct-2026-pacific-stage-1-w2
+642933,2864,Group Stage: Week 2,2026-04-10T09:00:00Z,,3,12064,Nova Esports,NOVA,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/642933/nova-esports-vs-trace-esports-vct-2026-china-stage-1-w2
+644659,2775,Group Stage: Week 2,2026-04-10T10:35:00Z,12.05,3,11060,Nongshim RedForce,NS,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/644659/nongshim-redforce-vs-drx-vct-2026-pacific-stage-1-w2
+642934,2864,Group Stage: Week 2,2026-04-10T11:30:00Z,,3,11328,FunPlus Phoenix,FPX,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,2,2,https://www.vlr.gg/642934/funplus-phoenix-vs-bilibili-gaming-vct-2026-china-stage-1-w2
+644720,2863,Group Stage: Week 2,2026-04-10T15:00:00Z,12.06,3,1184,FUT Esports,FUT,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/644720/fut-esports-vs-natus-vincere-vct-2026-emea-stage-1-w2
+644721,2863,Group Stage: Week 2,2026-04-10T18:20:00Z,12.06,3,12694,Gentle Mates,M8,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/644721/gentle-mates-vs-karmine-corp-vct-2026-emea-stage-1-w2
+645474,2860,Group Stage: Week 1,2026-04-10T21:00:00Z,12.06,3,2,Sentinels,SEN,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/645474/sentinels-vs-kr-esports-vct-2026-americas-stage-1-w1
+645475,2860,Group Stage: Week 1,2026-04-10T23:40:00Z,12.06,3,11058,G2 Esports,G2,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/645475/g2-esports-vs-mibr-vct-2026-americas-stage-1-w1
+644660,2775,Group Stage: Week 2,2026-04-11T08:00:00Z,12.05,3,6199,Team Secret,TS,918,Global Esports,GE,0,2,2,https://www.vlr.gg/644660/team-secret-vs-global-esports-vct-2026-pacific-stage-1-w2
+642935,2864,Group Stage: Week 2,2026-04-11T09:00:00Z,,3,1119,All Gamers,AG,731,TYLOO,TYL,1,2,2,https://www.vlr.gg/642935/all-gamers-vs-tyloo-vct-2026-china-stage-1-w2
+644661,2775,Group Stage: Week 2,2026-04-11T10:25:00Z,12.05,3,878,Rex Regum Qeon,RRQ,11229,VARREL,VL,2,0,1,https://www.vlr.gg/644661/rex-regum-qeon-vs-varrel-vct-2026-pacific-stage-1-w2
+642936,2864,Group Stage: Week 2,2026-04-11T12:15:00Z,,3,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/642936/edward-gaming-vs-dragon-ranger-gaming-vct-2026-china-stage-1-w2
+645476,2860,Group Stage: Week 1,2026-04-11T21:00:00Z,12.06,3,120,100 Thieves,100T,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/645476/100-thieves-vs-evil-geniuses-vct-2026-americas-stage-1-w1
+645477,2860,Group Stage: Week 1,2026-04-12T00:35:00Z,12.06,3,427,ENVY,ENVY,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/645477/envy-vs-loud-vct-2026-americas-stage-1-w1
+644662,2775,Group Stage: Week 2,2026-04-12T08:00:00Z,12.05,3,4050,FULL SENSE,FS,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/644662/full-sense-vs-zeta-division-vct-2026-pacific-stage-1-w2
+642937,2864,Group Stage: Week 2,2026-04-12T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,0,1,https://www.vlr.gg/642937/jdg-esports-vs-titan-esports-club-vct-2026-china-stage-1-w2
+644663,2775,Group Stage: Week 2,2026-04-12T09:50:00Z,12.05,3,17,Gen.G,GEN,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/644663/gen-g-vs-paper-rex-vct-2026-pacific-stage-1-w2
+642938,2864,Group Stage: Week 2,2026-04-12T11:35:00Z,,3,13581,Xi Lai Gaming,XLG,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/642938/xi-lai-gaming-vs-wolves-esports-vct-2026-china-stage-1-w2
+645478,2860,Group Stage: Week 1,2026-04-12T21:00:00Z,12.06,3,188,Cloud9,C9,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/645478/cloud9-vs-leviat-n-vct-2026-americas-stage-1-w1
+645479,2860,Group Stage: Week 1,2026-04-12T23:05:00Z,12.06,3,2406,FURIA,FUR,1034,NRG,NRG,2,0,1,https://www.vlr.gg/645479/furia-vs-nrg-vct-2026-americas-stage-1-w1
+642939,2864,Group Stage: Week 3,2026-04-14T09:00:00Z,,3,731,TYLOO,TYL,13576,JD Mall JDG Esports (JD Gaming),JDG,0,2,2,https://www.vlr.gg/642939/tyloo-vs-jdg-esports-vct-2026-china-stage-1-w3
+642940,2864,Group Stage: Week 3,2026-04-14T11:55:00Z,,3,12685,Trace Esports,TE,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/642940/trace-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-1-w3
+642941,2864,Group Stage: Week 3,2026-04-15T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/642941/titan-esports-club-vs-funplus-phoenix-vct-2026-china-stage-1-w3
+642942,2864,Group Stage: Week 3,2026-04-15T11:05:00Z,,3,1119,All Gamers,AG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,1,1,https://www.vlr.gg/642942/all-gamers-vs-bilibili-gaming-vct-2026-china-stage-1-w3
+644722,2863,Group Stage: Week 3,2026-04-15T15:00:00Z,12.06,3,397,BBL Esports,BBL,14419,GIANTX,GX,1,2,2,https://www.vlr.gg/644722/bbl-esports-vs-giantx-vct-2026-emea-stage-1-w3
+644723,2863,Group Stage: Week 3,2026-04-15T18:20:00Z,12.06,3,12694,Gentle Mates,M8,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/644723/gentle-mates-vs-natus-vincere-vct-2026-emea-stage-1-w3
+642943,2864,Group Stage: Week 3,2026-04-16T09:00:00Z,,3,12064,Nova Esports,NOVA,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/642943/nova-esports-vs-wolves-esports-vct-2026-china-stage-1-w3
+642944,2864,Group Stage: Week 3,2026-04-16T11:15:00Z,,3,1120,EDward Gaming,EDG,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/642944/edward-gaming-vs-xi-lai-gaming-vct-2026-china-stage-1-w3
+644724,2863,Group Stage: Week 3,2026-04-16T15:00:00Z,12.06,3,6392,Eternal Fire,EF,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/644724/eternal-fire-vs-team-vitality-vct-2026-emea-stage-1-w3
+644725,2863,Group Stage: Week 3,2026-04-16T17:30:00Z,12.06,3,8877,Karmine Corp,KC,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/644725/karmine-corp-vs-team-heretics-vct-2026-emea-stage-1-w3
+644665,2775,Group Stage: Week 3,2026-04-17T08:00:00Z,12.05,3,4050,FULL SENSE,FS,11229,VARREL,VL,2,0,1,https://www.vlr.gg/644665/full-sense-vs-varrel-vct-2026-pacific-stage-1-w3
+644666,2775,Group Stage: Week 3,2026-04-17T10:20:00Z,12.05,3,6199,Team Secret,TS,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/644666/team-secret-vs-paper-rex-vct-2026-pacific-stage-1-w3
+644726,2863,Group Stage: Week 3,2026-04-17T15:00:00Z,12.06,3,1184,FUT Esports,FUT,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/644726/fut-esports-vs-team-liquid-vct-2026-emea-stage-1-w3
+644727,2863,Group Stage: Week 3,2026-04-17T17:40:00Z,12.06,3,3478,PCIFIC Esports,PCF,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/644727/pcific-esports-vs-fnatic-vct-2026-emea-stage-1-w3
+645480,2860,Group Stage: Week 2,2026-04-17T21:00:00Z,12.06,3,188,Cloud9,C9,427,ENVY,ENVY,1,2,2,https://www.vlr.gg/645480/cloud9-vs-envy-vct-2026-americas-stage-1-w2
+645481,2860,Group Stage: Week 2,2026-04-18T00:05:00Z,12.06,3,2406,FURIA,FUR,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/645481/furia-vs-evil-geniuses-vct-2026-americas-stage-1-w2
+644667,2775,Group Stage: Week 3,2026-04-18T08:00:00Z,12.05,3,8185,KIWOOM DRX,KRX,918,Global Esports,GE,2,0,1,https://www.vlr.gg/644667/kiwoom-drx-vs-global-esports-vct-2026-pacific-stage-1-w3
+642947,2864,Group Stage: Seeding,2026-04-18T09:00:00Z,,3,731,TYLOO,TYL,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/642947/tyloo-vs-dragon-ranger-gaming-vct-2026-china-stage-1-seeding
+644668,2775,Group Stage: Week 3,2026-04-18T10:20:00Z,12.05,3,5448,ZETA DIVISION,ZETA,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/644668/zeta-division-vs-detonation-focusme-vct-2026-pacific-stage-1-w3
+642946,2864,Group Stage: Seeding,2026-04-18T11:15:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/642946/jdg-esports-vs-edward-gaming-vct-2026-china-stage-1-seeding
+645482,2860,Group Stage: Week 2,2026-04-18T21:00:00Z,12.06,3,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/645482/g2-esports-vs-leviat-n-vct-2026-americas-stage-1-w2
+645483,2860,Group Stage: Week 2,2026-04-19T00:30:00Z,12.06,3,7386,MIBR,MIBR,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/645483/mibr-vs-loud-vct-2026-americas-stage-1-w2
+644669,2775,Group Stage: Week 3,2026-04-19T08:00:00Z,12.05,3,878,Rex Regum Qeon,RRQ,14,T1,T1,0,2,2,https://www.vlr.gg/644669/rex-regum-qeon-vs-t1-vct-2026-pacific-stage-1-w3
+642948,2864,Group Stage: Seeding,2026-04-19T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/642948/titan-esports-club-vs-trace-esports-vct-2026-china-stage-1-seeding
+644670,2775,Group Stage: Week 3,2026-04-19T10:25:00Z,12.05,3,11060,Nongshim RedForce,NS,17,Gen.G,GEN,2,0,1,https://www.vlr.gg/644670/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-1-w3
+642945,2864,Group Stage: Seeding,2026-04-19T12:25:00Z,,3,1119,All Gamers,AG,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/642945/all-gamers-vs-xi-lai-gaming-vct-2026-china-stage-1-seeding
+645484,2860,Group Stage: Week 2,2026-04-19T21:00:00Z,12.06,3,1034,NRG,NRG,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/645484/nrg-vs-kr-esports-vct-2026-americas-stage-1-w2
+645485,2860,Group Stage: Week 2,2026-04-19T23:20:00Z,12.06,3,120,100 Thieves,100T,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/645485/100-thieves-vs-sentinels-vct-2026-americas-stage-1-w2
+644728,2863,Group Stage: Week 4,2026-04-22T15:00:00Z,12.07,3,6392,Eternal Fire,EF,3478,PCIFIC Esports,PCF,2,1,1,https://www.vlr.gg/644728/eternal-fire-vs-pcific-esports-vct-2026-emea-stage-1-w4
+644729,2863,Group Stage: Week 4,2026-04-22T18:10:00Z,12.07,3,4915,Natus Vincere,NAVI,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/644729/natus-vincere-vs-team-liquid-vct-2026-emea-stage-1-w4
+644730,2863,Group Stage: Week 4,2026-04-23T15:00:00Z,12.07,3,14419,GIANTX,GX,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/644730/giantx-vs-fnatic-vct-2026-emea-stage-1-w4
+644731,2863,Group Stage: Week 4,2026-04-23T18:00:00Z,12.07,3,8877,Karmine Corp,KC,1184,FUT Esports,FUT,1,2,2,https://www.vlr.gg/644731/karmine-corp-vs-fut-esports-vct-2026-emea-stage-1-w4
+644671,2775,Group Stage: Week 4,2026-04-24T08:00:00Z,12.06,3,878,Rex Regum Qeon,RRQ,4050,FULL SENSE,FS,2,1,1,https://www.vlr.gg/644671/rex-regum-qeon-vs-full-sense-vct-2026-pacific-stage-1-w4
+644672,2775,Group Stage: Week 4,2026-04-24T11:00:00Z,12.06,3,624,Paper Rex,PRX,918,Global Esports,GE,2,0,1,https://www.vlr.gg/644672/paper-rex-vs-global-esports-vct-2026-pacific-stage-1-w4
+644732,2863,Group Stage: Week 4,2026-04-24T15:00:00Z,12.07,3,12694,Gentle Mates,M8,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/644732/gentle-mates-vs-team-heretics-vct-2026-emea-stage-1-w4
+644733,2863,Group Stage: Week 4,2026-04-24T17:10:00Z,12.07,3,397,BBL Esports,BBL,2059,Team Vitality,VIT,2,1,1,https://www.vlr.gg/644733/bbl-esports-vs-team-vitality-vct-2026-emea-stage-1-w4
+645486,2860,Group Stage: Week 3,2026-04-24T21:00:00Z,12.07,3,2359,LEVIATÁN,LEV,427,ENVY,ENVY,2,0,1,https://www.vlr.gg/645486/leviat-n-vs-envy-vct-2026-americas-stage-1-w3
+645487,2860,Group Stage: Week 3,2026-04-24T22:40:00Z,12.07,3,11058,G2 Esports,G2,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/645487/g2-esports-vs-loud-vct-2026-americas-stage-1-w3
+644673,2775,Group Stage: Week 4,2026-04-25T08:00:00Z,12.06,3,17,Gen.G,GEN,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/644673/gen-g-vs-kiwoom-drx-vct-2026-pacific-stage-1-w4
+644674,2775,Group Stage: Week 4,2026-04-25T11:35:00Z,12.06,3,278,DetonatioN FocusMe,DFM,11229,VARREL,VL,2,1,1,https://www.vlr.gg/644674/detonation-focusme-vs-varrel-vct-2026-pacific-stage-1-w4
+645488,2860,Group Stage: Week 3,2026-04-25T21:00:00Z,12.07,3,2406,FURIA,FUR,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/645488/furia-vs-kr-esports-vct-2026-americas-stage-1-w3
+645489,2860,Group Stage: Week 3,2026-04-25T23:05:00Z,12.07,3,1034,NRG,NRG,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/645489/nrg-vs-100-thieves-vct-2026-americas-stage-1-w3
+644675,2775,Group Stage: Week 4,2026-04-26T08:00:00Z,12.06,3,14,T1,T1,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/644675/t1-vs-zeta-division-vct-2026-pacific-stage-1-w4
+644676,2775,Group Stage: Week 4,2026-04-26T10:05:00Z,12.06,3,11060,Nongshim RedForce,NS,6199,Team Secret,TS,2,1,1,https://www.vlr.gg/644676/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-1-w4
+645490,2860,Group Stage: Week 3,2026-04-26T21:00:00Z,12.07,3,5248,Evil Geniuses,EG,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/645490/evil-geniuses-vs-sentinels-vct-2026-americas-stage-1-w3
+645491,2860,Group Stage: Week 3,2026-04-26T23:25:00Z,12.07,3,7386,MIBR,MIBR,188,Cloud9,C9,0,2,2,https://www.vlr.gg/645491/mibr-vs-cloud9-vct-2026-americas-stage-1-w3
+644734,2863,Group Stage: Week 5,2026-04-29T15:00:00Z,12.07,3,1001,Team Heretics,TH,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/644734/team-heretics-vs-fut-esports-vct-2026-emea-stage-1-w5
+644735,2863,Group Stage: Week 5,2026-04-29T17:10:00Z,12.07,3,2059,Team Vitality,VIT,3478,PCIFIC Esports,PCF,2,0,1,https://www.vlr.gg/644735/team-vitality-vs-pcific-esports-vct-2026-emea-stage-1-w5
+644736,2863,Group Stage: Week 5,2026-04-30T15:00:00Z,12.07,3,4915,Natus Vincere,NAVI,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/644736/natus-vincere-vs-karmine-corp-vct-2026-emea-stage-1-w5
+644737,2863,Group Stage: Week 5,2026-04-30T17:10:00Z,12.07,3,397,BBL Esports,BBL,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/644737/bbl-esports-vs-fnatic-vct-2026-emea-stage-1-w5
+644677,2775,Group Stage: Week 5,2026-05-01T08:00:00Z,12.06,3,17,Gen.G,GEN,6199,Team Secret,TS,1,2,2,https://www.vlr.gg/644677/gen-g-vs-team-secret-vct-2026-pacific-stage-1-w5
+659474,2864,Playoffs: Upper Quarterfinals,2026-05-01T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,0,1,https://www.vlr.gg/659474/xi-lai-gaming-vs-titan-esports-club-vct-2026-china-stage-1-ubqf
+644678,2775,Group Stage: Week 5,2026-05-01T11:20:00Z,12.06,3,11229,VARREL,VL,5448,ZETA DIVISION,ZETA,1,2,2,https://www.vlr.gg/644678/varrel-vs-zeta-division-vct-2026-pacific-stage-1-w5
+659475,2864,Playoffs: Upper Quarterfinals,2026-05-01T11:20:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/659475/jdg-esports-vs-tyloo-vct-2026-china-stage-1-ubqf
+644738,2863,Group Stage: Week 5,2026-05-01T15:00:00Z,12.07,3,14419,GIANTX,GX,6392,Eternal Fire,EF,0,2,2,https://www.vlr.gg/644738/giantx-vs-eternal-fire-vct-2026-emea-stage-1-w5
+644739,2863,Group Stage: Week 5,2026-05-01T17:05:00Z,12.07,3,12694,Gentle Mates,M8,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/644739/gentle-mates-vs-team-liquid-vct-2026-emea-stage-1-w5
+645492,2860,Group Stage: Week 4,2026-05-01T21:00:00Z,12.07,3,5248,Evil Geniuses,EG,1034,NRG,NRG,0,2,2,https://www.vlr.gg/645492/evil-geniuses-vs-nrg-vct-2026-americas-stage-1-w4
+645493,2860,Group Stage: Week 4,2026-05-01T23:20:00Z,12.07,3,2359,LEVIATÁN,LEV,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/645493/leviat-n-vs-mibr-vct-2026-americas-stage-1-w4
+644679,2775,Group Stage: Week 5,2026-05-02T08:00:00Z,12.06,3,14,T1,T1,4050,FULL SENSE,FS,2,1,1,https://www.vlr.gg/644679/t1-vs-full-sense-vct-2026-pacific-stage-1-w5
+659476,2864,Playoffs: Upper Quarterfinals,2026-05-02T09:00:00Z,,3,1119,All Gamers,AG,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/659476/all-gamers-vs-trace-esports-vct-2026-china-stage-1-ubqf
+644680,2775,Group Stage: Week 5,2026-05-02T11:10:00Z,12.06,3,11060,Nongshim RedForce,NS,918,Global Esports,GE,1,2,2,https://www.vlr.gg/644680/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-1-w5
+659477,2864,Playoffs: Upper Quarterfinals,2026-05-02T11:10:00Z,,3,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/659477/edward-gaming-vs-dragon-ranger-gaming-vct-2026-china-stage-1-ubqf
+645494,2860,Group Stage: Week 4,2026-05-02T21:00:00Z,12.07,3,2355,KRÜ Esports,KRÜ,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/645494/kr-esports-vs-100-thieves-vct-2026-americas-stage-1-w4
+645495,2860,Group Stage: Week 4,2026-05-03T00:00:00Z,12.07,3,2406,FURIA,FUR,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/645495/furia-vs-sentinels-vct-2026-americas-stage-1-w4
+644681,2775,Group Stage: Week 5,2026-05-03T08:00:00Z,12.06,3,624,Paper Rex,PRX,8185,KIWOOM DRX,KRX,2,0,1,https://www.vlr.gg/644681/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-w5
+659482,2864,Playoffs: Lower Round 1,2026-05-03T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,731,TYLOO,TYL,1,2,2,https://www.vlr.gg/659482/titan-esports-club-vs-tyloo-vct-2026-china-stage-1-lr1
+644682,2775,Group Stage: Week 5,2026-05-03T10:00:00Z,12.06,3,878,Rex Regum Qeon,RRQ,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/644682/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-w5
+659483,2864,Playoffs: Lower Round 1,2026-05-03T12:30:00Z,,3,12685,Trace Esports,TE,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/659483/trace-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr1
+645496,2860,Group Stage: Week 4,2026-05-03T21:00:00Z,12.07,3,6961,LOUD,LOUD,188,Cloud9,C9,2,1,1,https://www.vlr.gg/645496/loud-vs-cloud9-vct-2026-americas-stage-1-w4
+645497,2860,Group Stage: Week 4,2026-05-04T00:00:00Z,12.07,3,11058,G2 Esports,G2,427,ENVY,ENVY,2,0,1,https://www.vlr.gg/645497/g2-esports-vs-envy-vct-2026-americas-stage-1-w4
+659478,2864,Playoffs: Upper Semifinals,2026-05-04T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,13576,JD Mall JDG Esports (JD Gaming),JDG,2,0,1,https://www.vlr.gg/659478/xi-lai-gaming-vs-jdg-esports-vct-2026-china-stage-1-ubsf
+659479,2864,Playoffs: Upper Semifinals,2026-05-04T11:00:00Z,,3,1119,All Gamers,AG,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/659479/all-gamers-vs-edward-gaming-vct-2026-china-stage-1-ubsf
+659485,2864,Playoffs: Lower Round 2,2026-05-05T09:00:00Z,,3,13576,JD Mall JDG Esports (JD Gaming),JDG,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/659485/jdg-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr2
+659484,2864,Playoffs: Lower Round 2,2026-05-05T11:00:00Z,,3,1119,All Gamers,AG,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/659484/all-gamers-vs-tyloo-vct-2026-china-stage-1-lr2
+666488,2775,Playoffs: Upper Round 1,2026-05-07T08:00:00Z,12.08,3,878,Rex Regum Qeon,RRQ,918,Global Esports,GE,0,2,2,https://www.vlr.gg/666488/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-1-ur1
+666489,2775,Playoffs: Upper Round 1,2026-05-07T10:35:00Z,12.08,3,8185,KIWOOM DRX,KRX,4050,FULL SENSE,FS,0,2,2,https://www.vlr.gg/666489/kiwoom-drx-vs-full-sense-vct-2026-pacific-stage-1-ur1
+660381,2863,Playoffs: Upper Round 1,2026-05-07T15:00:00Z,12.08,3,6392,Eternal Fire,EF,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/660381/eternal-fire-vs-team-heretics-vct-2026-emea-stage-1-ur1
+660382,2863,Playoffs: Upper Round 1,2026-05-07T17:55:00Z,12.08,3,474,Team Liquid,TL,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/660382/team-liquid-vs-team-vitality-vct-2026-emea-stage-1-ur1
+666490,2775,Playoffs: Upper Semifinals,2026-05-08T08:00:00Z,12.08,3,624,Paper Rex,PRX,918,Global Esports,GE,1,2,2,https://www.vlr.gg/666490/paper-rex-vs-global-esports-vct-2026-pacific-stage-1-ubsf
+659480,2864,Playoffs: Upper Final,2026-05-08T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/659480/xi-lai-gaming-vs-edward-gaming-vct-2026-china-stage-1-ubf
+659486,2864,Playoffs: Lower Round 3,2026-05-08T11:10:00Z,,3,1119,All Gamers,AG,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/659486/all-gamers-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lr3
+666491,2775,Playoffs: Upper Semifinals,2026-05-08T11:15:00Z,12.08,3,14,T1,T1,4050,FULL SENSE,FS,0,2,2,https://www.vlr.gg/666491/t1-vs-full-sense-vct-2026-pacific-stage-1-ubsf
+660383,2863,Playoffs: Upper Semifinals,2026-05-08T15:00:00Z,12.08,3,1184,FUT Esports,FUT,6392,Eternal Fire,EF,2,1,1,https://www.vlr.gg/660383/fut-esports-vs-eternal-fire-vct-2026-emea-stage-1-ubsf
+660384,2863,Playoffs: Upper Semifinals,2026-05-08T17:55:00Z,12.08,3,2593,FNATIC,FNC,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/660384/fnatic-vs-team-vitality-vct-2026-emea-stage-1-ubsf
+645498,2860,Group Stage: Week 5,2026-05-08T21:00:00Z,12.07,3,2355,KRÜ Esports,KRÜ,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/645498/kr-esports-vs-evil-geniuses-vct-2026-americas-stage-1-w5
+645499,2860,Group Stage: Week 5,2026-05-09T00:20:00Z,12.07,3,2406,FURIA,FUR,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/645499/furia-vs-100-thieves-vct-2026-americas-stage-1-w5
+666494,2775,Playoffs: Lower Round 1,2026-05-09T08:00:00Z,12.08,3,878,Rex Regum Qeon,RRQ,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/666494/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-lr1
+659487,2864,Playoffs: Lower Final,2026-05-09T09:00:00Z,,5,13581,Xi Lai Gaming,XLG,11981,Dragon Ranger Gaming,DRG,3,1,1,https://www.vlr.gg/659487/xi-lai-gaming-vs-dragon-ranger-gaming-vct-2026-china-stage-1-lbf
+666495,2775,Playoffs: Lower Round 1,2026-05-09T11:30:00Z,12.08,3,8185,KIWOOM DRX,KRX,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/666495/kiwoom-drx-vs-nongshim-redforce-vct-2026-pacific-stage-1-lr1
+660387,2863,Playoffs: Lower Round 1,2026-05-09T15:00:00Z,12.08,3,1001,Team Heretics,TH,397,BBL Esports,BBL,2,0,1,https://www.vlr.gg/660387/team-heretics-vs-bbl-esports-vct-2026-emea-stage-1-lr1
+660388,2863,Playoffs: Lower Round 1,2026-05-09T17:30:00Z,12.08,3,474,Team Liquid,TL,12694,Gentle Mates,M8,1,2,2,https://www.vlr.gg/660388/team-liquid-vs-gentle-mates-vct-2026-emea-stage-1-lr1
+645500,2860,Group Stage: Week 5,2026-05-09T21:00:00Z,12.07,3,11058,G2 Esports,G2,188,Cloud9,C9,2,0,1,https://www.vlr.gg/645500/g2-esports-vs-cloud9-vct-2026-americas-stage-1-w5
+645501,2860,Group Stage: Week 5,2026-05-09T23:10:00Z,12.07,3,427,ENVY,ENVY,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/645501/envy-vs-mibr-vct-2026-americas-stage-1-w5
+666496,2775,Playoffs: Lower Round 2,2026-05-10T08:00:00Z,12.08,3,14,T1,T1,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/666496/t1-vs-rex-regum-qeon-vct-2026-pacific-stage-1-lr2
+659481,2864,Playoffs: Grand Final,2026-05-10T09:00:00Z,,5,1120,EDward Gaming,EDG,13581,Xi Lai Gaming,XLG,3,2,1,https://www.vlr.gg/659481/edward-gaming-vs-xi-lai-gaming-vct-2026-china-stage-1-gf
+666497,2775,Playoffs: Lower Round 2,2026-05-10T11:30:00Z,12.08,3,624,Paper Rex,PRX,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/666497/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-lr2
+660389,2863,Playoffs: Lower Round 2,2026-05-10T15:00:00Z,12.08,3,2593,FNATIC,FNC,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/660389/fnatic-vs-team-heretics-vct-2026-emea-stage-1-lr2
+660390,2863,Playoffs: Lower Round 2,2026-05-10T18:35:00Z,12.08,3,6392,Eternal Fire,EF,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/660390/eternal-fire-vs-gentle-mates-vct-2026-emea-stage-1-lr2
+645502,2860,Group Stage: Week 5,2026-05-10T21:00:00Z,12.07,3,6961,LOUD,LOUD,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/645502/loud-vs-leviat-n-vct-2026-americas-stage-1-w5
+645503,2860,Group Stage: Week 5,2026-05-11T00:10:00Z,12.07,3,2,Sentinels,SEN,1034,NRG,NRG,1,2,2,https://www.vlr.gg/645503/sentinels-vs-nrg-vct-2026-americas-stage-1-w5
+660369,2860,Playoffs: Upper Round 1,2026-05-14T21:00:00Z,12.08,3,2406,FURIA,FUR,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/660369/furia-vs-leviat-n-vct-2026-americas-stage-1-ur1
+660370,2860,Playoffs: Upper Round 1,2026-05-14T23:55:00Z,12.08,3,11058,G2 Esports,G2,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/660370/g2-esports-vs-100-thieves-vct-2026-americas-stage-1-ur1
+666492,2775,Playoffs: Upper Final,2026-05-15T10:00:00Z,12.08,3,918,Global Esports,GE,4050,FULL SENSE,FS,0,2,2,https://www.vlr.gg/666492/global-esports-vs-full-sense-vct-2026-pacific-stage-1-ubf
+666498,2775,Playoffs: Lower Round 3,2026-05-15T12:20:00Z,12.08,3,14,T1,T1,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/666498/t1-vs-paper-rex-vct-2026-pacific-stage-1-lr3
+660385,2863,Playoffs: Upper Final,2026-05-15T15:00:00Z,12.08,3,1184,FUT Esports,FUT,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/660385/fut-esports-vs-team-vitality-vct-2026-emea-stage-1-ubf
+660391,2863,Playoffs: Lower Round 3,2026-05-15T18:45:00Z,12.08,3,1001,Team Heretics,TH,6392,Eternal Fire,EF,2,1,1,https://www.vlr.gg/660391/team-heretics-vs-eternal-fire-vct-2026-emea-stage-1-lr3
+660371,2860,Playoffs: Upper Semifinals,2026-05-15T21:00:00Z,12.08,3,7386,MIBR,MIBR,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/660371/mibr-vs-leviat-n-vct-2026-americas-stage-1-ubsf
+660372,2860,Playoffs: Upper Semifinals,2026-05-16T00:00:00Z,12.08,3,2355,KRÜ Esports,KRÜ,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/660372/kr-esports-vs-g2-esports-vct-2026-americas-stage-1-ubsf
+666499,2775,Playoffs: Lower Final,2026-05-16T10:00:00Z,12.08,5,918,Global Esports,GE,624,Paper Rex,PRX,0,3,2,https://www.vlr.gg/666499/global-esports-vs-paper-rex-vct-2026-pacific-stage-1-lbf
+660392,2863,Playoffs: Lower Final,2026-05-16T16:00:00Z,12.08,5,1184,FUT Esports,FUT,1001,Team Heretics,TH,1,3,2,https://www.vlr.gg/660392/fut-esports-vs-team-heretics-vct-2026-emea-stage-1-lbf
+660375,2860,Playoffs: Lower Round 1,2026-05-16T21:00:00Z,12.08,3,2406,FURIA,FUR,1034,NRG,NRG,0,2,2,https://www.vlr.gg/660375/furia-vs-nrg-vct-2026-americas-stage-1-lr1
+660376,2860,Playoffs: Lower Round 1,2026-05-16T23:15:00Z,12.08,3,120,100 Thieves,100T,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/660376/100-thieves-vs-loud-vct-2026-americas-stage-1-lr1
+666493,2775,Playoffs: Grand Final,2026-05-17T10:00:00Z,12.08,5,4050,FULL SENSE,FS,624,Paper Rex,PRX,0,3,2,https://www.vlr.gg/666493/full-sense-vs-paper-rex-vct-2026-pacific-stage-1-gf
+660386,2863,Playoffs: Grand Final,2026-05-17T16:00:00Z,12.08,5,2059,Team Vitality,VIT,1001,Team Heretics,TH,2,3,2,https://www.vlr.gg/660386/team-vitality-vs-team-heretics-vct-2026-emea-stage-1-gf
+660377,2860,Playoffs: Lower Round 2,2026-05-17T21:00:00Z,12.08,3,2355,KRÜ Esports,KRÜ,1034,NRG,NRG,0,2,2,https://www.vlr.gg/660377/kr-esports-vs-nrg-vct-2026-americas-stage-1-lr2
+660378,2860,Playoffs: Lower Round 2,2026-05-17T23:10:00Z,12.08,3,7386,MIBR,MIBR,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/660378/mibr-vs-100-thieves-vct-2026-americas-stage-1-lr2
+660373,2860,Playoffs: Upper Final,2026-05-22T21:00:00Z,12.08,3,2359,LEVIATÁN,LEV,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/660373/leviat-n-vs-g2-esports-vct-2026-americas-stage-1-ubf
+660379,2860,Playoffs: Lower Round 3,2026-05-23T00:05:00Z,12.08,3,1034,NRG,NRG,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/660379/nrg-vs-100-thieves-vct-2026-americas-stage-1-lr3
+660380,2860,Playoffs: Lower Final,2026-05-23T21:00:00Z,12.08,5,11058,G2 Esports,G2,1034,NRG,NRG,3,2,1,https://www.vlr.gg/660380/g2-esports-vs-nrg-vct-2026-americas-stage-1-lbf
+660374,2860,Playoffs: Grand Final,2026-05-24T21:00:00Z,12.08,5,2359,LEVIATÁN,LEV,11058,G2 Esports,G2,2,3,2,https://www.vlr.gg/660374/leviat-n-vs-g2-esports-vct-2026-americas-stage-1-gf
+684613,2765,Swiss Stage: Round 1,2026-06-06T14:00:00Z,12.10,3,13581,Xi Lai Gaming,XLG,1034,NRG,NRG,0,2,2,https://www.vlr.gg/684613/xi-lai-gaming-vs-nrg-valorant-masters-london-2026-r1
+684610,2765,Swiss Stage: Round 1,2026-06-06T16:30:00Z,12.10,3,2059,Team Vitality,VIT,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/684610/team-vitality-vs-dragon-ranger-gaming-valorant-masters-london-2026-r1
+684611,2765,Swiss Stage: Round 1,2026-06-07T14:00:00Z,12.10,3,4050,FULL SENSE,FS,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/684611/full-sense-vs-fut-esports-valorant-masters-london-2026-r1
+684612,2765,Swiss Stage: Round 1,2026-06-07T16:00:00Z,12.10,3,2359,LEVIATÁN,LEV,918,Global Esports,GE,2,1,1,https://www.vlr.gg/684612/leviat-n-vs-global-esports-valorant-masters-london-2026-r1
+684614,2765,Swiss Stage: Round 2 (1-0),2026-06-08T14:00:00Z,12.10,3,2059,Team Vitality,VIT,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/684614/team-vitality-vs-fut-esports-valorant-masters-london-2026-r2-1-0
+684615,2765,Swiss Stage: Round 2 (1-0),2026-06-08T17:15:00Z,12.10,3,1034,NRG,NRG,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/684615/nrg-vs-leviat-n-valorant-masters-london-2026-r2-1-0
+684616,2765,Swiss Stage: Round 2 (0-1),2026-06-09T14:00:00Z,12.10,3,11981,Dragon Ranger Gaming,DRG,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/684616/dragon-ranger-gaming-vs-xi-lai-gaming-valorant-masters-london-2026-r2-0-1
+684617,2765,Swiss Stage: Round 2 (0-1),2026-06-09T17:20:00Z,12.10,3,918,Global Esports,GE,4050,FULL SENSE,FS,2,1,1,https://www.vlr.gg/684617/global-esports-vs-full-sense-valorant-masters-london-2026-r2-0-1
+684619,2765,Swiss Stage: Round 3 (1-1),2026-06-10T14:00:00Z,12.10,3,1184,FUT Esports,FUT,1034,NRG,NRG,2,1,1,https://www.vlr.gg/684619/fut-esports-vs-nrg-valorant-masters-london-2026-r3-1-1
+684618,2765,Swiss Stage: Round 3 (1-1),2026-06-10T17:40:00Z,12.10,3,918,Global Esports,GE,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/684618/global-esports-vs-xi-lai-gaming-valorant-masters-london-2026-r3-1-1
+670466,2765,Playoffs: Upper Quarterfinals,2026-06-12T14:00:00Z,12.10,3,624,Paper Rex,PRX,2359,LEVIATÁN,LEV,2,0,1,https://www.vlr.gg/670466/paper-rex-vs-leviat-n-valorant-masters-london-2026-ubqf
+670467,2765,Playoffs: Upper Quarterfinals,2026-06-12T16:00:00Z,12.10,3,1001,Team Heretics,TH,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/670467/team-heretics-vs-team-vitality-valorant-masters-london-2026-ubqf
+670465,2765,Playoffs: Upper Quarterfinals,2026-06-13T14:00:00Z,12.10,3,1120,EDward Gaming,EDG,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/670465/edward-gaming-vs-fut-esports-valorant-masters-london-2026-ubqf
+670464,2765,Playoffs: Upper Quarterfinals,2026-06-13T17:00:00Z,12.10,3,11058,G2 Esports,G2,13581,Xi Lai Gaming,XLG,1,2,2,https://www.vlr.gg/670464/g2-esports-vs-xi-lai-gaming-valorant-masters-london-2026-ubqf
+670473,2765,Playoffs: Lower Round 1,2026-06-14T14:00:00Z,12.10,3,2359,LEVIATÁN,LEV,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/670473/leviat-n-vs-team-heretics-valorant-masters-london-2026-lr1
+670472,2765,Playoffs: Lower Round 1,2026-06-14T17:00:00Z,12.10,3,11058,G2 Esports,G2,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/670472/g2-esports-vs-fut-esports-valorant-masters-london-2026-lr1
+670468,2765,Playoffs: Upper Semifinals,2026-06-15T14:00:00Z,12.10,3,13581,Xi Lai Gaming,XLG,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/670468/xi-lai-gaming-vs-edward-gaming-valorant-masters-london-2026-ubsf
+670469,2765,Playoffs: Upper Semifinals,2026-06-15T17:15:00Z,12.10,3,624,Paper Rex,PRX,2059,Team Vitality,VIT,2,1,1,https://www.vlr.gg/670469/paper-rex-vs-team-vitality-valorant-masters-london-2026-ubsf
+670475,2765,Playoffs: Lower Round 2,2026-06-16T14:00:00Z,12.10,3,13581,Xi Lai Gaming,XLG,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/670475/xi-lai-gaming-vs-leviat-n-valorant-masters-london-2026-lr2
+670474,2765,Playoffs: Lower Round 2,2026-06-16T16:05:00Z,12.10,3,2059,Team Vitality,VIT,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/670474/team-vitality-vs-fut-esports-valorant-masters-london-2026-lr2
+670470,2765,Playoffs: Upper Final,2026-06-19T13:00:00Z,12.10,3,1120,EDward Gaming,EDG,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/670470/edward-gaming-vs-paper-rex-valorant-masters-london-2026-ubf
+670476,2765,Playoffs: Lower Round 3,2026-06-19T16:35:00Z,12.10,3,2059,Team Vitality,VIT,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/670476/team-vitality-vs-leviat-n-valorant-masters-london-2026-lr3
+670477,2765,Playoffs: Lower Final,2026-06-20T13:00:00Z,12.10,5,1120,EDward Gaming,EDG,2359,LEVIATÁN,LEV,0,3,2,https://www.vlr.gg/670477/edward-gaming-vs-leviat-n-valorant-masters-london-2026-lbf
+670471,2765,Playoffs: Grand Final,2026-06-21T14:20:00Z,12.10,5,624,Paper Rex,PRX,2359,LEVIATÁN,LEV,2,3,2,https://www.vlr.gg/670471/paper-rex-vs-leviat-n-valorant-masters-london-2026-gf
+701025,2978,Group Stage: Week 1,2026-07-09T08:00:00Z,,3,13790,Wolves Esports,WOL,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,0,1,https://www.vlr.gg/701025/wolves-esports-vs-titan-esports-club-vct-2026-china-stage-2-w1
+701026,2978,Group Stage: Week 1,2026-07-09T10:20:00Z,,3,11981,Dragon Ranger Gaming,DRG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,0,1,https://www.vlr.gg/701026/dragon-ranger-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-w1
+701027,2978,Group Stage: Week 1,2026-07-10T08:00:00Z,,3,11328,FunPlus Phoenix,FPX,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/701027/funplus-phoenix-vs-trace-esports-vct-2026-china-stage-2-w1
+701028,2978,Group Stage: Week 1,2026-07-10T10:10:00Z,,3,13576,JD Gaming,JDG,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/701028/jdg-esports-vs-tyloo-vct-2026-china-stage-2-w1
+701029,2978,Group Stage: Week 1,2026-07-11T08:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,1,1,https://www.vlr.gg/701029/dragon-ranger-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w1
+701030,2978,Group Stage: Week 1,2026-07-11T11:35:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/701030/bilibili-gaming-vs-wolves-esports-vct-2026-china-stage-2-w1
+701031,2978,Group Stage: Week 1,2026-07-12T08:00:00Z,,3,12064,Nova Esports,NOVA,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/701031/nova-esports-vs-funplus-phoenix-vct-2026-china-stage-2-w1
+701032,2978,Group Stage: Week 1,2026-07-12T10:10:00Z,,3,731,TYLOO,TYL,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/701032/tyloo-vs-trace-esports-vct-2026-china-stage-2-w1
+701036,2978,Group Stage: Week 2,2026-07-14T09:00:00Z,,3,13790,Wolves Esports,WOL,1119,All Gamers,AG,0,2,2,https://www.vlr.gg/701036/wolves-esports-vs-all-gamers-vct-2026-china-stage-2-w2
+701037,2978,Group Stage: Week 2,2026-07-14T11:15:00Z,,3,13581,Xi Lai Gaming,XLG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,1,2,2,https://www.vlr.gg/701037/xi-lai-gaming-vs-titan-esports-club-vct-2026-china-stage-2-w2
+701038,2978,Group Stage: Week 2,2026-07-15T09:00:00Z,,3,13576,JD Gaming,JDG,11328,FunPlus Phoenix,FPX,0,2,2,https://www.vlr.gg/701038/jdg-esports-vs-funplus-phoenix-vct-2026-china-stage-2-w2
+701039,2978,Group Stage: Week 2,2026-07-15T11:20:00Z,,3,1120,EDward Gaming,EDG,731,TYLOO,TYL,1,2,2,https://www.vlr.gg/701039/edward-gaming-vs-tyloo-vct-2026-china-stage-2-w2
+712803,2976,Group Stage: Week 1,2026-07-15T15:00:00Z,13.01,3,1184,FUT Esports,FUT,4915,Natus Vincere,NAVI,0,2,2,https://www.vlr.gg/712803/fut-esports-vs-natus-vincere-vct-2026-emea-stage-2-w1
+712804,2976,Group Stage: Week 1,2026-07-15T17:10:00Z,13.01,3,474,Team Liquid,TL,6392,Eternal Fire,EF,0,2,2,https://www.vlr.gg/712804/team-liquid-vs-eternal-fire-vct-2026-emea-stage-2-w1
+698884,2776,Group Stage: Week 1,2026-07-16T08:00:00Z,13.01,3,17,Gen.G,GEN,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/698884/gen-g-vs-zeta-division-vct-2026-pacific-stage-2-w1
+701040,2978,Group Stage: Week 2,2026-07-16T09:00:00Z,,3,1119,All Gamers,AG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,2,2,https://www.vlr.gg/701040/all-gamers-vs-bilibili-gaming-vct-2026-china-stage-2-w2
+698885,2776,Group Stage: Week 1,2026-07-16T11:05:00Z,13.01,3,6199,Team Secret,TS,11229,VARREL,VL,1,2,2,https://www.vlr.gg/698885/team-secret-vs-varrel-vct-2026-pacific-stage-2-w1
+701041,2978,Group Stage: Week 2,2026-07-16T12:25:00Z,,3,13581,Xi Lai Gaming,XLG,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/701041/xi-lai-gaming-vs-dragon-ranger-gaming-vct-2026-china-stage-2-w2
+712805,2976,Group Stage: Week 1,2026-07-16T15:00:00Z,13.01,3,2593,FNATIC,FNC,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/712805/fnatic-vs-giantx-vct-2026-emea-stage-2-w1
+712806,2976,Group Stage: Week 1,2026-07-16T17:35:00Z,13.01,3,3478,PCIFIC Esports,PCF,12694,Gentle Mates,M8,1,2,2,https://www.vlr.gg/712806/pcific-esports-vs-gentle-mates-vct-2026-emea-stage-2-w1
+706349,2977,Group Stage: Week 1,2026-07-16T21:00:00Z,13.01,3,2359,LEVIATÁN,LEV,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/706349/leviat-n-vs-furia-vct-2026-americas-stage-2-w1
+706350,2977,Group Stage: Week 1,2026-07-17T00:20:00Z,13.01,3,2,Sentinels,SEN,188,Cloud9,C9,2,1,1,https://www.vlr.gg/706350/sentinels-vs-cloud9-vct-2026-americas-stage-2-w1
+701042,2978,Group Stage: Week 2,2026-07-17T07:00:00Z,,3,12064,Nova Esports,NOVA,13576,JD Gaming,JDG,2,1,1,https://www.vlr.gg/701042/nova-esports-vs-jdg-esports-vct-2026-china-stage-2-w2
+698886,2776,Group Stage: Week 1,2026-07-17T08:00:00Z,13.01,3,4050,FULL SENSE,FS,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/698886/full-sense-vs-nongshim-redforce-vct-2026-pacific-stage-2-w1
+701043,2978,Group Stage: Week 2,2026-07-17T10:00:00Z,,3,731,TYLOO,TYL,11328,FunPlus Phoenix,FPX,2,1,1,https://www.vlr.gg/701043/tyloo-vs-funplus-phoenix-vct-2026-china-stage-2-w2
+698887,2776,Group Stage: Week 1,2026-07-17T11:00:00Z,13.01,3,8185,KIWOOM DRX,KRX,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/698887/kiwoom-drx-vs-detonation-focusme-vct-2026-pacific-stage-2-w1
+701044,2978,Group Stage: Week 2,2026-07-17T13:30:00Z,,3,12685,Trace Esports,TE,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/701044/trace-esports-vs-edward-gaming-vct-2026-china-stage-2-w2
+712807,2976,Group Stage: Week 1,2026-07-17T15:00:00Z,13.01,3,8877,Karmine Corp,KC,6392,Eternal Fire,EF,2,0,1,https://www.vlr.gg/712807/karmine-corp-vs-eternal-fire-vct-2026-emea-stage-2-w1
+712808,2976,Group Stage: Week 1,2026-07-17T17:25:00Z,13.01,3,2059,Team Vitality,VIT,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/712808/team-vitality-vs-natus-vincere-vct-2026-emea-stage-2-w1
+706351,2977,Group Stage: Week 1,2026-07-17T21:00:00Z,13.01,3,427,ENVY,ENVY,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/706351/envy-vs-evil-geniuses-vct-2026-americas-stage-2-w1
+706352,2977,Group Stage: Week 1,2026-07-17T23:15:00Z,13.01,3,2355,KRÜ Esports,KRÜ,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/706352/kr-esports-vs-loud-vct-2026-americas-stage-2-w1
+698888,2776,Group Stage: Week 1,2026-07-18T08:00:00Z,13.01,3,878,Rex Regum Qeon,RRQ,918,Global Esports,GE,0,2,2,https://www.vlr.gg/698888/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-2-w1
+701045,2978,Group Stage: Week 2,2026-07-18T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,2,2,https://www.vlr.gg/701045/titan-esports-club-vs-bilibili-gaming-vct-2026-china-stage-2-w2
+698889,2776,Group Stage: Week 1,2026-07-18T10:35:00Z,13.01,3,624,Paper Rex,PRX,14,T1,T1,1,2,2,https://www.vlr.gg/698889/paper-rex-vs-t1-vct-2026-pacific-stage-2-w1
+701046,2978,Group Stage: Week 2,2026-07-18T13:00:00Z,,3,1119,All Gamers,AG,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/701046/all-gamers-vs-xi-lai-gaming-vct-2026-china-stage-2-w2
+712809,2976,Group Stage: Week 1,2026-07-18T15:00:00Z,13.01,3,12694,Gentle Mates,M8,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/712809/gentle-mates-vs-fut-esports-vct-2026-emea-stage-2-w1
+712810,2976,Group Stage: Week 1,2026-07-18T17:25:00Z,13.01,3,1001,Team Heretics,TH,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/712810/team-heretics-vs-team-liquid-vct-2026-emea-stage-2-w1
+706353,2977,Group Stage: Week 1,2026-07-18T21:00:00Z,13.01,3,11058,G2 Esports,G2,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/706353/g2-esports-vs-100-thieves-vct-2026-americas-stage-2-w1
+706354,2977,Group Stage: Week 1,2026-07-19T00:30:00Z,13.01,3,1034,NRG,NRG,7386,MIBR,MIBR,2,1,1,https://www.vlr.gg/706354/nrg-vs-mibr-vct-2026-americas-stage-2-w1
+701047,2978,Group Stage: Week 2,2026-07-19T07:00:00Z,,3,12685,Trace Esports,TE,12064,Nova Esports,NOVA,1,2,2,https://www.vlr.gg/701047/trace-esports-vs-nova-esports-vct-2026-china-stage-2-w2
+698890,2776,Group Stage: Week 1,2026-07-19T08:00:00Z,13.01,3,11060,Nongshim RedForce,NS,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/698890/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-2-w1
+701048,2978,Group Stage: Week 2,2026-07-19T10:25:00Z,,3,11981,Dragon Ranger Gaming,DRG,13790,Wolves Esports,WOL,1,2,2,https://www.vlr.gg/701048/dragon-ranger-gaming-vs-wolves-esports-vct-2026-china-stage-2-w2
+698891,2776,Group Stage: Week 1,2026-07-19T11:05:00Z,13.01,3,8185,KIWOOM DRX,KRX,6199,Team Secret,TS,0,2,2,https://www.vlr.gg/698891/kiwoom-drx-vs-team-secret-vct-2026-pacific-stage-2-w1
+701049,2978,Group Stage: Week 2,2026-07-19T13:45:00Z,,3,1120,EDward Gaming,EDG,13576,JD Gaming,JDG,2,0,1,https://www.vlr.gg/701049/edward-gaming-vs-jdg-esports-vct-2026-china-stage-2-w2
+712811,2976,Group Stage: Week 1,2026-07-19T14:00:00Z,13.01,3,14419,GIANTX,GX,8877,Karmine Corp,KC,0,2,2,https://www.vlr.gg/712811/giantx-vs-karmine-corp-vct-2026-emea-stage-2-w1
+712812,2976,Group Stage: Week 1,2026-07-19T16:05:00Z,13.01,3,2059,Team Vitality,VIT,397,BBL Esports,BBL,0,2,2,https://www.vlr.gg/712812/team-vitality-vs-bbl-esports-vct-2026-emea-stage-2-w1
+701050,2978,Group Stage: Week 3,2026-07-20T09:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,1119,All Gamers,AG,0,2,2,https://www.vlr.gg/701050/titan-esports-club-vs-all-gamers-vct-2026-china-stage-2-w3
+701051,2978,Group Stage: Week 3,2026-07-20T11:25:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,13581,Xi Lai Gaming,XLG,2,1,1,https://www.vlr.gg/701051/bilibili-gaming-vs-xi-lai-gaming-vct-2026-china-stage-2-w3
+701052,2978,Group Stage: Week 3,2026-07-21T09:00:00Z,,3,13576,JD Gaming,JDG,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/701052/jdg-esports-vs-trace-esports-vct-2026-china-stage-2-w3
+701053,2978,Group Stage: Week 3,2026-07-21T11:15:00Z,,3,1120,EDward Gaming,EDG,12064,Nova Esports,NOVA,0,2,2,https://www.vlr.gg/701053/edward-gaming-vs-nova-esports-vct-2026-china-stage-2-w3
+701054,2978,Group Stage: Week 3,2026-07-22T09:00:00Z,,3,13581,Xi Lai Gaming,XLG,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/701054/xi-lai-gaming-vs-wolves-esports-vct-2026-china-stage-2-w3
+701055,2978,Group Stage: Week 3,2026-07-22T12:20:00Z,,3,1119,All Gamers,AG,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/701055/all-gamers-vs-dragon-ranger-gaming-vct-2026-china-stage-2-w3
+712814,2976,Group Stage: Week 2,2026-07-22T15:00:00Z,13.01,3,1184,FUT Esports,FUT,3478,PCIFIC Esports,PCF,2,1,1,https://www.vlr.gg/712814/fut-esports-vs-pcific-esports-vct-2026-emea-stage-2-w2
+712815,2976,Group Stage: Week 2,2026-07-22T18:15:00Z,13.01,3,2593,FNATIC,FNC,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/712815/fnatic-vs-karmine-corp-vct-2026-emea-stage-2-w2
+698892,2776,Group Stage: Week 2,2026-07-23T08:00:00Z,13.01,3,918,Global Esports,GE,4050,FULL SENSE,FS,2,0,1,https://www.vlr.gg/698892/global-esports-vs-full-sense-vct-2026-pacific-stage-2-w2
+701056,2978,Group Stage: Week 3,2026-07-23T09:00:00Z,,3,731,TYLOO,TYL,12064,Nova Esports,NOVA,0,2,2,https://www.vlr.gg/701056/tyloo-vs-nova-esports-vct-2026-china-stage-2-w3
+698893,2776,Group Stage: Week 2,2026-07-23T10:00:00Z,13.01,3,14,T1,T1,11229,VARREL,VL,0,2,2,https://www.vlr.gg/698893/t1-vs-varrel-vct-2026-pacific-stage-2-w2
+701057,2978,Group Stage: Week 3,2026-07-23T11:35:00Z,,3,11328,FunPlus Phoenix,FPX,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/701057/funplus-phoenix-vs-edward-gaming-vct-2026-china-stage-2-w3
+712816,2976,Group Stage: Week 2,2026-07-23T15:00:00Z,13.01,3,6392,Eternal Fire,EF,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/712816/eternal-fire-vs-team-heretics-vct-2026-emea-stage-2-w2
+712817,2976,Group Stage: Week 2,2026-07-23T17:15:00Z,13.01,3,12694,Gentle Mates,M8,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/712817/gentle-mates-vs-natus-vincere-vct-2026-emea-stage-2-w2
+706355,2977,Group Stage: Week 2,2026-07-23T21:00:00Z,13.01,3,5248,Evil Geniuses,EG,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/706355/evil-geniuses-vs-leviat-n-vct-2026-americas-stage-2-w2
+706356,2977,Group Stage: Week 2,2026-07-23T23:05:00Z,13.01,3,427,ENVY,ENVY,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/706356/envy-vs-mibr-vct-2026-americas-stage-2-w2
+698894,2776,Group Stage: Week 2,2026-07-24T08:00:00Z,13.01,3,878,Rex Regum Qeon,RRQ,5448,ZETA DIVISION,ZETA,0,2,2,https://www.vlr.gg/698894/rex-regum-qeon-vs-zeta-division-vct-2026-pacific-stage-2-w2
+701058,2978,Group Stage: Seeding,2026-07-24T09:00:00Z,,3,12685,Trace Esports,TE,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,0,1,https://www.vlr.gg/701058/trace-esports-vs-titan-esports-club-vct-2026-china-stage-2-seeding
+698895,2776,Group Stage: Week 2,2026-07-24T10:05:00Z,13.01,3,278,DetonatioN FocusMe,DFM,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/698895/detonation-focusme-vs-paper-rex-vct-2026-pacific-stage-2-w2
+701059,2978,Group Stage: Seeding,2026-07-24T11:35:00Z,,3,1120,EDward Gaming,EDG,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/701059/edward-gaming-vs-all-gamers-vct-2026-china-stage-2-seeding
+712818,2976,Group Stage: Week 2,2026-07-24T15:00:00Z,13.01,3,1184,FUT Esports,FUT,397,BBL Esports,BBL,2,1,1,https://www.vlr.gg/712818/fut-esports-vs-bbl-esports-vct-2026-emea-stage-2-w2
+712819,2976,Group Stage: Week 2,2026-07-24T18:20:00Z,13.01,3,474,Team Liquid,TL,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/712819/team-liquid-vs-fnatic-vct-2026-emea-stage-2-w2
+706357,2977,Group Stage: Week 2,2026-07-24T21:00:00Z,13.01,3,2406,FURIA,FUR,1034,NRG,NRG,0,2,2,https://www.vlr.gg/706357/furia-vs-nrg-vct-2026-americas-stage-2-w2
+706358,2977,Group Stage: Week 2,2026-07-24T23:35:00Z,13.01,3,120,100 Thieves,100T,2355,KRÜ Esports,KRÜ,2,0,1,https://www.vlr.gg/706358/100-thieves-vs-kr-esports-vct-2026-americas-stage-2-w2
+698897,2776,Group Stage: Week 2,2026-07-25T08:00:00Z,13.01,3,11060,Nongshim RedForce,NS,918,Global Esports,GE,2,1,1,https://www.vlr.gg/698897/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-w2
+701060,2978,Group Stage: Seeding,2026-07-25T09:00:00Z,,3,13576,JD Gaming,JDG,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/701060/jdg-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-2-seeding
+698898,2776,Group Stage: Week 2,2026-07-25T10:45:00Z,13.01,3,6199,Team Secret,TS,14,T1,T1,0,2,2,https://www.vlr.gg/698898/team-secret-vs-t1-vct-2026-pacific-stage-2-w2
+701061,2978,Group Stage: Seeding,2026-07-25T12:35:00Z,,3,731,TYLOO,TYL,13581,Xi Lai Gaming,XLG,0,2,2,https://www.vlr.gg/701061/tyloo-vs-xi-lai-gaming-vct-2026-china-stage-2-seeding
+712820,2976,Group Stage: Week 2,2026-07-25T15:00:00Z,13.01,3,3478,PCIFIC Esports,PCF,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/712820/pcific-esports-vs-team-vitality-vct-2026-emea-stage-2-w2
+712821,2976,Group Stage: Week 2,2026-07-25T17:00:00Z,13.01,3,6392,Eternal Fire,EF,14419,GIANTX,GX,0,2,2,https://www.vlr.gg/712821/eternal-fire-vs-giantx-vct-2026-emea-stage-2-w2
+706359,2977,Group Stage: Week 2,2026-07-25T21:00:00Z,13.01,3,11058,G2 Esports,G2,188,Cloud9,C9,2,0,1,https://www.vlr.gg/706359/g2-esports-vs-cloud9-vct-2026-americas-stage-2-w2
+706360,2977,Group Stage: Week 2,2026-07-25T22:55:00Z,13.01,3,2,Sentinels,SEN,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/706360/sentinels-vs-loud-vct-2026-americas-stage-2-w2
+698899,2776,Group Stage: Week 2,2026-07-26T08:00:00Z,13.01,3,624,Paper Rex,PRX,8185,KIWOOM DRX,KRX,2,0,1,https://www.vlr.gg/698899/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-2-w2
+701062,2978,Group Stage: Seeding,2026-07-26T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/701062/funplus-phoenix-vs-wolves-esports-vct-2026-china-stage-2-seeding
+698901,2776,Group Stage: Week 2,2026-07-26T09:50:00Z,13.01,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/698901/gen-g-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w2
+701063,2978,Group Stage: Seeding,2026-07-26T11:30:00Z,,3,12064,Nova Esports,NOVA,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,0,1,https://www.vlr.gg/701063/nova-esports-vs-bilibili-gaming-vct-2026-china-stage-2-seeding
+712822,2976,Group Stage: Week 2,2026-07-26T15:00:00Z,13.01,3,397,BBL Esports,BBL,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/712822/bbl-esports-vs-natus-vincere-vct-2026-emea-stage-2-w2
+712823,2976,Group Stage: Week 2,2026-07-26T18:10:00Z,13.01,3,1001,Team Heretics,TH,8877,Karmine Corp,KC,0,2,2,https://www.vlr.gg/712823/team-heretics-vs-karmine-corp-vct-2026-emea-stage-2-w2
+706361,2977,Group Stage: Week 2,2026-07-26T21:00:00Z,13.01,3,427,ENVY,ENVY,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/706361/envy-vs-leviat-n-vct-2026-americas-stage-2-w2
+706362,2977,Group Stage: Week 2,2026-07-26T23:00:00Z,13.01,3,2406,FURIA,FUR,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/706362/furia-vs-mibr-vct-2026-americas-stage-2-w2
+712824,2976,Group Stage: Week 3,2026-07-29T15:00:00Z,13.01,3,14419,GIANTX,GX,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/712824/giantx-vs-team-liquid-vct-2026-emea-stage-2-w3
+712825,2976,Group Stage: Week 3,2026-07-29T17:15:00Z,13.01,3,12694,Gentle Mates,M8,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/712825/gentle-mates-vs-team-vitality-vct-2026-emea-stage-2-w3
+698902,2776,Group Stage: Week 3,2026-07-30T08:00:00Z,13.01,3,11229,VARREL,VL,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/698902/varrel-vs-detonation-focusme-vct-2026-pacific-stage-2-w3
+698903,2776,Group Stage: Week 3,2026-07-30T11:15:00Z,13.01,3,4050,FULL SENSE,FS,5448,ZETA DIVISION,ZETA,1,2,2,https://www.vlr.gg/698903/full-sense-vs-zeta-division-vct-2026-pacific-stage-2-w3
+712826,2976,Group Stage: Week 3,2026-07-30T15:00:00Z,13.01,3,4915,Natus Vincere,NAVI,3478,PCIFIC Esports,PCF,2,0,1,https://www.vlr.gg/712826/natus-vincere-vs-pcific-esports-vct-2026-emea-stage-2-w3
+712827,2976,Group Stage: Week 3,2026-07-30T17:35:00Z,13.01,3,6392,Eternal Fire,EF,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/712827/eternal-fire-vs-fnatic-vct-2026-emea-stage-2-w3
+706364,2977,Group Stage: Week 3,2026-07-30T21:00:00Z,13.01,3,2355,KRÜ Esports,KRÜ,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/706364/kr-esports-vs-g2-esports-vct-2026-americas-stage-2-w3
+706365,2977,Group Stage: Week 3,2026-07-30T23:20:00Z,13.01,3,120,100 Thieves,100T,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/706365/100-thieves-vs-sentinels-vct-2026-americas-stage-2-w3
+698904,2776,Group Stage: Week 3,2026-07-31T08:00:00Z,13.01,3,6199,Team Secret,TS,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/698904/team-secret-vs-paper-rex-vct-2026-pacific-stage-2-w3
+698905,2776,Group Stage: Week 3,2026-07-31T10:10:00Z,13.01,3,918,Global Esports,GE,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/698905/global-esports-vs-gen-g-vct-2026-pacific-stage-2-w3
+712828,2976,Group Stage: Week 3,2026-07-31T15:00:00Z,13.01,3,397,BBL Esports,BBL,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/712828/bbl-esports-vs-gentle-mates-vct-2026-emea-stage-2-w3
+712829,2976,Group Stage: Week 3,2026-07-31T19:30:00Z,13.01,3,14419,GIANTX,GX,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/712829/giantx-vs-team-heretics-vct-2026-emea-stage-2-w3
+706366,2977,Group Stage: Week 3,2026-07-31T21:00:00Z,13.01,3,188,Cloud9,C9,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/706366/cloud9-vs-loud-vct-2026-americas-stage-2-w3
+706367,2977,Group Stage: Week 3,2026-08-01T00:25:00Z,13.01,3,5248,Evil Geniuses,EG,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/706367/evil-geniuses-vs-mibr-vct-2026-americas-stage-2-w3
+698906,2776,Group Stage: Week 3,2026-08-01T08:00:00Z,13.01,3,14,T1,T1,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/698906/t1-vs-detonation-focusme-vct-2026-pacific-stage-2-w3
+698907,2776,Group Stage: Week 3,2026-08-01T11:25:00Z,13.01,3,4050,FULL SENSE,FS,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/698907/full-sense-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w3
+712830,2976,Group Stage: Week 3,2026-08-01T15:00:00Z,13.01,3,1184,FUT Esports,FUT,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/712830/fut-esports-vs-team-vitality-vct-2026-emea-stage-2-w3
+712831,2976,Group Stage: Week 3,2026-08-01T18:10:00Z,13.01,3,8877,Karmine Corp,KC,474,Team Liquid,TL,2,1,1,https://www.vlr.gg/712831/karmine-corp-vs-team-liquid-vct-2026-emea-stage-2-w3
+706368,2977,Group Stage: Week 3,2026-08-01T21:00:00Z,13.01,3,427,ENVY,ENVY,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/706368/envy-vs-furia-vct-2026-americas-stage-2-w3
+706369,2977,Group Stage: Week 3,2026-08-02T01:00:00Z,13.01,3,2359,LEVIATÁN,LEV,1034,NRG,NRG,1,2,2,https://www.vlr.gg/706369/leviat-n-vs-nrg-vct-2026-americas-stage-2-w3
+698908,2776,Group Stage: Week 3,2026-08-02T08:00:00Z,13.01,3,11229,VARREL,VL,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/698908/varrel-vs-kiwoom-drx-vct-2026-pacific-stage-2-w3
+698909,2776,Group Stage: Week 3,2026-08-02T11:00:00Z,13.01,3,5448,ZETA DIVISION,ZETA,11060,Nongshim RedForce,NS,1,2,2,https://www.vlr.gg/698909/zeta-division-vs-nongshim-redforce-vct-2026-pacific-stage-2-w3
+712832,2976,Group Stage: Week 3,2026-08-02T15:00:00Z,13.01,3,397,BBL Esports,BBL,3478,PCIFIC Esports,PCF,2,1,1,https://www.vlr.gg/712832/bbl-esports-vs-pcific-esports-vct-2026-emea-stage-2-w3
+712833,2976,Group Stage: Week 3,2026-08-02T18:25:00Z,13.01,3,2593,FNATIC,FNC,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/712833/fnatic-vs-team-heretics-vct-2026-emea-stage-2-w3
+706370,2977,Group Stage: Week 3,2026-08-02T21:00:00Z,13.01,3,188,Cloud9,C9,2355,KRÜ Esports,KRÜ,2,0,1,https://www.vlr.gg/706370/cloud9-vs-kr-esports-vct-2026-americas-stage-2-w3
+706371,2977,Group Stage: Week 3,2026-08-02T23:05:00Z,13.01,3,11058,G2 Esports,G2,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/706371/g2-esports-vs-sentinels-vct-2026-americas-stage-2-w3
+724619,2978,Play-Ins: Upper Round 1,2026-08-05T08:00:00Z,,3,12685,Trace Esports,TE,20603,A Team,AT,2,0,1,https://www.vlr.gg/724619/trace-esports-vs-a-team-vct-2026-china-stage-2-ur1
+724620,2978,Play-Ins: Upper Round 1,2026-08-05T10:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,12784,KeepBest Gaming,KBG,2,1,1,https://www.vlr.gg/724620/titan-esports-club-vs-keepbest-gaming-vct-2026-china-stage-2-ur1
+724621,2978,Play-Ins: Upper Quarterfinals,2026-08-06T08:00:00Z,,3,11328,FunPlus Phoenix,FPX,13576,JD Gaming,JDG,1,2,2,https://www.vlr.gg/724621/funplus-phoenix-vs-jdg-esports-vct-2026-china-stage-2-ubqf
+724622,2978,Play-Ins: Upper Quarterfinals,2026-08-06T11:00:00Z,,3,13790,Wolves Esports,WOL,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/724622/wolves-esports-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubqf
+729664,2976,Play-Ins: Upper Round 1,2026-08-06T15:00:00Z,13.02,3,14419,GIANTX,GX,14478,Eintracht Frankfurt,SGE,2,1,1,https://www.vlr.gg/729664/giantx-vs-eintracht-frankfurt-vct-2026-emea-stage-2-ur1
+729665,2976,Play-Ins: Upper Round 1,2026-08-06T18:20:00Z,13.02,3,4915,Natus Vincere,NAVI,11232,Joblife,JL,1,2,2,https://www.vlr.gg/729665/natus-vincere-vs-joblife-vct-2026-emea-stage-2-ur1
+706372,2977,Group Stage: Week 4,2026-08-06T21:00:00Z,13.01,3,5248,Evil Geniuses,EG,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/706372/evil-geniuses-vs-furia-vct-2026-americas-stage-2-w4
+706373,2977,Group Stage: Week 4,2026-08-06T23:15:00Z,13.01,3,427,ENVY,ENVY,1034,NRG,NRG,0,2,2,https://www.vlr.gg/706373/envy-vs-nrg-vct-2026-americas-stage-2-w4
+698910,2776,Group Stage: Week 4,2026-08-07T08:00:00Z,13.01,3,6199,Team Secret,TS,278,DetonatioN FocusMe,DFM,0,2,2,https://www.vlr.gg/698910/team-secret-vs-detonation-focusme-vct-2026-pacific-stage-2-w4
+724623,2978,Play-Ins: Upper Quarterfinals,2026-08-07T08:00:00Z,,3,1119,All Gamers,AG,12685,Trace Esports,TE,2,1,1,https://www.vlr.gg/724623/all-gamers-vs-trace-esports-vct-2026-china-stage-2-ubqf
+698911,2776,Group Stage: Week 4,2026-08-07T10:15:00Z,13.01,3,17,Gen.G,GEN,4050,FULL SENSE,FS,2,1,1,https://www.vlr.gg/698911/gen-g-vs-full-sense-vct-2026-pacific-stage-2-w4
+724624,2978,Play-Ins: Upper Quarterfinals,2026-08-07T11:00:00Z,,3,1120,EDward Gaming,EDG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,1,2,2,https://www.vlr.gg/724624/edward-gaming-vs-titan-esports-club-vct-2026-china-stage-2-ubqf
+729666,2976,Play-Ins: Upper Round 1,2026-08-07T15:00:00Z,13.02,3,3478,PCIFIC Esports,PCF,20085,Fire Flux Esports,FF,0,2,2,https://www.vlr.gg/729666/pcific-esports-vs-fire-flux-esports-vct-2026-emea-stage-2-ur1
+729667,2976,Play-Ins: Upper Round 1,2026-08-07T17:00:00Z,13.02,3,2593,FNATIC,FNC,876,Enterprise Esports,EP,1,2,2,https://www.vlr.gg/729667/fnatic-vs-enterprise-esports-vct-2026-emea-stage-2-ur1
+706374,2977,Group Stage: Week 4,2026-08-07T21:00:00Z,13.01,3,120,100 Thieves,100T,188,Cloud9,C9,0,2,2,https://www.vlr.gg/706374/100-thieves-vs-cloud9-vct-2026-americas-stage-2-w4
+706375,2977,Group Stage: Week 4,2026-08-07T23:40:00Z,13.01,3,11058,G2 Esports,G2,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/706375/g2-esports-vs-loud-vct-2026-americas-stage-2-w4
+698912,2776,Group Stage: Week 4,2026-08-08T08:00:00Z,13.01,3,8185,KIWOOM DRX,KRX,14,T1,T1,0,2,2,https://www.vlr.gg/698912/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-w4
+724625,2978,Play-Ins: Lower Round 1,2026-08-08T08:00:00Z,,3,20603,A Team,AT,13790,Wolves Esports,WOL,1,2,2,https://www.vlr.gg/724625/a-team-vs-wolves-esports-vct-2026-china-stage-2-lr1
+698913,2776,Group Stage: Week 4,2026-08-08T10:10:00Z,13.01,3,918,Global Esports,GE,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/698913/global-esports-vs-zeta-division-vct-2026-pacific-stage-2-w4
+724626,2978,Play-Ins: Lower Round 1,2026-08-08T11:35:00Z,,3,12784,KeepBest Gaming,KBG,11328,FunPlus Phoenix,FPX,0,2,2,https://www.vlr.gg/724626/keepbest-gaming-vs-funplus-phoenix-vct-2026-china-stage-2-lr1
+729668,2976,Play-Ins: Upper Quarterfinals,2026-08-08T15:00:00Z,13.02,3,1184,FUT Esports,FUT,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/729668/fut-esports-vs-giantx-vct-2026-emea-stage-2-ubqf
+729669,2976,Play-Ins: Upper Quarterfinals,2026-08-08T17:00:00Z,13.02,3,6392,Eternal Fire,EF,11232,Joblife,JL,2,1,1,https://www.vlr.gg/729669/eternal-fire-vs-joblife-vct-2026-emea-stage-2-ubqf
+706376,2977,Group Stage: Week 4,2026-08-08T21:00:00Z,13.01,3,2355,KRÜ Esports,KRÜ,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/706376/kr-esports-vs-sentinels-vct-2026-americas-stage-2-w4
+706377,2977,Group Stage: Week 4,2026-08-09T00:20:00Z,13.01,3,2359,LEVIATÁN,LEV,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/706377/leviat-n-vs-mibr-vct-2026-americas-stage-2-w4
+698914,2776,Group Stage: Week 4,2026-08-09T08:00:00Z,13.01,3,11229,VARREL,VL,624,Paper Rex,PRX,2,0,1,https://www.vlr.gg/698914/varrel-vs-paper-rex-vct-2026-pacific-stage-2-w4
+724627,2978,Play-Ins: Lower Round 2,2026-08-09T08:00:00Z,,3,1120,EDward Gaming,EDG,13790,Wolves Esports,WOL,2,1,1,https://www.vlr.gg/724627/edward-gaming-vs-wolves-esports-vct-2026-china-stage-2-lr2
+698915,2776,Group Stage: Week 4,2026-08-09T10:25:00Z,13.01,3,11060,Nongshim RedForce,NS,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/698915/nongshim-redforce-vs-rex-regum-qeon-vct-2026-pacific-stage-2-w4
+724628,2978,Play-Ins: Lower Round 2,2026-08-09T11:25:00Z,,3,12685,Trace Esports,TE,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/724628/trace-esports-vs-funplus-phoenix-vct-2026-china-stage-2-lr2
+729670,2976,Play-Ins: Upper Quarterfinals,2026-08-09T15:00:00Z,13.02,3,1001,Team Heretics,TH,20085,Fire Flux Esports,FF,1,2,2,https://www.vlr.gg/729670/team-heretics-vs-fire-flux-esports-vct-2026-emea-stage-2-ubqf
+729671,2976,Play-Ins: Upper Quarterfinals,2026-08-09T18:05:00Z,13.02,3,12694,Gentle Mates,M8,876,Enterprise Esports,EP,0,2,2,https://www.vlr.gg/729671/gentle-mates-vs-enterprise-esports-vct-2026-emea-stage-2-ubqf
+706378,2977,Group Stage: Week 4,2026-08-09T21:00:00Z,13.01,3,5248,Evil Geniuses,EG,1034,NRG,NRG,0,2,2,https://www.vlr.gg/706378/evil-geniuses-vs-nrg-vct-2026-americas-stage-2-w4
+706379,2977,Group Stage: Week 4,2026-08-09T22:55:00Z,13.01,3,6961,LOUD,LOUD,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/706379/loud-vs-100-thieves-vct-2026-americas-stage-2-w4
+724629,2978,Play-Ins: Upper Semifinals,2026-08-10T08:00:00Z,,3,1119,All Gamers,AG,13576,JD Gaming,JDG,2,0,1,https://www.vlr.gg/724629/all-gamers-vs-jdg-esports-vct-2026-china-stage-2-ubsf
+724630,2978,Play-Ins: Upper Semifinals,2026-08-10T10:40:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/724630/titan-esports-club-vs-dragon-ranger-gaming-vct-2026-china-stage-2-ubsf
+724631,2978,Play-Ins: Lower Round 3,2026-08-11T08:00:00Z,,3,13576,JD Gaming,JDG,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/724631/jdg-esports-vs-edward-gaming-vct-2026-china-stage-2-lr3
+724632,2978,Play-Ins: Lower Round 3,2026-08-11T10:05:00Z,,3,11981,Dragon Ranger Gaming,DRG,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/724632/dragon-ranger-gaming-vs-trace-esports-vct-2026-china-stage-2-lr3
+724633,2978,Play-Ins: Upper Final,2026-08-12T08:00:00Z,,3,1119,All Gamers,AG,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,1,2,2,https://www.vlr.gg/724633/all-gamers-vs-titan-esports-club-vct-2026-china-stage-2-ubf
+724634,2978,Play-Ins: Lower Final,2026-08-12T11:45:00Z,,3,13576,JD Gaming,JDG,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/724634/jd-gaming-vs-trace-esports-vct-2026-china-stage-2-lbf
+729674,2976,Play-Ins: Lower Round 1,2026-08-12T15:00:00Z,13.02,3,12694,Gentle Mates,M8,14478,Eintracht Frankfurt,SGE,0,2,2,https://www.vlr.gg/729674/gentle-mates-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1
+729675,2976,Play-Ins: Lower Round 1,2026-08-12T17:25:00Z,13.02,3,1001,Team Heretics,TH,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/729675/team-heretics-vs-natus-vincere-vct-2026-emea-stage-2-lr1
+730535,2776,Play-Ins: Upper Round 1,2026-08-13T08:00:00Z,13.02,3,8185,KIWOOM DRX,KRX,19189,ONSIDE GAMING,ONG,2,0,1,https://www.vlr.gg/730535/kiwoom-drx-vs-onside-gaming-vct-2026-pacific-stage-2-ur1
+730536,2776,Play-Ins: Upper Round 1,2026-08-13T10:25:00Z,13.02,3,878,Rex Regum Qeon,RRQ,623,Sharper Esports,SP,1,2,2,https://www.vlr.gg/730536/rex-regum-qeon-vs-sharper-esports-vct-2026-pacific-stage-2-ur1
+729676,2976,Play-Ins: Lower Round 1,2026-08-13T15:00:00Z,13.02,3,11232,Joblife,JL,3478,PCIFIC Esports,PCF,2,1,1,https://www.vlr.gg/729676/joblife-vs-pcific-esports-vct-2026-emea-stage-2-lr1
+729677,2976,Play-Ins: Lower Round 1,2026-08-13T18:00:00Z,13.02,3,14419,GIANTX,GX,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/729677/giantx-vs-fnatic-vct-2026-emea-stage-2-lr1
+729742,2977,Play-Ins: Upper Round 1,2026-08-13T21:00:00Z,13.02,3,2355,KRÜ Esports,KRÜ,22142,BESTIA,BST,2,1,1,https://www.vlr.gg/729742/kr-esports-vs-bestia-vct-2026-americas-stage-2-ur1
+729743,2977,Play-Ins: Upper Round 1,2026-08-13T23:55:00Z,13.02,3,427,ENVY,ENVY,11001,M80,M80,2,0,1,https://www.vlr.gg/729743/envy-vs-m80-vct-2026-americas-stage-2-ur1
+724639,2978,Playoffs: Upper Quarterfinals,2026-08-14T08:00:00Z,,3,12064,Nova Esports,NOVA,13576,JD Gaming,JDG,0,2,2,https://www.vlr.gg/724639/nova-esports-vs-jd-gaming-vct-2026-china-stage-2-ubqf
+730537,2776,Play-Ins: Upper Round 1,2026-08-14T08:00:00Z,13.02,3,4050,FULL SENSE,FS,18299,QT DIG∞,QTD,2,1,1,https://www.vlr.gg/730537/full-sense-vs-qt-dig-vct-2026-pacific-stage-2-ur1
+724638,2978,Playoffs: Upper Quarterfinals,2026-08-14T10:30:00Z,,3,731,TYLOO,TYL,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,2,0,1,https://www.vlr.gg/724638/tyloo-vs-titan-esports-club-vct-2026-china-stage-2-ubqf
+730538,2776,Play-Ins: Upper Round 1,2026-08-14T10:45:00Z,13.02,3,6199,Team Secret,TS,17167,Xipto Esports,XIP,2,0,1,https://www.vlr.gg/730538/team-secret-vs-xipto-esports-vct-2026-pacific-stage-2-ur1
+729678,2976,Play-Ins: Lower Round 2,2026-08-14T15:00:00Z,13.02,3,14478,Eintracht Frankfurt,SGE,1001,Team Heretics,TH,2,0,1,https://www.vlr.gg/729678/eintracht-frankfurt-vs-team-heretics-vct-2026-emea-stage-2-lr2
+729680,2976,Play-Ins: Lower Round 2,2026-08-14T17:30:00Z,13.02,3,11232,Joblife,JL,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/729680/joblife-vs-fnatic-vct-2026-emea-stage-2-lr2
+729744,2977,Play-Ins: Upper Round 1,2026-08-14T21:00:00Z,13.02,3,2406,FURIA,FUR,15072,2Game Esports,2G,2,1,1,https://www.vlr.gg/729744/furia-vs-2game-esports-vct-2026-americas-stage-2-ur1
+729745,2977,Play-Ins: Upper Round 1,2026-08-15T00:20:00Z,13.02,3,188,Cloud9,C9,23141,Fluxo W7M,FX,2,1,1,https://www.vlr.gg/729745/cloud9-vs-fluxo-w7m-vct-2026-americas-stage-2-ur1
+724641,2978,Playoffs: Upper Quarterfinals,2026-08-15T08:00:00Z,,3,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,12685,Trace Esports,TE,2,1,1,https://www.vlr.gg/724641/bilibili-gaming-vs-trace-esports-vct-2026-china-stage-2-ubqf
+730539,2776,Play-Ins: Upper Quarterfinals,2026-08-15T08:00:00Z,13.02,3,5448,ZETA DIVISION,ZETA,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/730539/zeta-division-vs-kiwoom-drx-vct-2026-pacific-stage-2-ubqf
+730540,2776,Play-Ins: Upper Quarterfinals,2026-08-15T11:20:00Z,13.02,3,278,DetonatioN FocusMe,DFM,623,Sharper Esports,SP,1,2,2,https://www.vlr.gg/730540/detonation-focusme-vs-sharper-esports-vct-2026-pacific-stage-2-ubqf
+724640,2978,Playoffs: Upper Quarterfinals,2026-08-15T11:30:00Z,,3,13581,Xi Lai Gaming,XLG,1119,All Gamers,AG,2,1,1,https://www.vlr.gg/724640/xi-lai-gaming-vs-all-gamers-vct-2026-china-stage-2-ubqf
+729673,2976,Play-Ins: Upper Semifinals,2026-08-15T15:00:00Z,13.02,3,20085,Fire Flux Esports,FF,876,Enterprise Esports,EP,0,2,2,https://www.vlr.gg/729673/fire-flux-esports-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
+729672,2976,Play-Ins: Upper Semifinals,2026-08-15T17:30:00Z,13.02,3,1184,FUT Esports,FUT,6392,Eternal Fire,EF,2,0,1,https://www.vlr.gg/729672/fut-esports-vs-eternal-fire-vct-2026-emea-stage-2-ubsf
+729746,2977,Play-Ins: Upper Quarterfinals,2026-08-15T21:00:00Z,13.02,3,7386,MIBR,MIBR,2355,KRÜ Esports,KRÜ,2,0,1,https://www.vlr.gg/729746/mibr-vs-kr-esports-vct-2026-americas-stage-2-ubqf
+729747,2977,Play-Ins: Upper Quarterfinals,2026-08-15T23:05:00Z,13.02,3,2,Sentinels,SEN,427,ENVY,ENVY,0,2,2,https://www.vlr.gg/729747/sentinels-vs-envy-vct-2026-americas-stage-2-ubqf
+724646,2978,Playoffs: Lower Round 1,2026-08-16T08:00:00Z,,3,14137,Wuxi Titan Esports Club (Titan Esports Club),TEC,12064,Nova Esports,NOVA,0,2,2,https://www.vlr.gg/724646/titan-esports-club-vs-nova-esports-vct-2026-china-stage-2-lr1
+730541,2776,Play-Ins: Upper Quarterfinals,2026-08-16T08:00:00Z,13.02,3,14,T1,T1,4050,FULL SENSE,FS,2,0,1,https://www.vlr.gg/730541/t1-vs-full-sense-vct-2026-pacific-stage-2-ubqf
+730542,2776,Play-Ins: Upper Quarterfinals,2026-08-16T09:50:00Z,13.02,3,11060,Nongshim RedForce,NS,6199,Team Secret,TS,2,0,1,https://www.vlr.gg/730542/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-2-ubqf
+724647,2978,Playoffs: Lower Round 1,2026-08-16T10:35:00Z,,3,1119,All Gamers,AG,12685,Trace Esports,TE,2,1,1,https://www.vlr.gg/724647/all-gamers-vs-trace-esports-vct-2026-china-stage-2-lr1
+729681,2976,Play-Ins: Lower Round 3,2026-08-16T13:00:00Z,13.02,3,6392,Eternal Fire,EF,14478,Eintracht Frankfurt,SGE,0,2,2,https://www.vlr.gg/729681/eternal-fire-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr3
+729682,2976,Play-Ins: Lower Round 3,2026-08-16T15:10:00Z,13.02,3,20085,Fire Flux Esports,FF,11232,Joblife,JL,2,0,1,https://www.vlr.gg/729682/fire-flux-esports-vs-joblife-vct-2026-emea-stage-2-lr3
+729748,2977,Play-Ins: Upper Quarterfinals,2026-08-16T21:00:00Z,13.02,3,11058,G2 Esports,G2,2406,FURIA,FUR,1,2,2,https://www.vlr.gg/729748/g2-esports-vs-furia-vct-2026-americas-stage-2-ubqf
+729749,2977,Play-Ins: Upper Quarterfinals,2026-08-17T00:40:00Z,13.02,3,5248,Evil Geniuses,EG,188,Cloud9,C9,2,1,1,https://www.vlr.gg/729749/evil-geniuses-vs-cloud9-vct-2026-americas-stage-2-ubqf
+724642,2978,Playoffs: Upper Semifinals,2026-08-19T08:00:00Z,,3,731,TYLOO,TYL,13576,JD Gaming,JDG,1,2,2,https://www.vlr.gg/724642/tyloo-vs-jd-gaming-vct-2026-china-stage-2-ubsf
+730545,2776,Play-Ins: Lower Round 1,2026-08-19T08:00:00Z,13.02,3,6199,Team Secret,TS,19189,ONSIDE GAMING,ONG,0,2,2,https://www.vlr.gg/730545/team-secret-vs-onside-gaming-vct-2026-pacific-stage-2-lr1
+730546,2776,Play-Ins: Lower Round 1,2026-08-19T10:25:00Z,13.02,3,4050,FULL SENSE,FS,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/730546/full-sense-vs-rex-regum-qeon-vct-2026-pacific-stage-2-lr1
+724643,2978,Playoffs: Upper Semifinals,2026-08-19T11:45:00Z,,3,13581,Xi Lai Gaming,XLG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,1,2,2,https://www.vlr.gg/724643/xi-lai-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-ubsf
+729752,2977,Play-Ins: Lower Round 1,2026-08-19T21:00:00Z,13.02,3,188,Cloud9,C9,22142,BESTIA,BST,0,2,2,https://www.vlr.gg/729752/cloud9-vs-bestia-vct-2026-americas-stage-2-lr1
+729753,2977,Play-Ins: Lower Round 1,2026-08-19T23:20:00Z,13.02,3,11058,G2 Esports,G2,11001,M80,M80,2,0,1,https://www.vlr.gg/729753/g2-esports-vs-m80-vct-2026-americas-stage-2-lr1
+724649,2978,Playoffs: Lower Round 2,2026-08-20T08:00:00Z,,3,731,TYLOO,TYL,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/724649/tyloo-vs-all-gamers-vct-2026-china-stage-2-lr2
+730547,2776,Play-Ins: Lower Round 1,2026-08-20T08:00:00Z,13.02,3,278,DetonatioN FocusMe,DFM,18299,QT DIG∞,QTD,2,1,1,https://www.vlr.gg/730547/detonation-focusme-vs-qt-dig-vct-2026-pacific-stage-2-lr1
+724648,2978,Playoffs: Lower Round 2,2026-08-20T10:35:00Z,,3,13581,Xi Lai Gaming,XLG,12064,Nova Esports,NOVA,1,2,2,https://www.vlr.gg/724648/xi-lai-gaming-vs-nova-esports-vct-2026-china-stage-2-lr2
+730548,2776,Play-Ins: Lower Round 1,2026-08-20T11:00:00Z,13.02,3,5448,ZETA DIVISION,ZETA,17167,Xipto Esports,XIP,2,1,1,https://www.vlr.gg/730548/zeta-division-vs-xipto-esports-vct-2026-pacific-stage-2-lr1
+731397,2976,Playoffs: Upper Round 1,2026-08-20T15:00:00Z,13.04,3,2059,Team Vitality,VIT,876,Enterprise Esports,EP,1,2,2,https://www.vlr.gg/731397/team-vitality-vs-enterprise-esports-vct-2026-emea-stage-2-ur1
+731396,2976,Playoffs: Upper Round 1,2026-08-20T18:00:00Z,13.04,3,474,Team Liquid,TL,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/731396/team-liquid-vs-fut-esports-vct-2026-emea-stage-2-ur1
+729754,2977,Play-Ins: Lower Round 1,2026-08-20T21:00:00Z,13.02,3,2,Sentinels,SEN,15072,2Game Esports,2G,2,0,1,https://www.vlr.gg/729754/sentinels-vs-2game-esports-vct-2026-americas-stage-2-lr1
+729755,2977,Play-Ins: Lower Round 1,2026-08-20T23:30:00Z,13.02,3,2355,KRÜ Esports,KRÜ,23141,Fluxo W7M,FX,2,0,1,https://www.vlr.gg/729755/kr-esports-vs-fluxo-w7m-vct-2026-americas-stage-2-lr1
+724644,2978,Playoffs: Upper Final,2026-08-21T08:00:00Z,,3,13576,JD Gaming,JDG,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,2,0,1,https://www.vlr.gg/724644/jd-gaming-vs-bilibili-gaming-vct-2026-china-stage-2-ubf
+730543,2776,Play-Ins: Upper Semifinals,2026-08-21T08:00:00Z,13.02,3,8185,KIWOOM DRX,KRX,623,Sharper Esports,SP,2,1,1,https://www.vlr.gg/730543/kiwoom-drx-vs-sharper-esports-vct-2026-pacific-stage-2-ubsf
+724650,2978,Playoffs: Lower Round 3,2026-08-21T10:00:00Z,,3,12064,Nova Esports,NOVA,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/724650/nova-esports-vs-tyloo-vct-2026-china-stage-2-lr3
+730544,2776,Play-Ins: Upper Semifinals,2026-08-21T11:25:00Z,13.02,3,14,T1,T1,11060,Nongshim RedForce,NS,0,2,2,https://www.vlr.gg/730544/t1-vs-nongshim-redforce-vct-2026-pacific-stage-2-ubsf
+731399,2976,Playoffs: Upper Semifinals,2026-08-21T15:00:00Z,13.04,3,8877,Karmine Corp,KC,876,Enterprise Esports,EP,2,1,1,https://www.vlr.gg/731399/karmine-corp-vs-enterprise-esports-vct-2026-emea-stage-2-ubsf
+731398,2976,Playoffs: Upper Semifinals,2026-08-21T18:15:00Z,13.04,3,397,BBL Esports,BBL,1184,FUT Esports,FUT,1,2,2,https://www.vlr.gg/731398/bbl-esports-vs-fut-esports-vct-2026-emea-stage-2-ubsf
+729750,2977,Play-Ins: Upper Semifinals,2026-08-21T21:00:00Z,13.02,3,7386,MIBR,MIBR,427,ENVY,ENVY,2,1,1,https://www.vlr.gg/729750/mibr-vs-envy-vct-2026-americas-stage-2-ubsf
+729751,2977,Play-Ins: Upper Semifinals,2026-08-22T00:00:00Z,13.02,3,2406,FURIA,FUR,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/729751/furia-vs-evil-geniuses-vct-2026-americas-stage-2-ubsf
+724651,2978,Playoffs: Lower Final,2026-08-22T08:00:00Z,,5,12010,Guangzhou Huadu Bilibili Gaming (Bilibili Gaming),BLG,731,TYLOO,TYL,0,3,2,https://www.vlr.gg/724651/bilibili-gaming-vs-tyloo-vct-2026-china-stage-2-lbf
+730549,2776,Play-Ins: Lower Round 2,2026-08-22T08:00:00Z,13.02,3,19189,ONSIDE GAMING,ONG,4050,FULL SENSE,FS,2,0,1,https://www.vlr.gg/730549/onside-gaming-vs-full-sense-vct-2026-pacific-stage-2-lr2
+730550,2776,Play-Ins: Lower Round 2,2026-08-22T10:10:00Z,13.02,3,278,DetonatioN FocusMe,DFM,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/730550/detonation-focusme-vs-zeta-division-vct-2026-pacific-stage-2-lr2
+731402,2976,Playoffs: Lower Round 1,2026-08-22T14:00:00Z,13.04,3,474,Team Liquid,TL,14478,Eintracht Frankfurt,SGE,2,1,1,https://www.vlr.gg/731402/team-liquid-vs-eintracht-frankfurt-vct-2026-emea-stage-2-lr1
+731403,2976,Playoffs: Lower Round 1,2026-08-22T16:30:00Z,13.04,3,2059,Team Vitality,VIT,20085,Fire Flux Esports,FF,1,2,2,https://www.vlr.gg/731403/team-vitality-vs-fire-flux-esports-vct-2026-emea-stage-2-lr1
+729756,2977,Play-Ins: Lower Round 2,2026-08-22T21:00:00Z,13.02,3,22142,BESTIA,BST,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/729756/bestia-vs-g2-esports-vct-2026-americas-stage-2-lr2
+729757,2977,Play-Ins: Lower Round 2,2026-08-22T23:10:00Z,13.02,3,2,Sentinels,SEN,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/729757/sentinels-vs-kr-esports-vct-2026-americas-stage-2-lr2
+724645,2978,Playoffs: Grand Final,2026-08-23T08:00:00Z,,5,13576,JD Gaming,JDG,731,TYLOO,TYL,1,3,2,https://www.vlr.gg/724645/jd-gaming-vs-tyloo-vct-2026-china-stage-2-gf
+730551,2776,Play-Ins: Lower Round 3,2026-08-23T08:00:00Z,13.02,3,623,Sharper Esports,SP,19189,ONSIDE GAMING,ONG,1,2,2,https://www.vlr.gg/730551/sharper-esports-vs-onside-gaming-vct-2026-pacific-stage-2-lr3
+730552,2776,Play-Ins: Lower Round 3,2026-08-23T11:00:00Z,13.02,3,14,T1,T1,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/730552/t1-vs-detonation-focusme-vct-2026-pacific-stage-2-lr3
+731404,2976,Playoffs: Lower Round 2,2026-08-23T14:00:00Z,13.04,3,876,Enterprise Esports,EP,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/731404/enterprise-esports-vs-team-liquid-vct-2026-emea-stage-2-lr2
+731406,2976,Playoffs: Lower Round 2,2026-08-23T16:15:00Z,13.04,3,397,BBL Esports,BBL,20085,Fire Flux Esports,FF,0,2,2,https://www.vlr.gg/731406/bbl-esports-vs-fire-flux-esports-vct-2026-emea-stage-2-lr2
+729758,2977,Play-Ins: Lower Round 3,2026-08-23T21:00:00Z,13.02,3,427,ENVY,ENVY,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/729758/envy-vs-g2-esports-vct-2026-americas-stage-2-lr3
+729759,2977,Play-Ins: Lower Round 3,2026-08-24T00:20:00Z,13.02,3,5248,Evil Geniuses,EG,2355,KRÜ Esports,KRÜ,2,1,1,https://www.vlr.gg/729759/evil-geniuses-vs-kr-esports-vct-2026-americas-stage-2-lr3
+742476,2776,Playoffs: Upper Round 1,2026-08-26T08:00:00Z,13.04,3,624,Paper Rex,PRX,11060,Nongshim RedForce,NS,0,2,2,https://www.vlr.gg/742476/paper-rex-vs-nongshim-redforce-vct-2026-pacific-stage-2-ur1
+742477,2776,Playoffs: Upper Round 1,2026-08-26T10:15:00Z,13.04,3,918,Global Esports,GE,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/742477/global-esports-vs-kiwoom-drx-vct-2026-pacific-stage-2-ur1
+742478,2776,Playoffs: Upper Semifinals,2026-08-27T08:00:00Z,13.04,3,17,Gen.G,GEN,11060,Nongshim RedForce,NS,1,2,2,https://www.vlr.gg/742478/gen-g-vs-nongshim-redforce-vct-2026-pacific-stage-2-ubsf
+742479,2776,Playoffs: Upper Semifinals,2026-08-27T11:10:00Z,13.04,3,11229,VARREL,VL,918,Global Esports,GE,0,2,2,https://www.vlr.gg/742479/varrel-vs-global-esports-vct-2026-pacific-stage-2-ubsf
+734302,2977,Playoffs: Upper Round 1,2026-08-27T21:00:00Z,13.04,3,6961,LOUD,LOUD,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/734302/loud-vs-furia-vct-2026-americas-stage-2-ur1
+734303,2977,Playoffs: Upper Round 1,2026-08-27T23:10:00Z,13.04,3,2359,LEVIATÁN,LEV,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/734303/leviat-n-vs-mibr-vct-2026-americas-stage-2-ur1
+742482,2776,Playoffs: Lower Round 1,2026-08-28T08:00:00Z,13.04,3,624,Paper Rex,PRX,19189,ONSIDE GAMING,ONG,2,0,1,https://www.vlr.gg/742482/paper-rex-vs-onside-gaming-vct-2026-pacific-stage-2-lr1
+742483,2776,Playoffs: Lower Round 1,2026-08-28T10:05:00Z,13.04,3,8185,KIWOOM DRX,KRX,14,T1,T1,0,2,2,https://www.vlr.gg/742483/kiwoom-drx-vs-t1-vct-2026-pacific-stage-2-lr1
+731400,2976,Playoffs: Upper Final,2026-08-28T14:00:00Z,13.04,3,1184,FUT Esports,FUT,8877,Karmine Corp,KC,0,2,2,https://www.vlr.gg/731400/fut-esports-vs-karmine-corp-vct-2026-emea-stage-2-ubf
+731407,2976,Playoffs: Lower Round 3,2026-08-28T16:30:00Z,13.04,3,474,Team Liquid,TL,20085,Fire Flux Esports,FF,2,0,1,https://www.vlr.gg/731407/team-liquid-vs-fire-flux-esports-vct-2026-emea-stage-2-lr3
+734304,2977,Playoffs: Upper Semifinals,2026-08-28T21:00:00Z,13.04,3,1034,NRG,NRG,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/734304/nrg-vs-loud-vct-2026-americas-stage-2-ubsf
+734305,2977,Playoffs: Upper Semifinals,2026-08-29T00:20:00Z,13.04,3,120,100 Thieves,100T,2359,LEVIATÁN,LEV,2,0,1,https://www.vlr.gg/734305/100-thieves-vs-leviat-n-vct-2026-americas-stage-2-ubsf
+742484,2776,Playoffs: Lower Round 2,2026-08-29T08:00:00Z,13.04,3,11229,VARREL,VL,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/742484/varrel-vs-paper-rex-vct-2026-pacific-stage-2-lr2
+742485,2776,Playoffs: Lower Round 2,2026-08-29T11:00:00Z,13.04,3,17,Gen.G,GEN,14,T1,T1,0,2,2,https://www.vlr.gg/742485/gen-g-vs-t1-vct-2026-pacific-stage-2-lr2
+731408,2976,Playoffs: Lower Final,2026-08-29T15:00:00Z,13.04,5,1184,FUT Esports,FUT,474,Team Liquid,TL,0,3,2,https://www.vlr.gg/731408/fut-esports-vs-team-liquid-vct-2026-emea-stage-2-lbf
+734309,2977,Playoffs: Lower Round 1,2026-08-29T21:00:00Z,13.04,3,2406,FURIA,FUR,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/734309/furia-vs-g2-esports-vct-2026-americas-stage-2-lr1
+734310,2977,Playoffs: Lower Round 1,2026-08-30T00:00:00Z,13.04,3,7386,MIBR,MIBR,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/734310/mibr-vs-evil-geniuses-vct-2026-americas-stage-2-lr1
+731401,2976,Playoffs: Grand Final,2026-08-30T15:00:00Z,13.04,5,8877,Karmine Corp,KC,474,Team Liquid,TL,3,1,1,https://www.vlr.gg/731401/karmine-corp-vs-team-liquid-vct-2026-emea-stage-2-gf
+734311,2977,Playoffs: Lower Round 2,2026-08-30T21:00:00Z,13.04,3,2359,LEVIATÁN,LEV,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/734311/leviat-n-vs-g2-esports-vct-2026-americas-stage-2-lr2
+734312,2977,Playoffs: Lower Round 2,2026-08-31T00:10:00Z,13.04,3,6961,LOUD,LOUD,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/734312/loud-vs-mibr-vct-2026-americas-stage-2-lr2
+742480,2776,Playoffs: Upper Final,2026-09-04T08:00:00Z,13.04,3,11060,Nongshim RedForce,NS,918,Global Esports,GE,2,1,1,https://www.vlr.gg/742480/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-ubf
+742486,2776,Playoffs: Lower Round 3,2026-09-04T11:00:00Z,13.04,3,11229,VARREL,VL,14,T1,T1,0,2,2,https://www.vlr.gg/742486/varrel-vs-t1-vct-2026-pacific-stage-2-lr3
+734307,2977,Playoffs: Upper Final,2026-09-04T17:00:00Z,13.04,3,1034,NRG,NRG,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/734307/nrg-vs-100-thieves-vct-2026-americas-stage-2-ubf
+734313,2977,Playoffs: Lower Round 3,2026-09-04T19:05:00Z,13.04,3,11058,G2 Esports,G2,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/734313/g2-esports-vs-loud-vct-2026-americas-stage-2-lr3
+742487,2776,Playoffs: Lower Final,2026-09-05T08:00:00Z,13.04,5,918,Global Esports,GE,14,T1,T1,3,1,1,https://www.vlr.gg/742487/global-esports-vs-t1-vct-2026-pacific-stage-2-lbf
+734314,2977,Playoffs: Lower Final,2026-09-05T18:00:00Z,13.04,5,1034,NRG,NRG,6961,LOUD,LOUD,2,3,2,https://www.vlr.gg/734314/nrg-vs-loud-vct-2026-americas-stage-2-lbf
+742481,2776,Playoffs: Grand Final,2026-09-06T08:00:00Z,13.04,5,11060,Nongshim RedForce,NS,918,Global Esports,GE,2,3,2,https://www.vlr.gg/742481/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-2-gf
+734308,2977,Playoffs: Grand Final,2026-09-06T17:00:00Z,13.04,5,120,100 Thieves,100T,6961,LOUD,LOUD,3,2,1,https://www.vlr.gg/734308/100-thieves-vs-loud-vct-2026-americas-stage-2-gf
+753455,2766,Group Stage: Opening (C),2026-09-24T09:00:00Z,13.05,3,474,Team Liquid,TL,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/753455/team-liquid-vs-paper-rex-valorant-champions-2026-opening-c
+753454,2766,Group Stage: Opening (C),2026-09-24T12:25:00Z,13.05,3,731,TYLOO,TYL,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/753454/tyloo-vs-g2-esports-valorant-champions-2026-opening-c
+753460,2766,Group Stage: Opening (D),2026-09-25T09:00:00Z,13.05,3,11060,Nongshim RedForce,NS,1034,NRG,NRG,0,2,2,https://www.vlr.gg/753460/nongshim-redforce-vs-nrg-valorant-champions-2026-opening-d
+753459,2766,Group Stage: Opening (D),2026-09-25T11:25:00Z,13.05,3,8877,Karmine Corp,KC,13581,Xi Lai Gaming,XLG,2,0,1,https://www.vlr.gg/753459/karmine-corp-vs-xi-lai-gaming-valorant-champions-2026-opening-d
+753449,2766,Group Stage: Opening (B),2026-09-26T09:00:00Z,13.05,3,918,Global Esports,GE,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/753449/global-esports-vs-team-vitality-valorant-champions-2026-opening-b
+753450,2766,Group Stage: Opening (B),2026-09-26T12:30:00Z,13.05,3,6961,LOUD,LOUD,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/753450/loud-vs-edward-gaming-valorant-champions-2026-opening-b
+753444,2766,Group Stage: Opening (A),2026-09-27T09:00:00Z,13.05,3,120,100 Thieves,100T,14,T1,T1,2,0,1,https://www.vlr.gg/753444/100-thieves-vs-t1-valorant-champions-2026-opening-a
+753445,2766,Group Stage: Opening (A),2026-09-27T11:35:00Z,13.05,3,13576,JD Gaming,JDG,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/753445/jd-gaming-vs-fut-esports-valorant-champions-2026-opening-a
+753456,2766,Group Stage: Winner's (C),2026-09-29T09:00:00Z,13.05,3,11058,G2 Esports,G2,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/753456/g2-esports-vs-paper-rex-valorant-champions-2026-winners-c
+753461,2766,Group Stage: Winner's (D),2026-09-29T12:30:00Z,13.05,3,8877,Karmine Corp,KC,1034,NRG,NRG,1,2,2,https://www.vlr.gg/753461/karmine-corp-vs-nrg-valorant-champions-2026-winners-d
+753451,2766,Group Stage: Winner's (B),2026-09-30T09:00:00Z,13.05,3,2059,Team Vitality,VIT,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/753451/team-vitality-vs-loud-valorant-champions-2026-winners-b
+753446,2766,Group Stage: Winner's (A),2026-09-30T11:55:00Z,13.05,3,120,100 Thieves,100T,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/753446/100-thieves-vs-fut-esports-valorant-champions-2026-winners-a
+753457,2766,Group Stage: Elimination (C),2026-10-01T09:00:00Z,13.05,3,731,TYLOO,TYL,474,Team Liquid,TL,1,2,2,https://www.vlr.gg/753457/tyloo-vs-team-liquid-valorant-champions-2026-elim-c
+753462,2766,Group Stage: Elimination (D),2026-10-01T12:05:00Z,13.05,3,13581,Xi Lai Gaming,XLG,11060,Nongshim RedForce,NS,0,2,2,https://www.vlr.gg/753462/xi-lai-gaming-vs-nongshim-redforce-valorant-champions-2026-elim-d
+753452,2766,Group Stage: Elimination (B),2026-10-02T09:00:00Z,13.05,3,918,Global Esports,GE,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b
+753447,2766,Group Stage: Elimination (A),2026-10-02T11:00:00Z,13.05,3,14,T1,T1,13576,JD Gaming,JDG,2,1,1,https://www.vlr.gg/753447/t1-vs-jd-gaming-valorant-champions-2026-elim-a
+753458,2766,Group Stage: Decider (C),2026-10-03T09:00:00Z,13.05,3,11058,G2 Esports,G2,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/753458/g2-esports-vs-team-liquid-valorant-champions-2026-decider-c
+753463,2766,Group Stage: Decider (D),2026-10-03T11:30:00Z,13.05,3,8877,Karmine Corp,KC,11060,Nongshim RedForce,NS,1,2,2,https://www.vlr.gg/753463/karmine-corp-vs-nongshim-redforce-valorant-champions-2026-decider-d
+753453,2766,Group Stage: Decider (B),2026-10-04T09:00:00Z,13.05,3,6961,LOUD,LOUD,918,Global Esports,GE,2,0,1,https://www.vlr.gg/753453/loud-vs-global-esports-valorant-champions-2026-decider-b
+753448,2766,Group Stage: Decider (A),2026-10-04T11:25:00Z,13.05,3,1184,FUT Esports,FUT,14,T1,T1,0,2,2,https://www.vlr.gg/753448/fut-esports-vs-t1-valorant-champions-2026-decider-a
+754732,2766,Playoffs: Upper Quarterfinals,2026-10-07T09:00:00Z,13.05,3,1034,NRG,NRG,14,T1,T1,2,0,1,https://www.vlr.gg/754732/nrg-vs-t1-valorant-champions-2026-ubqf
+754733,2766,Playoffs: Upper Quarterfinals,2026-10-07T11:30:00Z,13.05,3,624,Paper Rex,PRX,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/754733/paper-rex-vs-loud-valorant-champions-2026-ubqf
+754730,2766,Playoffs: Upper Quarterfinals,2026-10-08T09:00:00Z,13.05,3,120,100 Thieves,100T,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/754730/100-thieves-vs-g2-esports-valorant-champions-2026-ubqf
+754731,2766,Playoffs: Upper Quarterfinals,2026-10-08T11:20:00Z,13.05,3,2059,Team Vitality,VIT,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/754731/team-vitality-vs-nongshim-redforce-valorant-champions-2026-ubqf
+754739,2766,Playoffs: Lower Round 1,2026-10-09T09:00:00Z,13.05,3,14,T1,T1,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/754739/t1-vs-paper-rex-valorant-champions-2026-lr1
+754738,2766,Playoffs: Lower Round 1,2026-10-09T12:10:00Z,13.05,3,120,100 Thieves,100T,11060,Nongshim RedForce,NS,2,1,1,https://www.vlr.gg/754738/100-thieves-vs-nongshim-redforce-valorant-champions-2026-lr1
+754735,2766,Playoffs: Upper Semifinals,2026-10-10T09:00:00Z,13.05,3,1034,NRG,NRG,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/754735/nrg-vs-loud-valorant-champions-2026-ubsf
+754734,2766,Playoffs: Upper Semifinals,2026-10-10T12:00:00Z,13.05,3,11058,G2 Esports,G2,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/754734/g2-esports-vs-team-vitality-valorant-champions-2026-ubsf
+754740,2766,Playoffs: Lower Round 2,2026-10-11T09:00:00Z,13.05,3,1034,NRG,NRG,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/754740/nrg-vs-100-thieves-valorant-champions-2026-lr2
+754741,2766,Playoffs: Lower Round 2,2026-10-11T11:15:00Z,13.05,3,11058,G2 Esports,G2,14,T1,T1,2,1,1,https://www.vlr.gg/754741/g2-esports-vs-t1-valorant-champions-2026-lr2
+754736,2766,Playoffs: Upper Final,2026-10-16T06:00:00Z,13.05,3,2059,Team Vitality,VIT,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/754736/team-vitality-vs-loud-valorant-champions-2026-ubf
+754742,2766,Playoffs: Lower Round 3,2026-10-16T10:10:00Z,13.05,3,120,100 Thieves,100T,11058,G2 Esports,G2,2,1,1,https://www.vlr.gg/754742/100-thieves-vs-g2-esports-valorant-champions-2026-lr3
+754743,2766,Playoffs: Lower Final,2026-10-17T07:00:00Z,13.05,5,2059,Team Vitality,VIT,120,100 Thieves,100T,3,1,1,https://www.vlr.gg/754743/team-vitality-vs-100-thieves-valorant-champions-2026-lbf
+754737,2766,Playoffs: Grand Final,2026-10-18T06:00:00Z,13.05,5,6961,LOUD,LOUD,2059,Team Vitality,VIT,3,1,1,https://www.vlr.gg/754737/loud-vs-team-vitality-valorant-champions-2026-gf

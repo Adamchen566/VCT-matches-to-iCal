@@ -1,0 +1,437 @@
+match_id,event_id,series,start_utc,patch,best_of,team1_id,team1,team1_tag,team2_id,team2,team2_tag,score1,score2,winner,url
+295605,1923,Group Stage: Opening (A),2024-02-16T22:00:00Z,8.02,3,1034,NRG,NRG,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/295605/nrg-esports-vs-furia-champions-tour-2024-americas-kickoff-opening-a
+295606,1923,Group Stage: Opening (A),2024-02-17T01:00:00Z,8.02,3,188,Cloud9,C9,7386,MIBR,MIBR,2,1,1,https://www.vlr.gg/295606/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-opening-a
+296735,1924,Group Stage: Opening (A),2024-02-17T06:00:00Z,8.02,3,14,T1,T1,6387,BLEED,BLD,2,0,1,https://www.vlr.gg/296735/t1-vs-bleed-champions-tour-2024-pacific-kickoff-opening-a
+296745,1924,Group Stage: Opening (C),2024-02-17T13:45:00Z,8.02,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/296745/gen-g-vs-rex-regum-qeon-champions-tour-2024-pacific-kickoff-opening-c
+295610,1923,Group Stage: Opening (B),2024-02-17T22:00:00Z,8.02,3,6961,LOUD,LOUD,2,Sentinels,SEN,2,0,1,https://www.vlr.gg/295610/loud-vs-sentinels-champions-tour-2024-americas-kickoff-opening-b
+295611,1923,Group Stage: Opening (B),2024-02-18T00:35:00Z,8.02,3,2359,LEVIATÁN,LEV,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/295611/leviat-n-vs-100-thieves-champions-tour-2024-americas-kickoff-opening-b
+296730,1924,Group Stage: Opening (A),2024-02-18T06:00:00Z,8.02,3,5448,ZETA DIVISION,ZETA,918,Global Esports,GE,2,0,1,https://www.vlr.gg/296730/zeta-division-vs-global-esports-champions-tour-2024-pacific-kickoff-opening-a
+296731,1924,Group Stage: Opening (B),2024-02-18T08:30:00Z,8.02,3,6199,Team Secret,TS,8304,TALON,TLN,0,2,2,https://www.vlr.gg/296731/team-secret-vs-talon-esports-champions-tour-2024-pacific-kickoff-opening-b
+296736,1924,Group Stage: Opening (B),2024-02-18T10:30:00Z,8.02,3,8185,KIWOOM DRX,KRX,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/296736/drx-vs-detonation-focusme-champions-tour-2024-pacific-kickoff-opening-b
+295615,1923,Group Stage: Opening (C),2024-02-18T22:00:00Z,8.02,3,2355,KRÜ Esports,KRÜ,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/295615/kr-esports-vs-g2-esports-champions-tour-2024-americas-kickoff-opening-c
+296747,1924,Group Stage: Winner's (C),2024-02-19T06:00:00Z,8.02,3,17,Gen.G,GEN,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/296747/gen-g-vs-paper-rex-champions-tour-2024-pacific-kickoff-winners-c
+296738,1924,Group Stage: Elimination (A),2024-02-19T09:15:00Z,8.02,3,6387,BLEED,BLD,918,Global Esports,GE,1,2,2,https://www.vlr.gg/296738/bleed-vs-global-esports-champions-tour-2024-pacific-kickoff-elim-a
+296737,1924,Group Stage: Winner's (A),2024-02-19T13:00:00Z,8.02,3,14,T1,T1,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/296737/t1-vs-zeta-division-champions-tour-2024-pacific-kickoff-winners-a
+295608,1923,Group Stage: Elimination (A),2024-02-19T22:00:00Z,8.02,3,2406,FURIA,FUR,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/295608/furia-vs-mibr-champions-tour-2024-americas-kickoff-elim-a
+295613,1923,Group Stage: Elimination (B),2024-02-20T00:45:00Z,8.02,3,2,Sentinels,SEN,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/295613/sentinels-vs-100-thieves-champions-tour-2024-americas-kickoff-elim-b
+296733,1924,Group Stage: Elimination (B),2024-02-20T08:00:00Z,8.02,3,278,DetonatioN FocusMe,DFM,6199,Team Secret,TS,0,2,2,https://www.vlr.gg/296733/detonation-focusme-vs-team-secret-champions-tour-2024-pacific-kickoff-elim-b
+296732,1924,Group Stage: Winner's (B),2024-02-20T10:20:00Z,8.02,3,8185,KIWOOM DRX,KRX,8304,TALON,TLN,2,0,1,https://www.vlr.gg/296732/drx-vs-talon-esports-champions-tour-2024-pacific-kickoff-winners-b
+297401,1925,Group Stage: Opening (A),2024-02-20T16:00:00Z,8.02,3,1184,FUT Esports,FUT,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/297401/fut-esports-vs-team-heretics-champions-tour-2024-emea-kickoff-opening-a
+297402,1925,Group Stage: Opening (A),2024-02-20T18:35:00Z,8.02,3,14419,GIANTX,GX,8877,Karmine Corp,KC,1,2,2,https://www.vlr.gg/297402/giantx-vs-karmine-corp-champions-tour-2024-emea-kickoff-opening-a
+296749,1924,Group Stage: Decider (C),2024-02-21T06:00:00Z,8.02,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/296749/gen-g-vs-rex-regum-qeon-champions-tour-2024-pacific-kickoff-decider-c
+296734,1924,Group Stage: Decider (B),2024-02-21T09:30:00Z,8.02,3,8304,TALON,TLN,6199,Team Secret,TS,0,2,2,https://www.vlr.gg/296734/talon-esports-vs-team-secret-champions-tour-2024-pacific-kickoff-decider-b
+296739,1924,Group Stage: Decider (A),2024-02-21T12:15:00Z,8.02,3,5448,ZETA DIVISION,ZETA,918,Global Esports,GE,2,0,1,https://www.vlr.gg/296739/zeta-division-vs-global-esports-champions-tour-2024-pacific-kickoff-decider-a
+297406,1925,Group Stage: Opening (B),2024-02-21T13:00:00Z,8.02,3,4915,Natus Vincere,NAVI,397,BBL Esports,BBL,2,1,1,https://www.vlr.gg/297406/natus-vincere-vs-bbl-esports-champions-tour-2024-emea-kickoff-opening-b
+297407,1925,Group Stage: Opening (B),2024-02-21T16:00:00Z,8.02,3,474,Team Liquid,TL,7035,Movistar KOI (KOI),MKOI,2,0,1,https://www.vlr.gg/297407/team-liquid-vs-koi-champions-tour-2024-emea-kickoff-opening-b
+297412,1925,Group Stage: Opening (C),2024-02-21T18:45:00Z,8.02,3,2059,Team Vitality,VIT,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/297412/team-vitality-vs-gentle-mates-champions-tour-2024-emea-kickoff-opening-c
+297254,1924,Play-Ins: Play-ins,2024-02-22T06:00:00Z,8.02,3,6199,Team Secret,TS,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/297254/team-secret-vs-gen-g-champions-tour-2024-pacific-kickoff-play-ins
+298687,1926,Group Stage: Opening (A),2024-02-22T09:00:00Z,,3,12685,Trace Esports,TE,731,TYLOO,TYL,2,0,1,https://www.vlr.gg/298687/trace-esports-vs-tyloo-champions-tour-2024-china-kickoff-opening-a
+297253,1924,Play-Ins: Play-ins,2024-02-22T09:20:00Z,8.02,3,5448,ZETA DIVISION,ZETA,6199,Team Secret,TS,0,2,2,https://www.vlr.gg/297253/zeta-division-vs-team-secret-champions-tour-2024-pacific-kickoff-play-ins
+298688,1926,Group Stage: Opening (A),2024-02-22T11:05:00Z,,3,11328,FunPlus Phoenix,FPX,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/298688/funplus-phoenix-vs-nova-esports-champions-tour-2024-china-kickoff-opening-a
+297255,1924,Play-Ins: Play-ins,2024-02-22T11:30:00Z,8.02,3,17,Gen.G,GEN,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/297255/gen-g-vs-zeta-division-champions-tour-2024-pacific-kickoff-play-ins
+297403,1925,Group Stage: Winner's (A),2024-02-22T16:00:00Z,8.02,3,1001,Team Heretics,TH,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/297403/team-heretics-vs-karmine-corp-champions-tour-2024-emea-kickoff-winners-a
+297404,1925,Group Stage: Elimination (A),2024-02-22T18:10:00Z,8.02,3,1184,FUT Esports,FUT,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/297404/fut-esports-vs-giantx-champions-tour-2024-emea-kickoff-elim-a
+298692,1926,Group Stage: Opening (B),2024-02-23T07:00:00Z,,3,13576,JD Gaming,JDG,14137,Titan Esports Club,TEC,0,2,2,https://www.vlr.gg/298692/jd-gaming-vs-titan-esports-club-champions-tour-2024-china-kickoff-opening-b
+298693,1926,Group Stage: Opening (B),2024-02-23T09:55:00Z,,3,11981,Dragon Ranger Gaming,DRG,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/298693/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-opening-b
+298697,1926,Group Stage: Opening (C),2024-02-23T12:05:00Z,,3,12010,Bilibili Gaming,BLG,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/298697/bilibili-gaming-vs-wolves-esports-champions-tour-2024-china-kickoff-opening-c
+297408,1925,Group Stage: Winner's (B),2024-02-23T13:00:00Z,8.02,3,4915,Natus Vincere,NAVI,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/297408/natus-vincere-vs-team-liquid-champions-tour-2024-emea-kickoff-winners-b
+297409,1925,Group Stage: Elimination (B),2024-02-23T15:10:00Z,8.02,3,397,BBL Esports,BBL,7035,Movistar KOI (KOI),MKOI,0,2,2,https://www.vlr.gg/297409/bbl-esports-vs-koi-champions-tour-2024-emea-kickoff-elim-b
+297414,1925,Group Stage: Winner's (C),2024-02-23T17:20:00Z,8.02,3,2059,Team Vitality,VIT,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/297414/team-vitality-vs-fnatic-champions-tour-2024-emea-kickoff-winners-c
+295607,1923,Group Stage: Winner's (A),2024-02-23T22:00:00Z,8.03,3,1034,NRG,NRG,188,Cloud9,C9,2,0,1,https://www.vlr.gg/295607/nrg-esports-vs-cloud9-champions-tour-2024-americas-kickoff-winners-a
+295612,1923,Group Stage: Winner's (B),2024-02-24T00:25:00Z,8.03,3,6961,LOUD,LOUD,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/295612/loud-vs-leviat-n-champions-tour-2024-americas-kickoff-winners-b
+297256,1924,Playoffs: Semifinals,2024-02-24T08:00:00Z,8.03,3,14,T1,T1,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/297256/t1-vs-paper-rex-champions-tour-2024-pacific-kickoff-playoffs-sf
+298690,1926,Group Stage: Elimination (A),2024-02-24T09:00:00Z,,3,731,TYLOO,TYL,12064,Nova Esports,NOVA,0,2,2,https://www.vlr.gg/298690/tyloo-vs-nova-esports-champions-tour-2024-china-kickoff-elim-a
+297257,1924,Playoffs: Semifinals,2024-02-24T10:25:00Z,8.03,3,8185,KIWOOM DRX,KRX,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/297257/drx-vs-gen-g-champions-tour-2024-pacific-kickoff-playoffs-sf
+298695,1926,Group Stage: Elimination (B),2024-02-24T11:25:00Z,,3,13576,JD Gaming,JDG,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/298695/jd-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-elim-b
+295617,1923,Group Stage: Winner's (C),2024-02-24T22:00:00Z,8.03,3,11058,G2 Esports,G2,5248,Evil Geniuses,EG,0,2,2,https://www.vlr.gg/295617/g2-esports-vs-evil-geniuses-champions-tour-2024-americas-kickoff-winners-c
+298689,1926,Group Stage: Winner's (A),2024-02-25T07:00:00Z,,3,12685,Trace Esports,TE,11328,FunPlus Phoenix,FPX,1,2,2,https://www.vlr.gg/298689/trace-esports-vs-funplus-phoenix-champions-tour-2024-china-kickoff-winners-a
+297258,1924,Playoffs: Grand Final,2024-02-25T08:00:00Z,8.03,5,624,Paper Rex,PRX,17,Gen.G,GEN,1,3,2,https://www.vlr.gg/297258/paper-rex-vs-gen-g-champions-tour-2024-pacific-kickoff-playoffs-gf
+298694,1926,Group Stage: Winner's (B),2024-02-25T10:30:00Z,,3,14137,Titan Esports Club,TEC,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/298694/titan-esports-club-vs-dragon-ranger-gaming-champions-tour-2024-china-kickoff-winners-b
+297416,1925,Group Stage: Decider (C),2024-02-25T13:05:00Z,8.03,3,2059,Team Vitality,VIT,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/297416/team-vitality-vs-gentle-mates-champions-tour-2024-emea-kickoff-decider-c
+298698,1926,Group Stage: Winner's (C),2024-02-25T14:00:00Z,,3,13790,Wolves Esports,WOL,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/298698/wolves-esports-vs-edward-gaming-champions-tour-2024-china-kickoff-winners-c
+297405,1925,Group Stage: Decider (A),2024-02-25T16:15:00Z,8.03,3,8877,Karmine Corp,KC,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/297405/karmine-corp-vs-fut-esports-champions-tour-2024-emea-kickoff-decider-a
+297410,1925,Group Stage: Decider (B),2024-02-25T19:45:00Z,8.03,3,474,Team Liquid,TL,7035,Movistar KOI (KOI),MKOI,1,2,2,https://www.vlr.gg/297410/team-liquid-vs-koi-champions-tour-2024-emea-kickoff-decider-b
+295609,1923,Group Stage: Decider (A),2024-02-25T20:00:00Z,8.03,3,188,Cloud9,C9,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/295609/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-decider-a
+295614,1923,Group Stage: Decider (B),2024-02-25T22:40:00Z,8.03,3,2359,LEVIATÁN,LEV,2,Sentinels,SEN,1,2,2,https://www.vlr.gg/295614/leviat-n-vs-sentinels-champions-tour-2024-americas-kickoff-decider-b
+295619,1923,Group Stage: Decider (C),2024-02-26T01:55:00Z,8.03,3,11058,G2 Esports,G2,2355,KRÜ Esports,KRÜ,2,0,1,https://www.vlr.gg/295619/g2-esports-vs-kr-esports-champions-tour-2024-americas-kickoff-decider-c
+298691,1926,Group Stage: Decider (A),2024-02-26T07:00:00Z,,3,12685,Trace Esports,TE,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/298691/trace-esports-vs-nova-esports-champions-tour-2024-china-kickoff-decider-a
+298696,1926,Group Stage: Decider (B),2024-02-26T09:05:00Z,,3,14137,Titan Esports Club,TEC,13576,JD Gaming,JDG,2,1,1,https://www.vlr.gg/298696/titan-esports-club-vs-jd-gaming-champions-tour-2024-china-kickoff-decider-b
+298699,1926,Group Stage: Decider (C),2024-02-26T12:40:00Z,,3,13790,Wolves Esports,WOL,12010,Bilibili Gaming,BLG,0,2,2,https://www.vlr.gg/298699/wolves-esports-vs-bilibili-gaming-champions-tour-2024-china-kickoff-decider-c
+307567,1925,Play-In Stage: Play-ins,2024-02-26T13:00:00Z,8.03,3,8877,Karmine Corp,KC,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/307567/karmine-corp-vs-team-vitality-champions-tour-2024-emea-kickoff-play-in-stage-play-ins
+307565,1925,Play-In Stage: Play-ins,2024-02-26T15:45:00Z,8.03,3,7035,KOI,MKOI,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/307565/koi-vs-team-vitality-champions-tour-2024-emea-kickoff-play-in-stage-play-ins
+307564,1925,Play-In Stage: Play-ins,2024-02-26T17:45:00Z,8.03,3,8877,Karmine Corp,KC,7035,KOI,MKOI,2,0,1,https://www.vlr.gg/307564/karmine-corp-vs-koi-champions-tour-2024-emea-kickoff-play-in-stage-play-ins
+307572,1923,Play-Ins: Play-ins,2024-02-26T20:00:00Z,8.03,3,7386,MIBR,MIBR,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/307572/mibr-vs-sentinels-champions-tour-2024-americas-kickoff-play-ins
+307573,1923,Play-Ins: Play-ins,2024-02-26T22:10:00Z,8.03,3,11058,G2 Esports,G2,7386,MIBR,MIBR,1,2,2,https://www.vlr.gg/307573/g2-esports-vs-mibr-champions-tour-2024-americas-kickoff-play-ins
+307574,1923,Play-Ins: Play-ins,2024-02-27T01:55:00Z,8.03,3,2,Sentinels,SEN,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/307574/sentinels-vs-g2-esports-champions-tour-2024-americas-kickoff-play-ins
+298830,1926,Play-Ins: Round-Robin,2024-02-27T07:00:00Z,,3,12685,Trace Esports,TE,14137,Titan Esports Club,TEC,2,1,1,https://www.vlr.gg/298830/trace-esports-vs-titan-esports-club-champions-tour-2024-china-kickoff-round-robin
+298831,1926,Play-Ins: Round-Robin,2024-02-27T10:35:00Z,,3,12010,Bilibili Gaming,BLG,14137,Titan Esports Club,TEC,2,0,1,https://www.vlr.gg/298831/bilibili-gaming-vs-titan-esports-club-champions-tour-2024-china-kickoff-round-robin
+298832,1926,Play-Ins: Round-Robin,2024-02-27T12:35:00Z,,3,12010,Bilibili Gaming,BLG,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/298832/bilibili-gaming-vs-trace-esports-champions-tour-2024-china-kickoff-round-robin
+303093,1925,Playoffs: Semifinals,2024-02-29T16:00:00Z,8.03,3,1001,Team Heretics,TH,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/303093/team-heretics-vs-natus-vincere-champions-tour-2024-emea-kickoff-playoffs-sf
+303094,1925,Playoffs: Semifinals,2024-02-29T18:20:00Z,8.03,3,2593,FNATIC,FNC,8877,Karmine Corp,KC,0,2,2,https://www.vlr.gg/303094/fnatic-vs-karmine-corp-champions-tour-2024-emea-kickoff-playoffs-sf
+298833,1926,Playoffs: Semifinals,2024-03-01T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/298833/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2024-china-kickoff-sf
+298834,1926,Playoffs: Semifinals,2024-03-01T11:15:00Z,,3,1120,EDward Gaming,EDG,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/298834/edward-gaming-vs-trace-esports-champions-tour-2024-china-kickoff-sf
+303095,1925,Playoffs: Grand Final,2024-03-01T16:00:00Z,8.03,5,1001,Team Heretics,TH,8877,Karmine Corp,KC,1,3,2,https://www.vlr.gg/303095/team-heretics-vs-karmine-corp-champions-tour-2024-emea-kickoff-playoffs-gf
+298835,1926,Playoffs: Grand Final,2024-03-02T09:00:00Z,,5,11328,FunPlus Phoenix,FPX,1120,EDward Gaming,EDG,1,3,2,https://www.vlr.gg/298835/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-kickoff-gf
+303087,1923,Playoffs: Semifinals,2024-03-02T22:00:00Z,8.03,3,5248,Evil Geniuses,EG,6961,LOUD,LOUD,1,2,2,https://www.vlr.gg/303087/evil-geniuses-vs-loud-champions-tour-2024-americas-kickoff-sf
+303088,1923,Playoffs: Semifinals,2024-03-03T01:00:00Z,8.03,3,1034,NRG,NRG,2,Sentinels,SEN,1,2,2,https://www.vlr.gg/303088/nrg-esports-vs-sentinels-champions-tour-2024-americas-kickoff-sf
+303086,1923,Playoffs: Grand Final,2024-03-03T22:00:00Z,8.03,5,6961,LOUD,LOUD,2,Sentinels,SEN,2,3,2,https://www.vlr.gg/303086/loud-vs-sentinels-champions-tour-2024-americas-kickoff-gf
+312765,1921,Swiss Stage: Round 1,2024-03-14T15:00:00Z,8.04,3,8877,Karmine Corp,KC,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/312765/karmine-corp-vs-funplus-phoenix-champions-tour-2024-masters-madrid-swiss-stage-r1
+312766,1921,Swiss Stage: Round 1,2024-03-14T17:25:00Z,8.04,3,17,Gen.G,GEN,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/312766/gen-g-vs-loud-champions-tour-2024-masters-madrid-swiss-stage-r1
+312767,1921,Swiss Stage: Round 1,2024-03-15T15:00:00Z,8.04,3,1120,EDward Gaming,EDG,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/312767/edward-gaming-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r1
+312768,1921,Swiss Stage: Round 1,2024-03-15T18:15:00Z,8.04,3,2,Sentinels,SEN,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/312768/sentinels-vs-team-heretics-champions-tour-2024-masters-madrid-swiss-stage-r1
+312798,1921,Swiss Stage: Round 2,2024-03-16T15:00:00Z,8.04,3,2,Sentinels,SEN,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/312798/sentinels-vs-karmine-corp-champions-tour-2024-masters-madrid-swiss-stage-r2
+312797,1921,Swiss Stage: Round 2,2024-03-16T17:25:00Z,8.04,3,1120,EDward Gaming,EDG,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/312797/edward-gaming-vs-gen-g-champions-tour-2024-masters-madrid-swiss-stage-r2
+312800,1921,Swiss Stage: Round 2,2024-03-17T15:00:00Z,8.04,3,11328,FunPlus Phoenix,FPX,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/312800/funplus-phoenix-vs-loud-champions-tour-2024-masters-madrid-swiss-stage-r2
+312799,1921,Swiss Stage: Round 2,2024-03-17T17:20:00Z,8.04,3,1001,Team Heretics,TH,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/312799/team-heretics-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r2
+312803,1921,Swiss Stage: Round 3,2024-03-18T15:00:00Z,8.04,3,6961,LOUD,LOUD,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/312803/loud-vs-edward-gaming-champions-tour-2024-masters-madrid-swiss-stage-r3
+312802,1921,Swiss Stage: Round 3,2024-03-18T16:55:00Z,8.04,3,8877,Karmine Corp,KC,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/312802/karmine-corp-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r3
+312777,1921,Playoffs: Upper Semifinals,2024-03-21T15:00:00Z,8.04,3,17,Gen.G,GEN,624,Paper Rex,PRX,2,0,1,https://www.vlr.gg/312777/gen-g-vs-paper-rex-champions-tour-2024-masters-madrid-ubsf
+312776,1921,Playoffs: Upper Semifinals,2024-03-21T17:10:00Z,8.04,3,2,Sentinels,SEN,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/312776/sentinels-vs-loud-champions-tour-2024-masters-madrid-ubsf
+312778,1921,Playoffs: Upper Final,2024-03-22T15:00:00Z,8.04,3,17,Gen.G,GEN,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/312778/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-ubf
+312780,1921,Playoffs: Lower Round 1,2024-03-22T17:55:00Z,8.04,3,624,Paper Rex,PRX,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/312780/paper-rex-vs-loud-champions-tour-2024-masters-madrid-lr1
+312781,1921,Playoffs: Lower Final,2024-03-23T15:00:00Z,8.04,5,2,Sentinels,SEN,624,Paper Rex,PRX,3,1,1,https://www.vlr.gg/312781/sentinels-vs-paper-rex-champions-tour-2024-masters-madrid-lbf
+321373,1921,Showmatch: Showmatch,2024-03-24T15:00:00Z,,1,15315,Team International,INTL,15316,Team Spain,Spai,0,1,2,https://www.vlr.gg/321373/team-international-vs-team-spain-champions-tour-2024-masters-madrid-match
+312779,1921,Playoffs: Grand Final,2024-03-24T16:15:00Z,8.04,5,17,Gen.G,GEN,2,Sentinels,SEN,2,3,2,https://www.vlr.gg/312779/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-gf
+318911,1998,Regular Season: Week 1,2024-04-03T15:00:00Z,8.05,3,8877,Karmine Corp,KC,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/318911/karmine-corp-vs-giantx-champions-tour-2024-emea-stage-1-w1
+318913,1998,Regular Season: Week 1,2024-04-03T17:05:00Z,8.05,3,7035,Movistar KOI (KOI),MKOI,474,Team Liquid,TL,0,2,2,https://www.vlr.gg/318913/koi-vs-team-liquid-champions-tour-2024-emea-stage-1-w1
+318914,1998,Regular Season: Week 1,2024-04-04T15:00:00Z,8.05,3,2059,Team Vitality,VIT,4915,Natus Vincere,NAVI,0,2,2,https://www.vlr.gg/318914/team-vitality-vs-natus-vincere-champions-tour-2024-emea-stage-1-w1
+318915,1998,Regular Season: Week 1,2024-04-04T17:10:00Z,8.05,3,2593,FNATIC,FNC,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/318915/fnatic-vs-team-heretics-champions-tour-2024-emea-stage-1-w1
+319765,2006,Regular Season: Week 1,2024-04-05T09:00:00Z,,3,12010,Bilibili Gaming,BLG,731,TYLOO,TYL,2,1,1,https://www.vlr.gg/319765/bilibili-gaming-vs-tyloo-champions-tour-2024-china-stage-1-w1
+319766,2006,Regular Season: Week 1,2024-04-05T12:10:00Z,,3,13790,Wolves Esports,WOL,14137,Titan Esports Club,TEC,1,2,2,https://www.vlr.gg/319766/wolves-esports-vs-titan-esports-club-champions-tour-2024-china-stage-1-w1
+318916,1998,Regular Season: Week 1,2024-04-05T15:00:00Z,8.05,3,474,Team Liquid,TL,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/318916/team-liquid-vs-fut-esports-champions-tour-2024-emea-stage-1-w1
+318917,1998,Regular Season: Week 1,2024-04-05T17:00:00Z,8.05,3,397,BBL Esports,BBL,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/318917/bbl-esports-vs-gentle-mates-champions-tour-2024-emea-stage-1-w1
+314301,2002,Regular Season: Week 1,2024-04-06T08:00:00Z,8.05,3,918,Global Esports,GE,5448,ZETA DIVISION,ZETA,1,2,2,https://www.vlr.gg/314301/global-esports-vs-zeta-division-champions-tour-2024-pacific-stage-1-w1
+319767,2006,Regular Season: Week 1,2024-04-06T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,1119,All Gamers,AG,1,2,2,https://www.vlr.gg/319767/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w1
+314302,2002,Regular Season: Week 1,2024-04-06T11:00:00Z,8.05,3,6199,Team Secret,TS,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/314302/team-secret-vs-drx-champions-tour-2024-pacific-stage-1-w1
+319768,2006,Regular Season: Week 1,2024-04-06T12:45:00Z,,3,1120,EDward Gaming,EDG,13576,JD Gaming,JDG,2,1,1,https://www.vlr.gg/319768/edward-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w1
+314622,2004,Regular Season: Week 1,2024-04-06T21:00:00Z,8.05,3,188,Cloud9,C9,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/314622/cloud9-vs-leviat-n-champions-tour-2024-americas-stage-1-w1
+314623,2004,Regular Season: Week 1,2024-04-07T01:00:00Z,8.05,3,1034,NRG,NRG,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/314623/nrg-esports-vs-loud-champions-tour-2024-americas-stage-1-w1
+314303,2002,Regular Season: Week 1,2024-04-07T08:00:00Z,8.05,3,6387,BLEED,BLD,8304,TALON,TLN,1,2,2,https://www.vlr.gg/314303/bleed-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1
+319769,2006,Regular Season: Week 1,2024-04-07T09:00:00Z,,3,12064,Nova Esports,NOVA,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/319769/nova-esports-vs-trace-esports-champions-tour-2024-china-stage-1-w1
+314304,2002,Regular Season: Week 1,2024-04-07T11:15:00Z,8.05,3,14,T1,T1,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/314304/t1-vs-paper-rex-champions-tour-2024-pacific-stage-1-w1
+319770,2006,Regular Season: Week 1,2024-04-07T11:15:00Z,,3,11328,FunPlus Phoenix,FPX,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/319770/funplus-phoenix-vs-wolves-esports-champions-tour-2024-china-stage-1-w1
+314624,2004,Regular Season: Week 1,2024-04-07T21:00:00Z,8.05,3,11058,G2 Esports,G2,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/314624/g2-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w1
+314625,2004,Regular Season: Week 1,2024-04-07T23:10:00Z,8.05,3,2,Sentinels,SEN,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/314625/sentinels-vs-100-thieves-champions-tour-2024-americas-stage-1-w1
+314305,2002,Regular Season: Week 1,2024-04-08T08:00:00Z,8.05,3,6199,Team Secret,TS,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/314305/team-secret-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w1
+314306,2002,Regular Season: Week 1,2024-04-08T11:20:00Z,8.05,3,918,Global Esports,GE,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/314306/global-esports-vs-drx-champions-tour-2024-pacific-stage-1-w1
+314626,2004,Regular Season: Week 1,2024-04-08T21:00:00Z,8.05,3,2355,KRÜ Esports,KRÜ,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/314626/kr-esports-vs-furia-champions-tour-2024-americas-stage-1-w1
+314307,2002,Regular Season: Week 1,2024-04-09T08:00:00Z,8.05,3,17,Gen.G,GEN,8304,TALON,TLN,2,0,1,https://www.vlr.gg/314307/gen-g-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1
+314308,2002,Regular Season: Week 1,2024-04-09T10:10:00Z,8.05,3,14,T1,T1,278,DetonatioN FocusMe,DFM,1,2,2,https://www.vlr.gg/314308/t1-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w1
+318918,1998,Regular Season: Week 2,2024-04-10T15:00:00Z,8.05,3,8877,Karmine Corp,KC,1184,FUT Esports,FUT,1,2,2,https://www.vlr.gg/318918/karmine-corp-vs-fut-esports-champions-tour-2024-emea-stage-1-w2
+318919,1998,Regular Season: Week 2,2024-04-10T18:10:00Z,8.05,3,2059,Team Vitality,VIT,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/318919/team-vitality-vs-team-heretics-champions-tour-2024-emea-stage-1-w2
+318920,1998,Regular Season: Week 2,2024-04-11T15:00:00Z,8.05,3,474,Team Liquid,TL,4915,Natus Vincere,NAVI,1,2,2,https://www.vlr.gg/318920/team-liquid-vs-natus-vincere-champions-tour-2024-emea-stage-1-w2
+318921,1998,Regular Season: Week 2,2024-04-11T18:20:00Z,8.05,3,397,BBL Esports,BBL,7035,Movistar KOI (KOI),MKOI,2,0,1,https://www.vlr.gg/318921/bbl-esports-vs-koi-champions-tour-2024-emea-stage-1-w2
+319771,2006,Regular Season: Week 2,2024-04-12T09:00:00Z,,3,13576,JD Gaming,JDG,12064,Nova Esports,NOVA,1,2,2,https://www.vlr.gg/319771/jd-gaming-vs-nova-esports-champions-tour-2024-china-stage-1-w2
+319772,2006,Regular Season: Week 2,2024-04-12T12:15:00Z,,3,11328,FunPlus Phoenix,FPX,11981,Dragon Ranger Gaming,DRG,2,1,1,https://www.vlr.gg/319772/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-w2
+318922,1998,Regular Season: Week 2,2024-04-12T15:00:00Z,8.05,3,2593,FNATIC,FNC,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/318922/fnatic-vs-giantx-champions-tour-2024-emea-stage-1-w2
+318923,1998,Regular Season: Week 2,2024-04-12T17:45:00Z,8.05,3,8877,Karmine Corp,KC,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/318923/karmine-corp-vs-gentle-mates-champions-tour-2024-emea-stage-1-w2
+314309,2002,Regular Season: Week 2,2024-04-13T08:00:00Z,8.05,3,17,Gen.G,GEN,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/314309/gen-g-vs-paper-rex-champions-tour-2024-pacific-stage-1-w2
+319773,2006,Regular Season: Week 2,2024-04-13T09:00:00Z,,3,1119,All Gamers,AG,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/319773/all-gamers-vs-wolves-esports-champions-tour-2024-china-stage-1-w2
+314310,2002,Regular Season: Week 2,2024-04-13T11:10:00Z,8.05,3,14,T1,T1,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/314310/t1-vs-drx-champions-tour-2024-pacific-stage-1-w2
+319774,2006,Regular Season: Week 2,2024-04-13T11:45:00Z,,3,12685,Trace Esports,TE,12010,Bilibili Gaming,BLG,2,1,1,https://www.vlr.gg/319774/trace-esports-vs-bilibili-gaming-champions-tour-2024-china-stage-1-w2
+314628,2004,Regular Season: Week 2,2024-04-13T21:00:00Z,8.05,3,11058,G2 Esports,G2,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/314628/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w2
+314629,2004,Regular Season: Week 2,2024-04-13T23:25:00Z,8.05,3,2,Sentinels,SEN,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/314629/sentinels-vs-leviat-n-champions-tour-2024-americas-stage-1-w2
+314311,2002,Regular Season: Week 2,2024-04-14T08:00:00Z,8.05,3,6199,Team Secret,TS,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/314311/team-secret-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2
+319775,2006,Regular Season: Week 2,2024-04-14T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,14137,Titan Esports Club,TEC,2,1,1,https://www.vlr.gg/319775/dragon-ranger-gaming-vs-titan-esports-club-champions-tour-2024-china-stage-1-w2
+314312,2002,Regular Season: Week 2,2024-04-14T11:00:00Z,8.05,3,6387,BLEED,BLD,878,Rex Regum Qeon,RRQ,0,2,2,https://www.vlr.gg/314312/bleed-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2
+319776,2006,Regular Season: Week 2,2024-04-14T11:50:00Z,,3,731,TYLOO,TYL,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/319776/tyloo-vs-edward-gaming-champions-tour-2024-china-stage-1-w2
+314630,2004,Regular Season: Week 2,2024-04-14T21:00:00Z,8.05,3,2355,KRÜ Esports,KRÜ,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/314630/kr-esports-vs-mibr-champions-tour-2024-americas-stage-1-w2
+314631,2004,Regular Season: Week 2,2024-04-14T23:20:00Z,8.05,3,1034,NRG,NRG,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/314631/nrg-esports-vs-furia-champions-tour-2024-americas-stage-1-w2
+314313,2002,Regular Season: Week 2,2024-04-15T08:00:00Z,8.05,3,17,Gen.G,GEN,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/314313/gen-g-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w2
+314314,2002,Regular Season: Week 2,2024-04-15T10:10:00Z,8.05,3,918,Global Esports,GE,8304,TALON,TLN,1,2,2,https://www.vlr.gg/314314/global-esports-vs-talon-esports-champions-tour-2024-pacific-stage-1-w2
+314632,2004,Regular Season: Week 2,2024-04-15T21:00:00Z,8.05,3,188,Cloud9,C9,5248,Evil Geniuses,EG,2,1,1,https://www.vlr.gg/314632/cloud9-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w2
+314315,2002,Regular Season: Week 2,2024-04-16T08:00:00Z,8.05,3,14,T1,T1,878,Rex Regum Qeon,RRQ,2,0,1,https://www.vlr.gg/314315/t1-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2
+314316,2002,Regular Season: Week 2,2024-04-16T10:00:00Z,8.05,3,6387,BLEED,BLD,5448,ZETA DIVISION,ZETA,1,2,2,https://www.vlr.gg/314316/bleed-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2
+318924,1998,Regular Season: Week 3,2024-04-17T15:00:00Z,8.05,3,12694,Gentle Mates,M8,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/318924/gentle-mates-vs-fnatic-champions-tour-2024-emea-stage-1-w3
+318925,1998,Regular Season: Week 3,2024-04-17T17:00:00Z,8.05,3,8877,Karmine Corp,KC,4915,Natus Vincere,NAVI,1,2,2,https://www.vlr.gg/318925/karmine-corp-vs-natus-vincere-champions-tour-2024-emea-stage-1-w3
+318926,1998,Regular Season: Week 3,2024-04-18T15:00:00Z,8.05,3,397,BBL Esports,BBL,1001,Team Heretics,TH,2,0,1,https://www.vlr.gg/318926/bbl-esports-vs-team-heretics-champions-tour-2024-emea-stage-1-w3
+318927,1998,Regular Season: Week 3,2024-04-18T17:15:00Z,8.05,3,2059,Team Vitality,VIT,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/318927/team-vitality-vs-fut-esports-champions-tour-2024-emea-stage-1-w3
+319777,2006,Regular Season: Week 3,2024-04-19T09:00:00Z,,3,13790,Wolves Esports,WOL,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/319777/wolves-esports-vs-trace-esports-champions-tour-2024-china-stage-1-w3
+319778,2006,Regular Season: Week 3,2024-04-19T11:25:00Z,,3,12064,Nova Esports,NOVA,11328,FunPlus Phoenix,FPX,0,2,2,https://www.vlr.gg/319778/nova-esports-vs-funplus-phoenix-champions-tour-2024-china-stage-1-w3
+318928,1998,Regular Season: Week 3,2024-04-19T15:00:00Z,8.05,3,474,Team Liquid,TL,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/318928/team-liquid-vs-giantx-champions-tour-2024-emea-stage-1-w3
+318929,1998,Regular Season: Week 3,2024-04-19T18:55:00Z,8.05,3,2593,FNATIC,FNC,7035,Movistar KOI (KOI),MKOI,2,0,1,https://www.vlr.gg/318929/fnatic-vs-koi-champions-tour-2024-emea-stage-1-w3
+314317,2002,Regular Season: Week 3,2024-04-20T08:00:00Z,8.07,3,17,Gen.G,GEN,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/314317/gen-g-vs-drx-champions-tour-2024-pacific-stage-1-w3
+319779,2006,Regular Season: Week 3,2024-04-20T09:00:00Z,,3,12010,Bilibili Gaming,BLG,1119,All Gamers,AG,0,2,2,https://www.vlr.gg/319779/bilibili-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w3
+314318,2002,Regular Season: Week 3,2024-04-20T11:15:00Z,8.07,3,6387,BLEED,BLD,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/314318/bleed-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3
+319780,2006,Regular Season: Week 3,2024-04-20T11:40:00Z,,3,11981,Dragon Ranger Gaming,DRG,13576,JD Gaming,JDG,2,1,1,https://www.vlr.gg/319780/dragon-ranger-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w3
+314634,2004,Regular Season: Week 3,2024-04-20T21:00:00Z,8.07,3,2,Sentinels,SEN,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/314634/sentinels-vs-mibr-champions-tour-2024-americas-stage-1-w3
+314635,2004,Regular Season: Week 3,2024-04-20T23:30:00Z,8.07,3,188,Cloud9,C9,6961,LOUD,LOUD,2,1,1,https://www.vlr.gg/314635/cloud9-vs-loud-champions-tour-2024-americas-stage-1-w3
+314319,2002,Regular Season: Week 3,2024-04-21T08:00:00Z,8.07,3,918,Global Esports,GE,878,Rex Regum Qeon,RRQ,2,0,1,https://www.vlr.gg/314319/global-esports-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w3
+319781,2006,Regular Season: Week 3,2024-04-21T09:00:00Z,,3,731,TYLOO,TYL,12064,Nova Esports,NOVA,2,1,1,https://www.vlr.gg/319781/tyloo-vs-nova-esports-champions-tour-2024-china-stage-1-w3
+314320,2002,Regular Season: Week 3,2024-04-21T11:00:00Z,8.07,3,6199,Team Secret,TS,624,Paper Rex,PRX,2,0,1,https://www.vlr.gg/314320/team-secret-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3
+319782,2006,Regular Season: Week 3,2024-04-21T13:00:00Z,,3,1120,EDward Gaming,EDG,14137,Titan Esports Club,TEC,2,0,1,https://www.vlr.gg/319782/edward-gaming-vs-titan-esports-club-champions-tour-2024-china-stage-1-w3
+314636,2004,Regular Season: Week 3,2024-04-21T21:00:00Z,8.07,3,2355,KRÜ Esports,KRÜ,5248,Evil Geniuses,EG,2,0,1,https://www.vlr.gg/314636/kr-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3
+314637,2004,Regular Season: Week 3,2024-04-21T23:15:00Z,8.07,3,1034,NRG,NRG,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/314637/nrg-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-w3
+314321,2002,Regular Season: Week 3,2024-04-22T08:00:00Z,8.07,3,14,T1,T1,8304,TALON,TLN,0,2,2,https://www.vlr.gg/314321/t1-vs-talon-esports-champions-tour-2024-pacific-stage-1-w3
+314322,2002,Regular Season: Week 3,2024-04-22T10:15:00Z,8.07,3,17,Gen.G,GEN,5448,ZETA DIVISION,ZETA,2,0,1,https://www.vlr.gg/314322/gen-g-vs-zeta-division-champions-tour-2024-pacific-stage-1-w3
+314638,2004,Regular Season: Week 3,2024-04-22T21:00:00Z,8.07,3,11058,G2 Esports,G2,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/314638/g2-esports-vs-furia-champions-tour-2024-americas-stage-1-w3
+314639,2004,Regular Season: Week 3,2024-04-22T23:00:00Z,8.07,3,188,Cloud9,C9,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/314639/cloud9-vs-100-thieves-champions-tour-2024-americas-stage-1-w3
+314323,2002,Regular Season: Week 3,2024-04-23T08:00:00Z,8.07,3,6199,Team Secret,TS,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/314323/team-secret-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3
+314324,2002,Regular Season: Week 3,2024-04-23T10:50:00Z,8.07,3,918,Global Esports,GE,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/314324/global-esports-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3
+314640,2004,Regular Season: Week 3,2024-04-23T21:00:00Z,8.07,3,2,Sentinels,SEN,5248,Evil Geniuses,EG,1,2,2,https://www.vlr.gg/314640/sentinels-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3
+314641,2004,Regular Season: Week 3,2024-04-24T00:30:00Z,8.07,3,1034,NRG,NRG,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/314641/nrg-esports-vs-mibr-champions-tour-2024-americas-stage-1-w3
+318930,1998,Regular Season: Week 4,2024-04-24T15:00:00Z,8.07,3,474,Team Liquid,TL,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/318930/team-liquid-vs-team-heretics-champions-tour-2024-emea-stage-1-w4
+318931,1998,Regular Season: Week 4,2024-04-24T17:00:00Z,8.07,3,2059,Team Vitality,VIT,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/318931/team-vitality-vs-gentle-mates-champions-tour-2024-emea-stage-1-w4
+314642,2004,Regular Season: Week 3,2024-04-24T21:00:00Z,8.07,3,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/314642/g2-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-w3
+314643,2004,Regular Season: Week 3,2024-04-25T00:15:00Z,8.07,3,2355,KRÜ Esports,KRÜ,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/314643/kr-esports-vs-loud-champions-tour-2024-americas-stage-1-w3
+318932,1998,Regular Season: Week 4,2024-04-25T15:00:00Z,8.07,3,2593,FNATIC,FNC,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/318932/fnatic-vs-fut-esports-champions-tour-2024-emea-stage-1-w4
+318933,1998,Regular Season: Week 4,2024-04-25T17:30:00Z,8.07,3,397,BBL Esports,BBL,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/318933/bbl-esports-vs-natus-vincere-champions-tour-2024-emea-stage-1-w4
+319783,2006,Regular Season: Week 4,2024-04-26T09:00:00Z,,3,14137,Titan Esports Club,TEC,12010,Bilibili Gaming,BLG,2,1,1,https://www.vlr.gg/319783/titan-esports-club-vs-bilibili-gaming-champions-tour-2024-china-stage-1-w4
+319784,2006,Regular Season: Week 4,2024-04-26T12:05:00Z,,3,12685,Trace Esports,TE,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/319784/trace-esports-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-w4
+318934,1998,Regular Season: Week 4,2024-04-26T15:00:00Z,8.07,3,2059,Team Vitality,VIT,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/318934/team-vitality-vs-giantx-champions-tour-2024-emea-stage-1-w4
+318935,1998,Regular Season: Week 4,2024-04-26T18:10:00Z,8.07,3,8877,Karmine Corp,KC,7035,Movistar KOI (KOI),MKOI,2,1,1,https://www.vlr.gg/318935/karmine-corp-vs-koi-champions-tour-2024-emea-stage-1-w4
+314325,2002,Regular Season: Week 4,2024-04-27T08:00:00Z,8.07,3,6387,BLEED,BLD,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/314325/bleed-vs-paper-rex-champions-tour-2024-pacific-stage-1-w4
+319785,2006,Regular Season: Week 4,2024-04-27T09:00:00Z,,3,731,TYLOO,TYL,13790,Wolves Esports,WOL,1,2,2,https://www.vlr.gg/319785/tyloo-vs-wolves-esports-champions-tour-2024-china-stage-1-w4
+314326,2002,Regular Season: Week 4,2024-04-27T10:00:00Z,8.07,3,918,Global Esports,GE,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/314326/global-esports-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w4
+319786,2006,Regular Season: Week 4,2024-04-27T12:30:00Z,,3,11328,FunPlus Phoenix,FPX,1120,EDward Gaming,EDG,2,1,1,https://www.vlr.gg/319786/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-stage-1-w4
+314644,2004,Regular Season: Week 4,2024-04-27T21:00:00Z,8.07,3,11058,G2 Esports,G2,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/314644/g2-esports-vs-mibr-champions-tour-2024-americas-stage-1-w4
+314645,2004,Regular Season: Week 4,2024-04-27T23:05:00Z,8.07,3,2,Sentinels,SEN,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/314645/sentinels-vs-loud-champions-tour-2024-americas-stage-1-w4
+314327,2002,Regular Season: Week 4,2024-04-28T08:00:00Z,8.07,3,14,T1,T1,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/314327/t1-vs-zeta-division-champions-tour-2024-pacific-stage-1-w4
+319787,2006,Regular Season: Week 4,2024-04-28T09:00:00Z,,3,1119,All Gamers,AG,12064,Nova Esports,NOVA,2,1,1,https://www.vlr.gg/319787/all-gamers-vs-nova-esports-champions-tour-2024-china-stage-1-w4
+314328,2002,Regular Season: Week 4,2024-04-28T11:10:00Z,8.07,3,6199,Team Secret,TS,8304,TALON,TLN,1,2,2,https://www.vlr.gg/314328/team-secret-vs-talon-esports-champions-tour-2024-pacific-stage-1-w4
+319788,2006,Regular Season: Week 4,2024-04-28T12:40:00Z,,3,12010,Bilibili Gaming,BLG,13576,JD Gaming,JDG,2,0,1,https://www.vlr.gg/319788/bilibili-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w4
+314646,2004,Regular Season: Week 4,2024-04-28T21:00:00Z,8.07,3,188,Cloud9,C9,2406,FURIA,FUR,2,1,1,https://www.vlr.gg/314646/cloud9-vs-furia-champions-tour-2024-americas-stage-1-w4
+314647,2004,Regular Season: Week 4,2024-04-28T23:55:00Z,8.07,3,1034,NRG,NRG,5248,Evil Geniuses,EG,1,2,2,https://www.vlr.gg/314647/nrg-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w4
+314329,2002,Regular Season: Week 4,2024-04-29T08:00:00Z,8.07,3,6387,BLEED,BLD,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/314329/bleed-vs-drx-champions-tour-2024-pacific-stage-1-w4
+314330,2002,Regular Season: Week 4,2024-04-29T10:05:00Z,8.07,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,1,2,2,https://www.vlr.gg/314330/gen-g-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w4
+314648,2004,Regular Season: Week 4,2024-04-29T21:00:00Z,8.07,3,2355,KRÜ Esports,KRÜ,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/314648/kr-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w4
+318936,1998,Regular Season: Week 5,2024-05-01T15:00:00Z,8.07,3,397,BBL Esports,BBL,14419,GIANTX,GX,0,2,2,https://www.vlr.gg/318936/bbl-esports-vs-giantx-champions-tour-2024-emea-stage-1-w5
+318937,1998,Regular Season: Week 5,2024-05-01T17:00:00Z,8.07,3,8877,Karmine Corp,KC,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/318937/karmine-corp-vs-team-heretics-champions-tour-2024-emea-stage-1-w5
+319789,2006,Regular Season: Week 5,2024-05-02T11:00:00Z,,3,1120,EDward Gaming,EDG,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/319789/edward-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w5
+318938,1998,Regular Season: Week 5,2024-05-02T15:00:00Z,8.07,3,2059,Team Vitality,VIT,7035,Movistar KOI (KOI),MKOI,1,2,2,https://www.vlr.gg/318938/team-vitality-vs-koi-champions-tour-2024-emea-stage-1-w5
+318939,1998,Regular Season: Week 5,2024-05-02T17:55:00Z,8.07,3,4915,Natus Vincere,NAVI,2593,FNATIC,FNC,2,1,1,https://www.vlr.gg/318939/natus-vincere-vs-fnatic-champions-tour-2024-emea-stage-1-w5
+329907,2002,Playoffs: Knockout Round,2024-05-03T08:00:00Z,8.07,3,6199,Team Secret,TS,14,T1,T1,0,2,2,https://www.vlr.gg/329907/team-secret-vs-t1-champions-tour-2024-pacific-stage-1-ko
+329908,2002,Playoffs: Knockout Round,2024-05-03T10:10:00Z,8.07,3,624,Paper Rex,PRX,8304,TALON,TLN,2,1,1,https://www.vlr.gg/329908/paper-rex-vs-talon-esports-champions-tour-2024-pacific-stage-1-ko
+319790,2006,Regular Season: Week 5,2024-05-03T11:00:00Z,,3,13790,Wolves Esports,WOL,13576,JD Gaming,JDG,0,2,2,https://www.vlr.gg/319790/wolves-esports-vs-jd-gaming-champions-tour-2024-china-stage-1-w5
+318940,1998,Regular Season: Week 5,2024-05-03T15:00:00Z,8.07,3,474,Team Liquid,TL,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/318940/team-liquid-vs-gentle-mates-champions-tour-2024-emea-stage-1-w5
+318941,1998,Regular Season: Week 5,2024-05-03T16:50:00Z,8.07,3,397,BBL Esports,BBL,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/318941/bbl-esports-vs-fut-esports-champions-tour-2024-emea-stage-1-w5
+314650,2004,Regular Season: Week 5,2024-05-04T00:00:00Z,8.07,3,2,Sentinels,SEN,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/314650/sentinels-vs-furia-champions-tour-2024-americas-stage-1-w5
+329909,2002,Playoffs: Upper Semifinals,2024-05-04T08:00:00Z,8.07,3,17,Gen.G,GEN,14,T1,T1,1,2,2,https://www.vlr.gg/329909/gen-g-vs-t1-champions-tour-2024-pacific-stage-1-ubsf
+319791,2006,Regular Season: Week 5,2024-05-04T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,731,TYLOO,TYL,0,2,2,https://www.vlr.gg/319791/dragon-ranger-gaming-vs-tyloo-champions-tour-2024-china-stage-1-w5
+329910,2002,Playoffs: Upper Semifinals,2024-05-04T11:10:00Z,8.07,3,8185,KIWOOM DRX,KRX,624,Paper Rex,PRX,1,2,2,https://www.vlr.gg/329910/drx-vs-paper-rex-champions-tour-2024-pacific-stage-1-ubsf
+319792,2006,Regular Season: Week 5,2024-05-04T11:30:00Z,,3,12010,Bilibili Gaming,BLG,11328,FunPlus Phoenix,FPX,0,2,2,https://www.vlr.gg/319792/bilibili-gaming-vs-funplus-phoenix-champions-tour-2024-china-stage-1-w5
+314651,2004,Regular Season: Week 5,2024-05-04T21:00:00Z,8.07,3,1034,NRG,NRG,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/314651/nrg-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w5
+314652,2004,Regular Season: Week 5,2024-05-04T23:20:00Z,8.07,3,2355,KRÜ Esports,KRÜ,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/314652/kr-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-w5
+329912,2002,Playoffs: Upper Final,2024-05-05T08:00:00Z,8.07,3,14,T1,T1,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/329912/t1-vs-paper-rex-champions-tour-2024-pacific-stage-1-ubf
+319793,2006,Regular Season: Week 5,2024-05-05T09:00:00Z,,3,12064,Nova Esports,NOVA,14137,Titan Esports Club,TEC,2,0,1,https://www.vlr.gg/319793/nova-esports-vs-titan-esports-club-champions-tour-2024-china-stage-1-w5
+329911,2002,Playoffs: Lower Round 1,2024-05-05T10:00:00Z,8.07,3,17,Gen.G,GEN,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/329911/gen-g-vs-drx-champions-tour-2024-pacific-stage-1-lr1
+319794,2006,Regular Season: Week 5,2024-05-05T11:05:00Z,,3,12685,Trace Esports,TE,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/319794/trace-esports-vs-edward-gaming-champions-tour-2024-china-stage-1-w5
+314653,2004,Regular Season: Week 5,2024-05-05T21:00:00Z,8.07,3,188,Cloud9,C9,7386,MIBR,MIBR,2,0,1,https://www.vlr.gg/314653/cloud9-vs-mibr-champions-tour-2024-americas-stage-1-w5
+314654,2004,Regular Season: Week 5,2024-05-05T23:35:00Z,8.07,3,11058,G2 Esports,G2,6961,LOUD,LOUD,0,2,2,https://www.vlr.gg/314654/g2-esports-vs-loud-champions-tour-2024-americas-stage-1-w5
+342356,2006,Playoffs: Knockout Round,2024-05-08T09:00:00Z,,3,12685,Trace Esports,TE,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/342356/trace-esports-vs-all-gamers-champions-tour-2024-china-stage-1-ko
+342357,2006,Playoffs: Knockout Round,2024-05-08T11:15:00Z,,3,11981,Dragon Ranger Gaming,DRG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/342357/dragon-ranger-gaming-vs-nova-esports-champions-tour-2024-china-stage-1-ko
+341816,1998,Playoffs: Knockout Round,2024-05-08T15:00:00Z,8.07,3,2593,FNATIC,FNC,474,Team Liquid,TL,2,1,1,https://www.vlr.gg/341816/fnatic-vs-team-liquid-champions-tour-2024-emea-stage-1-knockout
+341817,1998,Playoffs: Knockout Round,2024-05-08T18:20:00Z,8.07,3,4915,Natus Vincere,NAVI,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/341817/natus-vincere-vs-team-heretics-champions-tour-2024-emea-stage-1-knockout
+337407,2004,Playoffs: Knockout Round,2024-05-08T21:00:00Z,8.07,3,188,Cloud9,C9,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/337407/cloud9-vs-g2-esports-champions-tour-2024-americas-stage-1-ko
+337408,2004,Playoffs: Knockout Round,2024-05-08T23:25:00Z,8.07,3,120,100 Thieves,100T,6961,LOUD,LOUD,2,0,1,https://www.vlr.gg/337408/100-thieves-vs-loud-champions-tour-2024-americas-stage-1-ko
+342358,2006,Playoffs: Upper Semifinals,2024-05-09T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/342358/funplus-phoenix-vs-trace-esports-champions-tour-2024-china-stage-1-ubsf
+342359,2006,Playoffs: Upper Semifinals,2024-05-09T11:30:00Z,,3,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/342359/edward-gaming-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-ubsf
+341818,1998,Playoffs: Upper Semifinals,2024-05-09T15:00:00Z,8.07,3,8877,Karmine Corp,KC,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/341818/karmine-corp-vs-fnatic-champions-tour-2024-emea-stage-1-ubsf
+341819,1998,Playoffs: Upper Semifinals,2024-05-09T17:30:00Z,8.07,3,1184,FUT Esports,FUT,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/341819/fut-esports-vs-team-heretics-champions-tour-2024-emea-stage-1-ubsf
+337409,2004,Playoffs: Upper Semifinals,2024-05-09T21:00:00Z,8.07,3,2355,KRÜ Esports,KRÜ,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/337409/kr-esports-vs-g2-esports-champions-tour-2024-americas-stage-1-ubsf
+337410,2004,Playoffs: Upper Semifinals,2024-05-09T23:05:00Z,8.07,3,2359,LEVIATÁN,LEV,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/337410/leviat-n-vs-100-thieves-champions-tour-2024-americas-stage-1-ubsf
+342360,2006,Playoffs: Upper Final,2024-05-10T09:00:00Z,,3,11328,FunPlus Phoenix,FPX,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/342360/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-stage-1-ubf
+342361,2006,Playoffs: Lower Round 1,2024-05-10T11:45:00Z,,3,12685,Trace Esports,TE,11981,Dragon Ranger Gaming,DRG,1,2,2,https://www.vlr.gg/342361/trace-esports-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-lr1
+341820,1998,Playoffs: Upper Final,2024-05-10T15:00:00Z,8.07,3,2593,FNATIC,FNC,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/341820/fnatic-vs-team-heretics-champions-tour-2024-emea-stage-1-ubf
+341822,1998,Playoffs: Lower Round 1,2024-05-10T17:30:00Z,8.07,3,8877,Karmine Corp,KC,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/341822/karmine-corp-vs-fut-esports-champions-tour-2024-emea-stage-1-lr1
+337411,2004,Playoffs: Upper Final,2024-05-10T21:00:00Z,8.07,3,11058,G2 Esports,G2,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/337411/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-ubf
+337413,2004,Playoffs: Lower Round 1,2024-05-11T00:00:00Z,8.07,3,2355,KRÜ Esports,KRÜ,2359,LEVIATÁN,LEV,1,2,2,https://www.vlr.gg/337413/kr-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-lr1
+329913,2002,Playoffs: Lower Final,2024-05-11T08:00:00Z,8.07,5,14,T1,T1,17,Gen.G,GEN,0,3,2,https://www.vlr.gg/329913/t1-vs-gen-g-champions-tour-2024-pacific-stage-1-lf
+342362,2006,Playoffs: Lower Final,2024-05-11T09:00:00Z,,5,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,3,1,1,https://www.vlr.gg/342362/edward-gaming-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-lf
+341823,1998,Playoffs: Lower Final,2024-05-11T15:00:00Z,8.07,5,2593,FNATIC,FNC,1184,FUT Esports,FUT,3,1,1,https://www.vlr.gg/341823/fnatic-vs-fut-esports-champions-tour-2024-emea-stage-1-lbf
+337414,2004,Playoffs: Lower Final,2024-05-11T21:00:00Z,8.07,5,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,3,2,1,https://www.vlr.gg/337414/g2-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-lbf
+329914,2002,Playoffs: Grand Final,2024-05-12T08:00:00Z,8.07,5,624,Paper Rex,PRX,17,Gen.G,GEN,3,2,1,https://www.vlr.gg/329914/paper-rex-vs-gen-g-champions-tour-2024-pacific-stage-1-gf
+342363,2006,Playoffs: Grand Final,2024-05-12T09:00:00Z,,5,11328,FunPlus Phoenix,FPX,1120,EDward Gaming,EDG,1,3,2,https://www.vlr.gg/342363/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-stage-1-gf
+341821,1998,Playoffs: Grand Final,2024-05-12T15:00:00Z,8.07,5,1001,Team Heretics,TH,2593,FNATIC,FNC,2,3,2,https://www.vlr.gg/341821/team-heretics-vs-fnatic-champions-tour-2024-emea-stage-1-gf
+337412,2004,Playoffs: Grand Final,2024-05-12T21:00:00Z,8.07,5,120,100 Thieves,100T,11058,G2 Esports,G2,3,0,1,https://www.vlr.gg/337412/100-thieves-vs-g2-esports-champions-tour-2024-americas-stage-1-gf
+348063,1999,Swiss Stage: Round 1,2024-05-23T08:00:00Z,8.09,3,11058,G2 Esports,G2,14,T1,T1,2,1,1,https://www.vlr.gg/348063/g2-esports-vs-t1-champions-tour-2024-masters-shanghai-r1
+348061,1999,Swiss Stage: Round 1,2024-05-23T11:10:00Z,8.09,3,11328,FunPlus Phoenix,FPX,1184,FUT Esports,FUT,2,1,1,https://www.vlr.gg/348061/funplus-phoenix-vs-fut-esports-champions-tour-2024-masters-shanghai-r1
+348064,1999,Swiss Stage: Round 1,2024-05-24T08:00:00Z,8.09,3,17,Gen.G,GEN,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/348064/gen-g-vs-leviat-n-champions-tour-2024-masters-shanghai-r1
+348059,1999,Swiss Stage: Round 1,2024-05-24T11:00:00Z,8.09,3,1001,Team Heretics,TH,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/348059/team-heretics-vs-dragon-ranger-gaming-champions-tour-2024-masters-shanghai-r1
+348458,1999,Swiss Stage: Round 2,2024-05-25T08:00:00Z,8.09,3,11328,FunPlus Phoenix,FPX,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/348458/funplus-phoenix-vs-gen-g-champions-tour-2024-masters-shanghai-r2
+348457,1999,Swiss Stage: Round 2,2024-05-25T11:40:00Z,8.09,3,11058,G2 Esports,G2,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/348457/g2-esports-vs-team-heretics-champions-tour-2024-masters-shanghai-r2
+348459,1999,Swiss Stage: Round 2,2024-05-26T08:00:00Z,8.09,3,2359,LEVIATÁN,LEV,14,T1,T1,2,0,1,https://www.vlr.gg/348459/leviat-n-vs-t1-champions-tour-2024-masters-shanghai-r2
+348460,1999,Swiss Stage: Round 2,2024-05-26T10:10:00Z,8.09,3,11981,Dragon Ranger Gaming,DRG,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/348460/dragon-ranger-gaming-vs-fut-esports-champions-tour-2024-masters-shanghai-r2
+348462,1999,Swiss Stage: Round 3,2024-05-27T08:00:00Z,8.09,3,11328,FunPlus Phoenix,FPX,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/348462/funplus-phoenix-vs-team-heretics-champions-tour-2024-masters-shanghai-r3
+348461,1999,Swiss Stage: Round 3,2024-05-27T11:35:00Z,8.09,3,1184,FUT Esports,FUT,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/348461/fut-esports-vs-leviat-n-champions-tour-2024-masters-shanghai-r3
+348465,1999,Playoffs: Upper Quarterfinals,2024-05-30T08:00:00Z,8.09,3,120,100 Thieves,100T,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/348465/100-thieves-vs-fut-esports-champions-tour-2024-masters-shanghai-ubqf
+348466,1999,Playoffs: Upper Quarterfinals,2024-05-30T10:00:00Z,8.09,3,2593,FNATIC,FNC,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/348466/fnatic-vs-gen-g-champions-tour-2024-masters-shanghai-ubqf
+348463,1999,Playoffs: Upper Quarterfinals,2024-05-31T08:00:00Z,8.09,3,624,Paper Rex,PRX,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/348463/paper-rex-vs-g2-esports-champions-tour-2024-masters-shanghai-ubqf
+348464,1999,Playoffs: Upper Quarterfinals,2024-05-31T11:00:00Z,8.09,3,1120,EDward Gaming,EDG,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/348464/edward-gaming-vs-team-heretics-champions-tour-2024-masters-shanghai-ubqf
+348468,1999,Playoffs: Lower Round 1,2024-06-01T08:00:00Z,8.09,3,1184,FUT Esports,FUT,2593,FNATIC,FNC,2,1,1,https://www.vlr.gg/348468/fut-esports-vs-fnatic-champions-tour-2024-masters-shanghai-lr1
+348467,1999,Playoffs: Lower Round 1,2024-06-01T11:00:00Z,8.09,3,624,Paper Rex,PRX,1120,EDward Gaming,EDG,2,0,1,https://www.vlr.gg/348467/paper-rex-vs-edward-gaming-champions-tour-2024-masters-shanghai-lr1
+348470,1999,Playoffs: Upper Semifinals,2024-06-02T08:00:00Z,8.09,3,120,100 Thieves,100T,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/348470/100-thieves-vs-gen-g-champions-tour-2024-masters-shanghai-ubsf
+348469,1999,Playoffs: Upper Semifinals,2024-06-02T10:15:00Z,8.09,3,11058,G2 Esports,G2,1001,Team Heretics,TH,2,1,1,https://www.vlr.gg/348469/g2-esports-vs-team-heretics-champions-tour-2024-masters-shanghai-ubsf
+348471,1999,Playoffs: Lower Round 2,2024-06-03T08:00:00Z,8.09,3,120,100 Thieves,100T,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/348471/100-thieves-vs-paper-rex-champions-tour-2024-masters-shanghai-lr2
+348472,1999,Playoffs: Lower Round 2,2024-06-03T11:10:00Z,8.09,3,1001,Team Heretics,TH,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/348472/team-heretics-vs-fut-esports-champions-tour-2024-masters-shanghai-lr2
+348473,1999,Playoffs: Upper Final,2024-06-07T07:00:00Z,8.09,3,11058,G2 Esports,G2,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/348473/g2-esports-vs-gen-g-champions-tour-2024-masters-shanghai-ubf
+348474,1999,Playoffs: Lower Round 3,2024-06-07T09:25:00Z,8.09,3,120,100 Thieves,100T,1001,Team Heretics,TH,0,2,2,https://www.vlr.gg/348474/100-thieves-vs-team-heretics-champions-tour-2024-masters-shanghai-lr3
+348475,1999,Playoffs: Lower Final,2024-06-08T07:00:00Z,8.09,5,11058,G2 Esports,G2,1001,Team Heretics,TH,0,3,2,https://www.vlr.gg/348475/g2-esports-vs-team-heretics-champions-tour-2024-masters-shanghai-lf
+359463,1999,Showmatch: Showmatch,2024-06-09T07:00:00Z,,1,15315,Team International,INTL,15805,Team China,CN,0,1,2,https://www.vlr.gg/359463/team-international-vs-team-china-champions-tour-2024-masters-shanghai-showmatch
+348476,1999,Playoffs: Grand Final,2024-06-09T08:15:00Z,8.09,5,17,Gen.G,GEN,1001,Team Heretics,TH,3,2,1,https://www.vlr.gg/348476/gen-g-vs-team-heretics-champions-tour-2024-masters-shanghai-gf
+314340,2005,Regular Season: Week 1,2024-06-15T08:00:00Z,8.10,3,5448,ZETA DIVISION,ZETA,8185,KIWOOM DRX,KRX,1,2,2,https://www.vlr.gg/314340/zeta-division-vs-drx-champions-tour-2024-pacific-stage-2-w1
+314341,2005,Regular Season: Week 1,2024-06-15T10:40:00Z,8.10,3,6199,Team Secret,TS,6387,BLEED,BLD,2,1,1,https://www.vlr.gg/314341/team-secret-vs-bleed-champions-tour-2024-pacific-stage-2-w1
+359603,2096,Regular Season: Week 1,2024-06-15T11:00:00Z,,3,14137,Titan Esports Club,TEC,13576,JD Gaming,JDG,0,2,2,https://www.vlr.gg/359603/titan-esports-club-vs-jd-gaming-champions-tour-2024-china-stage-2-w1
+314342,2005,Regular Season: Week 1,2024-06-16T08:00:00Z,8.10,3,14,T1,T1,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/314342/t1-vs-gen-g-champions-tour-2024-pacific-stage-2-w1
+359604,2096,Regular Season: Week 1,2024-06-16T09:00:00Z,,3,1119,All Gamers,AG,731,TYLOO,TYL,2,0,1,https://www.vlr.gg/359604/all-gamers-vs-tyloo-champions-tour-2024-china-stage-2-w1
+359605,2096,Regular Season: Week 1,2024-06-16T11:05:00Z,,3,12010,Bilibili Gaming,BLG,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/359605/bilibili-gaming-vs-wolves-esports-champions-tour-2024-china-stage-2-w1
+314343,2005,Regular Season: Week 1,2024-06-16T11:30:00Z,8.10,3,624,Paper Rex,PRX,8304,TALON,TLN,2,0,1,https://www.vlr.gg/314343/paper-rex-vs-talon-esports-champions-tour-2024-pacific-stage-2-w1
+314344,2005,Regular Season: Week 1,2024-06-17T08:00:00Z,8.10,3,878,Rex Regum Qeon,RRQ,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/314344/rex-regum-qeon-vs-detonation-focusme-champions-tour-2024-pacific-stage-2-w1
+314345,2005,Regular Season: Week 1,2024-06-17T10:35:00Z,8.10,3,6199,Team Secret,TS,918,Global Esports,GE,2,0,1,https://www.vlr.gg/314345/team-secret-vs-global-esports-champions-tour-2024-pacific-stage-2-w1
+353153,2094,Regular Season: Week 1,2024-06-18T18:00:00Z,8.10,3,1184,FUT Esports,FUT,7035,KOI,MKOI,2,1,1,https://www.vlr.gg/353153/fut-esports-vs-koi-champions-tour-2024-emea-stage-2-w1
+353154,2094,Regular Season: Week 1,2024-06-19T16:00:00Z,8.10,3,397,BBL Esports,BBL,2593,FNATIC,FNC,1,2,2,https://www.vlr.gg/353154/bbl-esports-vs-fnatic-champions-tour-2024-emea-stage-2-w1
+353155,2094,Regular Season: Week 1,2024-06-19T19:30:00Z,8.10,3,1001,Team Heretics,TH,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/353155/team-heretics-vs-natus-vincere-champions-tour-2024-emea-stage-2-w1
+353157,2094,Regular Season: Week 1,2024-06-20T16:00:00Z,8.10,3,14419,GIANTX,GX,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/353157/giantx-vs-gentle-mates-champions-tour-2024-emea-stage-2-w1
+353156,2094,Regular Season: Week 1,2024-06-20T19:10:00Z,8.10,3,2059,Team Vitality,VIT,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/353156/team-vitality-vs-team-liquid-champions-tour-2024-emea-stage-2-w1
+359606,2096,Regular Season: Week 2,2024-06-21T09:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,12064,Nova Esports,NOVA,1,2,2,https://www.vlr.gg/359606/dragon-ranger-gaming-vs-nova-esports-champions-tour-2024-china-stage-2-w2
+359607,2096,Regular Season: Week 2,2024-06-21T12:15:00Z,,3,11328,FunPlus Phoenix,FPX,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/359607/funplus-phoenix-vs-trace-esports-champions-tour-2024-china-stage-2-w2
+353159,2094,Regular Season: Week 1,2024-06-21T16:00:00Z,8.10,3,397,BBL Esports,BBL,8877,Karmine Corp,KC,0,2,2,https://www.vlr.gg/353159/bbl-esports-vs-karmine-corp-champions-tour-2024-emea-stage-2-w1
+353158,2094,Regular Season: Week 1,2024-06-21T17:50:00Z,8.10,3,4915,Natus Vincere,NAVI,1184,FUT Esports,FUT,0,2,2,https://www.vlr.gg/353158/natus-vincere-vs-fut-esports-champions-tour-2024-emea-stage-2-w1
+314346,2005,Regular Season: Week 2,2024-06-22T08:00:00Z,8.11,3,8304,TALON,TLN,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/314346/talon-esports-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-2-w2
+359608,2096,Regular Season: Week 2,2024-06-22T09:00:00Z,,3,14137,Titan Esports Club,TEC,1119,All Gamers,AG,0,2,2,https://www.vlr.gg/359608/titan-esports-club-vs-all-gamers-champions-tour-2024-china-stage-2-w2
+359609,2096,Regular Season: Week 2,2024-06-22T11:00:00Z,,3,1120,EDward Gaming,EDG,13790,Wolves Esports,WOL,1,2,2,https://www.vlr.gg/359609/edward-gaming-vs-wolves-esports-champions-tour-2024-china-stage-2-w2
+314347,2005,Regular Season: Week 2,2024-06-22T11:50:00Z,8.11,3,624,Paper Rex,PRX,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/314347/paper-rex-vs-drx-champions-tour-2024-pacific-stage-2-w2
+353177,2095,Regular Season: Week 1,2024-06-22T21:00:00Z,8.11,3,7386,MIBR,MIBR,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/353177/mibr-vs-leviat-n-champions-tour-2024-americas-stage-2-w1
+353178,2095,Regular Season: Week 1,2024-06-22T23:15:00Z,8.11,3,2,Sentinels,SEN,1034,NRG,NRG,2,0,1,https://www.vlr.gg/353178/sentinels-vs-nrg-esports-champions-tour-2024-americas-stage-2-w1
+314348,2005,Regular Season: Week 2,2024-06-23T08:00:00Z,8.11,3,918,Global Esports,GE,6387,BLEED,BLD,2,0,1,https://www.vlr.gg/314348/global-esports-vs-bleed-champions-tour-2024-pacific-stage-2-w2
+359610,2096,Regular Season: Week 2,2024-06-23T09:00:00Z,,3,731,TYLOO,TYL,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/359610/tyloo-vs-trace-esports-champions-tour-2024-china-stage-2-w2
+314349,2005,Regular Season: Week 2,2024-06-23T10:05:00Z,8.11,3,278,DetonatioN FocusMe,DFM,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/314349/detonation-focusme-vs-zeta-division-champions-tour-2024-pacific-stage-2-w2
+359611,2096,Regular Season: Week 2,2024-06-23T12:05:00Z,,3,12064,Nova Esports,NOVA,12010,Bilibili Gaming,BLG,1,2,2,https://www.vlr.gg/359611/nova-esports-vs-bilibili-gaming-champions-tour-2024-china-stage-2-w2
+353179,2095,Regular Season: Week 1,2024-06-23T21:00:00Z,8.11,3,2406,FURIA,FUR,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/353179/furia-vs-100-thieves-champions-tour-2024-americas-stage-2-w1
+353180,2095,Regular Season: Week 1,2024-06-23T23:45:00Z,8.11,3,6961,LOUD,LOUD,5248,Evil Geniuses,EG,1,2,2,https://www.vlr.gg/353180/loud-vs-evil-geniuses-champions-tour-2024-americas-stage-2-w1
+314350,2005,Regular Season: Week 2,2024-06-24T08:00:00Z,8.11,3,8185,KIWOOM DRX,KRX,878,Rex Regum Qeon,RRQ,0,2,2,https://www.vlr.gg/314350/drx-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-2-w2
+314351,2005,Regular Season: Week 2,2024-06-24T10:20:00Z,8.11,3,6199,Team Secret,TS,14,T1,T1,2,1,1,https://www.vlr.gg/314351/team-secret-vs-t1-champions-tour-2024-pacific-stage-2-w2
+353181,2095,Regular Season: Week 1,2024-06-24T21:00:00Z,8.11,3,11058,G2 Esports,G2,188,Cloud9,C9,2,1,1,https://www.vlr.gg/353181/g2-esports-vs-cloud9-champions-tour-2024-americas-stage-2-w1
+353202,2094,Regular Season: Week 2,2024-06-25T18:00:00Z,8.11,3,7035,KOI,MKOI,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/353202/koi-vs-giantx-champions-tour-2024-emea-stage-2-w2
+359612,2096,Regular Season: Week 3,2024-06-26T11:00:00Z,,3,13576,JD Gaming,JDG,11328,FunPlus Phoenix,FPX,0,2,2,https://www.vlr.gg/359612/jdg-esports-vs-funplus-phoenix-champions-tour-2024-china-stage-2-w3
+353161,2094,Regular Season: Week 2,2024-06-26T16:00:00Z,8.11,3,1001,Team Heretics,TH,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/353161/team-heretics-vs-fut-esports-champions-tour-2024-emea-stage-2-w2
+353160,2094,Regular Season: Week 2,2024-06-26T18:15:00Z,8.11,3,2593,FNATIC,FNC,2059,Team Vitality,VIT,2,1,1,https://www.vlr.gg/353160/fnatic-vs-team-vitality-champions-tour-2024-emea-stage-2-w2
+359613,2096,Regular Season: Week 3,2024-06-27T11:00:00Z,,3,1120,EDward Gaming,EDG,11981,Dragon Ranger Gaming,DRG,0,2,2,https://www.vlr.gg/359613/edward-gaming-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-2-w3
+353162,2094,Regular Season: Week 2,2024-06-27T16:00:00Z,8.11,3,397,BBL Esports,BBL,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/353162/bbl-esports-vs-team-liquid-champions-tour-2024-emea-stage-2-w2
+353163,2094,Regular Season: Week 2,2024-06-27T18:00:00Z,8.11,3,4915,Natus Vincere,NAVI,14419,GIANTX,GX,0,2,2,https://www.vlr.gg/353163/natus-vincere-vs-giantx-champions-tour-2024-emea-stage-2-w2
+359614,2096,Regular Season: Week 3,2024-06-28T09:00:00Z,,3,12064,Nova Esports,NOVA,13790,Wolves Esports,WOL,2,0,1,https://www.vlr.gg/359614/nova-esports-vs-wolves-esports-champions-tour-2024-china-stage-2-w3
+359615,2096,Regular Season: Week 3,2024-06-28T11:35:00Z,,3,13576,JD Gaming,JDG,12685,Trace Esports,TE,2,1,1,https://www.vlr.gg/359615/jdg-esports-vs-trace-esports-champions-tour-2024-china-stage-2-w3
+353164,2094,Regular Season: Week 2,2024-06-28T16:00:00Z,8.11,3,7035,KOI,MKOI,12694,Gentle Mates,M8,0,2,2,https://www.vlr.gg/353164/koi-vs-gentle-mates-champions-tour-2024-emea-stage-2-w2
+353165,2094,Regular Season: Week 2,2024-06-28T18:30:00Z,8.11,3,2593,FNATIC,FNC,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/353165/fnatic-vs-karmine-corp-champions-tour-2024-emea-stage-2-w2
+314352,2005,Regular Season: Week 3,2024-06-29T08:00:00Z,9.0,3,8304,TALON,TLN,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/314352/talon-esports-vs-detonation-focusme-champions-tour-2024-pacific-stage-2-w3
+359616,2096,Regular Season: Week 3,2024-06-29T09:00:00Z,,3,14137,Titan Esports Club,TEC,731,TYLOO,TYL,1,2,2,https://www.vlr.gg/359616/titan-esports-club-vs-tyloo-champions-tour-2024-china-stage-2-w3
+314353,2005,Regular Season: Week 3,2024-06-29T10:10:00Z,9.0,3,5448,ZETA DIVISION,ZETA,878,Rex Regum Qeon,RRQ,0,2,2,https://www.vlr.gg/314353/zeta-division-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-2-w3
+359617,2096,Regular Season: Week 3,2024-06-29T12:30:00Z,,3,1119,All Gamers,AG,11328,FunPlus Phoenix,FPX,1,2,2,https://www.vlr.gg/359617/all-gamers-vs-funplus-phoenix-champions-tour-2024-china-stage-2-w3
+353182,2095,Regular Season: Week 2,2024-06-29T21:00:00Z,9.0,3,5248,Evil Geniuses,EG,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/353182/evil-geniuses-vs-furia-champions-tour-2024-americas-stage-2-w2
+353183,2095,Regular Season: Week 2,2024-06-29T23:00:00Z,9.0,3,2,Sentinels,SEN,2355,KRÜ Esports,KRÜ,2,0,1,https://www.vlr.gg/353183/sentinels-vs-kr-esports-champions-tour-2024-americas-stage-2-w2
+314354,2005,Regular Season: Week 3,2024-06-30T08:00:00Z,9.0,3,918,Global Esports,GE,14,T1,T1,1,2,2,https://www.vlr.gg/314354/global-esports-vs-t1-champions-tour-2024-pacific-stage-2-w3
+359618,2096,Regular Season: Week 3,2024-06-30T09:00:00Z,,3,12010,Bilibili Gaming,BLG,11981,Dragon Ranger Gaming,DRG,2,0,1,https://www.vlr.gg/359618/bilibili-gaming-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-2-w3
+314355,2005,Regular Season: Week 3,2024-06-30T11:15:00Z,9.0,3,6387,BLEED,BLD,17,Gen.G,GEN,1,2,2,https://www.vlr.gg/314355/bleed-vs-gen-g-champions-tour-2024-pacific-stage-2-w3
+359619,2096,Regular Season: Week 3,2024-06-30T11:20:00Z,,3,1120,EDward Gaming,EDG,12064,Nova Esports,NOVA,2,0,1,https://www.vlr.gg/359619/edward-gaming-vs-nova-esports-champions-tour-2024-china-stage-2-w3
+353184,2095,Regular Season: Week 2,2024-06-30T21:00:00Z,9.0,3,6961,LOUD,LOUD,7386,MIBR,MIBR,2,1,1,https://www.vlr.gg/353184/loud-vs-mibr-champions-tour-2024-americas-stage-2-w2
+353185,2095,Regular Season: Week 2,2024-07-01T00:20:00Z,9.0,3,2359,LEVIATÁN,LEV,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/353185/leviat-n-vs-100-thieves-champions-tour-2024-americas-stage-2-w2
+314356,2005,Regular Season: Week 3,2024-07-01T08:00:00Z,9.0,3,624,Paper Rex,PRX,278,DetonatioN FocusMe,DFM,2,0,1,https://www.vlr.gg/314356/paper-rex-vs-detonation-focusme-champions-tour-2024-pacific-stage-2-w3
+314357,2005,Regular Season: Week 3,2024-07-01T10:00:00Z,9.0,3,8185,KIWOOM DRX,KRX,8304,TALON,TLN,2,1,1,https://www.vlr.gg/314357/drx-vs-talon-esports-champions-tour-2024-pacific-stage-2-w3
+353186,2095,Regular Season: Week 2,2024-07-01T21:00:00Z,9.0,3,1034,NRG,NRG,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/353186/nrg-esports-vs-g2-esports-champions-tour-2024-americas-stage-2-w2
+353187,2095,Regular Season: Week 2,2024-07-01T23:25:00Z,9.0,3,2,Sentinels,SEN,188,Cloud9,C9,2,0,1,https://www.vlr.gg/353187/sentinels-vs-cloud9-champions-tour-2024-americas-stage-2-w2
+353188,2095,Regular Season: Week 2,2024-07-02T21:00:00Z,9.0,3,5248,Evil Geniuses,EG,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/353188/evil-geniuses-vs-leviat-n-champions-tour-2024-americas-stage-2-w2
+353189,2095,Regular Season: Week 2,2024-07-02T23:15:00Z,9.0,3,6961,LOUD,LOUD,2406,FURIA,FUR,1,2,2,https://www.vlr.gg/353189/loud-vs-furia-champions-tour-2024-americas-stage-2-w2
+359621,2096,Regular Season: Week 4,2024-07-03T11:00:00Z,,3,1119,All Gamers,AG,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/359621/all-gamers-vs-trace-esports-champions-tour-2024-china-stage-2-w4
+353166,2094,Regular Season: Week 3,2024-07-03T16:00:00Z,9.0,3,1001,Team Heretics,TH,14419,GIANTX,GX,2,1,1,https://www.vlr.gg/353166/team-heretics-vs-giantx-champions-tour-2024-emea-stage-2-w3
+353167,2094,Regular Season: Week 3,2024-07-03T19:25:00Z,9.0,3,1184,FUT Esports,FUT,12694,Gentle Mates,M8,2,0,1,https://www.vlr.gg/353167/fut-esports-vs-gentle-mates-champions-tour-2024-emea-stage-2-w3
+353190,2095,Regular Season: Week 2,2024-07-03T21:00:00Z,9.0,3,7386,MIBR,MIBR,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/353190/mibr-vs-100-thieves-champions-tour-2024-americas-stage-2-w2
+353191,2095,Regular Season: Week 2,2024-07-03T23:05:00Z,9.0,3,1034,NRG,NRG,2355,KRÜ Esports,KRÜ,2,1,1,https://www.vlr.gg/353191/nrg-esports-vs-kr-esports-champions-tour-2024-americas-stage-2-w2
+359622,2096,Regular Season: Week 4,2024-07-04T11:00:00Z,,3,14137,Titan Esports Club,TEC,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/359622/titan-esports-club-vs-funplus-phoenix-champions-tour-2024-china-stage-2-w4
+353168,2094,Regular Season: Week 3,2024-07-04T16:00:00Z,9.0,3,7035,KOI,MKOI,4915,Natus Vincere,NAVI,2,0,1,https://www.vlr.gg/353168/koi-vs-natus-vincere-champions-tour-2024-emea-stage-2-w3
+353169,2094,Regular Season: Week 3,2024-07-04T18:05:00Z,9.0,3,474,Team Liquid,TL,8877,Karmine Corp,KC,2,0,1,https://www.vlr.gg/353169/team-liquid-vs-karmine-corp-champions-tour-2024-emea-stage-2-w3
+314358,2005,Regular Season: Week 4,2024-07-05T08:00:00Z,9.0,3,624,Paper Rex,PRX,878,Rex Regum Qeon,RRQ,2,1,1,https://www.vlr.gg/314358/paper-rex-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-2-w4
+359623,2096,Regular Season: Week 4,2024-07-05T09:00:00Z,,3,731,TYLOO,TYL,13576,JD Gaming,JDG,0,2,2,https://www.vlr.gg/359623/tyloo-vs-jdg-esports-champions-tour-2024-china-stage-2-w4
+314359,2005,Regular Season: Week 4,2024-07-05T11:00:00Z,9.0,3,17,Gen.G,GEN,918,Global Esports,GE,2,0,1,https://www.vlr.gg/314359/gen-g-vs-global-esports-champions-tour-2024-pacific-stage-2-w4
+359624,2096,Regular Season: Week 4,2024-07-05T11:00:00Z,,3,11981,Dragon Ranger Gaming,DRG,13790,Wolves Esports,WOL,0,2,2,https://www.vlr.gg/359624/dragon-ranger-gaming-vs-wolves-esports-champions-tour-2024-china-stage-2-w4
+353170,2094,Regular Season: Week 3,2024-07-05T16:00:00Z,9.0,3,397,BBL Esports,BBL,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/353170/bbl-esports-vs-team-vitality-champions-tour-2024-emea-stage-2-w3
+353171,2094,Regular Season: Week 3,2024-07-05T19:00:00Z,9.0,3,1001,Team Heretics,TH,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/353171/team-heretics-vs-gentle-mates-champions-tour-2024-emea-stage-2-w3
+314360,2005,Regular Season: Week 4,2024-07-06T08:00:00Z,9.0,3,8185,KIWOOM DRX,KRX,278,DetonatioN FocusMe,DFM,2,1,1,https://www.vlr.gg/314360/drx-vs-detonation-focusme-champions-tour-2024-pacific-stage-2-w4
+359625,2096,Regular Season: Week 4,2024-07-06T09:00:00Z,,3,12685,Trace Esports,TE,14137,Titan Esports Club,TEC,2,1,1,https://www.vlr.gg/359625/trace-esports-vs-titan-esports-club-champions-tour-2024-china-stage-2-w4
+314361,2005,Regular Season: Week 4,2024-07-06T10:45:00Z,9.0,3,5448,ZETA DIVISION,ZETA,8304,TALON,TLN,2,1,1,https://www.vlr.gg/314361/zeta-division-vs-talon-esports-champions-tour-2024-pacific-stage-2-w4
+359626,2096,Regular Season: Week 4,2024-07-06T12:20:00Z,,3,1120,EDward Gaming,EDG,12010,Bilibili Gaming,BLG,2,0,1,https://www.vlr.gg/359626/edward-gaming-vs-bilibili-gaming-champions-tour-2024-china-stage-2-w4
+353192,2095,Regular Season: Week 3,2024-07-06T21:00:00Z,9.0,3,11058,G2 Esports,G2,2355,KRÜ Esports,KRÜ,2,1,1,https://www.vlr.gg/353192/g2-esports-vs-kr-esports-champions-tour-2024-americas-stage-2-w3
+353193,2095,Regular Season: Week 3,2024-07-07T00:35:00Z,9.0,3,6961,LOUD,LOUD,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/353193/loud-vs-leviat-n-champions-tour-2024-americas-stage-2-w3
+314362,2005,Regular Season: Week 4,2024-07-07T08:00:00Z,9.0,3,17,Gen.G,GEN,6199,Team Secret,TS,1,2,2,https://www.vlr.gg/314362/gen-g-vs-team-secret-champions-tour-2024-pacific-stage-2-w4
+359627,2096,Regular Season: Week 4,2024-07-07T09:00:00Z,,3,13576,JD Gaming,JDG,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/359627/jdg-esports-vs-all-gamers-champions-tour-2024-china-stage-2-w4
+314363,2005,Regular Season: Week 4,2024-07-07T11:00:00Z,9.0,3,624,Paper Rex,PRX,5448,ZETA DIVISION,ZETA,2,1,1,https://www.vlr.gg/314363/paper-rex-vs-zeta-division-champions-tour-2024-pacific-stage-2-w4
+359628,2096,Regular Season: Week 4,2024-07-07T11:00:00Z,,3,731,TYLOO,TYL,11328,FunPlus Phoenix,FPX,2,1,1,https://www.vlr.gg/359628/tyloo-vs-funplus-phoenix-champions-tour-2024-china-stage-2-w4
+353194,2095,Regular Season: Week 3,2024-07-07T21:00:00Z,9.0,3,7386,MIBR,MIBR,2406,FURIA,FUR,0,2,2,https://www.vlr.gg/353194/mibr-vs-furia-champions-tour-2024-americas-stage-2-w3
+353195,2095,Regular Season: Week 3,2024-07-07T23:15:00Z,9.0,3,1034,NRG,NRG,188,Cloud9,C9,1,2,2,https://www.vlr.gg/353195/nrg-esports-vs-cloud9-champions-tour-2024-americas-stage-2-w3
+314364,2005,Regular Season: Week 4,2024-07-08T08:00:00Z,9.0,3,14,T1,T1,6387,BLEED,BLD,2,1,1,https://www.vlr.gg/314364/t1-vs-bleed-champions-tour-2024-pacific-stage-2-w4
+353196,2095,Regular Season: Week 3,2024-07-08T21:00:00Z,9.0,3,5248,Evil Geniuses,EG,120,100 Thieves,100T,1,2,2,https://www.vlr.gg/353196/evil-geniuses-vs-100-thieves-champions-tour-2024-americas-stage-2-w3
+353172,2094,Regular Season: Week 4,2024-07-09T18:00:00Z,9.0,3,1184,FUT Esports,FUT,14419,GIANTX,GX,2,0,1,https://www.vlr.gg/353172/fut-esports-vs-giantx-champions-tour-2024-emea-stage-2-w4
+353173,2094,Regular Season: Week 4,2024-07-10T16:00:00Z,9.0,3,1001,Team Heretics,TH,7035,KOI,MKOI,2,1,1,https://www.vlr.gg/353173/team-heretics-vs-koi-champions-tour-2024-emea-stage-2-w4
+353174,2094,Regular Season: Week 4,2024-07-10T19:20:00Z,9.0,3,2593,FNATIC,FNC,474,Team Liquid,TL,2,0,1,https://www.vlr.gg/353174/fnatic-vs-team-liquid-champions-tour-2024-emea-stage-2-w4
+353175,2094,Regular Season: Week 4,2024-07-11T16:00:00Z,9.0,3,4915,Natus Vincere,NAVI,12694,Gentle Mates,M8,2,1,1,https://www.vlr.gg/353175/natus-vincere-vs-gentle-mates-champions-tour-2024-emea-stage-2-w4
+353203,2094,Regular Season: Week 4,2024-07-11T19:10:00Z,9.0,3,2059,Team Vitality,VIT,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/353203/team-vitality-vs-karmine-corp-champions-tour-2024-emea-stage-2-w4
+365316,2005,Playoffs: Knockout Round,2024-07-12T08:00:00Z,9.0,3,17,Gen.G,GEN,878,Rex Regum Qeon,RRQ,2,0,1,https://www.vlr.gg/365316/gen-g-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-2-ko
+365317,2005,Playoffs: Knockout Round,2024-07-12T10:15:00Z,9.0,3,6199,Team Secret,TS,8304,TALON,TLN,0,2,2,https://www.vlr.gg/365317/team-secret-vs-talon-esports-champions-tour-2024-pacific-stage-2-ko
+353197,2095,Regular Season: Week 4,2024-07-13T00:00:00Z,9.0,3,188,Cloud9,C9,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/353197/cloud9-vs-kr-esports-champions-tour-2024-americas-stage-2-w4
+365318,2005,Playoffs: Upper Semifinals,2024-07-13T08:00:00Z,9.0,3,624,Paper Rex,PRX,17,Gen.G,GEN,0,2,2,https://www.vlr.gg/365318/paper-rex-vs-gen-g-champions-tour-2024-pacific-stage-2-ubsf
+365319,2005,Playoffs: Upper Semifinals,2024-07-13T10:05:00Z,9.0,3,8185,KIWOOM DRX,KRX,8304,TALON,TLN,2,0,1,https://www.vlr.gg/365319/drx-vs-talon-esports-champions-tour-2024-pacific-stage-2-ubsf
+353198,2095,Regular Season: Week 4,2024-07-13T21:00:00Z,9.0,3,5248,Evil Geniuses,EG,7386,MIBR,MIBR,0,2,2,https://www.vlr.gg/353198/evil-geniuses-vs-mibr-champions-tour-2024-americas-stage-2-w4
+353199,2095,Regular Season: Week 4,2024-07-13T23:10:00Z,9.0,3,2359,LEVIATÁN,LEV,2406,FURIA,FUR,2,0,1,https://www.vlr.gg/353199/leviat-n-vs-furia-champions-tour-2024-americas-stage-2-w4
+365320,2005,Playoffs: Upper Final,2024-07-14T08:00:00Z,9.0,3,17,Gen.G,GEN,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/365320/gen-g-vs-drx-champions-tour-2024-pacific-stage-2-ubf
+365322,2005,Playoffs: Lower Round 1,2024-07-14T11:15:00Z,9.0,3,624,Paper Rex,PRX,8304,TALON,TLN,2,0,1,https://www.vlr.gg/365322/paper-rex-vs-talon-esports-champions-tour-2024-pacific-stage-2-lr1
+353200,2095,Regular Season: Week 4,2024-07-14T21:00:00Z,9.0,3,6961,LOUD,LOUD,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/353200/loud-vs-100-thieves-champions-tour-2024-americas-stage-2-w4
+353201,2095,Regular Season: Week 4,2024-07-15T00:00:00Z,9.0,3,2,Sentinels,SEN,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/353201/sentinels-vs-g2-esports-champions-tour-2024-americas-stage-2-w4
+371278,2094,Playoffs: Knockout Round,2024-07-15T16:00:00Z,9.0,3,2059,Team Vitality,VIT,4915,Natus Vincere,NAVI,2,1,1,https://www.vlr.gg/371278/team-vitality-vs-natus-vincere-champions-tour-2024-emea-stage-2-ko
+371279,2094,Playoffs: Knockout Round,2024-07-15T18:50:00Z,9.0,3,2593,FNATIC,FNC,8877,Karmine Corp,KC,2,1,1,https://www.vlr.gg/371279/fnatic-vs-karmine-corp-champions-tour-2024-emea-stage-2-ko
+370723,2096,Playoffs: Knockout Round,2024-07-16T08:00:00Z,9.0,3,12685,Trace Esports,TE,1119,All Gamers,AG,2,0,1,https://www.vlr.gg/370723/trace-esports-vs-all-gamers-champions-tour-2024-china-stage-2-ko
+370722,2096,Playoffs: Knockout Round,2024-07-16T10:25:00Z,9.0,3,13576,JD Gaming,JDG,12010,Bilibili Gaming,BLG,0,2,2,https://www.vlr.gg/370722/jdg-esports-vs-bilibili-gaming-champions-tour-2024-china-stage-2-ko
+371280,2094,Playoffs: Upper Semifinals,2024-07-16T16:00:00Z,9.0,3,1001,Team Heretics,TH,2059,Team Vitality,VIT,1,2,2,https://www.vlr.gg/371280/team-heretics-vs-team-vitality-champions-tour-2024-emea-stage-2-ubsf
+371281,2094,Playoffs: Upper Semifinals,2024-07-16T19:45:00Z,9.0,3,1184,FUT Esports,FUT,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/371281/fut-esports-vs-fnatic-champions-tour-2024-emea-stage-2-ubsf
+370725,2096,Playoffs: Upper Semifinals,2024-07-17T08:00:00Z,9.0,3,11328,FunPlus Phoenix,FPX,12685,Trace Esports,TE,0,2,2,https://www.vlr.gg/370725/funplus-phoenix-vs-trace-esports-champions-tour-2024-china-stage-2-ubsf
+370724,2096,Playoffs: Upper Semifinals,2024-07-17T10:10:00Z,9.0,3,1120,EDward Gaming,EDG,12010,Bilibili Gaming,BLG,2,1,1,https://www.vlr.gg/370724/edward-gaming-vs-bilibili-gaming-champions-tour-2024-china-stage-2-ubsf
+371282,2094,Playoffs: Upper Final,2024-07-17T16:00:00Z,9.0,3,2059,Team Vitality,VIT,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/371282/team-vitality-vs-fnatic-champions-tour-2024-emea-stage-2-ubf
+371284,2094,Playoffs: Lower Round 1,2024-07-17T18:15:00Z,9.0,3,1001,Team Heretics,TH,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/371284/team-heretics-vs-fut-esports-champions-tour-2024-emea-stage-2-lr1
+371266,2095,Playoffs: Knockout Round,2024-07-17T21:00:00Z,9.0,3,2355,KRÜ Esports,KRÜ,188,Cloud9,C9,2,1,1,https://www.vlr.gg/371266/kr-esports-vs-cloud9-champions-tour-2024-americas-stage-2-ko
+371267,2095,Playoffs: Knockout Round,2024-07-18T00:30:00Z,9.0,3,2,Sentinels,SEN,120,100 Thieves,100T,0,2,2,https://www.vlr.gg/371267/sentinels-vs-100-thieves-champions-tour-2024-americas-stage-2-ko
+370726,2096,Playoffs: Upper Final,2024-07-18T08:00:00Z,9.0,3,12685,Trace Esports,TE,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/370726/trace-esports-vs-edward-gaming-champions-tour-2024-china-stage-2-ubf
+370728,2096,Playoffs: Lower Round 1,2024-07-18T09:50:00Z,9.0,3,11328,FunPlus Phoenix,FPX,12010,Bilibili Gaming,BLG,2,1,1,https://www.vlr.gg/370728/funplus-phoenix-vs-bilibili-gaming-champions-tour-2024-china-stage-2-lr1
+371268,2095,Playoffs: Upper Semifinals,2024-07-18T21:00:00Z,9.0,3,2359,LEVIATÁN,LEV,2355,KRÜ Esports,KRÜ,2,0,1,https://www.vlr.gg/371268/leviat-n-vs-kr-esports-champions-tour-2024-americas-stage-2-ubsf
+371269,2095,Playoffs: Upper Semifinals,2024-07-18T22:55:00Z,9.0,3,11058,G2 Esports,G2,120,100 Thieves,100T,2,0,1,https://www.vlr.gg/371269/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-2-ubsf
+370729,2096,Playoffs: Lower Final,2024-07-19T08:00:00Z,9.0,5,12685,Trace Esports,TE,11328,FunPlus Phoenix,FPX,2,3,2,https://www.vlr.gg/370729/trace-esports-vs-funplus-phoenix-champions-tour-2024-china-stage-2-lbf
+371285,2094,Playoffs: Lower Final,2024-07-19T16:00:00Z,9.0,5,2059,Team Vitality,VIT,1001,Team Heretics,TH,3,1,1,https://www.vlr.gg/371285/team-vitality-vs-team-heretics-champions-tour-2024-emea-stage-2-lbf
+371270,2095,Playoffs: Upper Final,2024-07-19T21:00:00Z,9.0,3,2359,LEVIATÁN,LEV,11058,G2 Esports,G2,0,2,2,https://www.vlr.gg/371270/leviat-n-vs-g2-esports-champions-tour-2024-americas-stage-2-ubf
+371272,2095,Playoffs: Lower Round 1,2024-07-19T23:10:00Z,9.0,3,2355,KRÜ Esports,KRÜ,120,100 Thieves,100T,2,1,1,https://www.vlr.gg/371272/kr-esports-vs-100-thieves-champions-tour-2024-americas-stage-2-lr1
+365323,2005,Playoffs: Lower Final,2024-07-20T08:00:00Z,9.0,5,8185,KIWOOM DRX,KRX,624,Paper Rex,PRX,3,2,1,https://www.vlr.gg/365323/drx-vs-paper-rex-champions-tour-2024-pacific-stage-2-lf
+370727,2096,Playoffs: Grand Final,2024-07-20T08:30:00Z,9.0,5,1120,EDward Gaming,EDG,11328,FunPlus Phoenix,FPX,3,2,1,https://www.vlr.gg/370727/edward-gaming-vs-funplus-phoenix-champions-tour-2024-china-stage-2-gf
+371283,2094,Playoffs: Grand Final,2024-07-20T16:00:00Z,9.0,5,2593,FNATIC,FNC,2059,Team Vitality,VIT,3,1,1,https://www.vlr.gg/371283/fnatic-vs-team-vitality-champions-tour-2024-emea-stage-2-gf
+371273,2095,Playoffs: Lower Final,2024-07-20T21:00:00Z,9.0,5,2359,LEVIATÁN,LEV,2355,KRÜ Esports,KRÜ,3,2,1,https://www.vlr.gg/371273/leviat-n-vs-kr-esports-champions-tour-2024-americas-stage-2-lbf
+365321,2005,Playoffs: Grand Final,2024-07-21T08:00:00Z,9.0,5,17,Gen.G,GEN,8185,KIWOOM DRX,KRX,3,1,1,https://www.vlr.gg/365321/gen-g-vs-drx-champions-tour-2024-pacific-stage-2-gf
+371271,2095,Playoffs: Grand Final,2024-07-21T21:00:00Z,9.0,5,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,1,3,2,https://www.vlr.gg/371271/g2-esports-vs-leviat-n-champions-tour-2024-americas-stage-2-gf
+378662,2097,Group Stage: Opening (B),2024-08-01T08:00:00Z,9.02,3,17,Gen.G,GEN,2,Sentinels,SEN,2,0,1,https://www.vlr.gg/378662/gen-g-vs-sentinels-valorant-champions-2024-opening-b
+378663,2097,Group Stage: Opening (B),2024-08-01T10:25:00Z,9.02,3,11328,FunPlus Phoenix,FPX,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/378663/funplus-phoenix-vs-team-heretics-valorant-champions-2024-opening-b
+378657,2097,Group Stage: Opening (A),2024-08-02T08:00:00Z,9.02,3,8185,KIWOOM DRX,KRX,2355,KRÜ Esports,KRÜ,2,1,1,https://www.vlr.gg/378657/drx-vs-kr-esports-valorant-champions-2024-opening-a
+378656,2097,Group Stage: Opening (A),2024-08-02T11:00:00Z,9.02,3,2593,FNATIC,FNC,12010,Bilibili Gaming,BLG,2,0,1,https://www.vlr.gg/378656/fnatic-vs-bilibili-gaming-valorant-champions-2024-opening-a
+378667,2097,Group Stage: Opening (C),2024-08-03T08:00:00Z,9.02,3,2359,LEVIATÁN,LEV,8304,TALON,TLN,2,0,1,https://www.vlr.gg/378667/leviat-n-vs-talon-esports-valorant-champions-2024-opening-c
+378669,2097,Group Stage: Opening (C),2024-08-03T10:30:00Z,9.02,3,2059,Team Vitality,VIT,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/378669/team-vitality-vs-trace-esports-valorant-champions-2024-opening-c
+378674,2097,Group Stage: Opening (D),2024-08-04T08:00:00Z,9.02,3,11058,G2 Esports,G2,624,Paper Rex,PRX,2,0,1,https://www.vlr.gg/378674/g2-esports-vs-paper-rex-valorant-champions-2024-opening-d
+378673,2097,Group Stage: Opening (D),2024-08-04T10:15:00Z,9.02,3,1120,EDward Gaming,EDG,1184,FUT Esports,FUT,2,0,1,https://www.vlr.gg/378673/edward-gaming-vs-fut-esports-valorant-champions-2024-opening-d
+378664,2097,Group Stage: Winner's (B),2024-08-06T08:00:00Z,9.02,3,17,Gen.G,GEN,1001,Team Heretics,TH,1,2,2,https://www.vlr.gg/378664/gen-g-vs-team-heretics-valorant-champions-2024-winners-b
+378658,2097,Group Stage: Winner's (A),2024-08-06T11:35:00Z,9.02,3,2593,FNATIC,FNC,8185,KIWOOM DRX,KRX,0,2,2,https://www.vlr.gg/378658/fnatic-vs-drx-valorant-champions-2024-winners-a
+378670,2097,Group Stage: Winner's (C),2024-08-07T08:00:00Z,9.02,3,2359,LEVIATÁN,LEV,12685,Trace Esports,TE,1,2,2,https://www.vlr.gg/378670/leviat-n-vs-trace-esports-valorant-champions-2024-winners-c
+378675,2097,Group Stage: Winner's (D),2024-08-07T11:15:00Z,9.02,3,1120,EDward Gaming,EDG,11058,G2 Esports,G2,1,2,2,https://www.vlr.gg/378675/edward-gaming-vs-g2-esports-valorant-champions-2024-winners-d
+378665,2097,Group Stage: Elimination (B),2024-08-08T08:00:00Z,9.02,3,2,Sentinels,SEN,11328,FunPlus Phoenix,FPX,2,0,1,https://www.vlr.gg/378665/sentinels-vs-funplus-phoenix-valorant-champions-2024-elim-b
+378659,2097,Group Stage: Elimination (A),2024-08-08T10:10:00Z,9.02,3,12010,Bilibili Gaming,BLG,2355,KRÜ Esports,KRÜ,0,2,2,https://www.vlr.gg/378659/bilibili-gaming-vs-kr-esports-valorant-champions-2024-elim-a
+378671,2097,Group Stage: Elimination (C),2024-08-09T08:00:00Z,9.02,3,8304,TALON,TLN,2059,Team Vitality,VIT,0,2,2,https://www.vlr.gg/378671/talon-esports-vs-team-vitality-valorant-champions-2024-elim-c
+378676,2097,Group Stage: Elimination (D),2024-08-09T10:25:00Z,9.02,3,1184,FUT Esports,FUT,624,Paper Rex,PRX,0,2,2,https://www.vlr.gg/378676/fut-esports-vs-paper-rex-valorant-champions-2024-elim-d
+378666,2097,Group Stage: Decider (B),2024-08-10T08:00:00Z,9.02,3,17,Gen.G,GEN,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/378666/gen-g-vs-sentinels-valorant-champions-2024-decider-b
+378660,2097,Group Stage: Decider (A),2024-08-10T10:15:00Z,9.02,3,2593,FNATIC,FNC,2355,KRÜ Esports,KRÜ,2,1,1,https://www.vlr.gg/378660/fnatic-vs-kr-esports-valorant-champions-2024-decider-a
+378672,2097,Group Stage: Decider (C),2024-08-11T08:00:00Z,9.02,3,2359,LEVIATÁN,LEV,2059,Team Vitality,VIT,2,0,1,https://www.vlr.gg/378672/leviat-n-vs-team-vitality-valorant-champions-2024-decider-c
+378677,2097,Group Stage: Decider (D),2024-08-11T10:15:00Z,9.02,3,1120,EDward Gaming,EDG,624,Paper Rex,PRX,2,1,1,https://www.vlr.gg/378677/edward-gaming-vs-paper-rex-valorant-champions-2024-decider-d
+378822,2097,Playoffs: Upper Quarterfinals,2024-08-14T08:00:00Z,9.02,3,8185,KIWOOM DRX,KRX,2,Sentinels,SEN,0,2,2,https://www.vlr.gg/378822/drx-vs-sentinels-valorant-champions-2024-ubqf
+378823,2097,Playoffs: Upper Quarterfinals,2024-08-14T10:25:00Z,9.02,3,12685,Trace Esports,TE,1120,EDward Gaming,EDG,0,2,2,https://www.vlr.gg/378823/trace-esports-vs-edward-gaming-valorant-champions-2024-ubqf
+378824,2097,Playoffs: Upper Quarterfinals,2024-08-15T08:00:00Z,9.02,3,11058,G2 Esports,G2,2359,LEVIATÁN,LEV,0,2,2,https://www.vlr.gg/378824/g2-esports-vs-leviat-n-valorant-champions-2024-ubqf
+378825,2097,Playoffs: Upper Quarterfinals,2024-08-15T10:35:00Z,9.02,3,1001,Team Heretics,TH,2593,FNATIC,FNC,2,0,1,https://www.vlr.gg/378825/team-heretics-vs-fnatic-valorant-champions-2024-ubqf
+378831,2097,Playoffs: Lower Round 1,2024-08-16T08:00:00Z,9.02,3,8185,KIWOOM DRX,KRX,12685,Trace Esports,TE,2,0,1,https://www.vlr.gg/378831/drx-vs-trace-esports-valorant-champions-2024-lr1
+378832,2097,Playoffs: Lower Round 1,2024-08-16T09:50:00Z,9.02,3,11058,G2 Esports,G2,2593,FNATIC,FNC,0,2,2,https://www.vlr.gg/378832/g2-esports-vs-fnatic-valorant-champions-2024-lr1
+378826,2097,Playoffs: Upper Semifinals,2024-08-17T08:00:00Z,9.02,3,2,Sentinels,SEN,1120,EDward Gaming,EDG,1,2,2,https://www.vlr.gg/378826/sentinels-vs-edward-gaming-valorant-champions-2024-ubsf
+378827,2097,Playoffs: Upper Semifinals,2024-08-17T11:15:00Z,9.02,3,2359,LEVIATÁN,LEV,1001,Team Heretics,TH,2,0,1,https://www.vlr.gg/378827/leviat-n-vs-team-heretics-valorant-champions-2024-ubsf
+378834,2097,Playoffs: Lower Round 2,2024-08-18T08:00:00Z,9.02,3,2,Sentinels,SEN,2593,FNATIC,FNC,2,1,1,https://www.vlr.gg/378834/sentinels-vs-fnatic-valorant-champions-2024-lr2
+378833,2097,Playoffs: Lower Round 2,2024-08-18T11:25:00Z,9.02,3,1001,Team Heretics,TH,8185,KIWOOM DRX,KRX,2,1,1,https://www.vlr.gg/378833/team-heretics-vs-drx-valorant-champions-2024-lr2
+378828,2097,Playoffs: Upper Final,2024-08-23T07:00:00Z,9.02,3,1120,EDward Gaming,EDG,2359,LEVIATÁN,LEV,2,1,1,https://www.vlr.gg/378828/edward-gaming-vs-leviat-n-valorant-champions-2024-ubf
+378835,2097,Playoffs: Lower Round 3,2024-08-23T10:45:00Z,9.02,3,1001,Team Heretics,TH,2,Sentinels,SEN,2,1,1,https://www.vlr.gg/378835/team-heretics-vs-sentinels-valorant-champions-2024-lr3
+378836,2097,Playoffs: Lower Final,2024-08-24T07:00:00Z,9.02,5,2359,LEVIATÁN,LEV,1001,Team Heretics,TH,1,3,2,https://www.vlr.gg/378836/leviat-n-vs-team-heretics-valorant-champions-2024-lbf
+378829,2097,Playoffs: Grand Final,2024-08-25T07:00:00Z,9.02,5,1120,EDward Gaming,EDG,1001,Team Heretics,TH,3,2,1,https://www.vlr.gg/378829/edward-gaming-vs-team-heretics-valorant-champions-2024-gf
